@@ -28,7 +28,7 @@
     {
         "id": 3,
         "testId": 153,
-        "text": "Je suis arrivée chez moi. Je t'appelle demain pour aller voir le film. Je t'embrasse\n\nCyprien",
+        "text": "Je suis arrivée chez moi. Je t'appelle demain pour aller voir le film.\n\nJe t'embrasse.\n\nCyprien",
         "query": "Où est Cyprien ?",
         "options": [
             "À la gare.",
@@ -136,7 +136,7 @@
         "query": "Qu'est-ce qu’on peut faire dans ce salon ?",
         "options": [
             "Participer à un stage de plusieurs jours.",
-            "S'informer sut le monde professionnel.",
+            "S'informer sur le monde professionnel.",
             "S'inscrire à un cours réservé aux jeunes.",
             "Trouver de l’aide pour écrire un CV."
         ],
@@ -150,7 +150,7 @@
         "options": [
             "Voyagent plutôt dans l’Union Européenne.",
             "Visitent de préférence leurs pays d'origine.",
-            "Découvrent les pays e leurs voisins.",
+            "Découvrent les pays de leurs voisins.",
             "S'aventurent dans les pays lointains."
         ],
         "answer": 3
@@ -210,7 +210,7 @@
     {
         "id": 17,
         "testId": 153,
-        "text": "### <p style=\"text-align: center;\"><u>Job d'été, la première expérience</u></p\n\nQuand une entreprise fait appel pour la première fois à un jeune, elle n'a pas d'attente vis-à-vis de ses compétences professionnelles, c'est donc sur son comportement que vont se porter ses critères d'évaluation. Même saisonnier, il faut montrer qu'on a vraiment envie de décrocher un job. Les jeunes sans expérience ont tout intérêt à parler de leur passion et à démontrer leur motivation. Pour un employeur, c'est ce qui reste souvent le critère le plus important.",
+        "text": "### <p style=\"text-align: center;\"><u>Job d'été, la première expérience</u></p>\n\nQuand une entreprise fait appel pour la première fois à un jeune, elle n'a pas d'attente vis-à-vis de ses compétences professionnelles, c'est donc sur son comportement que vont se porter ses critères d'évaluation. Même saisonnier, il faut montrer qu'on a vraiment envie de décrocher un job. Les jeunes sans expérience ont tout intérêt à parler de leur passion et à démontrer leur motivation. Pour un employeur, c'est ce qui reste souvent le critère le plus important.",
         "query": "Selon l’article, que faut-il faire pour trouver un job d'été ?",
         "options": [
             "Exposer l’ensemble de ses qualités professionnelles.",
@@ -224,7 +224,7 @@
         "id": 18,
         "testId": 153,
         "text": "### *<p style=\"text-align: center;\">MATCH SÈTE - TOURS</p>*\n\n### *<p style=\"text-align: center;\">Mercredi 12 novembre</p>*\n\n- Achat des billets aux points de vente habituels : 15 €.\n\n- Réduction pour les étudiants et les détenteurs de carte « Famille nombreuse ».\n\n- Venté aux guichets du stade, le soir même : 20 €.",
-        "query": "À quelle condition l'acheteur at-il un meilleur prix ?",
+        "query": "À quelle condition l'acheteur a-t-il un meilleur prix ?",
         "options": [
             "En achetant les billets en avance.",
             "En choisissant des places pour quatre matchs.",
@@ -236,7 +236,7 @@
     {
         "id": 19,
         "testId": 153,
-        "text": "### <p style=\"text-align: center;\">LA NEO-RURAUTÉ EST DEVENUE UN PHÉNOMÈNE DE SOCIÉTÉ.</p>\n\nCette dénomination date des années 70 : c'est « le retour à la terre ». Alors que la désertification des campagnes se poursuit, un mouvement de population inverse s'opère. Il concerne des personnes jeunes, sans enfant, portant les valeurs contestataires de mai 68. Issues de toutes les classes sociales, elles ne\n\nne recherchent pas spécialement le confort. Elles veulent avant tout vivre une expérience, ce qui les différencie de la population\n\nlocale et ne facilite pas leur intégration.",
+        "text": "### <p style=\"text-align: center;\">LA NEO-RURAUTÉ EST DEVENUE UN PHÉNOMÈNE DE SOCIÉTÉ.</p>\n\nCette dénomination date des années 70 : c'est « le retour à la terre ». Alors que la désertification des campagnes se poursuit, un mouvement de population inverse s'opère. Il concerne des personnes jeunes, sans enfant, portant les valeurs contestataires de mai 68. Issues de toutes les classes sociales, elles ne recherchent pas spécialement le confort. Elles veulent avant tout vivre une expérience, ce qui les différencie de la population locale et ne facilite pas leur intégration.",
         "query": "Que veulent les néo-ruraux ?",
         "options": [
             "Accéder à la propriété privée.",
@@ -279,7 +279,7 @@
         "query": "Quelle est l’originalité de la discothèque dont il est question?",
         "options": [
             "Elle s’adresse exclusivement à une clientèle soucieuse des questions d’environnement.",
-            "Elle travaille à la réduction des accidents de la route due à l’alcool",
+            "Elle travaille à la réduction des accidents de la route due à l’alcool.",
             "Le coût du billet d’entrée varie en fonction de l’énergie produite par les danseurs.",
             "Les jeunes doivent consommer sur place les produits du commerce équitable."
         ],
@@ -327,7 +327,7 @@
     {
         "id": 26,
         "testId": "153",
-        "text": "### <p style=\"text-align: center;\"><u>Futur manager, soyez gentil !</u></p>\n\nDepuis les scandales des traders, les grandes écoles ont été mises au ban des accusés: Ce qu’elles transmettaient se limitait à du savoir technique, directement exploitable par les entreprises. Myopie sociale et absence d’esprit critique menaçaient les futurs managers du monde économique. L’éthique est maintenant à la mode dans toutes les grandes écoles de management. Il n’y est question que de «social business» ou de «développement durable». À côté des activités associatives traditionnelles, les actions humanitaires ont fleuri et de plus en plus d’étudiants s’y investissent chaque année. Désormais, un étudiant doit avoir fait du soutien scolaire en banlieue ou monté du microcrédit en Afrique.",
+        "text": "### <p style=\"text-align: center;\"><u>Futur manager, soyez gentil !</u></p>\n\nDepuis les scandales des traders, les grandes écoles ont été mises au plan des accusés: Ce qu’elles transmettaient se limitait à du savoir technique, directement exploitable par les entreprises. Myopie sociale et absence d’esprit critique menaçaient les futurs managers du monde économique. L’éthique est maintenant à la mode dans toutes les grandes écoles de management. Il n’y est question que de «social business» ou de «développement durable». À côté des activités associatives traditionnelles, les actions humanitaires ont fleuri et de plus en plus d’étudiants s’y investissent chaque année. Désormais, un étudiant doit avoir fait du soutien scolaire en banlieue ou monté du microcrédit en Afrique.",
         "query": "D’après ce texte, Quelle est la nouvelle orientation des grandes écoles?",
         "options": [
             "Créer des partenaires avec le milieu associatif.",
@@ -353,7 +353,7 @@
     {
         "id": 28,
         "testId": "153",
-        "text": "L’institution scolaire devra sans cesse être défendue, ne serait-ce que parce que la «société civile» n’aura de cesse de vouloir assujettir l’école à ses demandes particulière. Il faut sans cesse rappeler, par exemple, que les règles de l’école ne sont pas celles de la maison. Car l’enfant n’y est plus seulement un enfant, il y est un élève. À l’école on ne se préoccupe plus du confort et de l’affection pour l’enfant. On s’adresse à l’intelligence de l’élève. Le rapport maitre/élève n’est d’ailleurs pas un rapport affectif: on ne demande pas à un professeur d’être sympathique. On lui demande d’être exigeant et juste.",
+        "text": "L’institution scolaire devra sans cesse être défendue, ne serait-ce que parce que la «société civile» n’aura de cesse de vouloir assujettir l’école à ses demandes particulière. Il faut sans cesse rappeler, par exemple, que les règles de l’école ne sont pas celles de la maison. Car l’enfant n’y est plus seulement un enfant, il y est un élève. À l’école on ne se préoccupe plus du confort et de l’affection pour l’enfant. On s’adresse à l’intelligence de l’élève. Le rapport maître/élève n’est d’ailleurs pas un rapport affectif: on ne demande pas à un professeur d’être sympathique. On lui demande d’être exigeant et juste.",
         "query": "Quelle est l’opinion de l’auteur?",
         "options": [
             "L’ambiance de l’école doit être calquée sur le modelé familial.",
@@ -366,7 +366,7 @@
     {
         "id": 29,
         "testId": "153",
-        "text": "**«Pendant des millénaires, les chercheurs du mon entier ont jalousement gardé leurs données. Essentiellement parce qu’ils pensaient que le contrôle de l’information donnait le pouvoir»** déclare le conservateur en paléontologie au musée d’histoire naturelle de Londres. Les mentalités ont changé depuis quelques années à partir du moment où les savants ont pris conscience des bénéfices du travail collaboratif et du partage de l’information. Cependant, vouloir échanger entre chercheurs et parvenir à le faire correctement sont deux choses très différentes, c’est ce que constatent les invités d’une conférence internationale sur la biodiversité qui se tient dans la capitale britannique.",
+        "text": "**«Pendant des millénaires, les chercheurs du monde entier ont jalousement gardé leurs données. Essentiellement parce qu’ils pensaient que le contrôle de l’information donnait le pouvoir»** déclare le conservateur en paléontologie au musée d’histoire naturelle de Londres. Les mentalités ont changé depuis quelques années à partir du moment où les savants ont pris conscience des bénéfices du travail collaboratif et du partage de l’information. Cependant, vouloir échanger entre chercheurs et parvenir à le faire correctement sont deux choses très différentes, c’est ce que constatent les invités d’une conférence internationale sur la biodiversité qui se tient dans la capitale britannique.",
         "query": "Que souhaitent actuellement les chercheurs?",
         "options": [
             "Mettre en commun les données.",
@@ -483,7 +483,7 @@
     {
         "id": 38,
         "testId": "153",
-        "text": "### <p style=\"text-align: center;\"><u>PRIX BAS TOUTE L’ANNÉE</u></p>\n\nDes voyages aux loisirs en passant par les voitures, plus question de rater la bonne affaire. Voilà pourquoi les fins de séries, les promotions, les soldes ne se sont jamais aussi bien portés(never have been better). On achète surtout des vêtements, jusqu’à 14 articles pour un montant moyen de 186 euros, même si on doit dépenser moins le reste de l’année. Le gouvernement l’a bien compris: il vient d’octroyer deux semaines supplémentaires de soldes, à la convenance des commerçants, en dehors des mois de juillet et janvier, afin de redonner un peu de tonus aux ventes.",
+        "text": "### <p style=\"text-align: center;\"><u>PRIX BAS TOUTE L’ANNÉE</u></p>\n\nDes voyages aux loisirs en passant par les voitures, plus question de rater la bonne affaire. Voilà pourquoi les fins de séries, les promotions, les soldes ne se sont jamais aussi bien portés. On achète surtout des vêtements, jusqu’à 14 articles pour un montant moyen de 186 euros, même si on doit dépenser moins le reste de l’année. Le gouvernement l’a bien compris: il vient d’octroyer deux semaines supplémentaires de soldes, à la convenance des commerçants, en dehors des mois de juillet et janvier, afin de redonner un peu de tonus aux ventes.",
         "query": "Quel est le thème de cet article?",
         "options": [
             "La baisse des achats en boutique.",
