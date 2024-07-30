@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Manager</title>
+    <!-- Marked.js for Markdown -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <!-- MathJax for LaTeX -->
+    <script async ="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <script>
+        // Function to load a CSS file dynamically
+        function loadCSS(url) {
+            const link = document.createElement('link');
+            link.rel = 'stylesheet';
+            link.href = url;
+            document.head.appendChild(link);
+        }
+
+        // Function to load a JavaScript file dynamically
+        function loadJS(url) {
+            const script = document.createElement('script');
+            script.src = url;
+            script.async = true;
+            document.body.appendChild(script);
+        }
+
+        // Load CSS and JS files
+        const host = "http://0.0.0.0:8000";
+        document.addEventListener('DOMContentLoaded', function () {
+            console.log("dddd")
+            const cssUrl = host + '/style.css';
+            const jsUrl = host + '/script.js';
+            loadCSS(cssUrl);
+            loadJS(jsUrl, function () {
+                console.log('JavaScript file loaded and executed.');
+            });
+        });
+    </script>
+</head>
+
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <!-- Add this button somewhere in your HTML -->
+            <button class="btn" id="display-score" class="btn">Display Score</button>
+            <button class="btn" id="display-all-answers">Display All Answers</button>
+            <div class="quiz-selector">
+                <h3>Compréhension Orale</h3>
+                <div id="quiz-list-co"></div>
+                <h3>Compréhension Écrite</h3>
+                <div id="quiz-list-ce"></div>
+            </div>
+            <!-- Add this somewhere in your HTML -->
+            <div id="score-display">
+                <h3>Score: <span id="score">0</span> / <span id="max-score">0</span></h3>
+            </div>
+            <div id="question-navigator">
+                <h3>Question Navigator</h3>
+                <p id="question-nav-list"></p>
+            </div>
+        </div>
+        <div id="timer">
+            <div id="timer-top"></div>
+            <div id="progress-container">
+                <div id="progress-bar"></div>
+                <span id="time-left"></span>
+            </div>
+            <div id="timer-controller">
+                <button id="start-timer" class="btn">Start</button>
+                <button id="pause-timer" class="btn">Pause</button>
+                <button id="stop-timer" class="btn">Stop</button>
+            </div>
+        </div>
+        <button id="back-to-top" class="btn">Back to Top</button>
+        <div id="quiz-title-container">
+            <div id="quiz-title"></div>
+            <div id="quiz-title-bottom"></div>
+        </div>
+        <div class="main-content">
+            <div id="quiz"></div>
+        </div>
+    </div>
+</body>
+
+</html>

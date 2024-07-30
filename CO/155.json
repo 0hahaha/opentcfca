@@ -1,0 +1,517 @@
+[
+    {
+        "id": 1,
+        "testId": 155,
+        "text": "A. Donne-moi ça, maman.\n\nB. Attention, c'est très chaud.\n\nC. Bon anniversaire, maman.\n\nD. Non, je n'ai pas envie.",
+        "audio": "/mp3/155/1.mp3",
+        "img": "/mp3/155/1.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 2,
+        "testId": 155,
+        "text": "A. Bienvenue à Paris-Agora.\n\nB. 200 euros, s'il vous plaît.\n\nC. Il est 20h30.\n\nD. Il vient du Japon.",
+        "audio": "/mp3/155/2.mp3",
+        "img": "/mp3/155/2.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 3,
+        "testId": 155,
+        "text": "A. Je peux m'asseoir ici?\n\nB. Mon chien peut venir avec moi?\n\nC. Quand passe le prochain bus?\n\nD. Vous me donnez un ticket?",
+        "audio": "/mp3/155/3.mp3",
+        "img": "/mp3/155/3.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 4,
+        "testId": 155,
+        "text": "A. J'espère qu'on va pouvoir entrer.\n\nB. Attendons dehors, c'est mieux.\n\nC. Ma glace est très bonne.\n\nD. Bonjour, deux places, s'il vous plaît.",
+        "audio": "/mp3/155/4.mp3",
+        "img": "/mp3/155/4.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 5,
+        "testId": 155,
+        "text": "A. Voici le résultat de vos analyses médicales.\n\nB. Temps chaud et sec au sud de l'Europe.\n\nC. Voilà une peinture moderne.\n\nD. Les indices économiques sont bons.",
+        "audio": "/mp3/155/5.mp3",
+        "img": "/mp3/155/5.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 6,
+        "testId": 155,
+        "text": "A. Baissez les bras.\n\nB. Enlevez votre pull.\n\nC. Installez-vous.\n\nD. Respirez bien fort.",
+        "audio": "/mp3/155/6.mp3",
+        "img": "/mp3/155/6.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 7,
+        "testId": 155,
+        "text": "A. Bravo aux cuisiniers, c'est délicieux.\n\nB. Je voudrais une table près de la fenêtre.\n\nC. Un autre café, s'il vous plaît.\n\nD. Vous pouvez garder la monnaie.",
+        "audio": "/mp3/155/7.mp3",
+        "img": "/mp3/155/7.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 8,
+        "testId": 155,
+        "text": "A. C'est un acteur formidable.\n\nB. Je déteste la publicité.\n\nC. Tu vas payer nos billets.\n\nD. Viens, on va s'asseoir là.",
+        "audio": "/mp3/155/8.mp3",
+        "img": "/mp3/155/8.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 9,
+        "testId": 155,
+        "text": "Bonjour, madame. Je souhaiterais réserver dans votre hôtel pour le week-end prochain. Vous avez de la place disponible?\n\nA. Oui, il y a des chambres libres.\n\nB. Oui, le centre-ville est très proche.\n\nC. Oui, le petit-déjeuner est compris.\n\nD. Oui, nous avons un parking privé.",
+        "audio": "/mp3/155/9.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 10,
+        "testId": 155,
+        "text": "Si tu veux, je t'emmène à la piscine cet après-midi. Qu'est-ce que tu en penses?\n\nA. J'ai cassé ma raquette.\n\nB. J'ai oublié mon ballon.\n\nC. J'ai perdu mon maillot.\n\nD. J'ai trouvé mes chaussures.",
+        "audio": "/mp3/155/10.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 11,
+        "testId": 155,
+        "text": "Martine, est-ce qu'il y a eu des appels pour moi?\n\nA. Le fax est en panne. J'ai appelé le réparateur.\n\nB. Madame Marcos est passée prendre le dossier Mali.\n\nC. Monsieur Dupont a téléphoné et veut vous voir.\n\nD. Vous avez rendez-vous avec Monsieur Pauzet.",
+        "audio": "/mp3/155/11.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 12,
+        "testId": 155,
+        "text": "Pourriez-vous me dire où se trouve le bureau 309, s'il vous plaît? Au troisième étage, deuxième porte à gauche, avant la cafétéria. Apparemment, l'ascenseur est en panne. Oui, malheureusement. Vous devez prendre l'escalier au bout du couloir. Celui-ci? Que doit faire la personne pour se rendre au bureau 309?",
+        "audio": "/mp3/155/12.mp3",
+        "options": [
+            "Aller au 2e étage.",
+            "Monter à pied.",
+            "Prendre l’ascenseur.",
+            "Passer par la cafétéria."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 13,
+        "testId": 155,
+        "text": "Alors, c'est d'accord. Nous faisons un pique-nique samedi prochain. Oui, mais cela dépendra aussi du temps. S'il pleut, Pierre a proposé d'aller chez lui. Il a une maison de campagne avec une grande véranda qui s'ouvre sur le jardin. Ah oui ? Alors c'est d'accord. Tu apportes les salades ? Oui, et toi des fruits. Pierre s'occupera des boissons et du pain. Bon, espérons qu'il fera beau. Que veulent faire ces personnes samedi s'il ne pleut pas ?",
+        "audio": "/mp3/155/13.mp3",
+        "options": [
+            "Inviter des amis chez elles.",
+            "Rendre visite à un ami.",
+            "Faire des courses.",
+            "Manger en plein air."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 14,
+        "testId": 155,
+        "text": "Alors, tu as trouvé un logement? Oui, c'est tout petit. Il y a une seule pièce. C'est au deuxième étage d'un immeuble situé en plein centre-ville. En plus, la propriétaire est gentille. C'est ce qu'il me faut. Dans quel type de logement habite cette personne ?",
+        "audio": "/mp3/155/14.mp3",
+        "options": [
+            "Une chambre d’hôtel.",
+            "Une maison individuelle.",
+            "Un grand appartement.",
+            "Un studio en ville."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 15,
+        "testId": 155,
+        "text": "François, souvenez-vous que l'informaticien passera cet après-midi au service comptabilité? Oui, je sais. Pour les deux ordinateurs en panne ? Oui. Appelez la comptable pour vérifier qu'elle a bien noté le rendez-vous. Elle est en formation jusqu'à la fin de la semaine. Sur le nouveau logiciel de comptabilité, justement. Elle revient lundi. Demandez à notre stagiaire d'être présent, alors. Je m'en occupe tout de suite. Pourquoi l'informaticien vient-il ?",
+        "audio": "/mp3/155/15.mp3",
+        "options": [
+            "Pour contrôler l’état des machines en service.",
+            "Pour donner une formation aux employés.",
+            "Pour mettre à jour toutes les applications.",
+            "Pour réparer des équipements informatiques."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 16,
+        "testId": 155,
+        "text": "En fait, en quelques mots, les jeunes jouent beaucoup moins à l'extérieur, les jeunes sont plus inactifs, les jeunes ont plus de troubles de comportement. Or, de plus en plus d'études scientifiques font un lien direct entre le fait que les enfants n'aiment même pas de temps libre, n'aiment pas de jeux libres, et ne jouent pas dehors, ne sont pas en lien avec la nature qui les environne. Et donc, sur des études qui ont été faites par exemple sur des rats, on a constaté que des rats qui ne bougent pas, qui ne peuvent pas jouer, qui ne peuvent pas sortir librement à l'extérieur, on développe des troubles de comportement comme ceux que l'on constate absolument actuellement chez les enfants. Selon l'intervenant, qu'est-ce qui explique les troubles du comportement ?",
+        "audio": "/mp3/155/16.mp3",
+        "options": [
+            "Un emploi du temps surchargé.",
+            "Un encadrement trop rigide.",
+            "Un manque d’activités de plein air.",
+            "Un usage excessif des écrans."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 17,
+        "testId": 155,
+        "text": "Pour votre sécurité, attention à la marche en descendant du train. Quelle est la fonction de cette annonce publique ?",
+        "audio": "/mp3/155/17.mp3",
+        "options": [
+            "Prévenir d’un danger.",
+            "Signaler le départ d’un train.",
+            "Annoncer l’arrivée d’un train.",
+            "Avertir d’un incident."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 18,
+        "testId": 155,
+        "text": "Qu'est-ce qui t'arrive ? T'es super beau habillé comme ça ! Où vas-tu ? Je sors de chez le coiffeur et je viens de m'acheter ce costume. Magnifique ! T'as un look d'enfer ! Mais pourquoi ? Pour moi ? Je viens juste de terminer mes 6 mois d'essai chez mon patron et comme j'ai donné satisfaction, je signe lundi prochain mon contrat définitif. Et à temps complet, pas partiel ! Ton contrat définitif ! Mais c'est extra ! T'es voilà dans la vie active ! Bravo ! Je suis enchanté pour toi ! Et tu penses à nous maintenant ? Pour quelles raisons la jeune fille est-elle si contente ?",
+        "audio": "/mp3/155/18.mp3",
+        "options": [
+            "Elle a trouvé pour son ami un emploi à temps complet dans une société.",
+            "Son ami est définitivement employé dans la société où il travaille.",
+            "Son ami vient de trouver son premier emploi à l’essai.",
+            "Elle va signer un contrat d’embauche à temps complet."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 19,
+        "testId": 155,
+        "text": "Tout le monde rêve de faire de la proximité, d'être proche des auditeurs, alors quand on est une radio associative, locale, on a plus de facilité. Vous, chaque vendredi, vous ouvrez le local à 13h, on peut venir avec son panier et on partage en commun le repas. Tout à fait, et là pour la fin de l'année, on a donc lancé une invitation à tous ceux qui voudraient pour venir manger avec nous et réaliser une émission collective de fin d'année, un petit peu festive. Que propose chaque semaine cette radio à ses auditeurs ?",
+        "audio": "/mp3/155/19.mp3",
+        "options": [
+            "De déjeuner ensemble.",
+            "De faire une soirée.",
+            "De participer à un jeu.",
+            "De rencontrer un invité."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 20,
+        "testId": 155,
+        "text": "On dit souvent qu'à Londres, on peut changer de job quasiment comme de chemise. Est-ce que c'est toujours vrai? Il est toujours facile de passer d'un job à l'autre. Le diplôme a beaucoup moins d'importance. On va surtout regarder les postes que vous avez déjà occupés. On va aussi tenir compte de vos motivations. C'est vrai qu'on vous donne aussi la possibilité d'augmenter assez… enfin, comment dire, de franchir les étapes beaucoup plus rapidement. On retrouve assez régulièrement des personnes vers 22-23 ans et déjà managers, tandis qu'en France, c'est quand même un petit peu plus compliqué. Que dit cette intervenante au sujet du travail à Londres ?",
+        "audio": "/mp3/155/20.mp3",
+        "options": [
+            "Le recrutement se fonde sur l’expérience.",
+            "Les salaires à l’embauche sont très élevés.",
+            "L’évolution professionnelle est très lente.",
+            "L’obtention d’un premier emploi est aisée."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 21,
+        "testId": 155,
+        "text": "— Bonjour monsieur, je viens transférer ma ligne téléphonique. J'emménage demain dans les logements neufs de la rue de l'université.\n\n— Oh là là, ça ne sera pas fini avant dix jours. Les travaux ne sont pas encore terminés. Le promoteur a eu du retard. Nous attendons son autorisation pour installer le réseau. \n\n— Dix jours ? Mais comment je fais sans téléphone moi ? J'en ai besoin pour mon travail.\n\n— Je suis désolé monsieur, mais vous n'êtes pas le seul dans ce cas et on ne peut pas aller plus vite que les travaux.\n\nPourquoi le client n'obtient-il pas le transfert de sa ligne téléphonique ?",
+        "audio": "/mp3/155/21.mp3",
+        "options": [
+            "Le promoteur a oublié de prévenir la compagnie de téléphone.",
+            "Le réseau téléphonique du nouvel immeuble est déjà saturé.",
+            "Les travaux nécessaires ne sont pas encore achevés.",
+            "La compagnie de téléphone manque de personnel pour le faire."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 22,
+        "testId": 155,
+        "text": "Être éco-éducateur, c'est être à cheval entre l'éducateur et le pédagogue, puisqu'on va sensibiliser le public aux problématiques environnementales, mais en même temps expliquer ces problématiques, et puis les solutions qui sont actuellement préconisées. La plupart du temps, on accueille un public d'enfants ou de scolaires ou de centres de loisirs, mais en vérité, on touche tous les publics puisqu'on est ouvert le week-end. Néanmoins, notre journée ne se cantonne pas à ça. On a aussi le montage de tous les projets, d'événementiels ou d'animations futures, qui nécessitent de créer des supports, d'élaborer des déroulements pédagogiques. Ici, au clôt des Blancs-Manteaux, notre entrée thématique, c'est l'écologie au quotidien, les éco-gestes, les astuces qu'on peut mettre en place dans notre vie de tous les jours pour participer à la préservation de la planète. Que propose ce site dans lequel cet intervenant  travaille ?",
+        "audio": "/mp3/155/22.mp3",
+        "options": [
+            "Des activités en faveur du développement durable.",
+            "Des formations aux nouveaux métiers de l’éducation.",
+            "Des sorties équestres pour les écoliers de la région.",
+            "Des stages à destination des animateurs jeunesse."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 23,
+        "testId": 155,
+        "text": "— Bonjour! Je suis nouveau à Charlebourg. Vous sauriez ce que je dois faire de mon arbre de Noël pour qu'il soit ramassé ?\n\n— Vous n'avez qu'à déneiger devant chez vous, et puis le laisser dans la rue. La collecte a lieu demain matin. Il est grain, votre arbre ?\n\n— Hum. Regardez. Je l'ai mis dans le jardin. Il fait bien trois mètres de haut. \n\n— Alors, il faut le couper en deux. Et puis, aussi, enlever tout ce qui est dessus.\n\nQu'est-ce que cette personne cherche à savoir ?",
+        "audio": "/mp3/155/23.mp3",
+        "options": [
+            "Comment protéger ses végétaux .",
+            "Comment recycler son sapin .",
+            "Comment replanter un arbre .",
+            "Comment scier une branche ."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 24,
+        "testId": 155,
+        "text": "— Bonjour, monsieur. J'ai vu votre annonce. Vous cherchez toujours une vendeuse?\n\n— Oui. Cela vous intéresse? Vous avez de l'expérience?\n\n— J'ai été vendeuse 15 ans à Québec, mais mon petit ami a été muté à Montréal, alors, j'ai dû démissionner.\n\n— Vous habitez encore là-bas?\n\n— Non, nous sommes chez mes parents en attendant de trouver un logement.\n\n— Vous parlez anglais?\n\n— Bien sûr.\n\n— Bien. Vous pouvez revenir demain pour un essai?\n\n— Avec plaisir.\n\nPourquoi la personne cherche-t-elle du travail à Montréal ?",
+        "audio": "/mp3/155/24.mp3",
+        "options": [
+            "Pour changer de profession.",
+            "Pour découvrir de nouveaux lieux.",
+            "Pour se rapprocher de sa famille.",
+            "Pour suivre son compagnon."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 25,
+        "testId": 155,
+        "text": "— Gros plan sur les français qui partent pour réussir.\n\n— Oui, tous ces français que l'on dit nuls en anglais, et bien ils n'ont plus peur de partir à la conquête du monde. En fait, il est toujours un peu difficile de cerner leur motivation profonde entre ceux qui franchissent les frontières pour monter un business, ceux qui cherchent un job, ceux qui s'exilent pour fuir une fiscalité asphyxiante, ou bien ceux qui veulent tout simplement profiter d'une retraite au soleil.\n\nLes journalistes évoquent une tendance qui concerne les français. Laquelle ?",
+        "audio": "/mp3/155/25.mp3",
+        "options": [
+            "Ils aiment passer leurs vieux jours dans le sud de la France.",
+            "Ils osent davantage partir à l’étranger qu’auparavant.",
+            "Ils payent plus d’impôts que les autres citoyens européens.",
+            "Ils prennent des cours de langue pour améliorer leur niveau."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 26,
+        "testId": 155,
+        "text": "À mes côtés, cette semaine, une philosophe, essayiste et romancière, née à Paris, grande voyageuse passionnée d'Afrique, férue de politique et d'opéra et qui publie, ces jours-ci, ses mémoires. Si vous aimez la petite et la grande histoire sans vraiment savoir ce que pouvait signifier naître petite fille dans une famille de la bourgeoisie cultivée des années 40, si vous voulez comprendre ce que cela voulait dire, à la fin des années 50, d'intégrer la grande fabrique intellectuelle française que sont les grandes écoles, si vous aimez la philosophie, les voyages et la politique, bref, si l'histoire intellectuelle de la seconde moitié du XXe siècle vous passionne, alors vous allez lire comme moi, d'une traite, le dernier livre de Claire Robert. Selon le journaliste, quel genre d'ouvrage cette philosophe française vient-elle d'écrire ?",
+        "audio": "/mp3/155/26.mp3",
+        "options": [
+            "Un essai historique sur la vie à Paris pendant la Seconde Guerre mondiale.",
+            "Un livre de souvenirs sur l’histoire mouvementée de sa famille.",
+            "Un récit autobiographique ancré dans la vie intellectuelle du siècle dernier.",
+            "Un roman sur l’impact des événements historiques sur le destin individuel."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 27,
+        "testId": 155,
+        "text": "— Salut Géraldine, ça va ?\n\n— Non, pas trop.\n\n— Tu sais que je cherchais du travail. Et bien, maintenant que je l'ai trouvé, je ne suis pas très contente.\n\n— Pourquoi ? Tu ne touches pas assez d'argent ?\n\n— Non, c'est que deux fois par semaine, je commence à six heures du matin et à une heure de chez moi en plus.\n\n— Oh, c'est tôt ! Et comment tu vas faire pour les enfants ?\n\n— Oh, Gilles va s'en occuper. Mais moi, imagine ! Je ne sais pas comment je vais faire pour récupérer.\n\n— Tu vas dormir les week-ends !\n\nDe quoi se plaint Géraldine ?",
+        "audio": "/mp3/155/27.mp3",
+        "options": [
+            "De ses difficultés à se réveiller le matin.",
+            "De son dernier salaire qui est insuffisant.",
+            "De son emploi du temps professionnel.",
+            "De son manque d’organisation habituel."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 28,
+        "testId": 155,
+        "text": "— Salut Marie, alors finalement qu'est-ce que tu as fait samedi soir ?\n\n— Bah, j'avais pas le moral, j'étais invité chez ma sœur, je n'y suis pas allé. Il y a des amis qui m'ont appelé pour aller danser au dernier moment, j'ai pas eu envie.\n\n— Tu as fait quoi alors ?\n\n— Finalement j'ai voulu aller au cinéma. La séance était annulée pour raisons techniques, alors je suis rentré, je me suis couché.\n\n— Si j'avais su, je serais venu te chercher, on est allé jouer au bowling, on a passé une super soirée.\n\nComment la jeune fille a-t-elle passé sa soirée ?",
+        "audio": "/mp3/155/28.mp3",
+        "options": [
+            "Elle est sortie en boîte de nuit.",
+            "Elle a dîné avec sa famille.",
+            "Elle est restée toute seule.",
+            "Elle a vu un mauvais film."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 29,
+        "testId": 155,
+        "text": "— Vous avez vu le premier film de Robert Feuillade hier ?\n\n— Non, ce n'est pas le genre de film que j'aime.\n\n— Moi, je regarde tous les films. J'adore le cinéma depuis toujours. Sans doute parce que mon père m'emmenait au cinéma alors que j'étais encore au biberon. Je me souviens encore de mon premier western. Dans la petite ville où on habitait, tous les samedis, il y avait le cinéma en plein air gratuit.\n\n— Moi, ce que je préférais quand j'allais au cinéma avec mon père, c'était la glace à la vanille qu'il m'achetait.\n\nSelon cette femme, qu'est-ce qui explique son amour inconditionnel du cinéma ?",
+        "audio": "/mp3/155/29.mp3",
+        "options": [
+            "L’absence de distractions dans le village où elle habitait.",
+            "L’influence autoritaire que son père a exercée sur elle.",
+            "Le choc du tout premier film qu’elle a vu dans sa vie.",
+            "Sa fréquentation des salles dès son plus jeune âge."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 30,
+        "testId": 155,
+        "text": "L'effet sur l'apprentissage est faible, mais les notes ont d'autres fonctions. Elles servent à visibiliser les hiérarchies à l'intérieur de la classe. Elles servent à savoir exactement à quel niveau se trouvent les élèves. Donc, elles donnent une indication très claire. Donc ensuite, elles permettent de faire le tri en termes de redoublement ou d'orientation. Elles permettent aussi une objectification, une réification du jugement qu'on donne de l'élève. Par exemple, lorsqu'on communique les résultats aux parents, c'est numérique, c'est vrai, c'est objectif. Selon le locuteur à quoi servent les notes à l’école?",
+        "audio": "/mp3/155/30.mp3",
+        "options": [
+            "À classer les établissements selon un taux de performance.",
+            "À communiquer sur les progrès de l’élève dans chaque matière.",
+            "À créer une échelle lisible de classification des élèves.",
+            "À susciter chez l’élève l’envie de devenir le meilleur de la classe."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 31,
+        "testId": 155,
+        "text": "— Docteur, quels aliments dois-je supprimer pour ne pas grossir?\n\n— L'essentiel pour parvenir à maigrir et à ne pas recommencer à grossir est de moins manger, mais tout en respectant son mode de vie et ses goûts.\n\n— Vraiment? On peut manger de tout?\n\n— Oui. Aucun aliment n'est mauvais en soi. Tout dépend des quantités et de la façon dont il est consommé. Il faut privilégier la diversité.\n\n— C'est tout?\n\n— Oui. Deux conseils encore. Réduisez l'apport en lipides et en sucre, privilégiez les légumes verts et, en quantité modérée, les féculents et le pain.\n\nQue conseille le médecin à son patient pour perdre du poids?",
+        "audio": "/mp3/155/31.mp3",
+        "options": [
+            "Manger de tout, y compris ce qu’il n’aime pas.",
+            "Cesser de consommer du pain ou des féculents.",
+            "Manger plus léger sans changer ses habitudes.",
+            "Se garder de consommer des aliments sucrés."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 32,
+        "testId": 155,
+        "text": "— C'est assez étonnant de lire les titres des textes de Nathalie Sarraute, des pièces de théâtre, parce que ce sont toujours des structures de phrases très stéréotypées. Vous les entendez, c'est beau, pour un oui, pour un non. Elle est là, on ne peut pas faire plus simple. Et en fait, derrière, il y a des gouffres en effet.\n\n— Voilà, oui. Et puis en plus, elle est très sensible à ce qui, dans le langage, sert de, je dirais, de costume prêt-à-porter. Il y a énormément de langue de bois qui est pointée.\n\n— De lieux communs.\n\n— Oui, de lieux communs.Elle adore ça et elle le fait partager. Donc les personnages qu'elle met en scène ont des forces énormes et qui sont canalisés par ce travail avec les mots. Et il se débrouille avec ça.\n\nQu’est-ce qui caractérise l’écriture théâtrale de cet auteur?",
+        "audio": "/mp3/155/32.mp3",
+        "options": [
+            "La diversité des parlers régionaux des personnages.",
+            "La mise en relief des formules figées de la langue.",
+            "Le recours constant au registre familier.",
+            "Les jeux de mots récurrents dans les titres."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 33,
+        "testId": 155,
+        "text": "— Est-ce que vous pouvez nous décrire votre itinéraire?\n\n— Oui, j'ai fait mes études de comédienne à Montréal à l'École nationale de théâtre dans les années 70 et puis quand je suis sortie de l'école avec mon diplôme de comédienne, c'était la grande époque héroïque des créations collectives et du théâtre qu'on appelait engagé à l'époque et moi j'étais tout à fait dans ce courant-là, j'étais très passionnée par le sens justement, par le pourquoi du théâtre, je me demandais moins comment il fallait le faire mais surtout pourquoi il fallait le faire et à qui on s'adressait à ce moment-là, c'était une question très importante, à qui s'adresse le théâtre et moi j'ai fait partie de ce grand mouvement qui a voulu aller porter le théâtre aux gens.\n\nQuelle était la préoccupation de la comédienne au début de sa carrière?",
+        "audio": "/mp3/155/33.mp3",
+        "options": [
+            "Augmenter la fréquentation des théâtres.",
+            "Créer une troupe de théâtre indépendante.",
+            "Déterminer les nouveaux enjeux du théâtre.",
+            "Jouer dans des pièces de théâtre inédites."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 34,
+        "testId": 155,
+        "text": "Progresser dans l'entreprise est une question de compétence mais également d'intelligence relationnelle. Ne soyez pas naïf. Le monde du travail est un monde de compétition et de rivalité. Une ambiance qui peut toutefois vous stimuler et accroître votre envie de réussir et de progresser. Évitez cependant de rentrer dans les stratégies de clan, les querelles, les intrigues au sein de l'entreprise. Le pouvoir peut changer de main à vos dépens. Soyez un observateur attentif des relations au sein du service, cernez la personnalité des uns et des autres et les jeux de cours sans y participer. Que faut-il éviter pour progresser au sein d'une entreprise ?",
+        "audio": "/mp3/155/34.mp3",
+        "options": [
+            "De prendre ouvertement position dans des rivalités internes.",
+            "De se confier à tous ses collègues avant de les connaître.",
+            "De trop faire valoir ses compétences pour montrer sa supériorité.",
+            "De vouloir participer à tous les projets sans vraiment s’investir."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 35,
+        "testId": 155,
+        "text": "— Le souhait de tout le monde aujourd'hui, des producteurs comme des consommateurs, c'est de réduire la distance entre la production à elle-même et l'assiette.\n\n— C'est exactement ça, et donc nous avons vu surgir toutes les pratiques que l'on connaît, les modes de distribution relativement rapides, et donc le premier forum Faudalie a voulu être un lieu de rencontre des professionnels pour apprécier les évolutions et les modes de commercialisation et d'achat de nos concitoyens.\n\nD'après cet entretien, que souhaite l'ensemble des intéressés?",
+        "audio": "/mp3/155/35.mp3",
+        "options": [
+            "De nouveaux modes de culture.",
+            "Des circuits de distribution courts.",
+            "Des contrôles sanitaires plus rapides.",
+            "Des systèmes de production innovants."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 36,
+        "testId": 155,
+        "text": "— Est-ce qu'il est irréformable ce bac camus ?\n\n— On y arrivera bien un jour à le réformer. C'est obligatoire de toute façon, ce qu'on voit bien. C'est un examen qui coûte cher, ça tout le monde le sait, qui a beaucoup d'inconvénients. En plus, il n'apporte plus aujourd'hui les garanties de sélection. Parce qu'au fond, c'est ça le bac. Si il y a un examen, c'est bien pour sélectionner ceux qui l'ont, de ceux qui ne sont pas jugés capables par l'éducation nationale de sortir de ce système et d'aller vers l'enseignement supérieur. Donc à partir du moment où il n'y a plus cette garantie-là, il faut le faire évoluer.\n\nPourquoi le baccalauréat devrait être réformé selon celui qui s'exprime ?",
+        "audio": "/mp3/155/36.mp3",
+        "options": [
+            "L’intérêt principal de sa mise en place a disparu.",
+            "Le ministère manque de moyens pour l’organiser.",
+            "Le taux de réussite des candidats est en baisse.",
+            "Le nombre de fraudes constatées augmente."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 37,
+        "testId": 155,
+        "text": "— La rénovation urbaine est aujourd'hui plébiscitée par les élus locaux et les habitants des banlieues, mais ce programme a aussi eu des effets pervers selon Renaud Epstein. Il est sociologue, spécialiste des politiques urbaines.\n\n— La mobilisation de milliards d'euros pour changer le bâti et changer l'urbanisme s'est faite aux dépens d'autres domaines d'intervention dans ces mêmes quartiers. Parfois on a pu rebâtir des écoles, mais ça change pas nécessairement les moyens qui sont mis à disposition de ces écoles pour paralyser leurs missions. Il y en a de même pour les équipements sociaux, culturels dans ces quartiers. Est-ce que l'enjeu ne devrait pas être plutôt d'améliorer la qualité de service dans ces quartiers ? Quelle réserve le sociologue Renaud Epstein émit-il?",
+        "audio": "/mp3/155/37.mp3",
+        "options": [
+            "Les bâtiments restaurés sont en nombre insuffisant.",
+            "Les cités réaménagées sont surtout résidentielles.",
+            "Les municipalités privilégient les projets coûteux.",
+            "Les réhabilitations ont une portée limitée."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 38,
+        "testId": 155,
+        "text": "— Marianne Dujarrié, vous êtes sociologue. Dans votre livre, l'idéal au travail, vous parlez d'un phénomène social que vous constatez dans des milieux très différents. Le travail, pour beaucoup, ressemble à un idéal qu'on n'atteint jamais, c'est cela ?\n\n— Plus exactement, le travail tel qu'il est demandé, tel qu'il est prescrit, est aujourd'hui idéal. C'est-à-dire, on ne peut pas déroger à cet idéal. Autrement dit, l'idéal a perdu son statut d'idéal. Il serait devenu une sorte de norme, impossible évidemment à atteindre. Il faut être complètement épanoui par le travail, forme de prescription à prendre du plaisir dans le travail.\n\nQu’est-ce qui dérange la sociologue dans la conception actuel du travail?",
+        "audio": "/mp3/155/38.mp3",
+        "options": [
+            "L’accès à la reconnaissance sociale est conditionné par le travail.",
+            "La réalisation de soi par le travail est devenue une obligation.",
+            "Les responsabilités au travail sont considérées comme des priorités absolues.",
+            "Le travail est systématiquement opposé à l’épanouissement personnel."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 39,
+        "testId": 155,
+        "text": "Avant-hier, dans une tribune officielle, une élue française a brisé un tabou, et sans doute heureusement. En parlant des États-Unis d'Europe comme de l'objectif ultime du processus d'unification européenne, elle a d'un coup redonné une clarté à cette entreprise si complexe qu'elle en est devenue obscure à tant d'Européens. De crainte de passer pour de doux rêveurs, romantiques, utopistes, ignorants des réalités politiques, même les plus déterminés des partisans de l'unité de l'Europe n'osaient plus employer l'expression de Victor Hugo. « On ne peut pas, dit-on, ce serait briser net un consensus, ce serait rompre avec certaines nations, susciter de nouvelles querelles bien plus violentes encore que celles du traité constitutionnel. » L'idée véhiculée par les États-Unis d'Europe, c'est-à-dire des États soumis à un pouvoir fédéral, n'est pas du tout à l'ordre du jour. Selon le chroniqueur, pourquoi l'expression « États-Unis d'Europe » est-elle taboue ?",
+        "audio": "/mp3/155/39.mp3",
+        "options": [
+            "Elle est trop éloignée des orientations politiques actuelles.",
+            "Elle fait référence à des événements historiques douloureux.",
+            "Elle fait ressurgir des rivalités ou des antagonismes oubliés.",
+            "Elle remet en cause la domination de fait de certains pays."
+        ],
+        "answer": 0
+    }
+]

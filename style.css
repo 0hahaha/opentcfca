@@ -1,0 +1,243 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.sidebar {
+    position: fixed;
+    top: 0;
+    width: 250px;
+    background: #f4f4f4;
+    padding: 20px;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+    overflow-y: auto;
+    height: 100vh;
+    z-index: 100;
+}
+
+.sidebar .btn {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.quiz-selector {
+    margin-bottom: 20px;
+}
+
+.main-content {
+    position: relative;
+    flex-grow: 1;
+    margin-top: 100px;
+    margin-bottom: 120px;
+    margin-left: 310px;
+    margin-right: 150px;
+    overflow-y: auto;
+    z-index: 0;
+}
+
+
+.quiz-container {
+    max-width: 600px;
+    margin: auto;
+    /*background: #f4f4f4;*/
+    border: 1px #999999 solid;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.question {
+    margin-bottom: 20px;
+}
+
+.question h2,
+.question p,
+.question h3 {
+    margin-bottom: 10px;
+}
+
+.question ul.quiz-options {
+    list-style-type: none;
+    padding: 0;
+}
+
+.question ul.quiz-options li {
+    margin-bottom: 5px;
+    padding: 5px;
+    /* Added padding for alignment */
+    border-radius: 5px
+}
+
+.question ul.quiz-options li label {
+    cursor: pointer;
+    display: block;
+}
+
+.btn {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.btn:hover {
+    background: #0056b3;
+}
+
+.result {
+    text-align: center;
+    /* margin-top: 20px; */
+    font-size: 18px;
+    display: none;
+}
+
+.correct {
+    background-color: #c8e6c9;
+}
+
+.wrong {
+    background-color: #ffcdd2;
+}
+
+/* Ensure consistent button width for all quiz buttons */
+#quiz-list-co .btn,
+#quiz-list-ce .btn,
+#question-navigator .btn {
+    display: inline-block;
+    width: auto;
+    /* Adjust width as needed */
+    text-align: center;
+    margin: 5px;
+    min-width: 20px;
+}
+
+.question a.link {
+    text-decoration-line: underline;
+    color: rgb(67 56 202);
+    margin: 0px;
+    cursor: pointer;
+    display: block;
+}
+
+.question p.quiz-text {
+    line-height: 150%;
+}
+
+.question p.quiz-text p {
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.question audio {
+    width: 100%;
+    height: 2.5rem;
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+}
+
+.question img {
+    width: 100%;
+}
+
+#back-to-top {
+    position: fixed;
+    bottom: 35px;
+    right: 35px;
+    padding: 10px;
+    width: auto;
+    z-index: 100;
+}
+
+#timer {
+    display: block;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-left: 310px;
+    margin-right: 150px;
+    align-items: center;
+    position: fixed;
+    background: white;
+    z-index: 99;
+}
+
+#timer #timer-top {
+    box-sizing: border-box;
+    box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.1);
+    /* Adding shadow */
+    width: 100%;
+    height: 4px;
+}
+
+#timer #timer-controller {
+    text-align: center;
+}
+
+#timer button {
+    width: auto;
+    display: inline;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+#progress-container {
+    display: block;
+    background-color: #f4f4f4;
+    border: 1px solid #ddd;
+    margin-right: 20px;
+    margin-left: 20px;
+    height: 30px;
+    margin-top: 15px;
+    position: relative;
+}
+
+#progress-bar {
+    width: 0;
+    height: 30px;
+    background-color: #4caf50;
+    position: absolute;
+}
+
+#time-left {
+    font-size: 1.2em;
+    line-height: 32px;
+    background: transparent;
+    width: 100%;
+    text-align: center;
+    display: block;
+    position: absolute;
+}
+
+#quiz-title-container {
+    text-align: center;
+    font-size: x-large;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    margin-left: 310px;
+    margin-right: 150px;
+    padding-top: 20px;
+    /* width: 100%; */
+    font-weight: bold;
+    background: white;
+    z-index: 99;
+    /* box-sizing: border-box; */
+    /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);*/
+}
+
+#quiz-title-container #quiz-title-bottom {
+    margin-top: 10px;
+    width: 100%;
+    height: 4px;
+    box-sizing: border-box;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
