@@ -210,7 +210,7 @@
     {
         "id": 17,
         "testId": "150",
-        "text": "Courir les 42.195 km du marathon de Paris ne s'improvise pas. C'est une course qui nécessite de s'entrainer régulièrement et d'être capable de surmonter le « mur de douleur » qui survient chez tous les marathoniens entre le 32e et le 37e kilomètres « Pour espérer terminer l'épreuve, il faut courir depuis au moins un an et dans les dernières semaines, faire trois à quatre heures d'entrainement hebdomadaires réparties en autant de séances », insiste un organisateur de stages de préparation.",
+        "text": "Courir les 42.195 km du marathon de Paris ne s'improvise pas. C'est une course qui nécessite de s'entraîner régulièrement et d'être capable de surmonter le « mur de douleur » qui survient chez tous les marathoniens entre le 32e et le 37e kilomètres « Pour espérer terminer l'épreuve, il faut courir depuis au moins un an et dans les dernières semaines, faire trois à quatre heures d'entrainement hebdomadaires réparties en autant de séances », insiste un organisateur de stages de préparation.",
         "query": "Quel est le conseil de cet organisateur avant de participer au marathon ?",
         "options": [
             "Avoir comme seul objectif de terminer l'épreuve",
@@ -288,7 +288,7 @@
     {
         "id": 23,
         "testId": "150",
-        "text": "Savoir opter pour la bonne route n’est pas tout. L’ultime clé pour gagner la course de la Route du Rhum, c’est la connaissance de soi et tout particulièrement de ses rythmes de sommeil. C’est un des aspects les plus méconnus de la voile de compétition, mais c’est sur la faculté de récupération que peut se jouer un podium. Ainsi, Alain Gautier reconnait avoir perdu la dernière Route du rhum parce qu’il n’a pas su, dès les premiers jours de la course, gérer correctement ses phases de repos. «À la fin, j’ai manqué de lucidité et j’ai commis des erreurs», avoue-t-il après sa défaite.",
+        "text": "Savoir opter pour la bonne route n’est pas tout. L’ultime clé pour gagner la course de la Route du Rhum, c’est la connaissance de soi et tout particulièrement de ses rythmes de sommeil. C’est un des aspects les plus méconnus de la voile de compétition, mais c’est sur la faculté de récupération que peut se jouer un podium. Ainsi, Alain Gautier reconnaît avoir perdu la dernière Route du rhum parce qu’il n’a pas su, dès les premiers jours de la course, gérer correctement ses phases de repos. «À la fin, j’ai manqué de lucidité et j’ai commis des erreurs», avoue-t-il après sa défaite.",
         "query": "Quel conseil donne le journaliste pour remporter la course?",
         "options": [
             "Connaître ses adversaires.",

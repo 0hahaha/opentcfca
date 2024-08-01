@@ -153,7 +153,7 @@
     {
         "id": 12,
         "testId": 155,
-        "text": "Pourriez-vous me dire où se trouve le bureau 309, s'il vous plaît? Au troisième étage, deuxième porte à gauche, avant la cafétéria. Apparemment, l'ascenseur est en panne. Oui, malheureusement. Vous devez prendre l'escalier au bout du couloir. Celui-ci? Que doit faire la personne pour se rendre au bureau 309?",
+        "text": "— Pourriez-vous me dire où se trouve le bureau 309, s'il vous plaît?\n\n— Au troisième étage, deuxième porte à gauche, avant la cafétéria.\n\n— Apparemment, l'ascenseur est en panne.\n\n— Oui, malheureusement. Vous devez prendre l'escalier au bout du couloir.\n\n— Celui-ci?\n\nQue doit faire la personne pour se rendre au bureau 309?",
         "audio": "/mp3/155/12.mp3",
         "options": [
             "Aller au 2e étage.",
@@ -166,7 +166,7 @@
     {
         "id": 13,
         "testId": 155,
-        "text": "Alors, c'est d'accord. Nous faisons un pique-nique samedi prochain. Oui, mais cela dépendra aussi du temps. S'il pleut, Pierre a proposé d'aller chez lui. Il a une maison de campagne avec une grande véranda qui s'ouvre sur le jardin. Ah oui ? Alors c'est d'accord. Tu apportes les salades ? Oui, et toi des fruits. Pierre s'occupera des boissons et du pain. Bon, espérons qu'il fera beau. Que veulent faire ces personnes samedi s'il ne pleut pas ?",
+        "text": "— Alors, c'est d'accord. Nous faisons un pique-nique samedi prochain.\n\n— Oui, mais cela dépendra aussi du temps. S'il pleut, Pierre a proposé d'aller chez lui. Il a une maison de campagne avec une grande véranda qui s'ouvre sur le jardin.\n\n— Ah oui ? Alors c'est d'accord. Tu apportes les salades ?\n\n— Oui, et toi des fruits. Pierre s'occupera des boissons et du pain.\n\n— Bon, espérons qu'il fera beau.\n\nQue veulent faire ces personnes samedi s'il ne pleut pas ?",
         "audio": "/mp3/155/13.mp3",
         "options": [
             "Inviter des amis chez elles.",
@@ -179,7 +179,7 @@
     {
         "id": 14,
         "testId": 155,
-        "text": "Alors, tu as trouvé un logement? Oui, c'est tout petit. Il y a une seule pièce. C'est au deuxième étage d'un immeuble situé en plein centre-ville. En plus, la propriétaire est gentille. C'est ce qu'il me faut. Dans quel type de logement habite cette personne ?",
+        "text": "— Alors, tu as trouvé un logement?\n\n— Oui, c'est tout petit. Il y a une seule pièce. C'est au deuxième étage d'un immeuble situé en plein centre-ville. En plus, la propriétaire est gentille. C'est ce qu'il me faut.\n\nDans quel type de logement habite cette personne ?",
         "audio": "/mp3/155/14.mp3",
         "options": [
             "Une chambre d’hôtel.",
@@ -192,7 +192,7 @@
     {
         "id": 15,
         "testId": 155,
-        "text": "François, souvenez-vous que l'informaticien passera cet après-midi au service comptabilité? Oui, je sais. Pour les deux ordinateurs en panne ? Oui. Appelez la comptable pour vérifier qu'elle a bien noté le rendez-vous. Elle est en formation jusqu'à la fin de la semaine. Sur le nouveau logiciel de comptabilité, justement. Elle revient lundi. Demandez à notre stagiaire d'être présent, alors. Je m'en occupe tout de suite. Pourquoi l'informaticien vient-il ?",
+        "text": "— François, souvenez-vous que l'informaticien passera cet après-midi au service comptabilité?\n\n— Oui, je sais. Pour les deux ordinateurs en panne ?\n\n— Oui. Appelez la comptable pour vérifier qu'elle a bien noté le rendez-vous. Elle est en formation jusqu'à la fin de la semaine. Sur le nouveau logiciel de comptabilité, justement. Elle revient lundi.\n\n— Demandez à notre stagiaire d'être présent, alors.\n\n— Je m'en occupe tout de suite.\n\nPourquoi l'informaticien vient-il ?",
         "audio": "/mp3/155/15.mp3",
         "options": [
             "Pour contrôler l’état des machines en service.",
@@ -231,7 +231,7 @@
     {
         "id": 18,
         "testId": 155,
-        "text": "Qu'est-ce qui t'arrive ? T'es super beau habillé comme ça ! Où vas-tu ? Je sors de chez le coiffeur et je viens de m'acheter ce costume. Magnifique ! T'as un look d'enfer ! Mais pourquoi ? Pour moi ? Je viens juste de terminer mes 6 mois d'essai chez mon patron et comme j'ai donné satisfaction, je signe lundi prochain mon contrat définitif. Et à temps complet, pas partiel ! Ton contrat définitif ! Mais c'est extra ! T'es voilà dans la vie active ! Bravo ! Je suis enchanté pour toi ! Et tu penses à nous maintenant ? Pour quelles raisons la jeune fille est-elle si contente ?",
+        "text": " — Qu'est-ce qui t'arrive ? T'es super beau habillé comme ça ! Où vas-tu ?\n\n— Je sors de chez le coiffeur et je viens de m'acheter ce costume.\n\n— Magnifique !\n\n— T'as un look d'enfer ! Mais pourquoi ? Pour moi ?\n\n— Je viens juste de terminer mes 6 mois d'essai chez mon patron et comme j'ai donné satisfaction, je signe lundi prochain mon contrat définitif. Et à temps complet, pas partiel !\n\n— Ton contrat définitif ! Mais c'est extra ! T'es voilà dans la vie active ! Bravo ! Je suis enchanté pour toi ! Et tu penses à nous maintenant ?\n\nPour quelles raisons la jeune fille est-elle si contente ?",
         "audio": "/mp3/155/18.mp3",
         "options": [
             "Elle a trouvé pour son ami un emploi à temps complet dans une société.",
@@ -244,7 +244,7 @@
     {
         "id": 19,
         "testId": 155,
-        "text": "Tout le monde rêve de faire de la proximité, d'être proche des auditeurs, alors quand on est une radio associative, locale, on a plus de facilité. Vous, chaque vendredi, vous ouvrez le local à 13h, on peut venir avec son panier et on partage en commun le repas. Tout à fait, et là pour la fin de l'année, on a donc lancé une invitation à tous ceux qui voudraient pour venir manger avec nous et réaliser une émission collective de fin d'année, un petit peu festive. Que propose chaque semaine cette radio à ses auditeurs ?",
+        "text": "— Tout le monde rêve de faire de la proximité, d'être proche des auditeurs, alors quand on est une radio associative, locale, on a plus de facilité. Vous, chaque vendredi, vous ouvrez le local à 13h, on peut venir avec son panier et on partage en commun le repas.\n\n— Tout à fait, et là pour la fin de l'année, on a donc lancé une invitation à tous ceux qui voudraient pour venir manger avec nous et réaliser une émission collective de fin d'année, un petit peu festive.\n\nQue propose chaque semaine cette radio à ses auditeurs ?",
         "audio": "/mp3/155/19.mp3",
         "options": [
             "De déjeuner ensemble.",
@@ -257,7 +257,7 @@
     {
         "id": 20,
         "testId": 155,
-        "text": "On dit souvent qu'à Londres, on peut changer de job quasiment comme de chemise. Est-ce que c'est toujours vrai? Il est toujours facile de passer d'un job à l'autre. Le diplôme a beaucoup moins d'importance. On va surtout regarder les postes que vous avez déjà occupés. On va aussi tenir compte de vos motivations. C'est vrai qu'on vous donne aussi la possibilité d'augmenter assez… enfin, comment dire, de franchir les étapes beaucoup plus rapidement. On retrouve assez régulièrement des personnes vers 22-23 ans et déjà managers, tandis qu'en France, c'est quand même un petit peu plus compliqué. Que dit cette intervenante au sujet du travail à Londres ?",
+        "text": "— On dit souvent qu'à Londres, on peut changer de job quasiment comme de chemise. Est-ce que c'est toujours vrai?\n\n— Il est toujours facile de passer d'un job à l'autre. Le diplôme a beaucoup moins d'importance. On va surtout regarder les postes que vous avez déjà occupés. On va aussi tenir compte de vos motivations. C'est vrai qu'on vous donne aussi la possibilité d'augmenter assez… enfin, comment dire, de franchir les étapes beaucoup plus rapidement. On retrouve assez régulièrement des personnes vers 22-23 ans et déjà managers, tandis qu'en France, c'est quand même un petit peu plus compliqué.\n\nQue dit cette intervenante au sujet du travail à Londres ?",
         "audio": "/mp3/155/20.mp3",
         "options": [
             "Le recrutement se fonde sur l’expérience.",
@@ -413,7 +413,7 @@
     {
         "id": 32,
         "testId": 155,
-        "text": "— C'est assez étonnant de lire les titres des textes de Nathalie Sarraute, des pièces de théâtre, parce que ce sont toujours des structures de phrases très stéréotypées. Vous les entendez, c'est beau, pour un oui, pour un non. Elle est là, on ne peut pas faire plus simple. Et en fait, derrière, il y a des gouffres en effet.\n\n— Voilà, oui. Et puis en plus, elle est très sensible à ce qui, dans le langage, sert de, je dirais, de costume prêt-à-porter. Il y a énormément de langue de bois qui est pointée.\n\n— De lieux communs.\n\n— Oui, de lieux communs.Elle adore ça et elle le fait partager. Donc les personnages qu'elle met en scène ont des forces énormes et qui sont canalisés par ce travail avec les mots. Et il se débrouille avec ça.\n\nQu’est-ce qui caractérise l’écriture théâtrale de cet auteur?",
+        "text": "— C'est assez étonnant de lire les titres des textes de Nathalie Sarraute, des pièces de théâtre, parce que ce sont toujours des structures de phrases très stéréotypées. Vous les entendez, c'est beau, pour un oui, pour un non. Elle est là, on ne peut pas faire plus simple. Et en fait, derrière, il y a des gouffres en effet.\n\n— Voilà, oui. Et puis en plus, elle est très sensible à ce qui, dans le langage, sert de, je dirais, de costume prêt-à-porter. Il y a énormément de langue de bois qui est pointée.\n\n— De lieux communs.\n\n— Oui, de lieux communs. Elle adore ça et elle le fait partager. Donc les personnages qu'elle met en scène ont des forces énormes et qui sont canalisés par ce travail avec les mots. Et il se débrouille avec ça.\n\nQu’est-ce qui caractérise l’écriture théâtrale de cet auteur?",
         "audio": "/mp3/155/32.mp3",
         "options": [
             "La diversité des parlers régionaux des personnages.",
