@@ -192,7 +192,7 @@
     {
         "id": 15,
         "testId": 155,
-        "text": "— François, souvenez-vous que l'informaticien passera cet après-midi au service comptabilité?\n\n— Oui, je sais. Pour les deux ordinateurs en panne ?\n\n— Oui. Appelez la comptable pour vérifier qu'elle a bien noté le rendez-vous. Elle est en formation jusqu'à la fin de la semaine. Sur le nouveau logiciel de comptabilité, justement. Elle revient lundi.\n\n— Demandez à notre stagiaire d'être présent, alors.\n\n— Je m'en occupe tout de suite.\n\nPourquoi l'informaticien vient-il ?",
+        "text": "— François, souvenez-vous que l'informaticien passera cet après-midi au service comptabilité?\n\n— Oui, je sais. Pour les deux ordinateurs en panne.\n\n— Oui. Appelez la comptable pour vérifier qu'elle a bien noté le rendez-vous. Elle est en formation jusqu'à la fin de la semaine. Sur le nouveau logiciel de comptabilité, justement. Elle revient lundi.\n\n— Demandez à notre stagiaire d'être présent, alors.\n\n— Je m'en occupe tout de suite.\n\nPourquoi l'informaticien vient-il ?",
         "audio": "/mp3/155/15.mp3",
         "options": [
             "Pour contrôler l’état des machines en service.",
