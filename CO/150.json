@@ -1,0 +1,511 @@
+[
+    {
+        "id": 1,
+        "testId": 150,
+        "text": "A. Je peux m'asseoir ici?\n\nB. Mon chien peut venir avec moi?\n\nC. Quand passe le prochain bus?\n\nD. Vous me donnez un ticket?",
+        "audio": "/mp3/150/1.mp3",
+        "img": "/mp3/150/1.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 2,
+        "testId": 150,
+        "text": "A. Bravo aux cuisiniers, c'est délicieux.\n\nB. Je voudrais une table près de la fenêtre.\n\nC. Un autre café, s'il vous plaît.\n\nD. Vous pouvez garder la monnaie.",
+        "audio": "/mp3/150/2.mp3",
+        "img": "/mp3/150/2.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 3,
+        "testId": 150,
+        "text": "Vous pouvez fermer la porte, s'il vous plaît?\n\nA. Bien sûr.\n\nB. C'est vrai.\n\nC. Très souvent.\n\nD. Merci bien.",
+        "audio": "/mp3/150/3.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 4,
+        "testId": 150,
+        "text": "Excusez-moi, je suis perdue. Je veux aller à la mairie.\n\nA. Oui, allez-y. C'est ouvert maintenant.\n\nB. Oui, attendez. Elle va bientôt arriver.\n\nC. Oui, cherchez dans la bibliothèque.\n\nD. Oui, prenez la première rue à droite.",
+        "audio": "/mp3/150/4.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 5,
+        "testId": 150,
+        "text": "Bonjour, Docteur. Bonjour, M. Moulin. Asseyez-vous. Quel est le problème?\n\nA. Il fait très chaud.\n\nB. J'ai mal au ventre.\n\nC. Je cherche mes clés.\n\nD. Mon téléphone est cassé.",
+        "audio": "/mp3/150/5.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 6,
+        "testId": 150,
+        "text": "J'ai trouvé un nouveau restaurant. On réserve une table pour deux à midi? Tu es d'accord?\n\nA. Désolé, je mange avec mes collègues.\n\nB. Désolé, je ne peux pas t'aider.\n\nC. Désolé, je préfère le menu à 18 euros.\n\nD. Désolé, je te réponds dans la soirée.",
+        "audio": "/mp3/150/6.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 7,
+        "testId": 150,
+        "text": "Mon neveu vient d'avoir 5 ans, quels cadeaux est-ce que je peux lui offrir?\n\nA. Ce jouet est beaucoup trop cher.\n\nB. C'est un très joli prénom.\n\nC. Pose la question à ses parents.\n\nD. Pourquoi pas, c'est une bonne idée.",
+        "audio": "/mp3/150/7.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 8,
+        "testId": 150,
+        "text": "Dimanche, il fera beau. J'aimerais bien faire un peu de sport. Tu veux faire du vélo avec moi?\n\nA. Attends, je prends mes lunettes de soleil.\n\nB. Bonne idée, on pourra aller en forêt.\n\nC. C'est d'accord, j'arrive tout de suite.\n\nD. Quel dommage, demain c'est fermé.",
+        "audio": "/mp3/150/8.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 9,
+        "testId": 150,
+        "text": "Salut Sylvie, ça va ? T'as l'air fatiguée. Quand est-ce que tu pars en vacances ?\n\nA. J'ai mon vol mardi prochain.\n\nB. Je reste cinq jours sur place.\n\nC. Je vais visiter l'Italie.\n\nD. Je voyage avec mes collègues.",
+        "audio": "/mp3/150/9.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 10,
+        "testId": 150,
+        "text": "Bonjour Yacine, tu manges au lycée aujourd'hui ?\n\nA. Oui, j'adore les légumes.\n\nB. Oui, je peux dîner avec toi.\n\nC. Oui, je préfère manger chez moi.\n\nD. Oui, je vais à la cantine.",
+        "audio": "/mp3/150/10.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 11,
+        "testId": 150,
+        "text": "Bonjour, je voudrais réserver deux places pour le film Neige éternelle à 20 heures. Où va la femme?",
+        "audio": "/mp3/150/11.mp3",
+        "options": [
+            "À l’opéra.",
+            "Au cabaret.",
+            "Au cinéma.",
+            "Au théâtre."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 12,
+        "testId": 150,
+        "text": "— Je voudrais des informations sur le carnaval d'hiver, s'il vous plaît.\n\n— Oui, madame.\n\n— Que proposez-vous pour de jeunes enfants?\n\n— Il y a des animations, des défilés, un concours de sculpture sur neige. En réalité, beaucoup de choses à faire.\n\n— D'accord. Voici la brochure avec toutes les informations, mais il faut s'inscrire vite à certaines activités. Les places sont limitées et il y a déjà beaucoup de participants.\n\nQuels conseils donne-t-on à cette personne?",
+        "audio": "/mp3/150/12.mp3",
+        "options": [
+            "D’acheter le programme.",
+            "De réserver rapidement.",
+            "De venir en famille.",
+            "D’être déguisé."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 13,
+        "testId": 150,
+        "text": "— Ces patients sont des girafes, des pandas ou des tigres. S'ils sont malades, c'est elles que l'on appelle. Florence est la seule vétérinaire en France capable de tous les aider. Florence, pourquoi avoir choisi de vous occuper de ces animaux en particulier ?\n\n— Toute petite, j'apprenais les noms des animaux africains et je rêvais de soigner des lions. Ce rêve est devenu réalité.\n\n— Dans quels endroits travaillez-vous ?\n\n— J'interviens dans les zoos, les cirques ou les parcs animaliers.\n\nQuelle est la particularité de Florence ?",
+        "audio": "/mp3/150/13.mp3",
+        "options": [
+            "Elle accueille chez elle des lions malades.",
+            "Elle est la plus jeune vétérinaire de France.",
+            "Elle sait soigner les animaux sauvages.",
+            "Elle travaille dans des endroits dangereux."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 14,
+        "testId": 150,
+        "text": "— Merci d'accueillir John Free. Il s'est fait connaître du public international dans les années 80. John, vous étiez un très jeune saxophoniste à l'époque.\n\n— Oui, j'avais appris le piano et la trompette, puis finalement le saxophone grâce à mon père, Al Free. C'était un grand, une légende du jazz de Chicago. Chez mes parents, il y avait un piano au milieu du salon et j'ai grandi en observant mon père, Al, et ses deux frères répéter pour leur groupe.\n\nComment John Free a-t-il eu envie de devenir musicien ?",
+        "audio": "/mp3/150/14.mp3",
+        "options": [
+            "En assistant à des concerts.",
+            "En écoutant des disques.",
+            "En regardant jouer ses proches.",
+            "En travaillant dans un club."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 15,
+        "testId": 150,
+        "text": "— François, souvenez-vous que l'informaticien passera cet après-midi au service comptabilité?\n\n— Oui, je sais. Pour les deux ordinateurs en panne.\n\n— Oui. Appelez la comptable pour vérifier qu'elle a bien noté le rendez-vous. Elle est en formation jusqu'à la fin de la semaine. Sur le nouveau logiciel de comptabilité, justement. Elle revient lundi.\n\n— Demandez à notre stagiaire d'être présent, alors.\n\n— Je m'en occupe tout de suite.\n\nPourquoi l'informaticien vient-il ?",
+        "audio": "/mp3/150/15.mp3",
+        "options": [
+            "Pour contrôler l’état des machines en service.",
+            "Pour donner une formation aux employés.",
+            "Pour mettre à jour toutes les applications.",
+            "Pour réparer des équipements informatiques."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 16,
+        "testId": 150,
+        "text": "— Tiens, Julie, qu'est-ce que tu fais là ?\n\n— Je viens pour le test de biologie.\n\n— Tu ne sais pas qu'il a été annulé ?\n\n— Non, j'étais absente au dernier cours. Pourquoi ce changement ?\n\n— À cause de la grippe. Il y a eu beaucoup d'absents cette semaine. Le prof préfère le faire dans deux semaines. Mais puisque tu es là, accompagne-moi en salle B14. Il y a une conférence intéressante.\n\nQu'apprend-on à propos du test de Julie ?",
+        "audio": "/mp3/150/16.mp3",
+        "options": [
+            "Il aura lieu plus tard dans le semestre.",
+            "Il évaluera le chapitre des maladies.",
+            "Il se fera dans le grand amphithéâtre.",
+            "Il sera corrigé par un enseignant extérieur."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 17,
+        "testId": 150,
+        "text": "— Allô ? Pourrais-je parler au directeur des ressources humaines ?\n\n— Le directeur est actuellement en réunion, mais je peux lui transmettre un message ?\n\n— Je souhaite savoir s'il a bien reçu ma candidature pour le poste d'ingénieur. Je lui ai envoyé mon CV et ma lettre de motivation il y a deux semaines et je n'ai pas reçu de réponse.\n\n— Donnez-moi votre nom, s'il vous plaît, et je lui dirai de vous recontacter.\n\nQuel est l'objet de cet appel ?",
+        "audio": "/mp3/150/17.mp3",
+        "options": [
+            "Confirmer la date d’un entretien d’embauche.",
+            "Se renseigner sur les conditions de travail.",
+            "S’informer sur une formation professionnelle.",
+            "Vérifier si un courrier est bien arrivé."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 18,
+        "testId": 150,
+        "text": "— Madame?\n\n— Bonjour, monsieur. On m'a volé mon sac hier dans le métro à la station Mont-Royal. Quelles sont les démarches à suivre pour obtenir un autre passeport rapidement?\n\n— Eh bien, tout d'abord, nous allons enregistrer votre déclaration, et ensuite, il vous faudra aller à l'ambassade de France de Montréal pour leur signaler. D'accord. Merci, monsieur.\n\nQuel est le problème de cette femme?",
+        "audio": "/mp3/150/18.mp3",
+        "options": [
+            "Elle a été victime d’un vol.",
+            "Elle a oublié son passeport.",
+            "Elle a perdu son sac à main.",
+            "Elle est tombée dans le métro."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 19,
+        "testId": 150,
+        "text": "Bonjour à tous, voici des informations sur la circulation et les premiers problèmes ce matin sur les routes de France. Pour le premier week-end des vacances scolaires, il y a beaucoup de monde sur les routes, donc faites très attention quand vous êtes en voiture. Et n'oubliez pas de vous arrêter toutes les deux heures pour faire une pause. Quelle information donne le journaliste ?",
+        "audio": "/mp3/150/19.mp3",
+        "options": [
+            "Les accidents sont importants.",
+            "Les arrêts sont interdits.",
+            "Les départs sont nombreux.",
+            "Les embouteillages sont finis."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 20,
+        "testId": 150,
+        "text": "— Hélène Carrère-Dancos, votre article nous informe du danger qui menace l'existence et le développement des lycées français de l'étranger.\n\n— Oui, ces lycées étaient payants. Ils sont devenus gratuits en 2007. Cette décision, au départ généreuse, se retourne finalement contre les lycées, car les entreprises qui payaient ne le font plus. C'est l'État seul qui soutient les lycées, donc, quand cela deviendra trop lourd pour l'État, il risque de vouloir enfermer certains.\n\nPour Hélène Carrère-Dancos, quels sont les problèmes des lycées français de l'étranger ?",
+        "audio": "/mp3/150/20.mp3",
+        "options": [
+            "Le nombre d’élèves est en baisse.",
+            "Les frais de scolarité sont élevés.",
+            "Leurs programmes sont inadaptés.",
+            "Leurs financements sont fragilisés."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 21,
+        "testId": 150,
+        "text": "— Quel froid ce matin.\n\n— Oui, mais au moins, il y a du soleil.\n\n— C'est sûr, à côté d'hier, la pluie toute la journée, c'était l'horreur.\n\n— Ah oui, j'aime mieux ce froid sec.\n\nQuel temps fait-il aujourd'hui?",
+        "audio": "/mp3/150/21.mp3",
+        "options": [
+            "Il fait plus beau qu’hier.",
+            "Il fait plus mauvais qu’hier.",
+            "Il pleut plus qu’hier.",
+            "Il y a moins de soleil qu’hier."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 22,
+        "testId": 150,
+        "text": "Quand j'étais adolescent, j'avais écrit un long poème à Georges Brassens. J'avais fini de le recopier, enfin, c'était une espèce de chanson que j'avais fini de recopier dans le bistrot en face de l'impasse Florimont où il habitait, et j'étais allé lui porter. Sauf qu'il n'habitait plus là depuis des années et que j'étais assez rassuré qu'il n'habite plus là parce que je ne sais pas ce que je lui aurais raconté. Mais je l'avais écrite, et je me dis que si un jour j'avais reçu un petit mot de Brassens me disant « j'ai lu vos chansons et j'aimerais bien vous en parler », ça m'aurait intéressé. Qu'aurait souhaité cette personne en allant chez Georges Brassens?",
+        "audio": "/mp3/150/22.mp3",
+        "options": [
+            "Lui apporter un livre.",
+            "Lui demande conseil.",
+            "Lui présenter son travail.",
+            "Lui proposer une interview."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 23,
+        "testId": 150,
+        "text": "— Isabelle Olivier, en tant que directrice d'une agence de voyage, en quoi votre agence est-elle différente des autres ?\n\n— Tout d'abord, je travaille toujours avec des gens qui garantissent le respect des partenaires locaux. Ensuite, je cherche à définir les motivations des personnes qui viennent me voir, afin de les orienter vers des formules auxquelles ils n'ont pas forcément pensé. En général, après une discussion avec ces personnes sur la destination souhaitée, ils s'aperçoivent qu'un séjour classique ne coûte pas moins cher qu'un séjour sur mesure.\n\nQue propose cette agence de voyage ?",
+        "audio": "/mp3/150/23.mp3",
+        "options": [
+            "Des circuits respectueux de l’environnement.",
+            "Des formules adaptées à chaque client.",
+            "Des tarifs plus bas que la concurrence.",
+            "Des voyages à caractère humanitaire."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 24,
+        "testId": 150,
+        "text": "Jusqu'en 1974, l'année où Annie Fratellini et Pierre Etecs ont créé la première école de cirque en Europe, il fallait être né dans une famille pour apprendre ce métier. C'était obligatoire. Mais eux ont voulu justement créer une école pour permettre aux jeunes qui n'étaient pas issus des familles de cirque d'apprendre ce métier du cirque. Depuis, ça s'est énormément professionnalisé. De quelle évolution du monde du cirque parlent les intervenants ?",
+        "audio": "/mp3/150/24.mp3",
+        "options": [
+            "La création de numéros innovants.",
+            "La renaissance des traditions oubliées.",
+            "L’introduction des animaux sauvages.",
+            "L’ouverture de formations artistiques."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 25,
+        "testId": 150,
+        "text": "— Les agronomes travaillent beaucoup sur l'agro-écologie. Notre modèle est très dépendant du pétrole et du gaz pour les engrais, le transport des denrées, l'énergie pour l'irrigation. Et avec un pétrole qui devient plus rare et plus cher, il s'agit donc de trouver des techniques moins gourmandes, comme l'explique Olivier Descuteurs, rapporteur spécial des Nations Unies pour l'alimentation.\n\n— Dans beaucoup de zones qui ne sont pas encore développées selon les méthodes agro-industrielles de production, il faut effectivement mettre l'accent sur des pratiques agro-écologiques qui, par exemple, permettent de recycler les déchets dans le champ pour fertiliser le champ ou qui permettent de combiner l'agro-foresterie avec des cultures alimentaires pour économiser les engrais chimiques grâce à la fertilisation des sols par les arbres.\n\nQuelle piste est envisagée pour améliorer la production agricole ?",
+        "audio": "/mp3/150/25.mp3",
+        "options": [
+            "Augmenter les espaces de terres cultivables.",
+            "Moderniser les machines de production agricole.",
+            "Privilégier une agriculture sans produit chimique.",
+            "Utiliser des semences génétiquement modifiées."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 26,
+        "testId": 150,
+        "text": "— À peine a-t-on le temps de s'habituer à être parent, que l'on doit préparer nos enfants à devenir autonome, puis à partir. Ce moment où le jeune adulte quitte la maison est difficile, effectivement ?\n\n— Ce moment est difficile tant pour le parent que pour l'enfant. Les adolescents qui ont attendu parfois très longtemps ce temps de liberté, eux-mêmes peuvent se retrouver démunis au moment de franchir la porte de la maison.\n\n— Aujourd'hui, les jeunes adultes vivent de plus en plus longtemps chez leurs parents.\n\n— Tout à fait, on invoque des raisons économiques pour rester à la maison plus longtemps. Ceci est parfois lié aussi à une question d'immaturité. On est bien à la maison, maman et papa prennent soin de tout.\n\n— Pratique quand même, « nourri, logé, blanchi »\n\n— Exactement.\n\nSelon la personne interrogée, qu'est-ce qui retient les jeunes adultes chez leurs parents ?",
+        "audio": "/mp3/150/26.mp3",
+        "options": [
+            "La peur de faire de la peine à leur entourage familial.",
+            "Le confort que leur procure leur structure familiale.",
+            "Le plaisir de voir leur famille comme ils le souhaitent.",
+            "L’obligation de soutenir financièrement leur famille."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 27,
+        "testId": 150,
+        "text": "— Comment les jeunes français envisagent-ils leur avenir ?\n\n— La réponse est à lire dans le sondage publié aujourd'hui par le tout nouvel observatoire des jeunes et des familles. 1000 jeunes de 18 à 25 ans et 1000 familles ont été interrogés. Première surprise, les jeunes ont plutôt confiance en l'avenir à 52% et même si les difficultés économiques les angoissent, 8 sur 10 estiment qu'ils obtiendront ce qu'ils veulent mais les principaux obstacles seront le travail et le logement.\n\nQu'apprend-on sur l'attitude des jeunes français face à leur avenir ?",
+        "audio": "/mp3/150/27.mp3",
+        "options": [
+            "Ils espèrent obtenir une allocation de l’État.",
+            "Ils voient leur futur de manière positive.",
+            "Ils comptent sur le soutien de leurs proches.",
+            "Ils refusent d’habiter chez leurs parents."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 28,
+        "testId": 150,
+        "text": "Léonard reçoit une éducation relativement libre, comme l'étaient celles de la plupart des villageois de son âge. On imagine Léonard aujourd'hui comme un puits de science, une sorte de grand sage qui, très jeune, aurait été formé à la culture humaniste traditionnelle. Évidemment, ça n'est pas le cas. C'est un enfant qui s'est mis, en quelque sorte, à l'école de la nature, qui scrute, qui observe tout. Il est passionné par tout ce qui l'entoure et il s'aperçoit vite que le sens de l'observation est peut-être le meilleur des enseignements. Qu'est-ce que Léonard a de particulier?",
+        "audio": "/mp3/150/28.mp3",
+        "options": [
+            "Sa mémoire exceptionnelle.",
+            "Ses aptitudes au jardinage.",
+            "Ses origines sociales modestes.",
+            "Son parcours d’apprentissage."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 29,
+        "testId": 150,
+        "text": "— Quand un Français s'aperçoit que ses compétences ne sont pas en adéquation avec le marché du travail québécois, il commet généralement la même erreur. Plutôt que d'aller chercher une autre expérience en se disant, « Ce n'est pas grave, je vais peut-être obtenir un poste avec moins de responsabilités, mais je vais chercher à développer de nouvelles compétences en occupant un nouvel emploi dans un secteur différent », il essaie de retourner à l'université et refait un certificat.\n\n— Que conseillez-vous alors?\n\n— En tant qu'enseignant à l'université, je lui dis, « Tu pourrais trouver un emploi demain matin si tu misais sur le développement de tes compétences plutôt que sur ton bout de papier ».\n\nQue recommande cette universitaire pour trouver un travail au Québec?",
+        "audio": "/mp3/150/29.mp3",
+        "options": [
+            "De devenir entrepreneur en créant son entreprise.",
+            "De s’informer sur les secteurs porteurs d’emplois.",
+            "De suivre une formation diplômante à l’université.",
+            "D’élargir sa recherche d’emploi à d’autres domaines."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 30,
+        "testId": 150,
+        "text": "La vieille dame de fer dans tous ses états, où, comment les jeunes, sans complexe, se sont mesurés à cette forme unique qu'est la Tour Eiffel. Pour ce concours, organisé par la Fondation Eiffel, adressée aux élèves des écoles d'architecture, la consigne était de rêver. Concevoir un édifice de très grande hauteur sur le champ de Mars à Paris, à distance, à coller ou à la place de la Tour Eiffel. Trois étudiants suppriment donc carrément la tour. À la place, ils y construisent un aéroport vertical, ou creusent un puits de lumière avec de vastes plateaux. D'autres choisissent de la rendre habitable en comblant ses vides par des baies de couleurs ou la dot d'un jardin suspendu. De quoi traite ce reportage ?",
+        "audio": "/mp3/150/30.mp3",
+        "options": [
+            "D’un appel à projets imaginaires.",
+            "D’un examen de fin d’études.",
+            "D’un nouveau plan d’urbanisme.",
+            "D’une rénovation d’un monument."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 31,
+        "testId": 150,
+        "text": "On fait un petit tour de France, c'est-à-dire qu'on est parti vers le sud, et on s'est arrêté à La Rochelle, parce que nos ancêtres viennent de La Rochelle. Ils sont partis au 17e siècle pour le Québec du port de La Rochelle, donc on est venu voir le port et essayer de trouver une trace de nos ancêtres. Ce qu'on a commencé par trouver, c'est que c'était plutôt compliqué d'avoir des traces écrites, surtout quand notre ancêtre n'était pas un capitaine de bateau ou quelque chose comme ça. De quoi parle cet interveant?",
+        "audio": "/mp3/150/31.mp3",
+        "options": [
+            "D’une compétition sportive.",
+            "D’une croisière maritime.",
+            "D’une histoire familiale.",
+            "D’une rencontre amoureuse."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 32,
+        "testId": 150,
+        "text": "En fait, comme on habite tous le 19e arrondissement de Paris, le canal de Lourdes qui est devenu notre espace de baignade quotidienne. Après une journée de travail, généralement on se retrouve au bord du canal, tous ensemble, et on se baigne. Aujourd'hui on est entre 15 et 20 à se baigner régulièrement dans le canal de Lourdes. On est des jeunes étudiants fauchés, qu'on a envie de s'amuser, qu'on a pas forcément les moyens aussi de partir de Paris. Que font les jeunes parisiens dont parle ce reportage ?",
+        "audio": "/mp3/150/32.mp3",
+        "options": [
+            "Ils nagent en plein air dans la capitale.",
+            "Ils s’amusent dans un parc d’attractions.",
+            "Ils se retrouvent à la piscine municipale.",
+            "Ils sont en vacances au bord de la mer."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 33,
+        "testId": 150,
+        "text": "C'est l'une des plus grandes chansons qui a été faite dans toute l'histoire de la chanson francophone. C'est on a accès à, c'est un court métrage, en fait  c'est même un long métrage en quelques minutes. Et d'arriver à dépeindre tout un univers où on comprend la complexité du personnage, où on peut le mettre dans un contexte social, où on peut, on a même presque des parfums, on a tout dans cette chanson-là. Donc c'est, c'est oui, c'est un, c'est pour moi, c'est comme si j'avais chanté un grand maître. Si j'étais en classique, j'aurais joué Bach. Ben, là, j'ai chanté Aznavour, j'ai chanté cette chanson-là d'Aznavour. De quoi parle cet artiste?",
+        "audio": "/mp3/150/33.mp3",
+        "options": [
+            "De la particularité de sa voix.",
+            "De la reprise d’une œuvre.",
+            "De sa nouvelle tournée.",
+            "De son dernier rôle au cinéma."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 34,
+        "testId": 150,
+        "text": "— Les plus de 60 ans, ils sont près d'un milliard sur la planète, 15 millions en France et ce nombre a vocation à grossir. Aujourd'hui les seniors c'est 23% de la population française, bientôt ce sera 30% des seniors qui voyagent, qui consomment, qui s'équipent. Des seniors dont la santé vacille aussi et qui entrent dans la dépendance. Un marché juteux pour les entreprises et un formidable gisement de croissance et d'emploi qui n'a pas échappé à Michel Delonney, la ministre déléguée aux personnes âgées.\n\n— Dans le secteur de l'aide à domicile, on considère qu'il faut 220 000 emplois de plus d'ici 2020. Incroyable, aucun autre ministère ne peut proposer autant de champs de croissance.\n\nDans ce reportage, qu'apprend-on sur les seniors ?",
+        "audio": "/mp3/150/34.mp3",
+        "options": [
+            "Ils consomment plus que la jeune génération.",
+            "Ils dépensent beaucoup pour leur santé.",
+            "Ils profitent peu des effets de la croissance.",
+            "Ils sont à l’origine de créations d’emplois."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 35,
+        "testId": 150,
+        "text": "20% du bassin arctique canadien est devenu corrosif pour certains de ses habitants. On s'inquiète beaucoup ainsi de l'élargissement de ces fameuses zones mortes dans les océans, là où l'oxygène et la vie se sont retirées. Elles sont particulièrement nombreuses le long de la troisième côte océanique canadienne, donc le long de la province de la Colombie-Britannique. Denis Gilbert est chercheur scientifique au ministère canadien de pêche et océans Canada. Selon lui, il faut savoir dépasser les simples manchettes alarmistes des journaux, basées souvent sur les cris d'alarme des environnementalistes. Le phénomène des zones mortes ou de l'hypoxie n'est pas nouveau, et ce n'est pas obligatoirement une mauvaise chose. La preuve, en tout cas, reste à faire. Quelle est la position du chercheur Denis Gilbert?",
+        "audio": "/mp3/150/35.mp3",
+        "options": [
+            "Il considère que le phénomène doit être analysé.",
+            "Il conteste les méthodes de collecte des données.",
+            "Il partage la vision catastrophiste des écologistes.",
+            "Il s’oppose aux décisions du gouvernement."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 36,
+        "testId": 150,
+        "text": "— Les nouveaux outils aujourd'hui que nous utilisons au quotidien, est-ce qu'ils ont stimulé de nouvelles intelligences ou est-ce qu'ils ont amoindri d'autres capacités ?\n\n— Alors, on peut considérer qu'en effet, les nouveaux outils numériques, par exemple ordinateurs, robots, font qu'on va déléguer aux machines certaines tâches asservissantes pour l'homme. \n\n— On voit pour la mémoire, par exemple, le calcul mental.\n\n— C'est un autre aspect, la mémoire. La mémoire, c'est le second, c'est que la mémoire est devenue plutôt externe. La mémoire étant externe et finalement, les tâches qui nécessitaient beaucoup de temps, de concentration, de labeur plus automatique, peuvent être déléguées aux machines. Donc, il y a là un espace de nouveauté.\n\nQu'explique l'intervenant à propos des nouveaux outils numériques ?",
+        "audio": "/mp3/150/36.mp3",
+        "options": [
+            "Ils améliorent les facultés d’attention.",
+            "Ils entravent la liberté de penser.",
+            "Ils assurent les travaux fastidieux.",
+            "Ils diminuent les aptitudes cognitives."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 37,
+        "testId": 150,
+        "text": "Effectivement, la loi de 2001 fait obligation aux banques de désigner un médiateur qui est là pour justement tenter de régler les problèmes. Et la FUB a fait voter à l'époque que les modalités pour saisir le médiateur doivent être précisées dans le relevé de banque et dans le contrat. Donc pour savoir comment saisir le médiateur, il faut lire le relevé de banque ou le contrat. On doit y avoir toutes les précisions. Le médiateur a deux mois pour rendre un avis. Ce n'est qu'un avis, entendons-nous bien. Et là, eh bah, disons qu'il y a parfois un petit problème. C'est d'abord que peu de clients ont recours au médiateur. Il faudrait être beaucoup plus, disons, nombreux. Et deuxièmement, ce sont parfois des renvoyeurs de balles, c'est-à-dire ceux qui s'adressent à eux, ont le sentiment qu'ils n'ont pas été compris ni entendu. Quel sont les limites du recours au médiateur lors d’en conflit avec sa banque?",
+        "audio": "/mp3/150/37.mp3",
+        "options": [
+            "Le nombre de médiateurs est insuffisant pour répondre à la demande.",
+            "Les banques influencent les décisions prises par les médiateurs.",
+            "Les demandeurs trouvent que la procédure est trop longue et compliquée.",
+            "Quelle que soit la nature du litige, le médiateur n’a qu’un pouvoir consultatif."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 38,
+        "testId": 150,
+        "text": "— Gérard Nora, vous vous occupez de la restauration de monuments historiques, comment s'y prend-on lorsqu'il faut refaire des éléments dont il ne reste quasiment aucune trace ?\n\n— Nécessité fait loi en la matière. Lorsqu'une peinture ou un vitrail, par exemple, ont complètement disparu dans une église, nous n'avons pas d'autre choix que de concevoir une œuvre moderne, selon les standards actuels.\n\n— On ne fait pas un pastiche ou une imitation ?\n\n— Ce serait la pire des choses à faire à un monument. On sait que le faux contamine le vrai, et aujourd'hui, il règne une suspicion sur certains monuments parce qu'on a voulu faire du faux un mauvais escient, sans avoir le talent de ceux qui créaient les originaux aux périodes antérieures.\n\nQuelle solution, l'expert juge-t-il préférable concernant les éléments architecturaux que le temps a détruit ?",
+        "audio": "/mp3/150/38.mp3",
+        "options": [
+            "Les remplacer par des copies de qualité.",
+            "Les rénover selon les techniques originales.",
+            "Les reproduire avec des matériaux identiques.",
+            "Leur substituer des créations contemporaines."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 39,
+        "testId": 150,
+        "text": "Dans les relations d'amitié virtuelle, bien souvent, les liens se créent d'un clic, se défont d'un clic. Il y a une précarité de la relation humaine dans ces réseaux-là. Et puis même aussi dans les rencontres, on est appelé à faire sur le mode de l'instantanéité, dans le speed dating ou toutes les formes de speed meeting, qui fait qu'on s'aide à l'affect du moment pour décider si on maintient une relation ou pas. Et donc tout le caractère durable et vertueux des amitiés à l'échelle d'une vie, on peut se poser la question de leur existence à l'avenir. Que regrette l'intervenant dans ce type de relation?",
+        "audio": "/mp3/150/39.mp3",
+        "options": [
+            "La fragilité de l’engagement.",
+            "La multiplicité des contacts.",
+            "La pauvreté des échanges.",
+            "L’absence du face-à-face."
+        ],
+        "answer": 0
+    }
+]
