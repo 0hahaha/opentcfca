@@ -1,0 +1,511 @@
+[
+    {
+        "id": 1,
+        "testId": 156,
+        "text": "A. C'est une bonne idée de peindre des enfants.\n\nB. Cette sculpture est très intéressante.\n\nC. Il y a beaucoup de visiteurs aujourd'hui.\n\nD. J'aime les couleurs de ce tableau.",
+        "audio": "/mp3/156/1.mp3",
+        "img": "/mp3/156/1.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 2,
+        "testId": 156,
+        "text": "A. Monsieur Tremblay est devant sa femme.\n\nB. Monsieur Tremblay suit avec les achats.\n\nC. Madame Tremblay sort d'une parfumerie.\n\nD. Madame Tremblay porte tous les paquets.",
+        "audio": "/mp3/156/2.mp3",
+        "img": "/mp3/156/2.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 3,
+        "testId": 156,
+        "text": "Bonjour madame. J'aime beaucoup ces chaussures en cuir dans la vitrine. Elles existent en 38 ?\n\nA. Ah non, nous n'acceptons pas les chèques.\n\nB. Bien sûr, la caisse est à l'entrée du magasin.\n\nC. Désolée, nous n'avons plus cette pointure.\n\nD. Mais oui, les soldes commencent demain.",
+        "audio": "/mp3/156/3.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 4,
+        "testId": 156,
+        "text": "Avez-vous entendu quelque chose ?\n\nA. Merci, je ne veux rien.\n\nB. Non, c'est par là.\n\nC. Oui, je crois.\n\nD. Peut-être demain ?",
+        "audio": "/mp3/156/4.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 5,
+        "testId": 156,
+        "text": "Demain, c'est la fête d'anniversaire de Léa. On pourrait lui offrir une belle robe. Qu'en penses-tu?\n\nA. Oui, ce sont ses fleurs préférées.\n\nB. Oui, elle va beaucoup aimer.\n\nC. Oui, il y aura toute sa famille.\n\nD. Oui, j'ai acheté un gâteau.",
+        "audio": "/mp3/156/5.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 6,
+        "testId": 156,
+        "text": "Qu'est-ce que tu prends pour aller à la plage ?\n\nA. Avec quelques amis.\n\nB. Juste mon maillot de bain.\n\nC. Nous y allons à pied.\n\nD. Oui, c'est un bel endroit.",
+        "audio": "/mp3/156/6.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 7,
+        "testId": 156,
+        "text": "Pourquoi étiez-vous absent hier après-midi?\n\nA. J'avais rendez-vous chez le médecin.\n\nB. Moi non plus, je ne suis pas venu.\n\nC. Je ne sais pas, je n'étais pas là.\n\nD. Si, mais je n'ai pas eu le temps.",
+        "audio": "/mp3/156/7.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 8,
+        "testId": 156,
+        "text": "— Allô?\n\n— Oui, bonjour. Je vous appelle pour votre petite annonce. Est-ce que votre voiture est toujours à vendre?\n\n— Eh ben oui, mais vous avez compris qu'elle ne démarre pas.\n\n— Oui, ça j'ai compris. Vous voulez la vendre 800 euros?\n\n— La réparation coûte 300 euros, alors j'ai décidé de la laisser à 500 euros.\n\n— À ce prix-là, c'est une bonne affaire.\n\nQuel est le problème avec la voiture?",
+        "audio": "/mp3/156/8.mp3",
+        "options": [
+            "Elle est déjà vendue.",
+            "Elle est en panne.",
+            "Elle est irréparable.",
+            "Elle est trop chère."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 9,
+        "testId": 156,
+        "text": "— Bonjour, je viens d'emménager à Marseille et je voudrais déposer un dossier pour m'inscrire à l'université.\n\n— Vous avez rempli le dossier ?\n\n— Oui, le voilà, avec les justificatifs.\n\n— Très bien, mais je ne vois pas la copie de votre passeport. C'est indispensable.\n\nQue souhaite la jeune femme?",
+        "audio": "/mp3/156/9.mp3",
+        "options": [
+            "Chercher un travail en France.",
+            "Obtenir une bourse d’études.",
+            "Suivre des cours à l’université.",
+            "Trouver un appartement à Marseille."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 10,
+        "testId": 156,
+        "text": "— Bonjour monsieur, je suis étudiante, je cherche un logement.\n\n— Bienvenue chez nous. Est-ce que vous savez comment fonctionne notre association ?\n\n— Non, pas très bien.\n\nEh bien, vous habitez chez une personne âgée et en échange vous lui rendez quelques petits services, faire les courses, préparer le repas et surtout lui tenir compagnie.\n\n— Et combien ça coûte ?\n\n— Ça dépend du temps passé auprès de la personne et de ce que vous faites. Vous payerez un petit loyer si vous assurez seulement une présence certains soirs.\n\nQue permet cette association ?",
+        "audio": "/mp3/156/10.mp3",
+        "options": [
+            "De faire des rencontres.",
+            "De manger gratuitement.",
+            "De trouver un travail.",
+            "De vivre chez quelqu’un."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 11,
+        "testId": 156,
+        "text": "— Alors, que pensez-vous de la maison ?\n\n— Elle me plaît. Elle correspond à ce que je recherche. Un lieu de vie clair et spacieux.\n\n— Vous pourrez refaire la peinture, si vous voulez. Elle est un peu vieille.\n\n— Oui, peut-être. Pour l'instant, je préférerais changer les fenêtres. On entend beaucoup les voitures dehors.\n\n— En effet, il y a un supermarché à l'angle de la rue.\n\n— C'est embêtant. Je rêvais d'un endroit calme.\n\n— Prenez le temps de réfléchir.\n\nPour quelles raisons la femme hésite-t-elle à louer la maison ?",
+        "audio": "/mp3/156/11.mp3",
+        "options": [
+            "Elle a besoin de réparations urgentes.",
+            "Elle est localisée loin des commerces.",
+            "Elle est située dans une rue bruyante.",
+            "Elle possède un garage trop étroit."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 12,
+        "testId": 156,
+        "text": "— Je suis Tunisien, et je viens d'arriver au Canada. Et toi?\n\n— Moi, je suis Québécoise.\n\n— Alors, tu pourras peut-être me renseigner sur les démarches à suivre pour ma demande d'admission à l'université.\n\n— Il vaut mieux que tu t'adresses au secrétariat de l'université. En tant qu'étudiant étranger, il y a des modalités particulières.\n\n— Je ne peux pas faire de demande par courrier ou en ligne, et est-ce qu'il y a des équivalences avec mes diplômes tunisiens?\n\n— Je l'ignore. Téléphone plutôt au secrétariat.\n\nQuels conseils cette étudiante donne-t-elle au jeune homme?",
+        "audio": "/mp3/156/12.mp3",
+        "options": [
+            "Constituer son dossier par voie électronique.",
+            "Consulter la section « Étudiant étranger » sur internet.",
+            "Obtenir une reconnaissance de son diplôme tunisien.",
+            "Se mettre directement en contact avec l’université."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 13,
+        "testId": 156,
+        "text": "Cette fête de la gastronomie est l'occasion d'évoquer un plaisir que l'on peut partager très tôt en famille, le plaisir de cuisiner à quatre mains, parents et enfants réunis autour d'une même recette. Cuisiner avec son enfant, c'est une activité à la fois ludique, créative, enrichissante pour un enfant puisqu'elle fait appel à tous ses sens et c'est bien entendu un bon moment à passer ensemble. Selon cette personne, que permet la fête de la gastronomie ?",
+        "audio": "/mp3/156/13.mp3",
+        "options": [
+            "Conseiller les parents en matière d’alimentation.",
+            "Créer l’occasion de se retrouver en famille.",
+            "Découvrir des recettes de grand-mère.",
+            "Rassembler des enfants du monde entier."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 14,
+        "testId": 156,
+        "text": "— François, souvenez-vous que l'informaticien passera cet après-midi au service comptabilité?\n\n— Oui, je sais. Pour les deux ordinateurs en panne.\n\n— Oui. Appelez la comptable pour vérifier qu'elle a bien noté le rendez-vous. Elle est en formation jusqu'à la fin de la semaine. Sur le nouveau logiciel de comptabilité, justement. Elle revient lundi.\n\n— Demandez à notre stagiaire d'être présent, alors.\n\n— Je m'en occupe tout de suite.\n\nPourquoi l'informaticien vient-il ?",
+        "audio": "/mp3/156/14.mp3",
+        "options": [
+            "Pour contrôler l’état des machines en service.",
+            "Pour donner une formation aux employés.",
+            "Pour mettre à jour toutes les applications.",
+            "Pour réparer des équipements informatiques."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 15,
+        "testId": 156,
+        "text": "— Pourquoi en si peu de temps on est venu à 7 milliards sur Terre ?\n\n— Parce que la mortalité a diminué, notamment la mortalité des enfants, grâce au progrès de l'hygiène, de la médecine, au progrès économique. Résultat, les décès sont devenus moins nombreux, et est apparu un excédent des naissances sur les décès qui a entraîné une augmentation de la population.\n\nQu'explique cet homme ?",
+        "audio": "/mp3/156/15.mp3",
+        "options": [
+            "La crise de l’économie mondiale.",
+            "L’accroissement de la population.",
+            "Les nouvelles règles d’hygiène.",
+            "Les récentes découvertes médicales."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 16,
+        "testId": 156,
+        "text": "— Bonjour Monique.\n\n— Bonjour Olivier. Que puis-je pour vous ?\n\n— Je viens vous voir au sujet de mes vacances. Je voudrais les prendre en juillet. Je sais que certains collègues seront en formation et d'autres en extérieur, pour les présentations de nos produits sur les marchés d'Europe. Est-ce que cela sera possible ?\n\n— Nous aurons peut-être besoin de vous, effectivement. Je vais y réfléchir et je vous donne ma réponse cette semaine.\n\n— Je vous remercie. Permettez-moi juste de vous rappeler que, l'été dernier, j'ai travaillé tout le mois d'août.\n\nQue demande Olivier ?",
+        "audio": "/mp3/156/16.mp3",
+        "options": [
+            "À quel moment il pourra poser des congés.",
+            "Dans quelle ville il devra partir en mission.",
+            "Qui sera de permanence au mois d’août.",
+            "S’il sera autorisé à suivre un stage en été."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 17,
+        "testId": 156,
+        "text": "— Tu as vu les promotions pour Rome ? Une semaine pour 200 euros par personne dans un hôtel 4 étoiles en plein centre-ville. Et c'est gratuit pour les moins de 7 ans.\n\n— Non merci. Moi je préfère la plage. On peut se baigner au moins avec les enfants.\n\n— C'est vrai qu'ils sont encore un peu petits pour les visites historiques.\n\nPourquoi la femme refuse-t-elle d'aller à Rome ?",
+        "audio": "/mp3/156/17.mp3",
+        "options": [
+            "C’est une destination inadaptée pour les plus jeunes.",
+            "Elle refuse de marcher des heures pour visiter la ville.",
+            "L’hôtel propose un niveau de confort insuffisant.",
+            "Le prix d’un séjour pour une famille est trop élevé."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 18,
+        "testId": 156,
+        "text": "Bonjour, c'est un message de GRD Solutions pour M. Lalande. Je vous appelais au sujet du problème que vous avez rencontré en installant notre logiciel d'épéimage. Nous avons un technicien qui pourrait vous dépanner et venir sur site rapidement. Vous pouvez me recontacter jusqu'à 18h30 au 01-28-12-87-43. Bonne journée. Pourquoi cette personne laisse-t-elle un message?",
+        "audio": "/mp3/156/18.mp3",
+        "options": [
+            "Pour confirmer un rendez-vous.",
+            "Pour demander un entretien.",
+            "Pour proposer un service.",
+            "Pour signaler un retard."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 19,
+        "testId": 156,
+        "text": "— Alors Clément, ta recherche d'emploi, ça avance?\n\n— Pas vraiment, et ce n'est pas faute de chercher.\n\n— Mais attends, avec ta formation d'architecte-décorateur et tous tes stages, c'est incroyable!\n\n— J'avais une piste dans un cabinet de Montréal, mais ils m'ont répondu qu'ils cherchaient un professionnel confirmé.\n\n— Ah! Et qu'il soit au moins bilingue comme toi, j'espère?\n\n— Ça, ce n'est pas le problème, mais à 25 ans, je ne peux pas avoir travaillé 10 ans dans la même entreprise.\n\nQuel est le problème de Clément dans sa recherche d'un emploi?",
+        "audio": "/mp3/156/19.mp3",
+        "options": [
+            "Il a peu de diplômes.",
+            "Il est déjà trop âgé.",
+            "Il est mauvais en langues.",
+            "Il manque d’expérience."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 20,
+        "testId": 156,
+        "text": "— Je suis en mer depuis les années 80, j'ai commencé le métier marin à 15 ans et demi.\n\n— Vous n'avez pas fait la suite de quelqu'un ?\n\n— Non, non. J'ai commencé dans les années 81 à la pêche et puis bon, ça a rapporté. Et puis, il y avait de l'emploi ici. Là, c'est le hasard.\n\n— Mais vous êtes d'ici ?\n\n— Oui, je suis d'ici, ça aide. Mais bon, je n'étais vraiment pas attiré par la mer.\n\n— C'est vrai, non ? Et pourtant, vous avez franchi le pas pour faire pêcheur.\n\n— Je n'avais pas le choix. Il fallait bien que je gagne ma vie. Quand j'avais arrêté mes études, bon, ici, à part la pêche, il n'y a pas grand chose comme vous voulez. L'économie, c'est pratiquement que la pêche.\n\nQuelle était la motivation de cet homme pour devenir pêcheur ?",
+        "audio": "/mp3/156/20.mp3",
+        "options": [
+            "L’envie de changer de profession.",
+            "La nécessité de trouver un travail.",
+            "La réalisation d’un rêve de jeunesse.",
+            "La rencontre avec un passionné."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 21,
+        "testId": 156,
+        "text": "— Vous pratiquez un sport ?\n\n— Je n'ai plus le temps à cause de mon travail. C'est dommage, ça permet de garder une bonne hygiène de vie, d'être en forme et de rester en bonne santé. Vous devriez essayer de trouver du temps.\n\n— D'accord, je vais y réfléchir.\n\n— Tenez, voici votre ordonnance. Prenez ces deux médicaments matin et soir pendant huit jours.\n\nQue fait la doctoresse ?",
+        "audio": "/mp3/156/21.mp3",
+        "options": [
+            "Elle conseille une activité physique.",
+            "Elle propose un arrêt maladie.",
+            "Elle rédige un certificat médical.",
+            "Elle remplit une feuille de soins."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 22,
+        "testId": 156,
+        "text": "Être éco-éducateur, c'est être à cheval entre l'éducateur et le pédagogue, puisqu'on va sensibiliser le public aux problématiques environnementales, mais en même temps expliquer ces problématiques, et puis les solutions qui sont actuellement préconisées. La plupart du temps, on accueille un public d'enfants ou de scolaires ou de centres de loisirs, mais en vérité, on touche tous les publics puisqu'on est ouvert le week-end. Néanmoins, notre journée ne se cantonne pas à ça. On a aussi le montage de tous les projets, d'événementiels ou d'animations futures, qui nécessitent de créer des supports, d'élaborer des déroulements pédagogiques. Ici, au clôt des Blancs-Manteaux, notre entrée thématique, c'est l'écologie au quotidien, les éco-gestes, les astuces qu'on peut mettre en place dans notre vie de tous les jours pour participer à la préservation de la planète. Que propose ce site dans lequel cet intervenant  travaille ?",
+        "audio": "/mp3/156/22.mp3",
+        "options": [
+            "Des activités en faveur du développement durable.",
+            "Des formations aux nouveaux métiers de l’éducation.",
+            "Des sorties équestres pour les écoliers de la région.",
+            "Des stages à destination des animateurs jeunesse."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 23,
+        "testId": 156,
+        "text": "Quand j'étais adolescent, j'avais écrit un long poème à Georges Brassens. J'avais fini de le recopier, enfin, c'était une espèce de chanson que j'avais fini de recopier dans le bistrot en face de l'impasse Florimont où il habitait, et j'étais allé lui porter. Sauf qu'il n'habitait plus là depuis des années et que j'étais assez rassuré qu'il n'habite plus là parce que je ne sais pas ce que je lui aurais raconté. Mais je l'avais écrite, et je me dis que si un jour j'avais reçu un petit mot de Brassens me disant « j'ai lu vos chansons et j'aimerais bien vous en parler », ça m'aurait intéressé. Qu'aurait souhaité cette personne en allant chez Georges Brassens?",
+        "audio": "/mp3/156/23.mp3",
+        "options": [
+            "Lui apporter un livre.",
+            "Lui demander conseil.",
+            "Lui présenter son travail.",
+            "Lui proposer une interview."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 24,
+        "testId": 156,
+        "text": "— Isabelle Olivier, en tant que directrice d'une agence de voyage, en quoi votre agence est-elle différente des autres ?\n\n— Tout d'abord, je travaille toujours avec des gens qui garantissent le respect des partenaires locaux. Ensuite, je cherche à définir les motivations des personnes qui viennent me voir, afin de les orienter vers des formules auxquelles ils n'ont pas forcément pensé. En général, après une discussion avec ces personnes sur la destination souhaitée, ils s'aperçoivent qu'un séjour classique ne coûte pas moins cher qu'un séjour sur mesure.\n\nQue propose cette agence de voyage ?",
+        "audio": "/mp3/156/24.mp3",
+        "options": [
+            "Des circuits respectueux de l’environnement.",
+            "Des formules adaptées à chaque client.",
+            "Des tarifs plus bas que la concurrence.",
+            "Des voyages à caractère humanitaire."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 25,
+        "testId": 156,
+        "text": "— Qu'est-ce que tu veux faire pour les prochaines vacances?\n\n— Il faut qu'on s'organise. Ah oui, sinon ce sera difficile de trouver un chalet disponible. J'aimerais bien aller dans les Laurentides. Les vaillancourts y seront tout le mois d'août.\n\n— Oh non, on y passe tous nos étés depuis dix ans.\n\nPourquoi la femme refuse-t-elle d'aller dans les Laurentides ?",
+        "audio": "/mp3/156/25.mp3",
+        "options": [
+            "Parce qu’elle craint les grosses chaleurs de l’été.",
+            "Parce qu’elle pense que les Vaillancourt sont ennuyeux.",
+            "Parce qu’elle souhaite changer de destination estivale.",
+            "Parce qu’elle trouve les chalets inconfortables."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 26,
+        "testId": 156,
+        "text": "Montréal est une ville dynamique. Beaucoup de personnes sont attirées par les hautes technologies, le domaine des jeux vidéo, l'aéronautique ou l'industrie textile. Tous ces secteurs recrutent périodiquement. Les jeunes pensent qu'une participation au forum de recrutement, une formation professionnelle et plusieurs stages suffisent à décrocher un contrat. Or, les entreprises cherchent des personnes réellement motivées et passionnées. Un travail de bénévole dans des organisations humanitaires à l'étranger peut faire la différence. Alors il ne faut pas hésiter à mettre ces expériences caritatives sur son CV. Selon cet intervenant, comment est-il possible d'augmenter ses chances d'obtenir un emploi ?",
+        "audio": "/mp3/156/26.mp3",
+        "options": [
+            "En collaborant à des activités de bénévolat.",
+            "En effectuant des stages durant ses études.",
+            "En prenant part à des salons de recrutement.",
+            "En suivant plusieurs formations spécifiques."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 27,
+        "testId": 156,
+        "text": "— M. Gosselin, pouvez-vous nous parler des jardins communautaires de Verdun?\n\n— Oui, ce sont des jardins mis à la disposition des chômeurs par la Ville de Montréal.\n\n— Donc les chômeurs retrouvent une activité par la même occasion?\n\n— Oui, et ils peuvent se nourrir des légumes cultivés.\n\nQu'apprend-on sur les jardins communautaires?",
+        "audio": "/mp3/156/27.mp3",
+        "options": [
+            "Ils appartiennent à des demandeurs d’emploi.",
+            "Ils sont cultivés par des gens sans emploi.",
+            "Ils fournissent des légumes aux commerçants de la ville.",
+            "Ils sont cultivés par des jardiniers professionnels."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 28,
+        "testId": 156,
+        "text": "Léonard reçoit une éducation relativement libre, comme l'étaient celles de la plupart des villageois de son âge. On imagine Léonard aujourd'hui comme un puits de science, une sorte de grand sage qui, très jeune, aurait été formé à la culture humaniste traditionnelle. Évidemment, ça n'est pas le cas. C'est un enfant qui s'est mis, en quelque sorte, à l'école de la nature, qui scrute, qui observe tout. Il est passionné par tout ce qui l'entoure et il s'aperçoit vite que le sens de l'observation est peut-être le meilleur des enseignements. Qu'est-ce que Léonard a de particulier ?",
+        "audio": "/mp3/156/28.mp3",
+        "options": [
+            "Sa mémoire exceptionnelle.",
+            "Ses aptitudes au jardinage.",
+            "Ses origines sociales modestes.",
+            "Son parcours d’apprentissage."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 29,
+        "testId": 156,
+        "text": "Mesdames, Messieurs, suite à un incident technique, notre train arrive en gare de Valence TGV avec un retard de 45 minutes. Nous invitons tous les voyageurs qui descendent à se rapprocher du personnel de gare. Il vous remettra une enveloppe et un document à remplir et à retourner à l'adresse indiquée pour que la SNCF puisse vous virer la somme correspondant au prix de votre billet de train, à titre de dédommagement. Nous vous prions de bien vouloir vous excuser pour la gêne occasionnée. Assurez-vous de n'avoir rien oublié à vos places. Bonne fin de journée. Quelle information le chef de train donne-t-il aux voyageurs ?",
+        "audio": "/mp3/156/29.mp3",
+        "options": [
+            "Ils devront demander le remboursement de leur billet par écrit.",
+            "Ils devront descendre en gare de Valence suite à une panne.",
+            "Ils devront patienter à leur place jusqu’à l’arrêt complet du train.",
+            "Ils devront présenter leur billet à leur descente du train."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 30,
+        "testId": 156,
+        "text": "— L'internaute n'a que l'embarras du choix aujourd'hui pour trouver une voiture de particulier à louer près de chez lui. Ziloc Auto se présente ainsi comme le numéro 1 du secteur, avec plus de 1000 locations par mois et 4000 propriétaires sur toute la France. Des propriétaires qu'il a parfois fallu rassurer, Marion Carette, cofondatrice du site ziloc.com.\n\n— Spontanément, un propriétaire de voiture, il a peur de louer sa voiture, mais on a vraiment beaucoup travaillé sur ces aspects-là. Donc on a un contrat, on a un système d'assurance qui permet d'assurer vraiment le locataire pour la voiture qui ne lui appartient pas pendant la durée de la location. On a un système d'évaluation, un système de caution, et tout ça fait finalement que le propriétaire arrive sur notre site en étant rassuré.\n\nPourquoi ce site plaît-il aux propriétaires de voitures?",
+        "audio": "/mp3/156/30.mp3",
+        "options": [
+            "Il contrôle rigoureusement toutes les formalités de garantie.",
+            "Il organise préalablement une rencontre avec les locataires.",
+            "Il propose une première révision gratuite des véhicules.",
+            "Il vérifie systématiquement l’identité de chacun de ses clients."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 31,
+        "testId": 156,
+        "text": "Bonjour à tous. Je n'ai rien à me mettre. Avez-vous déjà prononcé cette phrase devant votre armoire pleine de vêtements ? Quelles sont les basiques de votre garde-robe ? Avez-vous une tenue fétiche que vous enfilez lorsque vous voulez jouer la carte de la sécurité ? Que porter pour un premier rendez-vous, pour un entretien d'embauche, pour un week-end à la campagne ? Ces questions semblent futiles. La mode nous paraît parfois un luxe superflu et on oppose souvent l'être et le paraître. Mais faites l'expérience. Si vous êtes femme, quel que soit votre gabarit, enfilez une robe qui vous met en valeur, de jolies chaussures, une touche de rouge à lèvres peut-être, vous vous sentirez sans aucun doute plus sûr de vous. Votre caractère en sera peut-être même transformé. Quelle est l'idée avancée par la journaliste?",
+        "audio": "/mp3/156/31.mp3",
+        "options": [
+            "Aujourd’hui, être à la mode est une préoccupation superficielle.",
+            "Il faut porter des vêtements adaptés à toutes circonstances.",
+            "La société actuelle donne trop de place à l’apparence.",
+            "La tenue vestimentaire influence l’état psychologique."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 32,
+        "testId": 156,
+        "text": "— Alors même, les bébés vont au théâtre...\n\n— Et oui, dès les premiers jours de leur vie, c'est possible. Alors je dois avouer Brigitte que j'étais très dubitative sur la nécessité d'emmener son bébé au théâtre. La vie pour lui c'est un spectacle permanent, dont il est à la fois le spectateur et l'acteur. Alors pourquoi le traîner dans une salle de spectacle ? Et puis j'ai découvert cette Biennale Acta, où des artistes venus de Finlande, d'Espagne, d'Allemagne, d'Italie, de France, proposent des temps de représentation très troublants, où le bébé, assis sur les genoux des parents ou des assistantes maternelles, partage vraiment, à égalité avec l'adulte, des émotions liées à des questions métaphysiques, et oui.\n\nEn quoi la Biennale Acta est-elle originale?",
+        "audio": "/mp3/156/32.mp3",
+        "options": [
+            "Elle donne l’occasion de découvrir de jeunes talents.",
+            "Elle offre une expérience à un public de tous âges.",
+            "Elle permet de jouer sur scène avec son enfant.",
+            "Elle présente la même pièce en différentes langues."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 33,
+        "testId": 156,
+        "text": "— C'est une nouvelle façon de jouer à la poupée, un jeu en réseau totalement virtuel mais qui peut coûter très cher. A 11 ans et demi, Clémentine en a été une fervente adepte.\n\n— Tu as un pseudo, tu crées ta poupée, tu as une poupée et on a envie de monter des niveaux, on a envie d'être connu sur le jeu. Il faut acheter des choses avec de l'argent et tous les jours, si tu veux avoir plus d'argent, il faut que tu envoies un SMS.\n\n— Les prélèvements passent inaperçus au début parce qu'ils se font par petites sommes de 4 à 9 euros et l'addiction au jeu s'installe très vite.\n\nQu’est-ce qui ressort de ce reportage consacré un jeu en réseaux?",
+        "audio": "/mp3/156/33.mp3",
+        "options": [
+            "L’assujettissement insidieux des mineurs.",
+            "L’insuffisance d’information des parents.",
+            "La fatigue occasionnée chez les enfants.",
+            "Le manque d’intérêt éducatif de l’activité."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 34,
+        "testId": 156,
+        "text": "— Monsieur, pouvez-vous nous parler de votre nouveau dispositif de prêts à la bibliothèque et vidéothèque municipales?\n\n— Bien entendu. Il m'a été demandé de rendre plus performant le service d'emprunt de ces deux départements que compte la mairie de votre ville.\n\n— Et que proposez-vous?\n\n— Au lieu de passer au guichet de prêts munis de vos livres ou vidéos en présentant votre carte d'abonné habituelle manuscrite et cartonnée, vous montrerez cette carte magnétique, format carte de crédit, qui identifie automatiquement l'emprunteur.\n\n— Quels en sont les avantages? Réduire l'attente au guichet et la facilité de rangement.\n\n— Pensez-vous que d'autres espaces municipaux seront informatisés de la sorte? Bien sûr. Si cela s'avère efficace, il sera étendu aux abonnés des clubs de sport de la ville qui veulent emprunter du matériel, tels que patins à glace ou vélos pour les enfants. Attendons les mois à venir pour en juger.\n\nQuel changement annonce l'homme interviewé?",
+        "audio": "/mp3/156/34.mp3",
+        "options": [
+            "Un accès plus large aux fonds de la bibliothèque municipale.",
+            "Un contrat permettant de combiner différents types d’abonnements.",
+            "Un contrôle renforcé de l’identité des usagers des services de la ville.",
+            "Une modernisation des procédures d’emprunt des documents."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 35,
+        "testId": 156,
+        "text": "— Le Zoom de France Info consacré ce matin aux dérives de l'industrie pharmaceutique ou comment inventer de nouvelles maladies pour recycler d'anciennes molécules. Le mal de dos est devenu une spondylarthrite ankylosante. Une période de tristesse cache forcément une dépression. Aujourd'hui, on a l'impression, Philippe Évène, que tout est maladie.\n\n— Oui, ça fait maintenant 15 ans que ça dure. Vous savez, quand une industrie comme celle-là, qui a beaucoup apporté, ne trouve plus de médicaments, alors elle invente des maladies pour recycler les molécules antérieures et trouver de nouveaux créneaux d'exploitation. Ce que vous venez de raconter est absolument scandaleux. Un, la spondylarthrite ankylosante est une maladie exceptionnelle. Et deuxièmement, malheureusement, on n'a aucun moyen de la guérir.\n\nQuelle est l'accusation portée contre l'industrie pharmaceutique ?",
+        "audio": "/mp3/156/35.mp3",
+        "options": [
+            "Elle commercialise des produits dangereux pour la santé.",
+            "Elle crée des besoins pour réutiliser de vieux remèdes.",
+            "Elle fait des profits grâce à la vente de traitements périmés.",
+            "Elle limite la recherche consacrée aux pathologies rares."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 36,
+        "testId": 156,
+        "text": "— En fait, sur tous les continents, et même en Europe, toutes les villes grandissent sans exception et cela va complètement changer notre univers. Écoutez ce qu'en dit mon témoin du futur, l'urbaniste et architecte Jacques Ferrier.\n\n— Là, on est dans des villes qui ont plusieurs dizaines de kilomètres, voire centaines de kilomètres d'ampleur, des dizaines de millions d'habitants. Donc c'est clair, on ne sortira pas. On ne sortira pas de ce monde-là, on va vivre dans un monde urbain. Ce monde urbain ce n'est pas une fatalité, que ce soit un monde repoussant, que ce soit un monde inquiétant. Ça peut être au contraire un nouveau type de paysage. Mais pour ça, il faut changer la façon de voir la ville. Il faut arrêter de dessiner la ville comme sur du papier quadrillé. Il faut dessiner la ville de façon autre et de façon beaucoup plus...de beaucoup plus sensible.\n\nQuelle est l'opinion de cet homme au sujet des villes du futur?",
+        "audio": "/mp3/156/36.mp3",
+        "options": [
+            "Leur aménagement doit suivre un modèle vertical.",
+            "Leur conception doit s’affranchir des modes du passé.",
+            "Leur développement est une menace pour l’environnement.",
+            "Leur expansion est loin d’être un phénomène inéluctable."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 37,
+        "testId": 156,
+        "text": "— Thomas Le Pelletier, d'abord pour commencer, vous signez donc pour le magazine Science Humaine un article qui s'intitule « Faut-il encore manger de la viande ? » et vous décrivez et vous écrivez qu'il est nécessaire de diminuer fortement notre consommation sans pour autant devenir végétarien. C'est la condition animale qui vous intéresse principalement sur cette question ?\n\n— Oui, c'est une question d'éthique animale. Moi, je pense qu'il y a une grande évolution de la société. La notion de cruauté envers les animaux a de plus en plus de mal à être acceptée. Or, on a assisté depuis les 50 dernières années à une mise en place d'une industrie de la viande qui fait terriblement souffrir les animaux.\n\nSur quoi s'appuient les recommandations de Thomas Le Pelletier ?",
+        "audio": "/mp3/156/37.mp3",
+        "options": [
+            "Sur des considérations morales.",
+            "Sur des convictions écologiques.",
+            "Sur des certitudes économiques.",
+            "Sur des prescriptions diététiques."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 38,
+        "testId": 156,
+        "text": "Les faits divers sont bien des faits, des événements, des choses qui arrivent, mais pourquoi diables sont-ils divers, ces faits ? On peut les trouver monotones, toujours des meurtres, des accidents, des catastrophes, des séquestrations, et j'en passe. Des images chocs, en tout cas, de ce qui ne va pas dans notre société. En effet, alors qu'il arrive cent mille choses heureuses et agréables, l'information s'attache à l'horrible et à l'imprévu. Les faits divers racontent l'horreur qui atteint quelques individus, mais qui masquent les maladies d'une société tout entière. À leur donner tant d'importance sans les commenter, les médias contournent gaillardement les problèmes majeurs collectifs qui, eux, ne sont pas divers. À se demander si ces catastrophes si diverses ne sont pas mises en avant sans qu'on n'en tire aucune leçon, pour faire diversion, non pas pour divertir au sens de récréer, mais pour détourner de ce qui est plus général et plus important, les problèmes qui concernent des millions d'humains, mais qui paraissent en effet plus lointains. Selon le chroniqueur, comment les médias utilisent-ils les faits divers?",
+        "audio": "/mp3/156/38.mp3",
+        "options": [
+            "Comme un prétexte pour éviter de traiter les questions significatives.",
+            "Comme une occasion de commenter ce qui ne va pas dans notre société.",
+            "Comme un moyen de sensibiliser le public aux problèmes des individus.",
+            "Comme une façon de distraire les individus de leurs petits soucis quotidiens."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 39,
+        "testId": 156,
+        "text": "On a voulu faire une salle qui s'appelle « Monnet peintre des impressions » pour vraiment mettre en valeur l'aspect très original de Monnet parmi les impressionnistes. Dans la salle précédente, on a mis ses premiers paysages qui sont les paysages d'Argenteuil. On y voit donc les paysages les plus classiques du peintre qui va devenir le chef de file de l'impressionnisme. Mais dans la salle « Monnet peintre des impressions », on voulait vraiment mettre en valeur ce qu'était que peindre des impressions. Donc évidemment, on a « Impression soleil levant » qui a le titre qu'il porte et qui met en valeur le côté impressionniste du paysage. C'est une vue du Havre, mais on ne peut presque plus reconnaître le Havre tant ce paysage montre ce qu'est une atmosphère lumineuse finalement. Cette atmosphère de crépuscule qui est mise en valeur par ces nouvelles couleurs et ces nouvelles petites touches de peinture. Comment l’exposition sur Monnet a-t-elle été conçu?",
+        "audio": "/mp3/156/39.mp3",
+        "options": [
+            "En regroupant les œuvres selon un ordre chronologique.",
+            "En regroupant les tableaux dans une même salle.",
+            "En regroupant les toiles autour d’un même sujet.",
+            "En regroupant ses créations avec celles d’autres artistes."
+        ],
+        "answer": 2
+    }
+]
