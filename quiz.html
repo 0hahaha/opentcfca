@@ -8,7 +8,7 @@
     <!-- Marked.js for Markdown -->
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <!-- MathJax for LaTeX -->
-    <script async ="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script async src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?version=4.8.0&features=es6"></script>
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <script>
         // Function to load a CSS file dynamically
@@ -28,9 +28,8 @@
         }
 
         // Load CSS and JS files
-        const host = "http://0.0.0.0:8000";
+        const host = ""
         document.addEventListener('DOMContentLoaded', function () {
-            console.log("dddd")
             const cssUrl = host + '/style.css';
             const jsUrl = host + '/script.js';
             loadCSS(cssUrl);

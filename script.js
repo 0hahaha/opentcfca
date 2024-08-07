@@ -21,32 +21,20 @@ let quizCategory = { CO: "Orale", CE: "Écrite" }
 let quizzes = {
     //"TCF Canada Compréhension Orale Série 151, Réussir 03"
     CO: [
-        {
-            tcfId: 151,
-            ruId: 3
-        },
-        {
-            tcfId: 152,
-            ruId: 4
-        },
-        {
-            tcfId: 155,
-            ruId: 5
-        }
+        { tcfId: 151, ruId: 3 },
+        { tcfId: 152, ruId: 4 },
+        { tcfId: 155, ruId: 5 },
+        { tcfId: 150, ruId: 6 },
+        { tcfId: 156, ruId: 7 },
+        { tcfId: 157, ruId: 8 }
     ], // Sample quiz IDs for CO
     CE: [
-        {
-            tcfId: 150,
-            ruId: 2
-        },
-        {
-            tcfId: 152,
-            ruId: 3
-        },
-        {
-            tcfId: 153,
-            ruId: 4
-        }
+        { tcfId: 150, ruId: 2 },
+        { tcfId: 152, ruId: 3 },
+        { tcfId: 153, ruId: 4 },
+        { tcfId: 154, ruId: 5 },
+        { tcfId: 155, ruId: 6 },
+        { tcfId: 162, ruId: 7 },
     ] // Sample quiz IDs for CE
 };
 let quizList = {
@@ -145,7 +133,7 @@ function renderQuiz(category, data) {
             listItem.id = `option-${index}-${optionIndex}`;
 
             const label = document.createElement('label');
-            label.innerText = option;
+            label.innerText = String.fromCharCode('A'.charCodeAt(0) + optionIndex) + '. ' + option;
 
             const radioInput = document.createElement('input');
             radioInput.type = 'radio';
