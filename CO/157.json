@@ -1,0 +1,514 @@
+[
+    {
+        "id": 1,
+        "testId": 157,
+        "text": "A. Maman, achète-moi un jouet.\n\nB. Maman, regarde le joli chien.\n\nC. Maman, tu me lis une histoire.\n\nD. Maman, je veux jouer avec eux.",
+        "audio": "/mp3/157/1.mp3",
+        "img": "/mp3/157/1.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 2,
+        "testId": 157,
+        "text": "A. Alors, tu viens t'asseoir pour dîner ?\n\nB. Ça y est, tu es prêt à mettre la table ?\n\nC. Pourquoi tu ne veux pas manger ?\n\nD. Tu peux m'aider à préparer le repas ?",
+        "audio": "/mp3/157/2.mp3",
+        "img": "/mp3/157/2.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 3,
+        "testId": 157,
+        "text": "A. C'est un bon marchand de légumes.\n\nB. Demandez un plan de la ville.\n\nC. L'entrée de la préfecture est là-bas.\n\nD. Ma voiture est au parking.",
+        "audio": "/mp3/157/3.mp3",
+        "img": "/mp3/157/3.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 4,
+        "testId": 157,
+        "text": "A. Cette chaleur me fatigue.\n\nB. Il va bientôt faire nuit.\n\nC. Je commence à avoir froid.\n\nD. Le temps est très nuageux.",
+        "audio": "/mp3/157/4.mp3",
+        "img": "/mp3/157/4.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 5,
+        "testId": 157,
+        "text": "A. Il neige encore.\n\nB. J'attends le soleil.\n\nC. Quelle belle journée.\n\nD. Qu'est-ce qu'il pleut.",
+        "audio": "/mp3/157/5.mp3",
+        "img": "/mp3/157/5.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 6,
+        "testId": 157,
+        "text": "Je joue souvent au football avec mes enfants. Et vous ? Vous faites du sport ?\n\nA. Oui, j'admire les surfers.\n\nB. Oui, j'ai un ballon.\n\nC. Oui, je fais du vélo.\n\nD. Oui, je regarde le match.",
+        "audio": "/mp3/157/6.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 7,
+        "testId": 157,
+        "text": "Salut! On ne se connaît pas. Je m'appelle Bertrand. Je suis à Québec depuis trois mois seulement. Je suis informaticien. Et toi, tu fais quoi?\n\nA. Je joue au tennis le dimanche.\n\nB. Je suis toujours célibataire.\n\nC. Je travaille dans une école.\n\nD. Je vis à Montréal maintenant.",
+        "audio": "/mp3/157/7.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 8,
+        "testId": 157,
+        "text": "Dis-moi, quand est-ce que tu dois aller à la préfecture ?\n\nA. J'ai consulté mon calendrier hier soir.\n\nB. J'ai eu un rendez-vous pour demain matin.\n\nC. J'ai répondu à son courrier aujourd'hui.\n\nD. J'ai voyagé avec lui la semaine dernière.",
+        "audio": "/mp3/157/8.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 9,
+        "testId": 157,
+        "text": "Allô, bonjour, est-ce que je peux parler à Céline, s'il vous plaît ?\n\nA. C'est de la part de qui ?\n\nB. Elle a un numéro de téléphone ?\n\nC. Je suis bien au 01 42 35 80 96 ?\n\nD. Vous voulez laisser un message ?",
+        "audio": "/mp3/157/9.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 10,
+        "testId": 157,
+        "text": "Je serai votre guide pendant cette visite. Suivez-moi s'il vous plaît.\n\nA. Je vais vous faire découvrir ce musée.\n\nB. Je vais vous indiquer la salle d'attente.\n\nC. Je vais vous installer à une table.\n\nD. Je vais vous montrer votre chambre.",
+        "audio": "/mp3/157/10.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 11,
+        "testId": 157,
+        "text": "— Pierre, tu travailles la semaine prochaine?\n\n— Non, on descend avec les enfants dans notre maison de campagne dans le sud.\n\n— Tu as de la chance de te reposer un peu.\n\n— Oui, je vais enfin pouvoir jouer au tennis.\n\nQue fera Pierre la semaine prochaine?",
+        "audio": "/mp3/157/11.mp3",
+        "options": [
+            "Il aura la visite de sa famille.",
+            "Il fera une compétition.",
+            "Il pourra travailler au calme.",
+            "Il sera en vacances."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 12,
+        "testId": 157,
+        "text": "— Monsieur, s'il vous plaît.\n\n— Oui ?\n\n— Moi aussi, j'aime beaucoup ce groupe. Mais vous gênez tous les voyageurs en l'écoutant si fort. Le train est un lieu public et tout le monde n'a pas envie d'écouter votre musique. Et certains aimeraient bien dormir.\n\n— Ah, ça vous dérange ? Excusez-moi, je ne pensais pas que c'était si fort. Avec les écouteurs, on ne se rend pas compte. Attendez un instant. C'est mieux comme ça ?\n\n— Oui, merci.\n\nQue fait le jeune homme ?",
+        "audio": "/mp3/157/12.mp3",
+        "options": [
+            "Il baisse le volume.",
+            "Il change de wagon.",
+            "Il éteint son appareil.",
+            "Il met un casque."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 13,
+        "testId": 157,
+        "text": "— Pourriez-vous me dire où se trouve le bureau 309, s'il vous plaît?\n\n— Au troisième étage, deuxième porte à gauche, avant la cafétéria.\n\n— Apparemment, l'ascenseur est en panne.\n\n— Oui, malheureusement. Vous devez prendre l'escalier au bout du couloir.\n\n— Celui-ci?\n\nQue doit faire la personne pour se rendre au bureau 309?",
+        "audio": "/mp3/157/13.mp3",
+        "options": [
+            "Aller au 2e étage.",
+            "Monter à pied.",
+            "Prendre l’ascenseur.",
+            "Passer par la cafétéria."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 14,
+        "testId": 157,
+        "text": "— Alors Pierre, qu'est-ce que tu as décidé ? Tu vas accepter cette offre d'emploi ?\n\n— Ah non, j'ai déjà refusé. Honnêtement, je préfère continuer à chercher.\n\n— Je pense que tu fais une bêtise. C'est très bien payé, et puis les horaires te conviennent, non ?\n\n— Oui, mais ce n'est pas une raison pour accepter le poste. Ce qui est important pour moi, c'est le travail lui-même, et de ce point de vue, le poste ne m'attire pas.\n\n— J'espère que tu ne vas pas regretter ta décision.\n\nPourquoi Pierre refuse-t-il ce poste ?",
+        "audio": "/mp3/157/14.mp3",
+        "options": [
+            "La mission est sans intérêt.",
+            "La société est loin de chez lui.",
+            "Le contrat est temporaire.",
+            "Le salaire est insuffisant."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 15,
+        "testId": 157,
+        "text": "— Qu'est-ce qui t'arrive ? Tu as l'air triste.\n\n— David ne m'a pas téléphoné pour mon anniversaire. J'ai attendu son appel toute la journée. Oh, il va peut-être le faire ce soir. Ne t'inquiète pas.\n\nQu'arrive-t-il à la femme?",
+        "audio": "/mp3/157/15.mp3",
+        "options": [
+            "Elle a cessé son téléphone.",
+            "Elle a raté un appel important.",
+            "Elle n’a pas été invitée à un anniversaire.",
+            "Elle n’a pas eu l’appel espéré."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 16,
+        "testId": 157,
+        "text": "— Tiens, Julie, qu'est-ce que tu fais là ?\n\n— Je viens pour le test de biologie.\n\n— Tu ne sais pas qu'il a été annulé ?\n\n— Non, j'étais absente au dernier cours. Pourquoi ce changement ?\n\n— À cause de la grippe. Il y a eu beaucoup d'absents cette semaine. Le prof préfère le faire dans deux semaines. Mais puisque tu es là, accompagne-moi en salle B14. Il y a une conférence intéressante.\n\nQu'apprend-on à propos du test de Julie ?",
+        "audio": "/mp3/157/16.mp3",
+        "options": [
+            "Il aura lieu plus tard dans le semestre.",
+            "Il évaluera le chapitre des maladies.",
+            "Il se fera dans le grand amphithéâtre.",
+            "Il sera corrigé par un enseignant extérieur."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 17,
+        "testId": 157,
+        "text": "— Alors ? C'est toujours OK ? On part à Londres ce week-end en Eurostar ?\n\n— Oui, mais en voiture. Comme ça, on pourra s'arrêter dans le sud de l'Angleterre. Je ne connais pas.\n\n— Attends, tu rigoles ! On n'a qu'un week-end. En train, ça va, mais...\n\n— Londres et ses alentours. En voiture, c'est plus facile, non ?\n\n— Mais non, pas pour visiter les musées de Londres, non !\n\n— Eh bien, on n'y va pas ce week-end, mais quand on aura un pont. Parce que moi, les musées... Qu'en dis-tu ?\n\n— Tu gagnes toujours.\n\nQu'est-ce qui dérange le jeune homme ?",
+        "audio": "/mp3/157/17.mp3",
+        "options": [
+            "Devoir annuler son voyage.",
+            "Devoir visiter les musées.",
+            "Devoir écourter leur séjour.",
+            "Devoir partir en voiture."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 18,
+        "testId": 157,
+        "text": "— Est-ce que tu achètes des vêtements sur Internet?\n\n— Oui, souvent. Les prix sont vraiment intéressants.\n\n— Moi, j'ai eu une mauvaise expérience l'autre jour. J'ai commandé un pantalon, mais ils ont fait une erreur. Et ils m'ont envoyé un modèle complètement différent. J'ai réussi à le rendre, mais c'était compliqué. Finalement, je préfère les boutiques. Au moins, on sait ce qu'on achète.\n\n— Tu n'as pas eu de chance.\n\nQu'est-ce qui déplaît à la jeune femme dans les achats en ligne?",
+        "audio": "/mp3/157/18.mp3",
+        "options": [
+            "Le prix élevé des produits.",
+            "Les délais pour être livrée.",
+            "Les difficultés en cas d’échange.",
+            "Les tailles de vêtements différentes."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 19,
+        "testId": 157,
+        "text": "— On dit souvent qu'à Londres, on peut changer de job quasiment comme de chemise. Est-ce que c'est toujours vrai?\n\n— Il est toujours facile de passer d'un job à l'autre. Le diplôme a beaucoup moins d'importance. On va surtout regarder les postes que vous avez déjà occupés. On va aussi tenir compte de vos motivations. C'est vrai qu'on vous donne aussi la possibilité d'augmenter assez… enfin… comment dire… de franchir les étapes beaucoup plus rapidement. On retrouve assez régulièrement des personnes vers 22-23 ans et déjà managers, tandis qu'en France, c'est quand même un petit peu plus compliqué.\n\nQue dit cette intervenante au sujet du travail à Londres ?",
+        "audio": "/mp3/157/19.mp3",
+        "options": [
+            "Le recrutement se fonde sur l’expérience.",
+            "Les salaires à l’embauche sont très élevés.",
+            "L’évolution professionnelle est très lente.",
+            "L’obtention d’un premier emploi est aisée."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 20,
+        "testId": 157,
+        "text":"— Quel froid ce matin!\n\n— Oui, mais au moins, il y a du soleil.\n\n— C'est sûr, à côté d'hier, la pluie toute la journée, c'était l'horreur.\n\n— Ah oui, j'aime mieux ce froid sec.\n\nQuel temps fait-il aujourd'hui?",
+        "audio": "/mp3/157/20.mp3",
+        "options": [
+            "Il fait plus beau qu’hier.",
+            "Il fait plus mauvais qu’hier.",
+            "Il pleut plus qu’hier.",
+            "Il y a moins de soleil qu’hier."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 21,
+        "testId": 157,
+        "text": "— Tu as entendu les informations? Il paraît que le maire veut faire construire une autoroute qui passe par la réserve naturelle de la région.\n\n— Ah bon? Et il va vraiment le faire?\n\n— Pour l'instant, il est obligé d'affronter les écologistes et même l'Union Européenne.\n\nQue se passe-t-il dans la région?",
+        "audio": "/mp3/157/21.mp3",
+        "options": [
+            "Des habitants ont voté pour un maire écologiste.",
+            "Les écologistes refusent la construction d’une autoroute.",
+            "L’Union européenne veut faire construire une autoroute.",
+            "Un maire propose d’ouvrir une réserve naturelle."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 22,
+        "testId": 157,
+        "text": "— Voici l'initiative originale d'une société spécialisée dans les cours de bricolage et qui accueille les femmes jeunes ou moins jeunes, mariées, divorcées, célibataires, étudiantes ou même retraitées. Celles qui s'inscrivent n'ont qu'un désir, ne plus se sentir démunies face à une chasse d'eau qui fuit. Marie-Hélène a assisté au cours du samedi matin, le B.A.B. de la plomberie.\n\n— Le plus dur au départ, c'est le vocabulaire.\n\n— Téflon, joint, siphon, une langue étrangère pour Marie-Hélène qui nous explique sa motivation.\n\n— Pour être plus indépendante et savoir changer un joint, éventuellement des robinets.\n\n— Est-ce que c'est rassurant qu'il n'y ait que des femmes?\n\n— Peut-être. Parce qu'on se dit que les hommes risqueraient de se moquer de nous. C'est plus, oui, rassurant.\n\nPour quelles raisons Marie-Hélène fréquente-t-elle les cours de bricolage?",
+        "audio": "/mp3/157/22.mp3",
+        "options": [
+            "Pour apprendre les termes spécifiques de la plomberie.",
+            "Pour économiser les frais d’un dépannage par un artisan.",
+            "Pour être autonome face aux petits travaux de la maison.",
+            "Pour rencontrer d’autres femmes ayant la même passion."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 23,
+        "testId": 157,
+        "text": "Bonjour, ravi de vous retrouver dans Grand Bien Vous Fasse. La pauvreté dans le monde recule, la démocratie avance, la couche d'ozone se reconstitue, ou encore le monde n'a jamais connu aussi peu de violence. Ce matin, nous recevons un rameur à contre-courant de certaines idées reçues. Le spécialiste en psychologie positive, Jacques Lecomte, nous donne à voir ce matin une humanité en progrès. En s'appuyant sur une série de chiffres, de statistiques et de rapports internationaux fiables, Jacques Lecomte nous invite à regarder notre monde avec un optimisme réaliste. Il appelle ça l'optiréalisme, loin des discours catastrophistes des prophètes de malheur. Que propose cette émission ?",
+        "audio": "/mp3/157/23.mp3",
+        "options": [
+            "Un point de vue sur la situation mondiale aujourd’hui.",
+            "Une analyse de l’actualité économique dans le monde.",
+            "Une critique des conséquences de la mondialisation.",
+            "Une réflexion sur les relations politiques mondiales."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 24,
+        "testId": 157,
+        "text": "— Alors Sarah, comment se passe la vie en colocation?\n\n— Ah écoute, tu sais, une seule douche pour 4, ça n'est vraiment pas commode, surtout le matin. Mais bon, on s'organiser un peu, c'est tout.\n\n— Ah, c'est toujours mieux que la chambre de bonne que tu avais avant, non?\n\n— T'as raison, 9 mètres carrés pour 750 euros, c'est exagéré, même avec une vue sur la tour Eiffel. Au moins maintenant, le loyer est divisé par 4.\n\n— Et pour les courses, vous faites aussi caisse commune?\n\n— Ah non, là c'est chacun pour soi. C'est aussi bien d'ailleurs, sinon le frigo serait toujours vide.\n\nQu'est-ce que Sarah regrette?",
+        "audio": "/mp3/157/24.mp3",
+        "options": [
+            "De disposer d’une petite surface.",
+            "De partager sa salle de bain.",
+            "De payer un loyer excessif.",
+            "De prendre ses repas seule."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 25,
+        "testId": 157,
+        "text": "— En Allemagne, Cattel a profité d'études peu coûteuses, mais aussi découvert un rapport aux études supérieures complètement décomplexées par rapport à ceux qu'on connaît en France.\n\n— Contrairement à la France où on est vraiment dans un programme prédéfini avec une option fortement recommandée, donc on n'a pas vraiment le choix. Là, j'ai pu choisir mes matières. J'ai pris des cours sur la presse, sur Napoléon, sur...\n\n— Napoléon, c'est original ça.\n\n— Oui, Napoléon, c'est marrant de voir la vision. Par exemple, eux, ils disent pas la défaite de Waterloo mais la victoire de Waterloo.\n\nPourquoi Cattel a-t-elle apprécié ses études en Allemagne ?",
+        "audio": "/mp3/157/25.mp3",
+        "options": [
+            "Elle a changé de cursus universitaire.",
+            "Elle a rencontré des gens étonnants.",
+            "Elle a suivi des enseignements variés.",
+            "Elle a trouvé le niveau des cours facile."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 26,
+        "testId": 157,
+        "text": "— Oui, élu récemment par le magazine Business Week parmi les 25 personnes les plus influentes du web, Loïc Lemaire, qui vit désormais à San Francisco en Californie, au cœur de la Silicon Valley. C'est là qu'il a créé sa nouvelle société, Seesmic, qui n'est pas un coup d'essai. Ce diplômé de l'école des hautes études commerciales de Paris est devenu au fil du temps un serial entrepreneur. Loïc Lemaire.\n\n— Mon père était entrepreneur et mon grand-père aussi. J'étais commerçant. J'ai jamais eu vraiment envie de travailler pour qui que ce soit d'autre que moi, y compris peu importe la taille en fait de ce que je faisais. Je pense que je serais volontiers indépendant. J'ai toujours voulu créer ma propre entreprise dans l'Internet. Donc, c'est les deux passions que j'ai toujours.\n\nQue veut Loïc Lemaire ?",
+        "audio": "/mp3/157/26.mp3",
+        "options": [
+            "Avoir la liberté d’être son propre patron.",
+            "Innover dans le domaine informatique.",
+            "Mener un projet aux États-Unis.",
+            "Mieux réussir que ses parents."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 27,
+        "testId": 157,
+        "text": "— Et si les enfants ne mangent pas assez de fruits et légumes, c'est peut-être parce qu'ils n'aiment pas ça.\n\n— En fait, les enfants mangent principalement par plaisir et c'est une fonction que ne remplissent pas les fruits et légumes. Certes, tout le monde est d'accord pour dire que c'est bon à la santé, que c'est nécessaire, que c'est souvent contraignant à préparer, que cela ne remplit pas l'estomac, voire que ce n'est pas bon. Mais on trouve rarement la notion de plaisir associée aux fruits et légumes.\n\nDe quoi est-il question ?",
+        "audio": "/mp3/157/27.mp3",
+        "options": [
+            "Des besoins énergétiques des jeunes.",
+            "Des bons réflexes pour les repas.",
+            "Des comportements alimentaires.",
+            "Des conseils de préparation culinaire."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 28,
+        "testId": 157,
+        "text":"— Quand un Français s'aperçoit que ses compétences ne sont pas en adéquation avec le marché du travail québécois, il commet généralement la même erreur. Plutôt que d'aller chercher une autre expérience en se disant « Ce n'est pas grave, je vais peut-être obtenir un poste avec moins de responsabilités, mais je vais chercher à développer de nouvelles compétences en occupant un nouvel emploi dans un secteur différent », il essaie de retourner à l'université et refait un certificat.\n\n— Hum, que conseillez-vous alors?\n\n— En tant qu'enseignant à l'université, je lui dis, « Tu pourrais trouver un emploi demain matin si tu misais sur le développement de tes compétences plutôt que sur ton bout de papier ».\n\nQue recommande cette universitaire pour trouver un travail au Québec?",
+        "audio": "/mp3/157/28.mp3",
+        "options": [
+            "De devenir entrepreneur en créant son entreprise.",
+            "De s’informer sur les secteurs porteurs d’emplois.",
+            "De suivre une formation diplômante à l’université.",
+            "D’élargir sa recherche d’emploi à d’autres domaines."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 29,
+        "testId": 157,
+        "text": "— M. Rinon, vous êtes architecte et vous allez nous présenter une avenue à Paris datant de la fin du 19e siècle. La façade haussmannienne est-elle toujours en pierre ?\n\n— Oui, c'était une obligation qui figurait dans l'acte de vente. C'était la manière finalement dont Haussmann légiférait puisqu'il n'y avait pas de loi.\n\n— Pourquoi ? Le permis de construire n'existait pas ?\n\n— Le permis de construire en effet viendra plus tard.\n\n— Donc on leur disait simplement, vous devez utiliser de la pierre pour les façades ?\n\n— C'est ça. Quand les propriétaires achetaient le terrain pour construire, on leur imposait une pierre de taille. Dans les belles avenues comme celle de l'Opéra, on indiquait aussi que les lignes devaient filer, pour donner une certaine harmonie, une certaine homogénéité, une certaine monotonie pour ceux qui n'apprécient pas cette esthétique. L'idée d'Haussmann, c'était qu'à partir du moment où on construisait un immeuble dans une avenue, les immeubles suivants devaient le prendre comme modèle.\n\nQuels principes retrouve-t-on dans l'architecture haussmannienne ?",
+        "audio": "/mp3/157/29.mp3",
+        "options": [
+            "L’absence d’éléments ornementaux.",
+            "La limitation du nombre d’étages.",
+            "Le respect d’obligations légales.",
+            "L’utilisation d’un matériau unique."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 30,
+        "testId": 157,
+        "text": "[colis.com](), toujours à votre service. Nous acheminons chaque jour plus de 75 millions de plis. Si, malgré tous nos efforts, un envoi n'est pas parvenu à son destinataire, des professionnels sont à votre disposition pour réaliser les recherches nécessaires et s'engagent à vous tenir informés dans les plus brefs délais. Pour ce faire, connectez-vous à notre site [www.colis.com]() ou appelez le 08-67-35-35-35. Nous serons toujours à votre écoute. À quel type d'entreprise appartient ce service? Sous-titrage Société Radio-Canada",
+        "audio": "/mp3/157/30.mp3",
+        "options": [
+            "Un groupe de centres d’appels téléphoniques.",
+            "Un service de livraison express du courrier.",
+            "Un spécialiste de la création de sites Internet.",
+            "Un fournisseur pour la restauration à domicile."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 31,
+        "testId": 157,
+        "text": "Je suis un marcheur, et mes vacances se passent à marcher parce que ça me permet de réfléchir. Que le rythme de la marche est musical pour les oreilles, éblouissant pour les paysages, et que les médecins m'ont démontré que l'activité musculaire permettait d'éviter des fractures des os importants, et que la vieillesse doit marcher. Je ne marche pas n'importe où, je marche sur des sentiers de grande randonnée, et j'y ai souvent fait des rencontres vraiment merveilleuses. On y rencontre à la fois le paysage, les autres, mais on se rencontre aussi soi-même. Comment la personne considère-t-elle la marche?",
+        "audio": "/mp3/157/31.mp3",
+        "options": [
+            "C’est un temps de découverte et l’humanité.",
+            "C’est une occasion de dépenser son énergie.",
+            "C’est une opportunité d’apprécier la solitude.",
+            "C’est une possibilité quotidienne d’évasion."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 32,
+        "testId": 157,
+        "text": "— Les chiffres parlent d'eux-mêmes. Selon une étude internationale, près de la moitié des 300 plus grandes coopératives de la planète ont 70 ans et plus elles créent souvent davantage d'emplois et font faillite moins souvent que les entreprises capitalistes classiques. Monique Leroux.\n\n— De façon générale, on constate que les entreprises coopératives sont plus résilientes. Leur prise de risque, globalement, qu'elle soit petite, moyenne ou grande, se fait d'une façon généralement plus prudente, en grande partie grâce à la gouvernance démocratique, avec un grand nombre de personnes qui, très souvent, participent et contribuent à la prise de décision.\n\nComment Monique Leroux explique-t-elle le succès des entreprises coopératives?",
+        "audio": "/mp3/157/32.mp3",
+        "options": [
+            "Elles appuient leur gestion sur la concertation.",
+            "Elles garantissent des évolutions de carrière.",
+            "Elles œuvrent dans des secteurs traditionnels.",
+            "Elles s’engagent dans des projets audacieux."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 33,
+        "testId": 157,
+        "text": "C'est au cours de cette réunion internationale qu'un premier accord a été trouvé, in extremis, entre les deux pays, et de nouvelles négociations commencent aujourd'hui, mais sur le front, rien n'est encore fait. En effet, il aura fallu deux jours de négociations marathons pour parvenir à accoucher de ce document conjoint. Cela marque donc le début d'un processus, mais il faut rester prudent car c'est maintenant que les choses démarrent réellement. Alors, amorce d'un processus de paix ou conférence symbolique? La secrétaire d'État a d'ailleurs précisé hier soir que l'échec n'était pas une option. En fait, on n'est pas encore rentré dans le vif du sujet. Beaucoup de points n'ont pas encore été abordés et n'ont pas été détaillés dans le document conjoint car les deux parties n'ont pas réussi à se mettre d'accord sur la formulation. Pourquoi la journaliste reste-t-elle prudente?",
+        "audio": "/mp3/157/33.mp3",
+        "options": [
+            "La conférence qui a eu lieu est uniquement symbolique.",
+            "La secrétaire d’État a fait part de son pessimisme.",
+            "Les discussions s’annoncent longues et difficiles.",
+            "Tous les points de l’accord ont déjà été traités sans succès."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 34,
+        "testId": 157,
+        "text": "— Les constructeurs automobiles préparent leur modèle écologique pour profiter de ce nouveau marché. Où en est-on au niveau de la pollution ?\n\n— Si on regarde la moyenne des émissions des véhicules vendus en France, ça va dans le bon sens grâce à une série de mesures législatives. On voit apparaître des véhicules de moins en moins polluants dont l'émission est inférieure à 140 grammes. Malheureusement, ça ne résout pas le problème du développement de la civilisation automobile. Si le taux d'équipement augmente à l'échelle mondiale, on se retrouve face à une catastrophe écologique considérable. Il faut donc nous affranchir de ce modèle de civilisation qui repose sur le transport individuel.\n\nQue propose cette spécialiste pour éviter une catastrophe écologique?",
+        "audio": "/mp3/157/34.mp3",
+        "options": [
+            "Durcir les normes appliquées à la fabrication de voitures.",
+            "Inciter les usagers à pratiquer d’autres modes de déplacement.",
+            "Pousser les industriels à employer des technologies innovantes.",
+            "Rendre obligatoire l’utilisation de carburants propres."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 35,
+        "testId": 157,
+        "text": "C'est une idée originale et réussie qu'a eu un philosophe, créer l'école de la vie. L'endroit est accueillant, rempli de livres, de fleurs, on peut y boire et manger. Cette librairie a pour objectif d'aider les gens avec leurs problèmes de tous les jours en apportant de nouvelles pistes de réflexion. On y vient au petit déjeuner ou le week-end pour des ateliers, on y pratique aussi des consultations littéraires, d'où l'on repart avec une ordonnance de livres. Quel est le concept de cette librairie ?",
+        "audio": "/mp3/157/35.mp3",
+        "options": [
+            "Animer des ateliers d’écriture thématiques.",
+            "Faire connaître de jeunes philosophes talentueux.",
+            "Organiser des lectures pendant les repas de midi.",
+            "Trouver des solutions aux difficultés quotidiennes."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 36,
+        "testId": 157,
+        "text": "Je crois qu'on peut effectivement donner à la critique cette tâche de tri dans, effectivement, la masse d'ouvrages qui paraissent, donc, donner une chance à un livre, alors que peut-être, selon cette logique du marché, il passerait sans doute inaperçu. C'est contrer, je le dis très modestement, dans une très faible mesure, cette logique du marché. D'ailleurs, la logique du marché ne produit pas forcément des choses absolument nulles. Mais, en revanche, si on ne parlait pas, dans certains quotidiens, de livres un peu plus difficiles, eh bien, ce serait effectivement la mort pour toutes les sciences humaines et la philosophie. Selon cette personne, quel est le rôle de la critique littéraire?",
+        "audio": "/mp3/157/36.mp3",
+        "options": [
+            "Favoriser la visibilité des ouvrages peu accessibles.",
+            "Intervenir dans le choix des publications à venir.",
+            "Modifier notre regard sur les livres « grand public ».",
+            "Soutenir les petits éditeurs et leurs parutions."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 37,
+        "testId": 157,
+        "text": "Camille Claudel restera pour la postérité une élève de Rodin. Elle est exposée dans le musée Auguste Rodin. Elle est connue comme telle. Elle a beaucoup reçu de Rodin, mais elle s'en est servie pour créer une œuvre totalement différente. On connaît évidemment la fameuse phrase « Je lui ai montré où trouver de l'or, mais l'or qu'elle trouvait bien à elle ». C'est très flagrant quand on compare plusieurs  œuvres. À côté du Penseur, qui est, c'est vrai, d'une puissance ramassée, tout en muscle et qui dégage une force presque brute, l'Homme penché, lui, est construit comme presque un arbre dont on voit les nervures, dont on saisit les muscles, les nerfs, l'attitude, et presque plus la pensée que chez le Penseur. Sur quoi porte l'intervention ?",
+        "audio": "/mp3/157/37.mp3",
+        "options": [
+            "La relation liant Camille Claudel et Rodin.",
+            "La richesse du musée Auguste Rodin.",
+            "Les difficultés rencontrées par Rodin.",
+            "Les sources d’inspiration de Rodin."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 38,
+        "testId": 157,
+        "text": "Les pays européens sont presque tous d'excellents élèves de l'écologie. Mais c'est une bonne nouvelle ? S'interroge le Figaro. Pas si sûr. L'Europe, dit Gérard Dupuy dans Libération, ne paraît vertueuse que parce que son double décimètre était truqué. Les quotas de rejet de CO2, fixés à l'avance, ont été calculés de manière à ne pas trop effaroucher les industriels. Du coup, ils ne servaient à rien. Mais, reconnaît Gérard Dupuy, il serait tout aussi erroné, à l'inverse, d'avoir des exigences drastiques mais irréalistes. Les industriels savent d'ailleurs agiter un épouvantail efficace. La méthode la plus simple pour arriver à une absence complète de pollution, c'est de fermer une usine et de la délocaliser sous d'autres cieux. Ce n'est pas toujours une menace en l'air. D'après le journaliste, en quoi les bons résultats européens en matière d'écologie sont-ils contestables ?",
+        "audio": "/mp3/157/38.mp3",
+        "options": [
+            "Ils font l’objet de manipulations douteuses par les pollueurs.",
+            "Ils répondent à des critères insuffisamment exigeants.",
+            "Ils sont destinés à justifier les politiques économiques.",
+            "Ils sont publiés par des organismes liés aux entreprises."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 39,
+        "testId": 157,
+        "text": "Est-ce qu'on peut ne pas aimer un film quand on a une comédienne aussi extraordinaire que Karine Viard ? J'aime aussi beaucoup cette comédienne qui joue sa mère. Karine Viard est tellement extraordinaire que, effectivement, dans les scènes de radio, par exemple, elle est formidable. Elle est formidable tout le temps, à chaque séquence. Et en même temps, je trouve que le film s'effiloche. Cette histoire de recherche de la mère, vraiment, j'ai pas été très passionné. C'est dommage parce que Pinault avait fait des courts-métrages de grande qualité. Je trouve qu'on retrouve pas dans son non-métrage l'originalité qu'il y avait dans les courts-métrages. Là, on est vraiment dans une histoire, encore une fois, d'une sorte de réalisme à la française. Elle va retrouver la famille, les scènes de banlieue et tout ça. On est dans une sorte de naturalisme, un peu... un peu vraiment sans relief. Pourquoi le locuteur nuance-t-il son appréciation du film ?",
+        "audio": "/mp3/157/39.mp3",
+        "options": [
+            "La réalisation est trop extravagante.",
+            "L’actrice principale est omniprésente.",
+            "Le montage manque de cohérence.",
+            "Le scénario manque de singularité."
+        ],
+        "answer": 3
+    }
+]
