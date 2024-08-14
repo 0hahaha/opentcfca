@@ -1,0 +1,513 @@
+[
+    {
+        "id": 1,
+        "testId": 162,
+        "text": "A. Bienvenue à Paris-Agora.\n\nB. 200 euros, s'il vous plaît.\n\nC. Il est 20h30.\n\nD. Il vient du Japon.",
+        "audio": "/mp3/162/1.mp3",
+        "img": "/mp3/162/1.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 2,
+        "testId": 162,
+        "text": "A. Tu aimes le bœuf à la québécoise?\n\nB. Tu connais l'heure du prochain film?\n\nC. Tu sais où est la station de métro?\n\nD. Tu vois où j'habite sur ce plan?",
+        "audio": "/mp3/162/2.mp3",
+        "img": "/mp3/162/2.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 3,
+        "testId": 162,
+        "text": "A. C'est au troisième étage.\n\nB. Entreprise LAPEX, bonjour.\n\nC. La cafétéria est derrière vous.\n\nD. Voici votre badge, monsieur.",
+        "audio": "/mp3/162/3.mp3",
+        "img": "/mp3/162/3.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 4,
+        "testId": 162,
+        "text": "A. Deux baguettes, s'il vous plaît.\n\nB. Cette boutique est magnifique.\n\nC. J'adore toutes ces chaussures.\n\nD. Ouah, j'achète cette veste.",
+        "audio": "/mp3/162/4.mp3",
+        "img": "/mp3/162/4.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 5,
+        "testId": 162,
+        "text": "Vous pouvez fermer la porte, s'il vous plaît?\n\nA. Bien sûr.\n\nB. C'est vrai.\n\nC. Très souvent.\n\nD. Merci bien.",
+        "audio": "/mp3/162/5.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 6,
+        "testId": 162,
+        "text": "Tu viens au cinéma avec moi ?\n\nA. Bonne journée, à ce soir.\n\nB. C'est une bonne idée.\n\nC. Merci de ta visite.\n\nD. Oui, ça va bien.",
+        "audio": "/mp3/162/6.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 7,
+        "testId": 162,
+        "text": "Salut Juliette ! Demain soir, nous allons manger au restaurant avec des amis. Tu veux venir ?\n\nA. Désolé, je ne suis pas libre.\n\nB. Non, merci, j'ai déjà mangé.\n\nC. Non, j'ai un rendez-vous pour le déjeuner.\n\nD. Pardon, je n'ai pas très faim aujourd'hui.",
+        "audio": "/mp3/162/7.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 8,
+        "testId": 162,
+        "text": "Quentin va bientôt passer ses examens de médecine. Est-ce qu'il travaille plus que l'année dernière?\n\nA. Oui, il a de mauvaises notes.\n\nB. Oui, il refuse d'aller en cours.\n\nC. Oui, il révise tous les jours.\n\nD. Oui, il s'est inscrit à l'université.",
+        "audio": "/mp3/162/8.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 9,
+        "testId": 162,
+        "text": "— Je pars au stade faire un peu de sport. Et toi, qu'est-ce que tu fais cet après-midi?\n\n— J'emmène les enfants à une exposition sur les jouets. Tu crois qu'ils vont aimer ?\n\nA. Bien sûr, voilà une bonne sortie culturelle.\n\nB. Certainement, ils adorent faire les magasins.\n\nC. D'accord, n'oublie pas leur maillot de bain.\n\nD. Probablement, au parc, ils pourront courir un peu.",
+        "audio": "/mp3/162/9.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 10,
+        "testId": 162,
+        "text": "— Allô?\n\n— Oui, bonjour. Je vous appelle pour votre petite annonce. Est-ce que votre voiture est toujours à vendre?\n\n— Eh ben oui, mais vous avez compris qu'elle ne démarre pas.\n\n— Oui, ça j'ai compris. Vous voulez la vendre 800 euros?\n\n— La réparation coûte 300 euros, alors j'ai décidé de la laisser à 500 euros.\n\n— À ce prix-là, c'est une bonne affaire.\n\nQuel est le problème avec la voiture?",
+        "audio": "/mp3/162/10.mp3",
+        "options": [
+            "Elle est déjà vendue.",
+            "Elle est en panne.",
+            "Elle est irréparable.",
+            "Elle est trop chère."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 11,
+        "testId": 162,
+        "text": "— Ça ne va pas? Tu es malade?\n\n— Non, mais mon mari vient de réserver un appartement à la montagne pour 15 jours. Au programme, randonnée, vélo et escalade.\n\n— C'est génial!\n\n— C'est affreux, tu veux dire. Moi, je rêvais de deux semaines de repos et de lecture.\n\nDe quoi discutent les deux femmes?",
+        "audio": "/mp3/162/11.mp3",
+        "options": [
+            "D’un prochain déménagement.",
+            "De sport pour le week-end.",
+            "De vacances en famille.",
+            "D’un problème de santé."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 12,
+        "testId": 162,
+        "text": "Bonjour. Votre professeur de mathématiques a téléphoné. Il a un problème personnel et ne viendra pas aujourd'hui. Il sera là pour votre prochain cours vendredi après-midi de 14h30 à 17h30. Je reste avec vous dans la salle jusqu'à 10h. Faites ce que vous voulez, mais en silence. Qu'apprennent les élèves de cette classe?",
+        "audio": "/mp3/162/12.mp3",
+        "options": [
+            "L’annulation d’un cours.",
+            "Le retard d’un professeur.",
+            "Les horaires d’un examen.",
+            "Un changement de salle."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 13,
+        "testId": 162,
+        "text": "— Alors Marie, prête pour le départ ?\n\n— Oui. Tu as le guide touristique de Vienne ? Tu pourrais visiter la ville et goûter les spécialités locales ?\n\n— Oh, je ne sais pas. Je serai occupée du matin au soir par les réunions et des rendez-vous avec des clients.\n\n— Ah, et tu vas voir tes amis autrichiens ?\n\n— Non, pas cette fois.\n\nQu'est-ce que Marie va faire à Vienne ?",
+        "audio": "/mp3/162/13.mp3",
+        "options": [
+            "Manger des plats typiques.",
+            "Rencontrer sa famille.",
+            "Travailler toute la journée.",
+            "Voir une exposition."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 14,
+        "testId": 162,
+        "text": "— Où pars-tu en vacances cet été ?\n\n— Sûrement dans le sud. J'aime la pêche et mes amis de Marseille m'ont proposé leur appartement.\n\n— Moi, je supporte très mal l'effort de chaleur. Ça me rend malade.\n\n— Dommage. Tu aurais pu venir avec moi. Il y a de la place chez mes amis.\n\n— Et si c'était toi qui venais avec moi en Irlande ? C'est beau l'Irlande. Là-bas aussi on peut pêcher.\n\n— Oui tiens, c'est une idée. Je ne connais pas du tout ce pays. Pourquoi pas ?\n\nQue décident de faire les deux amis pour leurs vacances ?",
+        "audio": "/mp3/162/14.mp3",
+        "options": [
+            "De visiter le sud de la France.",
+            "De partir ensemble à l’étranger.",
+            "De partir chacun de leur côté.",
+            "D’aller pêcher avec d’autres amis."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 15,
+        "testId": 162,
+        "text": "— Excusez-moi, je cherche le bureau de Mme Fournier, s'il vous plaît.\n\n— Oui, c'est juste au-dessus. Prenez l'escalier sur votre gauche et, en haut, poussez la porte. C'est le bureau 123.\n\nQue doit faire cette personne?",
+        "audio": "/mp3/162/15.mp3",
+        "options": [
+            "Continuer jusqu’au hall.",
+            "Descendre avec l’ascenseur.",
+            "Monter d’un étage.",
+            "Prendre le couloir à droite."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 16,
+        "testId": 162,
+        "text": "— Sophie rentre à l'hôpital demain. Tu sais pourquoi ?\n\n— Non, pas exactement. Je crois que ce n'est pas très grave, mais on passera la voir. Tu sais où c'est, toi ?\n\n— Oui, oui. Dans cet hôpital, je vais donner mon sang. Mais ma voiture est en réparation. J'ai eu un petit accident la semaine dernière. Tu pourrais m'y emmener ?\n\n— D'accord. On ira ensemble samedi après-midi.\n\nPourquoi les deux amis veulent-elles aller à l'hôpital ?",
+        "audio": "/mp3/162/16.mp3",
+        "options": [
+            "Une de leurs amies est gravement malade.",
+            "Elles vont rendre visite à une amie.",
+            "L’une d’elles doit faire des examens.",
+            "L’une d’elles vient d’avoir un accident."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 17,
+        "testId": 162,
+        "text": "— Tiens, salut Agnès, comment vas-tu ?\n\n— Oh, très très bien. Je viens d'apprendre que j'ai gagné un séjour en Grèce.\n\n— Oh, quelle chance ! Comment as-tu fait ?\n\n— Eh bien, j'ai rempli un questionnaire sur le site internet d'une agence de voyage. Il y a eu un tirage au sort et j'ai été sélectionnée parmi mille personnes.\n\n— Tu pars seule ? Non, avec Thierry bien sûr. Ça nous rappellera notre voyage de noces.\n\n— Alors profitez-en bien. On se voit à ton retour.\n\nQu'est-ce que la femme annonce à son amie ?",
+        "audio": "/mp3/162/17.mp3",
+        "options": [
+            "Elle part en vacances en Grèce.",
+            "Elle part en lune de miel en Grèce.",
+            "Elle revient d’un court séjour en Grèce.",
+            "Elle vient d’obtenir un emploi en Grèce."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 18,
+        "testId": 162,
+        "text": "— Bonjour, je voudrais déposer une demande de passeport.\n\n— Avez-vous pris un rendez-vous ?\n\n— Oui, j'ai rendez-vous à 11h30, mais je suis vraiment pressée. Serait-il possible d'être reçu maintenant ?\n\n— Non. On ne pourra pas vous recevoir avant l'heure prévue, tous nos guichets sont occupés.\n\n— Mais j'ai vraiment une course urgente à faire, on peut décaler le rendez-vous ?\n\n— J'ai une place à midi moins le quart, ça vous va ?\n\n— Parfait, ça m'arrange vraiment. À tout à l'heure.\n\nQu'est-ce que cette femme a décidé de faire ?",
+        "audio": "/mp3/162/18.mp3",
+        "options": [
+            "Attendre son tour dans le bureau.",
+            "Déposer son dossier sans attendre.",
+            "Prendre rendez-vous pour le lendemain.",
+            "Revenir plus tard dans la journée."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 19,
+        "testId": 162,
+        "text": "— Pardon monsieur, ça fait 20 minutes que j'attends. Il n'y a qu'un guichet ouvert ?\n\n— Oui, mais vous pouvez acheter des timbres à la machine si c'est juste pour poster votre courrier.\n\n— Oui, mais je n'ai pas de monnaie.\n\n— Ce n'est pas grave, la machine prend les billets de 5 et 10 euros.\n\nQue veut faire le client?",
+        "audio": "/mp3/162/19.mp3",
+        "options": [
+            "Acheter une enveloppe.",
+            "Changer de l’argent.",
+            "Envoyer une lettre.",
+            "Retirer un colis."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 20,
+        "testId": 162,
+        "text": "— Bonjour, je suis un client de l'Hôtel Royal et j'aimerais découvrir Montréal.\n\n— Le plus simple est de vous inscrire sur une des listes suivantes. Ce sont des itinéraires touristiques dans les différents quartiers. Vous avez le choix entre plusieurs thèmes, comme par exemple, histoire, architecture…\n\n— D'accord. J'écris donc mon nom et mon numéro de téléphone, c'est bien ça?\n\n— Oui. Vous pouvez aussi nous donner votre courriel.\n\n— Parfait. Je m'inscris donc au circuit gastronomie. À demain.\n\nQue souhaite ce touriste?",
+        "audio": "/mp3/162/20.mp3",
+        "options": [
+            "Acheter un guide.",
+            "Réserver une table.",
+            "Trouver une chambre.",
+            "Visiter une ville."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 21,
+        "testId": 162,
+        "text": "— Bonjour, c'est bien ici le bureau des relations internationales ?\n\n— Oui, c'est à quel sujet ?\n\n— Je suis en master. Je voudrais des informations sur les échanges internationaux proposés aux étudiants.\n\n— Demandez d'abord la liste des universités partenaires au secrétariat de votre département. Ici, nous nous occupons seulement du transfert de votre demande à l'étranger. Revenez quand le dossier sera complet et validé par le directeur de votre département.\n\nVers qui la femme dirige-t-elle l'étudiant ?",
+        "audio": "/mp3/162/21.mp3",
+        "options": [
+            "Le bureau des relations internationales.",
+            "Le directeur de son département.",
+            "Le secrétariat de son département.",
+            "L’université étrangère qui l’intéresse."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 22,
+        "testId": 162,
+        "text": "— Thé? Café? Trois cafés, les garçons? Julie, café aussi?\n\n— Euh, non, je préférerais un thé.\n\n— Nature? Citron? Bergamote?\n\n— Ce que tu veux, avec un peu de lait.\n\n— Trois cafés et deux thés au lait. Je n'en ai pas pour longtemps. Continuez à jouer. Distribuez sans moi.\n\nQue font les amis?",
+        "audio": "/mp3/162/22.mp3",
+        "options": [
+            "Ils dînent au restaurant.",
+            "Ils jouent aux cartes.",
+            "Ils révisent leurs leçons.",
+            "Ils préparent le repas."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 23,
+        "testId": 162,
+        "text": "— Est-ce que c'est toujours compatible ça, d'avoir beaucoup d'heures de sport comme ça et pouvoir concilier les études aussi?\n\n— Non, spontanément c'est pas toujours compatible et puis c'est un grand paradoxe qui s'installe d'entrée de jeu parce que on fait faire du sport à nos enfants pour développer des valeurs, des valeurs de rigueur, de saines habitudes de vie, de qualité de vie et puis on se retrouve à devoir composer avec des attitudes qui ne sont pas très très de grande qualité. On va faire manger les enfants dans la voiture en s'en allant à l'aréna, on va faire des devoirs 2-3 fois plus parce qu'on sait que tel ou tel jour on n'aura pas le temps de les faire. Donc, on fait plusieurs entorses à l'hygiène de vie parfois pour réussir à rencontrer les horaires.\n\nQu'est-ce qui inquiète cette mère de famille?",
+        "audio": "/mp3/162/23.mp3",
+        "options": [
+            "La fréquence des compétitions sportives.",
+            "Le contenu des programmes sportifs.",
+            "Les contraintes liées aux pratiques sportives.",
+            "L’insuffisance des résultats sportifs."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 24,
+        "testId": 162,
+        "text": "— Bonjour à tous. Aujourd'hui, nous recevons Philippe Bouchard, sociologue, qui publie «Les grands enfants, chez papa et maman». Bonjour, Philippe Bouchard. Dans votre livre, vous dites que les jeunes filles partent plus vite de chez elles que les garçons. Comment l'expliquez-vous ?\n\n— Elles sont plus précoces que les garçons. Elles sont plus mûres et entrent plus vite dans les conflits avec leurs parents.\n\n— Et qu'est-ce qui provoque ces conflits ?\n\n— Ils sont de toute nature, de l'habillement à l'argent de poche en passant par le programme télé. Elles ont plus de disputes avec leurs parents au sujet de leur petite amie et elles sont donc plus pressées de partir de la maison, de devenir plus indépendantes.\n\nPourquoi les filles partent-elles de la maison plutôt que les garçons ?",
+        "audio": "/mp3/162/24.mp3",
+        "options": [
+            "Elles entrent dans la vie active avant les jeunes garçons.",
+            "Elles se rebellent très vite face à l’autorité familiale au quotidien.",
+            "Elles sont en désaccord avec leurs parents au sujet de leurs études.",
+            "Elles sont mieux préparées aux tâches de tous les jours."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 25,
+        "testId": 162,
+        "text": "— CDV Formation, bonjour.\n\n— Bonjour. Je suis intéressé par votre formation en vente.\n\n— Oui ? Quel est votre parcours ?\n\n— Je suis déménageur depuis 4 ans. Je voudrais me réorienter.\n\n— Malheureusement, notre formation s'adresse à des personnes déjà expérimentées en vente.\n\n— Je vois. Mais j'y pense. J'ai travaillé deux étés comme caissier en supermarché. C'est suffisant ?\n\n— Envoyez-nous un CV et une lettre de motivation. Nous étudierons votre candidature.\n\n— Je m'en occupe. Merci. Au revoir.\n\n— Au revoir.\n\nPour quelles raisons la jeune femme accepte-t-elle de recevoir la candidature de ce monsieur ?",
+        "audio": "/mp3/162/25.mp3",
+        "options": [
+            "Il a quatre ans d’expérience.",
+            "Il a travaillé dans un commerce.",
+            "Il accepte de travailler l’été.",
+            "Il est très motivé par la formation."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 26,
+        "testId": 162,
+        "text": "C'était Gérard Pasquier qui avait fait un concours. J'avais gagné ce concours pour aller dans le Michigan faire des tests de prêt-à-porter. Donc, dans une belle Ford Mustang, j'ai... je crapahutais un peu partout. Je me suis pris un maximum de portes fermées. Puis à un moment j'ai trouvé quand même que dans la collection, au lieu d'avoir les 5 valises, il y avait 7-8 modèles qui se vendaient. Donc, j'ai fait ma petite valise avec les 7-8 modèles. J'ai trouvé les endroits où ça se vendait. C'était les boutiques qui étaient dans les universités. Parce qu'il y a des centres commerciaux dans les universités. Et là, je suis devenu un super vendeur de Gérard Pasquier dans les universités. Comment cet homme a-t-il développé ses ventes de prêt-à-porter avec succès ?",
+        "audio": "/mp3/162/26.mp3",
+        "options": [
+            "Il a créé un partenariat avec une marque de voiture.",
+            "Il a distribué gratuitement ses premiers modèles.",
+            "Il a engagé des mannequins pour présenter sa collection.",
+            "Il s’est d’abord fait connaître auprès des étudiants."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 27,
+        "testId": 162,
+        "text": "— Delphine Manseau, en tant que directrice de l'Institut pour l'innovation et la compétitivité, pensez-vous que tout le monde peut être innovant ?\n\n— On croit souvent que l'innovation survient par hasard et qu'il s'agit d'un don individuel. Mais être innovant et créatif, ça s'apprend.\n\n— Alors, comment rend-t-on un étudiant innovant, par exemple ?\n\n— Il faut différencier l'innovation individuelle et la capacité à être innovant collectivement. Nous avons donc mis en place des programmes pour apprendre aux jeunes à conduire des projets innovants dans le cadre d'équipes diversifiées. Comment favorise-t-on l'innovation chez les jeunes dans cet institut ?",
+        "audio": "/mp3/162/27.mp3",
+        "options": [
+            "En les incitant à travailler de manière collaborative.",
+            "En les poussant à prendre des risques importants.",
+            "En leur offrant des formations personnalisées.",
+            "En leur proposant de participer à des compétitions."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 28,
+        "testId": 162,
+        "text": "— Bonjour docteur, je voudrais faire de l'escalade et j'ai besoin de votre autorisation pour m'inscrire dans un club de sport.\n\n— De l'escalade, mais c'est très mauvais pour votre dos. Je vous conseille plutôt de faire de la natation.\n\n— La natation, ce n'est pas bon pour ma peau.\n\n— Et puis j'adore la montagne.\n\n— Eh bien, faites plutôt de la randonnée. Ah oui, la randonnée, c'est une idée. Ça peut m'aider à maigrir.\n\nQue doit faire le médecin ?",
+        "audio": "/mp3/162/28.mp3",
+        "options": [
+            "Conseiller des médicaments.",
+            "Établir un certificat médical.",
+            "Examiner une radiographie.",
+            "Traiter un problème de poids."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 29,
+        "testId": 162,
+        "text": "Au coup de sifflet, elles commencent à se rassembler, les femmes de Tienaba avec leurs outils et la ferme intention de barrer la route aux moustiques. Cela s'appelle une séance de nettoyage. El Hadji Diop, le président de l'association Sopem Mohamed, a de quoi être satisfait. De 3,459 cas de paludisme à Tienaba, il n'y en a aujourd'hui plus que 52. Les habitants se sont organisés en comité de salubrité chargés de mettre en place les séances de nettoyage, mais aussi les séances d'information dans les lieux publics. À force d'être sensibilisés, la population a pris l'habitude d'utiliser les moustiquaires imprégnés, des moustiquaires que certains s'offrent même désormais en cadeau de mariage ou lors d'une naissance. Le véritable succès de cette initiative est que toute la localité s'est mobilisée pour lutter contre le paludisme. Quel a été l'élément décisif dans la lutte contre le paludisme dans le village de Tienaba?",
+        "audio": "/mp3/162/29.mp3",
+        "options": [
+            "L’obligation d’acheter des moustiquaires.",
+            "La coopération avec les autorités publiques.",
+            "Le recensement des malades par l’association.",
+            "L’implication active de tous les habitants."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 30,
+        "testId": 162,
+        "text": "— Allô, Pierre? Ici Jacques. Je t'appelle pour te dire que pendant les vacances scolaires, je vais à Gaspé comme tous les ans. Ça t'intéresse de venir avec moi?\n\n— Écoute, à priori, y'a pas de problème. Il faut que je vérifie quand se déroule le festival du cinéma ici, mais sinon, oui.\n\n— D'abord, il faut que je te dise, cette année, j'y vais pas vraiment pour me balader. J'ai décidé de me trouver une petite maison. J'adore y aller et depuis le temps que j'y vais, il vaut mieux que je me décide à investir. En plus, j'ai beaucoup d'amis là-bas.\n\n— Je te préviens, mon petit Jacques. Moi, j'y vais pour me balader et visiter la région. Les agences immobilières, tu te débrouilleras sans moi, hein?\n\nPourquoi Jacques veut-il aller à Gaspé?",
+        "audio": "/mp3/162/30.mp3",
+        "options": [
+            "Pour mieux connaître la région.",
+            "Pour aller voir un festival.",
+            "Pour s’acheter une maison.",
+            "Pour rendre visite à un ami."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 31,
+        "testId": 162,
+        "text": "C'est un nouveau rendez-vous radiophonique que nous vous proposons ce soir sur notre chaîne internationale, avec notre émission consacrée à la chanson francophone. À travers la chanson, c'est surtout à la découverte de ces différents parlés – acadien, québécois, ivoirien, belge – qui donnent la couleur à notre langue française, que nous partirons ce soir avec bien sûr la rencontre aussi de voix, de musique, de chanteurs, de textes, de cultures, sans oublier pour terminer un petit tour au Festival des chorales francophones. Selon la présentatrice, quel est le but principal de cette émission?",
+        "audio": "/mp3/162/31.mp3",
+        "options": [
+            "Favoriser l’apprentissage de chansons françaises.",
+            "Montrer la variété de la langue française.",
+            "Promouvoir de nouveaux événements musicaux.",
+            "Faire le tour du monde des festivals francophones."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 32,
+        "testId": 162,
+        "text": "— Le seul mot d'ordre défendu par Anne-Marie Bonnisseau, professeure de physique-chimie au lycée autogéré de Paris, eh bien c'est « pas de pression ».\n\n— On a un certain nombre d'élèves qui arrivent ici après de très grandes pratiques d'absentéisme à l'école, de chahut, de même d'aller en cours mais d'attendre que ça se passe, de ne pas avoir appris grand-chose. Et le projet c'est qu'ils reprennent goût à la formation, qu'ils reprennent leur place dans un espace de formation. Donc on leur a laissé le temps de tâtonner, de chercher, de se perdre tout en sachant que nous on était là pour les soutenir et que c'était pas... qu'ils n'étaient pas perdus, ils étaient avec... avec une structure derrière eux pour peu à peu trouver ce qu'ils voulaient faire.\n\nQuel est le principe pédagogique mise en œuvre dans ce lycée?",
+        "audio": "/mp3/162/32.mp3",
+        "options": [
+            "Apprendre à l’élève à se maîtriser sans la présence de professeurs.",
+            "Imposer une progression précise à l’élève afin de l’aider à se structurer.",
+            "Laisser l’élève progresser à son rythme en l’accompagnant patiemment.",
+            "S’appuyer sur ce que l’élève a appris durant son parcours scolaire."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 33,
+        "testId": 162,
+        "text": "— Grand angle, et pourquoi pas un certificat médical pour permettre aux séniors de conduire au-delà de 70 ans. Au motif que, passés 75 ans, le taux de responsabilité présumé des séniors dans les accidents corporels augmenterait considérablement. Une proposition de loi sera débattue cet après-midi au Sénat. Reportage de Noureddine Zidane.\n\n— Même s'il a réduit son kilométrage par 10 depuis qu'il est retraité, Bernard estime toujours être un bon conducteur. Mais à 71 ans, cet ancien ingénieur vient tout de même de passer un stage de remise à niveau théorique.\n\n— Parce que c'est vrai, quand j'ai passé mon permis en 61 et la conduite actuelle, c'est complètement différent. Et j'avoue qu'il y a beaucoup de panneaux, je me disais, qu'est-ce que ça veut dire ?\n\nQue propose le Parlement pour renforcer la sécurité routière ?",
+        "audio": "/mp3/162/33.mp3",
+        "options": [
+            "Contrôler l’aptitude à la conduite d’une certaine catégorie d’usagers.",
+            "Obliger les fautifs d’accidents à repasser l’examen du permis.",
+            "Réduire la vitesse réglementaire pour les automobilistes séniors.",
+            "Simplifier les panneaux de signalisation les plus complexes."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 34,
+        "testId": 162,
+        "text": "— Produire plus et mieux en respectant la capacité de renouvellement de nos ressources alimentaires et en tenant compte des évolutions climatiques. Jacques Arignan, est-ce possible et réaliste ?\n\n— C'est à mon avis possible et réaliste. Toutefois, je ne pense pas qu'il faille détruire de la forêt pour regagner des terres cultivables. Je pense qu'on peut les reconquérir sur des territoires qui sont actuellement dégradés. C'est ainsi que je vois produire davantage et produire mieux, à condition de bien connaître les milieux auxquels on va s'appliquer et à condition d'être extrêmement vigilant sur les procédures employées pour produire davantage. Quelle solution propose Jacques Arignan ?",
+        "audio": "/mp3/162/34.mp3",
+        "options": [
+            "Accroître les zones agricoles en déforestant.",
+            "Améliorer le rendement des parcelles cultivées.",
+            "Exploiter différemment les terres endommagées.",
+            "Rendre productifs les terrains vagues urbains."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 35,
+        "testId": 162,
+        "text": "Fondées en 1909, les Canadiens de Montréal est la plus ancienne équipe de hockey toujours en activité. Les joueurs qui ont composé cette ancestrale franchise ont longtemps été en grande majorité d'origine canadienne, puis nord-américaine. Mais ce qui a marqué longtemps l'histoire de ce fameux club de hockey est que ses héros sur glace ont été francophones. Dans un Québec dont les destinées étaient surtout menées par des compagnies anglaises et où l'étiolement de la communauté minoritaire semblait inexorable, le fait d'avoir des joueurs de hockey francophones héroïques parmi les meilleurs du monde a été pour les Québécois un tremplin extraordinaire et un encouragement à décrocher leur propre succès. Qu'apprend-on sur l'équipe des Canadiens de Montréal?",
+        "audio": "/mp3/162/35.mp3",
+        "options": [
+            "C’est un exemple de réussite par le sport.",
+            "C’est un modèle rare de mixité culturelle.",
+            "C’est un symbole fort de cette province.",
+            "C’est une référence pour son style de jeu."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 36,
+        "testId": 162,
+        "text": "Il existe des voitures équipées de caméras à 360 degrés qui photographient le monde pour le cartographier en 3D. Présent dans plusieurs pays, ce service filme le monde pour en donner un accès virtuel très précis via Internet. Mais cette application interpelle les médias, les juristes et les blogueurs sur sa légalité envers le respect de la vie privée. Sillonnant les rues, ces techniciens capturent parfois des indiscrétions. Cependant, un des géants du net estime que le floutage automatique de tous les visages et de toutes les plaques d'immatriculation doivent le prémunir des plaintes éventuelles. Néanmoins, des craintes demeurent, et entre autres celles de l'intrusion dans la vie privée et la crainte de cambriolage potentiel suite à la publication de photos de maison sur le réseau. Quelle est la mission du service présentée par cet homme ?",
+        "audio": "/mp3/162/36.mp3",
+        "options": [
+            "Constituer un atlas mondial électronique.",
+            "Proposer des reportages sur la vie privée.",
+            "Recenser les plaintes pour violation d’intimité.",
+            "Surveiller les maisons pour stopper les vols."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 37,
+        "testId": 162,
+        "text": "— Qu'est-ce que vous avez en couverture ce mois-ci?\n\n— Ce mois-ci, on se questionne sur la présence de pétrole dans le Golfe Saint-Laurent, dans le sous-sol du Golfe Saint-Laurent. Il y a beaucoup de controverses au sujet de son exploitation, son extraction, sur les dommages potentiels que ça pourrait causer au Golfe, qui est un écosystème assez précieux et assez unique aussi au monde. Mais il y a aussi cette richesse qu'on ne soupçonnait pas il y a une vingtaine, trentaine d'années, ce pétrole dans le sous-sol. Alors ça fait des débats de société assez importants ici.\n\nQu'est-ce qui fait polémique?",
+        "audio": "/mp3/162/37.mp3",
+        "options": [
+            "L’industrialisation galopante des rives.",
+            "La dégradation d’un site naturel rare.",
+            "La pollution des nappes phréatiques.",
+            "La raréfaction des énergies fossiles."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 38,
+        "testId": 162,
+        "text": "— Pour faciliter l'installation des compagnies minières, il faut bâtir des routes, mais aussi des logements. Le nombre de citoyens affermant une ville en plein boom minier va doubler, comme l'explique sa mairesse.\n\n— Il y a des secteurs de rue qui vont ouvrir d'ici les prochaines semaines, d'ici le prochain mois. Pourquoi ? Pour répondre aux besoins de construire des logements, des habitations, des bungalows, des appartements aussi pour les gens. C'est tout un défi qu'on a à relever.\n\nSelon cet élu, en quoi consiste le défi à relever ?",
+        "audio": "/mp3/162/38.mp3",
+        "options": [
+            "Mettre en place toutes les infrastructures d’accueil.",
+            "Prendre en compte les aspects financiers du projet.",
+            "Réussir l’intégration de la main-d’œuvre étrangère.",
+            "Susciter l’adhésion de tous les habitants concernés."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 39,
+        "testId": 162,
+        "text": "Effectivement, la loi de 2001 fait obligation aux banques de désigner un médiateur qui est là pour justement tenter de régler les problèmes. Et la FUB a fait voter à l'époque que les modalités pour saisir le médiateur doivent être précisées dans le relevé de banque et dans le contrat. Donc pour savoir comment saisir le médiateur, il faut lire le relevé de banque ou le contrat. On doit y avoir toutes les précisions. Le médiateur a deux mois pour rendre un avis. Ce n'est qu'un avis, entendons-nous bien. Et là, eh bah, disons qu'il y a parfois un petit problème. C'est d'abord, peu de clients ont recours au médiateur. Il faudrait être beaucoup plus, disons, nombreux. Et deuxièmement, ce sont parfois des renvoyeurs de balles, c'est-à-dire ceux qui s'adressent à eux, ont le sentiment qu'ils n'ont pas été compris ni entendu. Quel sont les limites du recours au médiateur lors d’un conflit avec sa banque?",
+        "audio": "/mp3/162/39.mp3",
+        "options": [
+            "Le nombre de médiateurs est insuffisant pour répondre à la demande.",
+            "Les banques influencent les décisions prises par les médiateurs.",
+            "Les demandeurs trouvent que la procédure est trop longue et compliquée.",
+            "Quelle que soit la nature du litige, le médiateur n’a qu’un pouvoir consultatif."
+        ],
+        "answer": 3
+    }
+]
