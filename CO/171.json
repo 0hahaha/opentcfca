@@ -1,0 +1,511 @@
+[
+    {
+        "id": 1,
+        "testId": 171,
+        "text": "Écoutez les quatre propositions. Choisissez celle qui correspond à l'image.\n\nA. J'aimerais ouvrir ce colis. C'est un cadeau.\n\n B. Je n'arrive pas à écrire le courrier pour le directeur.\n\nC. Je voudrais envoyer cette lettre, s'il vous plaît.\n\nD. Le facteur est passé. Tu vas chercher le courrier?",
+        "audio": "/mp3/171/1.mp3",
+        "img": "/mp3/171/1.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 2,
+        "testId": 171,
+        "text": "A. Dis bonjour à ta sœur.\n\n B. Donne-moi mon sac.\n\nC. Prends tes gâteaux.\n\nD. Viens boire ton thé.",
+        "audio": "/mp3/171/2.mp3",
+        "img": "/mp3/171/2.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 3,
+        "testId": 171,
+        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse.\n\nQuel est le prix de ce kilo de pommes, s'il vous plaît ?\n\nA. Le deuxième est gratuit.\n\nB. Elles sont très sucrées.\n\nC. C'est au rayon des fruits.\n\nD. Elles coûtent deux euros dix.",
+        "audio": "/mp3/171/3.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 4,
+        "testId": 171,
+        "text": "Mon ordinateur ne fonctionne plus. Je ne sais pas comment faire pour mes devoirs. Tu peux m'aider s'il te plaît ?\n\nA. Oui, c'est un bon conseil.\n\nB. Oui, il coûte trop cher.\n\nC. Oui, j'arrive tout de suite.\n\nD. Oui, tu as bien travaillé.",
+        "audio": "/mp3/171/4.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 5,
+        "testId": 171,
+        "text": "Pour les vacances d'été, je voudrais partir au Japon avec Céline. Qu'est-ce que t'en penses?\n\nA. C'est vraiment dommage.\n\nB. Elle aime beaucoup cette ville.\n\nC. J'ai un peu de temps libre.\n\nD. Quelle bonne idée!",
+        "audio": "/mp3/171/5.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 6,
+        "testId": 171,
+        "text": "— Bonjour Madame, est-ce que je peux vous aider ?\n\n— Bonjour, oui, j'ai rendez-vous avec Madame Cader à 10h pour un poste de vendeuse.\n\nA. Bien, asseyez-vous.\n\nB. Entendu, allongez-vous.\n\nC. Pardon, taisez-vous.\n\nD. Silence, levez-vous.",
+        "audio": "/mp3/171/6.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 7,
+        "testId": 171,
+        "text": "— Bonjour madame, je voudrais réserver des places pour le spectacle de danse du 18 décembre.\n\n— À cette date, il reste des places à 30 euros.\n\n— Ah, je ne voudrais pas payer plus de 20 euros. Et pour la représentation du 17?\n\n— Désolée, c'est pareil.\n\nPourquoi est-ce que le jeune homme repart sans billet?",
+        "audio": "/mp3/171/7.mp3",
+        "options": [
+            "La représentation est annulée.",
+            "Le spectacle est complet.",
+            "Les places sont trop chères.",
+            "Les réservations sont terminées."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 8,
+        "testId": 171,
+        "text": "— Hôtel du Centre, bonjour.\n\n— Bonjour, j'ai réservé une chambre pour deux nuits le week-end prochain. Je voudrais arriver plus tôt. Est-ce que la chambre est libre dès le jeudi soir à 20h ?\n\n— Attendez, je vérifie. Non, elle est prise. Nous avons une autre chambre disponible, mais elle coûte 50 euros de plus.\n\n— Ah, d'accord. Je vais réfléchir. Merci, madame.\n\nPourquoi est-ce que cet homme téléphone à l'hôtel ?",
+        "audio": "/mp3/171/8.mp3",
+        "options": [
+            "Pour annuler sa réservation.",
+            "Pour changer sa date d’arrivée.",
+            "Pour connaître l’heure d’ouverture.",
+            "Pour savoir le prix d’une chambre."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 9,
+        "testId": 171,
+        "text": "— La météo a annoncé de la neige sur Montréal.\n\n— Je me méfie des prévisions, tu sais.\n\n— Ne me reproches rien si tu attrapes froid.\n\n— Bon, d'accord. Pour une fois, je vais t'écouter. Je prends mon manteau.\n\nQue décide de faire l'homme?",
+        "audio": "/mp3/171/9.mp3",
+        "options": [
+            "De consulter un médecin.",
+            "De regarder la météo.",
+            "De s’acheter des vêtements.",
+            "De s’habiller chaudement."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 10,
+        "testId": 171,
+        "text": "— Léo, comment ça va depuis que tu es dans ta nouvelle maison?\n\n— Ça va, ça va, mais je n'ai pas encore Internet.\n\n— Mince alors! Et est-ce que ton téléphone fixe marche au moins?\n\n— Oui, mais je n'en ai pas vraiment besoin. Je viens de m'acheter un ordinateur tout neuf, mais sans Internet. Je ne peux pas travailler et contacter mes clients.\n\n— Je comprends. Tu as vu quelqu'un pour arranger ça?\n\nQu'est-ce qui est difficile pour Léo?",
+        "audio": "/mp3/171/10.mp3",
+        "options": [
+            "La communication avec ses clients.",
+            "La recherche d’un nouveau travail.",
+            "L’achat d’un nouveau téléphone fixe.",
+            "L’utilisation de son ordinateur portable."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 11,
+        "testId": 171,
+        "text": "— Allo Paul, tu peux m'aider ?\n\n— Qu'est-ce qui t'arrive Lydie ?\n\n— J'ai laissé mes clés de voiture dans la salle de conférence et elle est occupée jusqu'à 20h.\n\n— Je peux te ramener si tu veux ?\n\n— Oh merci, ça m'arrange. Je dois être chez moi à 18h30. Demain je viendrai en transport.\n\nQuel est le problème de Lydie ?",
+        "audio": "/mp3/171/11.mp3",
+        "options": [
+            "Elle a oublié un objet important.",
+            "Elle a raté son bus ce matin.",
+            "Elle doit s’absenter du bureau.",
+            "Elle est en retard à une réunion."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 12,
+        "testId": 171,
+        "text": "— Périne, tu viens au cinéma avec nous?\n\n— Quand? Aujourd'hui?\n\n— Ce soir, la séance est à 20h. Il passe une comédie romantique.\n\n— Non, j'ai une réunion au bureau jusqu'à 18h. Et après, j'ai rendez-vous au restaurant avec Paul.\n\nQu'est-ce que Périne va faire ce soir?",
+        "audio": "/mp3/171/12.mp3",
+        "options": [
+            "Dîner avec un ami.",
+            "Regarder un film.",
+            "Rentrer chez elle.",
+            "Travailler tard."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 13,
+        "testId": 171,
+        "text": "— Salut Marion !\n\n— Salut Thomas, ça va ?\n\n— J'ai une journée difficile au bureau, on prend un verre quelque part et tu me racontes ton week-end ?\n\n— D'accord, mais avant je dois passer à la pharmacie.\n\n— Ce n'est pas loin, je suis fatigué moi.\n\nQu'est-ce que Thomas propose à Marion ?",
+        "audio": "/mp3/171/13.mp3",
+        "options": [
+            "D’aller dans un bar.",
+            "De faire les courses.",
+            "De préparer un voyage.",
+            "De travailler ensemble."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 14,
+        "testId": 171,
+        "text": "Je m'appelle Pascale, ça fait 4 ans que je travaille dans une école maternelle. Je suis chargée d'aider les enseignants dans la classe. Alors, le plus dans le métier pour moi, c'est les relations avec les enseignants et les enfants. Ça, on a vraiment beaucoup de chance à ce niveau-là, surtout avec les enfants. Les côtés négatifs du métier... Je dirais peut-être les journées un peu longues, dans le bruit, parce que les enfants sont quand même en général bruyants. Qu'apprécie Pascale dans son métier?",
+        "audio": "/mp3/171/14.mp3",
+        "options": [
+            "La répartition des horaires.",
+            "Le contact avec les élèves.",
+            "Les activités pédagogiques.",
+            "L’organisation des leçons."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 15,
+        "testId": 171,
+        "text": "— Allô ? Salut, c'est Rachida.\n\n— Salut, petite sœur.\n\n— Je t'appelle pour qu'on s'organise. Tu te souviens qu'on sera déjà parti quand vous arriverez ?\n\n— Ah c'est vrai, j'avais complètement oublié. Comment on fait pour les clés ?\n\n— Je les laisserai chez la voisine d'en face. On vous a préparé des draps, des serviettes, et le frigo est plein. Nous vous avons aussi laissé une liste d'activités à faire ici et des adresses pour sortir dîner.\n\n— Merci beaucoup. Je te dois combien ?\n\n— Ah ben rien, tu plaisantes. C'est normal, tu es mon frère.\n\nPourquoi Rachida appelle-t-elle son frère ?",
+        "audio": "/mp3/171/15.mp3",
+        "options": [
+            "Pour l’inviter au restaurant.",
+            "Pour le remercier de son accueil.",
+            "Pour lui conseiller un logement.",
+            "Pour lui donner des informations."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 16,
+        "testId": 171,
+        "text": "— Samira, tu viens de Matagami. Depuis ton installation à Québec, qu'est-ce qui te manque le plus ?\n\n— Il y a les parents, ma sœur, les copains, mais entre les mails et le téléphone, ça ne me pose pas plus de problèmes que ça. Bien sûr, il me manque, mais c'est si agréable de vivre ici à Québec que je pense y rester quelques années.\n\nQu'explique cette personne nouvellement installée à Québec ?",
+        "audio": "/mp3/171/16.mp3",
+        "options": [
+            "Elle aimerait que ses amis lui rendent visite.",
+            "Elle apprécie beaucoup sa nouvelle ville.",
+            "Elle souhaite repartir dans sa région.",
+            "Elle voudrait que sa famille déménage."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 17,
+        "testId": 171,
+        "text": "— Alors, ton voyage en Allemagne ?\n\n— Super ! J'ai pu rencontrer les responsables de programme et leur proposer nos produits. Dans l'ensemble, ils étaient assez intéressés. C'est plutôt encourageant pour la suite.\n\n— Génial ! Tu as pu visiter un peu la ville ?\n\n— En dehors du quartier de l'hôtel, pas vraiment. Je suis assez déçue. Mais je n'ai pas eu le temps. Je ne suis restée que trois jours et j'avais beaucoup de personnes à rencontrer. On mangeait tout le temps au restaurant de l'entreprise. Les journées se terminaient tard.\n\nQue regrette la femme ?",
+        "audio": "/mp3/171/17.mp3",
+        "options": [
+            "Elle aurait aimé faire du tourisme.",
+            "Elle aurait préféré se coucher tôt.",
+            "Elle espérait avoir plus d’interlocuteurs.",
+            "Elle s’attendait à un accueil plus favorable."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 18,
+        "testId": 171,
+        "text": "Tom, c'est Sarah. Je viens d'avoir ton SMS mais je ne peux pas te répondre, je suis en réunion en ce moment. Pour ce soir, pas de problème, je te rejoins au cinéma à 20h et j'achète le popcorn.Qu'annonce Sarah à Tom ?",
+        "audio": "/mp3/171/18.mp3",
+        "options": [
+            "Elle a mal compris son message.",
+            "Elle accepte son invitation.",
+            "Elle achètera les billets à l’avance.",
+            "Elle est déjà occupée ce soir."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 19,
+        "testId": 171,
+        "text": "Salut Laurent, c'est Martin. Dis, il y a un gymnase qui vient d'ouvrir à côté de chez moi. Il y a plusieurs salles. En ce moment, on peut y essayer tous les sports et c'est gratuit. Ça te dirait de venir faire une partie de basketball avec les copains demain soir ? Réponds-moi vite pour que j'appelle le club pour réserver le terrain. À plus tard ! Que propose Martin à Laurent ?",
+        "audio": "/mp3/171/19.mp3",
+        "options": [
+            "D’assister à une rencontre sportive.",
+            "De fêter leur victoire entre copains.",
+            "De jouer au basket-ball sans payer.",
+            "De s’inscrire dans un nouveau club."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 20,
+        "testId": 171,
+        "text": "Ah, j'ai commencé dans l'entreprise, cela fait quand même 30 ans, à l'époque où on ne s'embarrassait pas avec le recrutement. Je me souviens, dès le soir où j'ai fini ma formation, mon patron de stage m'a proposé de rester, et pour mes copains de formation, pareil. Ah, c'est sûr, on n'embauche plus si facilement. Maintenant, je suis un ancien. Je dois recruter les jeunes qui arrivent, et je trouve ça incroyable. Ils accumulent les diplômes, ont fait plein de stages, 150 à postuler. Cela ne doit pas être drôle. Que constate cet employé ?",
+        "audio": "/mp3/171/20.mp3",
+        "options": [
+            "Les conditions de recrutement sont plus difficiles aujourd’hui.",
+            "Les étudiants ignorent le fonctionnement de l’entreprise.",
+            "Les jeunes étaient préparés plus sérieusement dans le passé.",
+            "Les patrons actuels ont un degré d’exigence trop élevé."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 21,
+        "testId": 171,
+        "text": "— Stéphane, est-ce que Corinne est rentrée de sa mission au Japon ?\n\n— Oui, elle était au bureau hier et aujourd'hui, mais elle est très fatiguée.\n\n— La pauvre. Sa mission a été plus difficile que d'habitude ?\n\n— Oui, elle a eu des réunions dans plusieurs villes. Elle n'a pas arrêté de circuler.\n\n— C'est sympa. Elle a pu découvrir plein de lieux différents.\n\n— Pas du tout. Elle terminait très tard le soir.\n\n— Elle devrait prendre des vacances.\n\n— Impossible. Elle repart pour une conférence au Canada, la semaine prochaine.\n\nQu'apprend-on sur Corinne ?",
+        "audio": "/mp3/171/21.mp3",
+        "options": [
+            "Elle est en congé.",
+            "Elle est tombée malade.",
+            "Elle travaille la nuit.",
+            "Elle voyage souvent."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 22,
+        "testId": 171,
+        "text": "Je crois que les difficultés en matière de lecture ont des causes à la fois individuelles et sociales. Les parents, par exemple, parce qu'ils sont angoissés par l'avenir de leurs enfants, leur présentent souvent la lecture comme une obligation, une démarche indispensable pour réussir, et c'est une erreur, parce que la lecture est avant tout un plaisir. Un livre, c'est un voyage, une découverte, une aventure, et il faudrait faire découvrir la lecture aux enfants comme on leur fait découvrir la cuisine chinoise ou les jeux dans la neige. Et puis les parents refusent aussi souvent à leurs enfants des lectures qu'ils considèrent comme mineures. Les bandes dessinées, par exemple, et ça aussi, c'est une erreur. Lire une bande dessinée, c'est lire. Et ça permet souvent d'ailleurs de découvrir ensuite d'autres formes de littérature. Que conseille cette intervenante aux parents ?",
+        "audio": "/mp3/171/22.mp3",
+        "options": [
+            "D’attribuer à la lecture le statut de loisir.",
+            "De favoriser la lecture en autonomie.",
+            "De limiter la lecture d’histoires illustrées.",
+            "De sélectionner des lectures classiques."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 23,
+        "testId": 171,
+        "text": "— Malheureusement, je n'ai pas de vacances. Je viens de changer de travail.\n\n— Ah bon ? Tu ne te plaisais pas là où tu étais ?\n\n— Si, l'ambiance était vraiment bonne. Et j'avais un bon emploi du temps.\n\n— Oui, je me souviens. Et tu as trouvé encore mieux ?\n\n— En fait, c'était sympa, mais je n'avais pas de possibilité d'évolution. Alors que là, les perspectives sont bonnes. Enfin, si je survis aux horaires imposés.\n\n— Et l'ambiance est aussi bonne qu'avant.\n\n— Oui, je pense que ça va aller. Mais je ne connais pas encore beaucoup de monde. Il faut du temps.\n\nQu’apprécie la femme dans son nouveau travail ?",
+        "audio": "/mp3/171/23.mp3",
+        "options": [
+            "L’atmosphère détendue.",
+            "La souplesse des horaires.",
+            "L’efficacité de son équipe.",
+            "Les opportunités de carrière."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 24,
+        "testId": 171,
+        "text": "— Bonjour, monsieur. J'ai vu votre annonce. Vous cherchez toujours une vendeuse?\n\n— Oui. Cela vous intéresse? Vous avez de l'expérience?\n\n— J'ai été vendeuse 15 ans à Québec, mais mon petit ami a été muté à Montréal, alors, j'ai dû démissionner.\n\n— Vous habitez encore là-bas?\n\n— Non, nous sommes chez mes parents en attendant de trouver un logement.\n\n— Vous parlez anglais?\n\n— Bien sûr.\n\n— Bien. Vous pouvez revenir demain pour un essai?\n\n— Avec plaisir.\n\nPourquoi la personne cherche-t-elle du travail à Montréal ?",
+        "audio": "/mp3/171/24.mp3",
+        "options": [
+            "Pour changer de profession.",
+            "Pour découvrir de nouveaux lieux.",
+            "Pour se rapprocher de sa famille.",
+            "Pour suivre son compagnon."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 25,
+        "testId": 171,
+        "text": "Deux manières de ne pas goûter les aliments, c'est de manger en silence, on les trouve moins bons, ou de manger avec un bruit sonore, de la musique constamment, ou un bruit de fond continu qui altère le goût des aliments. La dimension sonore adaptée au goût des aliments, c'est la parole. Il faut commenter tout ce que l'on déguste, commenter les aliments, et à ce moment-là, on éprouve mieux leur goût. On éprouve mieux leur saveur quand on discute avec quelqu'un, alors que lorsque l'on est seul dans le silence, le plaisir de manger et de boire est bien moins grand. Selon cet homme, qu'est-ce qui permet d'apprécier pleinement ce que l'on mange ?",
+        "audio": "/mp3/171/25.mp3",
+        "options": [
+            "Écouter de la musique classique.",
+            "Parler des plats que l’on savoure.",
+            "Partager un repas en famille.",
+            "Avoir une table bien décorée."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 26,
+        "testId": 171,
+        "text": "— Oui, élu récemment par le magazine Business Week parmi les 25 personnes les plus influentes du web, Loïc Lemaire, qui vit désormais à San Francisco en Californie, au cœur de la Silicon Valley. C'est là qu'il a créé sa nouvelle société, Seesmic, qui n'est pas un coup d'essai. Ce diplômé de l'école des hautes études commerciales de Paris est devenu au fil du temps un serial entrepreneur. Loïc Lemaire.\n\n— Mon père était entrepreneur et mon grand-père aussi. J'étais commerçant. J'ai jamais eu vraiment envie de travailler pour qui que ce soit d'autre que moi, y compris peu importe la taille en fait de ce que je faisais. Je pense que je serais volontiers indépendant. J'ai toujours voulu créer ma propre entreprise dans l'Internet. Donc, c'est les deux passions que j'ai toujours.\n\nQue veut Loïc Lemaire ?",
+        "audio": "/mp3/171/26.mp3",
+        "options": [
+            "Avoir la liberté d’être son propre patron.",
+            "Innover dans le domaine informatique.",
+            "Mener un projet aux États-Unis.",
+            "Mieux réussir que ses parents."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 27,
+        "testId": 171,
+        "text": "— Tu viens à l'anniversaire de Bertrand samedi ?\n\n— Je ne sais pas encore. J'ai un examen lundi prochain.\n\n— Tu es prête ?\n\n— Plus ou moins. Mes cousins de Toulouse sont venus passer une partie des vacances à la maison et j'ai dû leur faire visiter les monuments et les musées de Paris.\n\n— Tu as pu travailler un peu ?\n\n— Oui, mais je dois encore étudier les maths.\n\nDe quoi parlent les deux jeunes filles ?",
+        "audio": "/mp3/171/27.mp3",
+        "options": [
+            "De la préparation des vacances.",
+            "Des révisions d’un examen.",
+            "D’un anniversaire surprise.",
+            "D’un projet de visites culturelles."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 28,
+        "testId": 171,
+        "text": "Manger 5 fruits et légumes par jour, c'est bon pour la santé, on le sait mais on ne le fait pas. Avouez, vous avez essayé mais vous n'y arrivez pas. MiamMiam.fr va vous y aider. Ce site propose des paniers avec des produits frais et de saison, le tout livré gratuitement partout dans le pays, chez vous ou sur votre lieu de travail. Quel est le but de MiamMiam.fr ?",
+        "audio": "/mp3/171/28.mp3",
+        "options": [
+            "Conseiller gratuitement des régimes minceur.",
+            "Faciliter la consommation de produits sains.",
+            "Livrer des spécialités régionales à domicile.",
+            "Proposer une émission de cuisine sur internet."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 29,
+        "testId": 171,
+        "text": "— Alors Patrick, ce stage d'informatique à la tulipe?\n\n— Oh, ne m'en parle pas. Horrible! Je suis ravi d'être au boulot. D'abord, il a plu toute la semaine, avec une tempête, t'aurais vu sûr. On pensait pouvoir faire des balades en fin de journée. Il n'y a que moi qui voulais encore marcher malgré la pluie. Les autres se retrouvaient au bord pour jouer aux cartes ou refaire le monde. D'autres ont passé leur temps devant la télé.\n\n— Eh bien bravo! Pour prendre le bonheur, c'est réussi.\n\n— Et je ne te décris pas le trou que c'était. Rien à voir à des kilomètres à la ronde.\n\nQu'est-ce que Patrick était le seul à vouloir faire?",
+        "audio": "/mp3/171/29.mp3",
+        "options": [
+            "Jouer aux cartes.",
+            "Aller se promener.",
+            "Regarder la télévision.",
+            "Visiter la région."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 30,
+        "testId": 171,
+        "text": "— En mathématiques, les mots sont redondants, c'est l'ordre des mots qui fait tout le sens, mais dans le monde littéraire, on peut avoir une petite virgule, un point virgule, qui peut être l'objet de nombreux commentaires, et ça aujourd'hui, il vaut mieux faire confiance à l'âme humaine et à sa traduction manuelle qu'à l'algorithme et à l'intelligence artificielle.\n\n— Donc le logiciel ne peut pas aujourd'hui et n'est pas prêt, si on vous comprend bien, de remplacer des traducteurs humains.\n\n— Ah, il n'est absolument pas prêt ni pour la littérature, ni pour les mathématiques, puisque le travail qu'on a réalisé a dû aussi être amélioré, confirmé, valorisé et vérifié par une équipe de traducteurs qui sont des professionnels de la traduction scientifique de l'anglais vers le français.\n\nQue dit cet homme sur ce logiciel de traduction ?",
+        "audio": "/mp3/171/30.mp3",
+        "options": [
+            "Il a besoin d’être perfectionné.",
+            "Il fonctionne pour les romans.",
+            "Il peut adapter la ponctuation.",
+            "Il sert aux spécialistes du métier."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 31,
+        "testId": 171,
+        "text": "— Là, on vient, très récemment, de... d'observer pour la première fois un trou noir, Hubert Rives. Quelle a été votre réaction?\n\n— Oui, c'est le moment où on découvre une chose pour la première fois, et surtout le fait que cette idée des trous noirs, qui a été inventée par Einstein dans les années 1910-15, je ne me souviens pas, c'était au départ une théorie. Et de trouver que le comportement de ces trous noirs existe, c'est une confirmation de la valeur de la science en général, qui sont, par exemple, les idées des trous noirs. Ça vous donne confiance dans la science.\n\nSelon Hubert Rives, pourquoi cette première observation d'un trou noir est-elle importante ?",
+        "audio": "/mp3/171/31.mp3",
+        "options": [
+            "Elle annonce de futures découvertes.",
+            "Elle confirme une théorie ancienne.",
+            "Elle illustre les progrès du matériel scientifique.",
+            "Elle permet la poursuite des travaux d’Einstein."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 32,
+        "testId": 171,
+        "text": "— Des commentaires sur la gastronomie de Toronto?\n\n— On y mange très bien, mais c'est impossible d'y manger la même chose 4 ans plus tard. Comme à Québec, la gastronomie est très tendance. Qu'est-ce qui se passe aujourd'hui? Qu'est-ce qui se passera demain? Mais qu'est-ce qui s'est passé hier? On ne veut plus rien savoir. Qu'est-ce qu'un restaurateur doit faire si sa cuisine n'est pas tendance mais tout aussi bonne? À Toronto, il doit la changer. C'est différent à Québec. J'ai l'impression qu'à Toronto, la capitale des affaires, on gère tous aux dépens des valeurs sûres.\n\nQue constate ce journaliste sur la gastronomie à Toronto?",
+        "audio": "/mp3/171/32.mp3",
+        "options": [
+            "Elle est dans l’innovation constante.",
+            "Elle est tournée vers l’exotisme.",
+            "Elle fait la part belle à la tradition.",
+            "Elle nécessite un service très rapide."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 33,
+        "testId": 171,
+        "text": "Au moment où l'on semble découvrir qu'il faut pour fabriquer un plat cuisiné: un trader au Pays-Bas et un autre à Chypre, un atelier de découpe de viande en Roumanie, un grossiste en Midi-Pyrénées, une usine au Luxembourg, ne serait-il pas temps d'examiner d'un peu plus près ces fameux circuits courts ? Les quoi ? Les Circuits-Courts. Des modes de distribution alimentaire qui limitent les intermédiaires et les distances parcourues entre le producteur et le consommateur. Réseau d'achats groupés, ventes directes, commerces locavores. Et si le Circuit-Court court-circuitait notre modèle agricole ? Et si la consommation de proximité devenait une alternative crédible à l'agriculture mondialisée ? Qu'apprend-on sur la mise en place de Circuits-Courts ?",
+        "audio": "/mp3/171/33.mp3",
+        "options": [
+            "Elle se heurte aux systèmes existants.",
+            "Elle est complexe à développer en Europe.",
+            "Elle est soutenue par les grandes surfaces.",
+            "Elle représente une solution d’avenir."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 34,
+        "testId": 171,
+        "text": "— Quand vous revenez de Chicago, vous fondez d'abord Héritage Montréal. Pourquoi?\n\n— Vous savez, quand je suis revenue de Chicago, j'étais là pendant quelques années à prendre des photographies des bâtiments Pierre Grise.\n\n— À Montréal?\n\n— Oui, parce que je trouvais ça formidable et ça délimitait. C'était une façon de marquer chaque quartier de Montréal. Alors, je faisais ça avec un photographe, très bien. Et puis, quand nous étions dans, par exemple, un des couvents, on nous a dit, « Qu'est-ce que vous faites dans ce bâtiment? C'est vétuste. On va le démolir. » C'était comme ça partout. Alors, finalement, on a compris qu'il fallait vraiment s'occuper de ça. Surtout, quand je venais de Chicago, et puis toutes les villes autour de Troyes, Cincinnati, un peu partout, il y avait peut-être un bâtiment qui restait debout, un bâtiment victorien, et puis tout était aplatit. C'était la période Ferrance.\n\nDans quel but a été fait ce reportage photo?",
+        "audio": "/mp3/171/34.mp3",
+        "options": [
+            "Pour accélérer la rénovation d’anciennes constructions.",
+            "Pour comparer les styles des maisons nord-américaines.",
+            "Pour conserver la trace du patrimoine architectural.",
+            "Pour dénoncer la dégradation des logements urbains."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 35,
+        "testId": 171,
+        "text": "Le problème des festivals, c'est très bien que les festivals se développent mais moi j'ai l'impression qu'il y a beaucoup de festivals mais en même temps il n'y a pas plus de groupes qui jouent sur scène. C'est-à-dire qu'on assiste en fait un phénomène où les têtes d'affiches sont pratiquement toujours les mêmes et puis ensuite on fait du groupe local, des groupes du coin et les artistes voilà qui sont pas entre guillemets des stars, qu'on dirait moyen, ont plutôt du mal à trouver des festivals parce qu'il y a un peu la course aujourd'hui. Je crois que j'ai l'impression que le festival c'est un peu aussi la course aux chiffres et on fait passer attention à l'artistique. Quel problème est associé au développement des festivals?",
+        "audio": "/mp3/171/35.mp3",
+        "options": [
+            "Ils desservent l’image des vedettes.",
+            "Ils génèrent des profits insuffisants.",
+            "Ils programment les mêmes musiciens.",
+            "Ils sont tous organisés pendant l’été."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 36,
+        "testId": 171,
+        "text": "Il y a un manque de clarté au niveau de la politique des dates de péremption au Canada. Parce que souvent les conservateurs vont peut-être jeter des produits quand la date meilleure avant est passée. Mais ça ne veut pas nécessairement dire que le produit est insalubre. Le produit peut être encore bon. Il y a des forces démographiques qui jouent contre l'industrie. Il y a une soif de profit au sein de l'industrie. Pourquoi? Parce que les gens mangent moins. Les gens vieillissent au Canada. Donc comment fait-on pour atteindre nos objectifs de vente quand les gens mangent moins? Alors il faut trouver de différents moyens pour augmenter ses recettes. Qui est lésé d'après l'intervenant?",
+        "audio": "/mp3/171/36.mp3",
+        "options": [
+            "Les acheteurs.",
+            "Les commerçants.",
+            "Les entreprises.",
+            "Les pouvoirs publics."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 37,
+        "testId": 171,
+        "text": "Je suis recruté chez JP Morgan à Londres pour bosser sur le pétrole en fusion acquisition. Et c'était payé vraiment une fortune, 38 000 francs par mois. Je ne savais pas du tout ce que c'était autant, dire que vraiment la finance, machin. Mais bon, j'y vais, là, pas du gain malgré tout. Et là, pas du gain, pourquoi? Parce que je me suis endetté pour financer cette école de commerce. Voilà, je découvrais des trucs dans le prolongement de cette école de commerce et je me rendais compte, expérience après expérience, que ce n'était pas du tout ma voie et que je n'avais sous aucun prétexte, même un prétexte financier très important, je n'avais envie de poursuivre dans cette voie. Pourquoi l'intervenant a-t-il accepté de travailler chez JP Morgan?",
+        "audio": "/mp3/171/37.mp3",
+        "options": [
+            "Pour mettre en pratique ses connaissances.",
+            "Pour opérer une reconversion professionnelle.",
+            "Pour pouvoir rembourser son emprunt.",
+            "Pour vivre quelques années à l’étranger."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 38,
+        "testId": 171,
+        "text": "Les pays européens sont presque tous d'excellents élèves de l'écologie. «Est-ce une bonne nouvelle ?» S'interroge le Figaro. Pas si sûr. L'Europe, dit Gérard Dupuy dans Libération, ne paraît vertueuse que parce que son double décimètre était truqué. Les quotas de rejet de CO2, fixés à l'avance, ont été calculés de manière à ne pas trop effaroucher les industriels. Du coup, ils ne servaient à rien. Mais, reconnaît Gérard Dupuy, il serait tout aussi erroné, à l'inverse, d'avoir des exigences drastiques mais irréalistes. Les industriels savent d'ailleurs agiter un épouvantail efficace. La méthode la plus simple pour arriver à une absence complète de pollution, c'est de fermer une usine et de la délocaliser sous d'autres cieux. Ce n'est pas toujours une menace en l'air. D'après le journaliste, en quoi les bons résultats européens en matière d'écologie sont-ils contestables ?",
+        "audio": "/mp3/171/38.mp3",
+        "options": [
+            "Ils font l’objet de manipulations douteuses par les pollueurs.",
+            "Ils répondent à des critères insuffisamment exigeants.",
+            "Ils sont destinés à justifier les politiques économiques.",
+            "Ils sont publiés par des organismes liés aux entreprises."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 39,
+        "testId": 171,
+        "text": "— Tes recherches sur les algues, ça avance ?\n\n— Oui, pas mal.\n\n— Mais, tu étudies quoi au juste ?\n\n— Leur système de reproduction. Dans un milieu aquatique, le vent ou les insectes ne jouent évidemment aucun rôle. En fait, ce sont des petites boules au bout des tiges qui se fendent et attirent les cellules mâles pour les féconder.\n\n— Et à quoi te serviront ces découvertes ?\n\n— Par la suite, on pourra multiplier ces algues et les utiliser dans la composition des produits pharmaceutiques.\n\nQue cherche à étudier cette personne à propos des algues ?",
+        "audio": "/mp3/171/39.mp3",
+        "options": [
+            "Le processus d’attractivité des cellules femelles.",
+            "Les différences avec la reproduction des plantes terrestres.",
+            "La constitution de certains organismes aquatiques.",
+            "L’influence de la météorologie sur leur fécondation."
+        ],
+        "answer": 0
+    }
+]
