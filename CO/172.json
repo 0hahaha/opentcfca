@@ -1,0 +1,524 @@
+[
+    {
+        "id": 1,
+        "testId": 172,
+        "text": "A. Là, c'est Marc à la montagne.\n\nB. Là, c'est Marc avec les voisins.\n\nC. Là, c'est Marc avec 2 adultes.\n\nD. Là, c'est Marc avec 2 amies.",
+        "audio": "/mp3/172/1.mp3",
+        "audioAI": "/mp3/172/ai_1.mp3",
+        "img": "/mp3/172/1.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 2,
+        "testId": 172,
+        "text": "Regardez l'image 2.\n\nA. Baissez les bras.\n\nB. Enlevez votre pull.\n\nC. Installez-vous.\n\nD. Respirez bien fort.",
+        "audio": "/mp3/172/2.mp3",
+        "img": "/mp3/172/2.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 3,
+        "testId": 172,
+        "text": "Maman, le professeur de mathématiques nous a donné un problème très difficile pour demain. Je ne comprends rien et tout seul, je n'y arrive pas. Tu veux bien m'expliquer, s'il te plaît?\n\nA. C'est gentil.\n\nB. Mais bien sûr.\n\nC. Merci beaucoup.\n\nD. Tu as raison.",
+        "audio": "/mp3/172/3.mp3",
+        "audioAI": "/mp3/172/ai_3.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 4,
+        "testId": 172,
+        "text": "Je ne sais pas quel dessert préparer pour le dîner avec Marc ce soir. Qu'est-ce que tu penses d'une salade de fruits ?\n\nA. Oui, bonne idée, c'est facile à préparer.\n\nB. Oui, fais-nous une tarte au citron.\n\nC. Oui, il aime bien le chocolat chaud.\n\nD. Oui, on peut manger au restaurant.",
+        "audio": "/mp3/172/4.mp3",
+        "audioAI": "/mp3/172/ai_4.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 5,
+        "testId": 172,
+        "text": "Question 5. Excusez-moi, Monsieur, pourriez-vous nous dire où se trouve la poste, s'il vous plaît?\n\nA. Oui, achetez un timbre.\n\nB. Oui, allez au guichet numéro 3.\n\nC. Oui, écrivez votre adresse ici.\n\nD. Oui, prenez la rue en face.",
+        "audio": "/mp3/172/5.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 6,
+        "testId": 172,
+        "text": "Je ne suis pas en forme, j'ai souvent mal au dos. Tu penses que je vais aller mieux si je fais du sport ?\n\nA. Oui, ce serait bien que tu manges mieux.\n\nB. Oui, il faut que tu te reposes plus.\n\nC. Oui, prends un rendez-vous chez le médecin.\n\nD. Oui, tu devrais t'inscrire à la piscine.",
+        "audio": "/mp3/172/6.mp3",
+        "audioAI": "/mp3/172/ai_6.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 7,
+        "testId": 172,
+        "text": "— Bonjour, c'est ici pour visiter l'appartement?\n\n— Non, monsieur, ce n'est pas ici.\n\nA. Pardon, j'ai déménagé.\n\nB. Pardon, j'ai fait une erreur.\n\nC. Pardon, j'ai perdu les clés.\n\nD. Pardon, je vais revenir demain.",
+        "audio": "/mp3/172/7.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 8,
+        "testId": 172,
+        "text": "C'est bientôt l'heure de monter dans le train, mais est-ce que tu penses que j'ai le temps d'acheter un journal ?\n\nA. Non, le train est annulé.\n\nB. Non, le train est complet.\n\nC. Non, le train est déjà là.\n\nD. Non, le train est en retard.",
+        "audio": "/mp3/172/8.mp3",
+        "audioAI": "/mp3/172/ai_8.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 9,
+        "testId": 172,
+        "text": "Maxime propose de faire du camping dans le sud de la France pour les prochaines vacances. Qu'est-ce que tu en penses ?\n\nA. Bien sûr, je réserve l'hôtel.\n\nB. D'accord, on reste à la maison.\n\nC. Non, l'appartement est trop cher.\n\nD. Pourquoi pas, les enfants vont adorer.",
+        "audio": "/mp3/172/9.mp3",
+        "audioAI": "/mp3/172/ai_9.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 10,
+        "testId": 172,
+        "text": "Qui ont dit, quand commence le festival de jazz de Montréal?\n\nA. Début juin.\n\nB. Depuis hier.\n\nC. Jusqu'à minuit.\n\nD. Pendant dix jours.",
+        "audio": "/mp3/172/10.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 11,
+        "testId": 172,
+        "text": "— Eh bien Julie, qu'est-ce qu'il y a?\n\n— Je vais déménager parce que mon propriétaire veut vendre l'appartement et faire de gros travaux dans quelques mois. Je regarde les annonces sur Internet.\n\n— Et tu as déjà trouvé un logement?\n\n— Non, pas encore.\n\n— Tu sais que Malika cherche un colocataire. Tu pourrais faire des économies sur le loyer.\n\n— Oui, mais je préfère vivre seule.\n\nQu'est-ce que Julie explique?",
+        "audio": "/mp3/172/11.mp3",
+        "options": [
+            "Elle doit quitter son logement.",
+            "Il y a des travaux chez elle.",
+            "Le loyer est devenu trop cher.",
+            "Sa colocataire est partie."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 12,
+        "testId": 172,
+        "text": "— Dernier appel pour les passagers à destination de Montréal. Embarquement immédiat, porte B.\n\n— Yasmina, on va être en retard. Dépêche-toi. Regarde cette file d'attente devant le contrôle de sécurité.\n\n— Ne t'inquiète pas, Oscar. Excusez-nous, monsieur? Nous allons à Montréal et notre embarquement est en cours. Est-ce que nous pourrions passer devant vous?\n\n— Oui, allez-y. Je décolle dans deux heures.\n\nPourquoi Oscar est-il anxieux?",
+        "audio": "/mp3/172/12.mp3",
+        "audioAI": "/mp3/172/ai_12.mp3",
+        "options": [
+            "Parce que la zone d’embarquement est loin.",
+            "Parce que leur avion décolle bientôt.",
+            "Parce que leur vol est en retard.",
+            "Parce que Yasmine a perdu sa valise."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 13,
+        "testId": 172,
+        "text": "— Sophie, je ne trouve pas le dossier Sanovi.\n\n— Je l'ai posé sur votre bureau.\n\n— Où sur mon bureau?\n\n— Près de l'écran de votre ordinateur, sur la pile de papiers.\n\n— Ah zut, j'ai jeté tous les papiers qui traînaient.\n\n— Attendez, je vais regarder. Tenez, il n'est pas perdu. La femme de ménage n'est pas encore passée.\n\nOù Sophie trouve-t-elle le dossier Sanovi?",
+        "audio": "/mp3/172/13.mp3",
+        "options": [
+            "Dans la poubelle.",
+            "Aux archives.",
+            "Dans le tiroir.",
+            "Sur le bureau."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 14,
+        "testId": 172,
+        "text": "— Bonjour, je voudrais réserver un séjour au Seychelles.\n\n— Alors, j'ai plusieurs formules de voyage à vous proposer. J'ai notamment quelque chose de très intéressant. Un combiné avion plus hôtel 4 étoiles sur l'île principale à 1300 euros la semaine. Départ entre le 10 et le 15 décembre.\n\n— C'est au-dessus de mes moyens. Qu'auriez-vous d'autres à me proposer?\n\n— J'ai aussi des hôtels de catégorie inférieure.\n\n— Oui, je préférerais.\n\nQu'est-ce qui pose problème au client?",
+        "audio": "/mp3/172/14.mp3",
+        "options": [
+            "La date de départ.",
+            "La durée du voyage.",
+            "La situation de l’hôtel.",
+            "Le prix du séjour."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 15,
+        "testId": 172,
+        "text": "Allô, Alex ? C'est Lara. N'oublie pas de prendre tes lunettes pour la séance de ciné ce soir. La dernière fois, tu ne voyais rien et tu as dormi pendant deux heures. On se retrouve comme prévu ? Salut !\n\nPourquoi Lara téléphone-t-elle à Alex ?",
+        "audio": "/mp3/172/15.mp3",
+        "audioAI": "/mp3/172/ai_15.mp3",
+        "options": [
+            "Pour lui conseiller d’aller voir un médecin.",
+            "Pour lui dire qu’elle sera un peu en retard.",
+            "Pour lui proposer un film qu’elle veut voir.",
+            "Pour lui rappeler une chose importante."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 16,
+        "testId": 172,
+        "text": "Bonjour M. Lefort, je suis Pierre Toussaint des affaires culturelles de la ville d'Aubervilliers. Je vous contacte car vous avez répondu à notre offre d'emploi pour notre médiathèque. Votre profil nous intéresse pour le poste de bibliothécaire, mais je souhaiterais vous rencontrer pour obtenir des informations complémentaires. Pourriez-vous contacter mon assistant avant vendredi après-midi pour lui faire part de vos disponibilités ? Bonne journée. Pourquoi Pierre Toussaint appelle-t-il M. Lefort ?",
+        "audio": "/mp3/172/16.mp3",
+        "options": [
+            "Pour lui communiquer une décision.",
+            "Pour lui confirmer une adresse.",
+            "Pour lui demander d’envoyer un CV.",
+            "Pour lui proposer un entretien."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 17,
+        "testId": 172,
+        "text": "— Monsieur, j'ai fini de contacter tous les fournisseurs. Je pourrais peut-être mettre à jour les factures sur l'ordinateur, maintenant ?\n\n— Occupez-vous plutôt d'abord du rencement des dossiers de litige dans les chemises cartonnées. Merci, Sandra.\n\nQue doit faire Sandra ?",
+        "audio": "/mp3/172/17.mp3",
+        "options": [
+            "Classer des documents.",
+            "Préparer des courriers.",
+            "Téléphoner aux clients.",
+            "Vérifier les comptes."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 18,
+        "testId": 172,
+        "text": "— Le groupe Canal recrute des stagiaires et pour la première fois, la sélection va se faire uniquement sur la base d'entretien, vidéo. C'est une méthode qui est en train d'exploser dans les entreprises entraînent.\n\n— Oui, c'est une première à la chaîne, emboîte le pas à un processus de recrutement très à la mode. Un chiffre sur le site de recrutement Météo Job, le nombre de candidats ayant passé à un entretien vidéo a augmenté de 250% entre 2016 et 2017. Voilà, volia, volia, comment ça se passe. Canal Plus, pour prendre son exemple, reçoit des milliers de CV de jeunes qui veulent accéder à des stages ou trouver des contrats d'alternance, elle ne doit en retenir que 120.\n\nQu'apprend-on sur les entreprises françaises ?",
+        "audio": "/mp3/172/18.mp3",
+        "audioAI": "/mp3/172/ai_18.mp3",
+        "options": [
+            "Elles cherchent des spécialistes en vidéo.",
+            "Elles modernisent leurs procédés de recrutement.",
+            "Elles préfèrent employer des stagiaires.",
+            "Elles reçoivent peu de candidatures spontanées."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 19,
+        "testId": 172,
+        "text": "— Ah tiens Camilo, tu es au bureau aujourd'hui ? Tu n'es pas en télétravail normalement ?\n\n— Non, c'est seulement le jeudi. Et ça te plaît alors ?\n\n— Au moins je ne perds pas de temps dans les transports et je me concentre mieux sur mes dossiers compliqués. Et puis, même si je ne suis pas là, je suis toujours joignable par téléphone et par courriel. Il m'arrive même d'assister à des réunions par visioconférence. Ce n'est pas très différent d'une journée normale.\n\nDe quoi parlent les deux personnes ?",
+        "audio": "/mp3/172/19.mp3",
+        "options": [
+            "D’une négociation par visioconférence.",
+            "De l’urgence des dossiers à traiter.",
+            "Des avantages du travail à distance.",
+            "Des problèmes fréquents de transports."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 20,
+        "testId": 172,
+        "text": "Bonjour, c'est Marie. Vous n'êtes pas là, bon. Je vous appelais comme promis au sujet des réservations des places de théâtre avant votre départ au Pérou. Je vous propose un autre spectacle que Bérénice, car ça ne se joue plus. Pourquoi pas Anne Romand ? Il paraît que son spectacle est très bien et plein d'humour. Ou bien André Sullers, qui lit des textes qu'il a créés lui-même sur les athlètes de haut niveau. Dites-nous ce que vous en pensez, je réserverai les places. Nous partons en Bretagne demain, mais je crois que vous avez notre numéro de téléphone là-bas. À bientôt ! Que propose Marie à ses amis ?",
+        "audio": "/mp3/172/20.mp3",
+        "audioAI": "/mp3/172/ai_20.mp3",
+        "options": [
+            "Une sortie au théâtre.",
+            "Un voyage au Pérou.",
+            "Un séjour en Bretagne.",
+            "Une visite à Anne Roman."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 21,
+        "testId": 172,
+        "text": "— Salut, ça va ?\n\n— Ça va, mais mon petit ami est parti pour trois mois pour réaliser un documentaire sur la Gaspésie, une région assez sauvage du Québec.\n\n— Ah oui, je connais. Quelle chance ! J'adorerais y retourner. Et tu vas y aller aussi ?\n\n— J'aimerais bien, mais j'ai des missions prévues prochainement. Mais bon, je vois mon patron demain, je lui demanderai si je peux prendre des vacances.\n\n— Bonne chance. Tu m'écriras pour me raconter ton expérience là-bas. Et préviens-moi quand le film sortira.\n\nDe quoi parlent ces personnes ?",
+        "audio": "/mp3/172/21.mp3",
+        "options": [
+            "D’un projet de voyage.",
+            "D’un changement de travail.",
+            "D’un futur déménagement.",
+            "D’une sortie au cinéma."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 22,
+        "testId": 172,
+        "text": "— Salut Nathalie! Alors, comment s'est passé ton week-end à la montagne?\n\n— L'endroit était splendide, mais le séjour a été gâché parce qu'il a plu tout le temps. On n'a pas pu faire de la randonnée comme prévu.\n\n— Ah, c'est dommage. Qu'est-ce que vous avez fait alors?\n\n— On a sorti les dominos et les cartes. On aurait pu faire ça chez nous, ça nous aurait coûté moins cher. On a fait beaucoup de routes pour rester enfermés.\n\nQue regrettes-tu, Nathalie?",
+        "audio": "/mp3/172/22.mp3",
+        "options": [
+            "Elle a perdu aux jeux de société.",
+            "Elle est restée près de chez elle.",
+            "La météo était très mauvaise.",
+            "Le logement était mal situé."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 23,
+        "testId": 172,
+        "text": "Et donc les compositeurs ont un autre métier, c'est-à-dire qu'où ils sont en chef d'orchestre, où ils sont en directeur de conservatoire, où ils sont enseignants, chercheurs, directeurs artistiques parfois, parce que leur métier de compositeur ne leur permet pas de pouvoir avoir suffisamment de rémunération pour vivre correctement. Je pense qu'il doit y avoir à peu près que 2 ou 3% de compositeurs aujourd'hui qui vivent réellement dans la musique, c'est vraiment très très peu. Quelles difficultés les créateurs de musique rencontrent-ils?",
+        "audio": "/mp3/172/23.mp3",
+        "options": [
+            "Leur public est en diminution.",
+            "Leur salaire est insuffisant.",
+            "Leur savoir est peu transmis.",
+            "Leur talent est dévalorisé."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 24,
+        "testId": 172,
+        "text": "— Allô ? Salut, c'est Julie. Ça va ? Je voulais prendre de tes nouvelles, et aussi de Sarah.\n\n— Ça va. Je suis fatiguée, mais tout se passe bien. Sarah a bien grandi, elle est très mignonne, mais j'ai du sentir encore difficile. Je ne dors pas beaucoup.\n\n— Eh oui, elle n'a que trois mois. Il faut attendre encore un peu. Après, tu feras moins de biberons la nuit.\n\n— Heureusement, ma mère vient souvent m'aider la journée. Ça me permet de faire une sieste, et Sarah adore voir sa mamie, qui lui chante plein de chansons.\n\n— Génial ! Je viendrai vous voir, moi aussi.\n\nDe quoi parlent les deux amis ?",
+        "audio": "/mp3/172/24.mp3",
+        "audioAI": "/mp3/172/ai_24.mp3",
+        "options": [
+            "De conseils pour mieux dormir.",
+            "De difficultés à calmer les enfants.",
+            "De la relation entre fille et mère.",
+            "Des premiers mois d’un bébé."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 25,
+        "testId": 172,
+        "text": "Jadis on mettait plus l'accent sur les devoirs de l'individu, il fallait être un bon père, une bonne mère, etc. Et aujourd'hui on met beaucoup plus l'accent sur ces droits, et parmi ces droits, il y a le droit au bonheur. Et donc ce droit d'ailleurs qui est inscrit dans la Constitution, dans la Déclaration des droits de l'homme, pardon, eh bien crée petit à petit, em, y a une... oui une sorte de pression sociale, et ça on l'observe depuis une dizaine d'années. Et c'est vrai que les gens veulent du coup apprendre à mieux vivre avec leurs émotions, qu'ils considèrent d'ailleurs parfois comme encombrantes. Quel changement de société est observé dans ce reportage ?",
+        "audio": "/mp3/172/25.mp3",
+        "options": [
+            "Les gens cherchent davantage à être heureux.",
+            "Les gens deviennent de plus en plus égoïstes.",
+            "Les gens se préoccupent moins de leur famille.",
+            "Les gens sont peu demandeurs de sensations fortes."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 26,
+        "testId": 172,
+        "text": "— Une initiative vient de voir la nouvelle, elle s'appelle Collecte Bio.\n\n— Oui, c'est un collectif de 13 marques bio qui a mis ce projet sur pied en partenariat avec des magasins spécialisés bio. Il y a des indépendants et des magasins en réseau. Au total, il y a quand même prêt de 650 points de collecte implantés en France. En pratique, en fait, vous êtes invité à ramener vos emballages non recyclables en magasin pour les déposer dans des boxes pour que l'opérateur terrestre recycle ces déchets pour en faire des tables ou des bancs en plastique par exemple.\n\n— Alors, on peut même déposer des emballages de marques qui ne sont pas partenaires de cette opération ?\n\n— Eh oui, absolument, même si l'on a coûté 175 000 euros aux 13 pionniers pour rendre possible cette initiative. D'ailleurs, on peut se demander si ça n'aura pas un impact sur le prix des produits ?\n\nÀ quoi aboutit l'initiative collectivement ?",
+        "audio": "/mp3/172/26.mp3",
+        "audioAI": "/mp3/172/ai_26.mp3",
+        "options": [
+            "La création de meubles à partir du recyclage.",
+            "La distribution d’emballages non polluants.",
+            "La promotion des marques peu connues.",
+            "L’achat en gros d’aliments labellisés bio."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 27,
+        "testId": 172,
+        "text": "— À partir d'élève, vous n'avez jamais arrêté d'écrire ?\n\n— Oui, je n'ai jamais arrêté d'écrire. Et en même temps, ça me rend compte véritablement que j'étais écrivain. Moi, j'étais absolument persuadé pendant très très longtemps que tout petit garçon et toute petite fille qui rentrait chez elle ou chez lui, écrivait des histoires, puisque c'était ce que je faisais. C'est...J'ai l'impression que je suis écrivain comme le pommier fait les pommes, quoi. C'est très très naturel. Tout le monde avait compris que j'étais écrivain, sauf moi.\n\nQu'apprend-on au sujet de cet écrivain ?",
+        "audio": "/mp3/172/27.mp3",
+        "options": [
+            "Il a eu conscience de son talent tôt.",
+            "Il édite des œuvres pour la jeunesse.",
+            "Il pratique son art depuis l’enfance.",
+            "Il rédige des manuels de jardinage."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 28,
+        "testId": 172,
+        "text": "— La navigatrice Marie Levallois est la porte-parole de la Semaine de la Mer, écoutons-la.\n\n— On a voulu mettre en place une Semaine de la Mer pour le très grand public. À côté, les institutions membres de l'Alliance de la Mer font intervenir des scientifiques et des professionnels qui travaillent sur des solutions d'avenir pour une meilleure gestion de la mer. Mais il faut mobiliser tout le monde pour faire prendre conscience que les océans ne sont pas seulement l'endroit où on va passer ses vacances, mais participent aussi à la régulation du climat, fournissent 70% de l'oxygène qu'on respire, représentent un réservoir de solutions en énergie renouvelable et médicinale. Des ressources dont on ne connaît quasi disent rien, puisqu'on ne connaît qu'un pour cent de la biodiversité marine.\n\nQue propose la navigatrice ?",
+        "audio": "/mp3/172/28.mp3",
+        "options": [
+            "De collecter des dons.",
+            "De développer la recherche.",
+            "De sensibiliser l’opinion.",
+            "D’explorer l’écosystème."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 29,
+        "testId": 172,
+        "text": "Si demain vous viviez dans une oasis, je ne vous parle pas d'un lac avec des petits palmiers au milieu du désert, mais d'une communauté, une petite communauté en France, en ville ou à la campagne, où vos voisins seraient comme vous, décidés à vivre de façon plus écologue. C'est ça les oasis. 500 petits groupes aujourd'hui, des familles, qui vivent côte à côte, mais aussi ensemble. Et c'est peut-être avant-gardiste. Prenez par exemple, en Oréloire, les Koh Amo du Klessin. 28 familles, soit 60 personnes, qui vivent dans des bâtiments bio-climatiques, dont le chauffage, pour faire simple, ne pollue pas. Qui, toutes, ont renoncé à se brancher au tout à l'égout. Leurs eaux grises sont traitées dans des bassins plantés de roseaux, qui dépolluent. C'est parfaitement légal, et ça marche.  Que recherchent les habitants de ces oasis ?",
+        "audio": "/mp3/172/29.mp3",
+        "options": [
+            "Adopter un mode de vie collectif responsable.",
+            "Construire un réseau d’assainissement des eaux.",
+            "Faire la promotion de logements écologiques.",
+            "Mener une politique d’aménagement des villes."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 30,
+        "testId": 172,
+        "text": "— Avoir un beau sourire est un atout majeur de notre bien-être et un élément important dans notre relation avec les autres. Nous en parlons avec le docteur Franck Amoyel. Bonjour.\n\n— Bonjour.\n\n— Comment d'abord définiriez-vous le sourire ?\n\n— C'est un atout extraordinaire qui produit une grande confiance, qui attire le regard des autres. En plus, il participe à nos relations sociales. Vous savez, un sourire heureux nous rend heureux, un sourire triste nous rend triste. Et toutes ces expressions de visage, finalement, pénètrent notre inconscient et c'est notre cerveau qui les décode. Ce qu'il faut savoir aussi, c'est que le sourire, il est inné. Il est déterminé génétiquement.\n\nQuel est le rôle du sourire d'après ce docteur ?",
+        "audio": "/mp3/172/30.mp3",
+        "options": [
+            "Il aide à lutter efficacement contre la tristesse.",
+            "Il est indispensable pour l’activité de notre cerveau.",
+            "Il montre les progrès dans l’apprentissage des émotions.",
+            "Il permet d’entrer en relation avec les autres."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 31,
+        "testId": 172,
+        "text": "— Donc sans aller jusqu'au licenciement, Philippe, quelles sont les conséquences d'un mauvais niveau d'orthographe ?\n\n— Alors les responsables des ressources humaines, interrogés par Opinion Web pour Becherel, reconnaissent à 52% que ça a déjà pu jouer dans la mise à l'écart d'un candidat au moment du recrutement, et ils sont 15% à estimer que ça peut freiner la promotion d'un salarié, s'il n'est pas après tout énorme pour l'ensemble de la population, mais ça prend de toutes autres proportions si on s'intéresse aux plus jeunes, aux moins de 30 ans. Ce sont eux qui disent avoir le plus de mal avec l'orthographe. Quand on leur demande si leur faute ont suscité des reproches de la part de leurs collègues, de leur hiérarchie, de leurs clients, ils sont deux fois plus nombreux que le reste de la population à dire oui.\n\nQu'apprend-on sur le niveau d'orthographe dans le monde du travail ?",
+        "audio": "/mp3/172/31.mp3",
+        "options": [
+            "C’est un délai négligeable pour les recruteurs.",
+            "Il est indépendant de la promotion professionnelle.",
+            "Il est prévu de tester celui des futurs salariés.",
+            "La question est préoccupante pour les plus jeunes."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 32,
+        "testId": 172,
+        "text": "Et je me suis rendu compte que nous visions dans un monde où nous ne nous autorisions pas à être nous-mêmes, à nous écouter, à nous respecter. Et c'est surtout cette manière dont nous sommes pris par une forme d'auto-exploitation qui emmène tant de gens jusqu'à l'épuisement, jusqu'au burn-out, qui m'a donné envie de dire juste « sauvez votre peau, devenez narcissique ». Et je crois qu'en fait être narcissique c'est pouvoir s'écouter, se rencontrer, se respecter. Et je crois que ça c'est vraiment aujourd'hui crucial. Que déploie cet homme à propos des individus dans le monde actuel?",
+        "audio": "/mp3/172/32.mp3",
+        "options": [
+            "L’absence de formes d’altruisme.",
+            "La place accordée à l’apparence.",
+            "La superficialité des relations.",
+            "Le manque d’estime de soi."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 33,
+        "testId": 172,
+        "text": "— On a de la difficulté à croire que vous n'ayez pas envie de faire de la politique.\n\n— Hahaha! Vous savez, bon, j'espère qu'on va parler un peu de démocratie. Mais la démocratie, ça ne s'exprime pas exclusivement par la politique électorale. Ça me surprend toujours quand je vous entends dire que vous n'avez pas l'intention de faire de la politique.\n\n— Oui.\n\n— Ce que vous avez à l'esprit de vous présenter.\n\n— Oui, oui, bien sûr.\n\n— En fait, j'en fais de la politique. Je fais de la politique internationale, mais sans mandat. Ce qui d'ailleurs pose ses propres problèmes. Les gens pourraient dire, mais vous êtes qui? En qui vous a donné un mandat? Mais je pense qu'on vit maintenant dans un monde où les gens qu'on appelle la société civile, ce sont de plus en plus organisés à l'extérieur des institutions formelles de la démocratie.\n\nDans quelle mesure cette femme fait-elle de la politique?",
+        "audio": "/mp3/172/33.mp3",
+        "options": [
+            "En communiquant dans les médias.",
+            "En critiquant le pouvoir en place.",
+            "En représentant les électeurs.",
+            "En s’engageant comme citoyenne."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 34,
+        "testId": 172,
+        "text": "Selon ce comité d'experts, c'est une stratégie qui ne fait que davantage mettre en opposition les pays en voie de développement et les pays développés. Ils estiment que la consommation de poissons d'élevage dans les pays riches ne fait qu'aggraver la situation dans les autres pays puisqu'il faut avoir recours aux réserves de poissons des pays en développement pour produire les ressources qu'on consacre à l'élevage industriel. L'aquaculture, qui nous donne donc des saumons et autres choses, est une grande consommatrice de farine de poissons. Or, la farine de poissons est obtenue en broyant des poissons tout à fait consommables, des harins, des maquereaux, des anchois et ainsi de suite. On détruit du poisson consommable, du poisson bon marché, pour en faire du poisson cher qui est vendu dans les pays occidentaux. Selon l'intervenant, pourquoi l'aquaculture pose-t-elle problème?",
+        "audio": "/mp3/172/34.mp3",
+        "options": [
+            "L’alimentation fournie aux élevages est de mauvaise qualité.",
+            "L’existence d’industries piscicoles nuit à la variété des espèces.",
+            "La filière aquacole fragilise l’équilibre alimentaire mondial.",
+            "Les pécheurs pillent les fonds marins pour soutenir la concurrence."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 35,
+        "testId": 172,
+        "text": "— La formation continue offre parfois une seconde chance inespérée pour changer de cap. Armel nous le montre. Parlez-nous de votre ancien emploi.\n\n— Ingénieur agroalimentaire. J'ai travaillé pendant 12 ans dans un centre technique industriel, puis j'ai été licenciée.\n\n— Pourquoi avoir suivi une formation ?\n\n— Suite à mon licenciement, j'ai postulé à différentes offres d'emploi, mais on me reprochait toujours mon profil trop scientifique. Et ma méconnaissance des systèmes est acteur de l'innovation. Afin de combler ces lacunes, je me suis inscrite en Master 2.\n\n— Comment s'est-il déroulé ?\n\n— Les obstacles ont été nombreux, administratifs, financiers et organisationnels. Mais j'ai pris bon et la double compétence acquise me permet aujourd'hui de travailler dans le domaine que je cherchais.\n\nQu'est-ce qui a conduit Armel à suivre une formation continue ?",
+        "audio": "/mp3/172/35.mp3",
+        "audioAI": "/mp3/172/ai_35.mp3",
+        "options": [
+            "La perte de son emploi.",
+            "Sa volonté d’apprendre.",
+            "Ses nouvelles fonctions.",
+            "Un dispositif gouvernemental."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 36,
+        "testId": 172,
+        "text": "— Est-ce que vous pensez que dans le cosmos, il y a une autre planète sur laquelle nous pourrions habiter?\n\n— Bon! Que nous pourrions habiter, je ne sais pas. Nous ne savons rien de cela. Je sais que mon opinion, mais c'est une opinion, ce n'est pas quelque chose que je peux appuyer par des preuves scientifiques, c'est que dans cet univers, la vie est un phénomène très général. Je pense qu'il y a beaucoup de planètes, d'exoplanètes habitées, mais je ne peux pas l'affirmer parce que je n'ai pas de preuves. J'ai des collègues qui pensent le contraire. Donc c'est un bon sujet de discussion pour les jours où la télévision est en base.\n\nQue dit le scientifique sur l'existence extraterrestre?",
+        "audio": "/mp3/172/36.mp3",
+        "options": [
+            "C’est un thème controversé.",
+            "C’est une croyance invraisemblable.",
+            "C’est une hypothèse vérifiée.",
+            "C’est une invention de science-fiction."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 37,
+        "testId": 172,
+        "text": "J'accepte l'idée que l'oréopathie n'a pas une efficacité tellement différente que ça d'un placebo, mais en fait, nous avons besoin de médicaments qui sont des placebos, et je suis médecin et je le dis, et le problème c'est qu'aujourd'hui, à la limite, quand un patient guérit grâce à un placebo, on va sous-entendre qu'il a eu le temps de guérir. C'est-à-dire que oui, effectivement, il faut être un peu humble, en médecine on ne comprend pas tout ce qui se passe, et par moments, nous guérissons grâce à une injonction thérapeutique ou à autre chose que l'on ignore, et qu'il faut étudier.  Quel est le propos de ce médecin ?",
+        "audio": "/mp3/172/37.mp3",
+        "options": [
+            "Il admet que les guérisons spontanées sont fréquentes.",
+            "Il considère que la médecine a du mal à tout expliquer.",
+            "Il déconseille l’utilisation de certains médicaments.",
+            "Il est convaincu de l’efficacité des remèdes naturelle."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 38,
+        "testId": 172,
+        "text": "— Sur Brassard, la recherche de langue originelle a longtemps occupé les synapses des linguistes. Est-ce une quête toujours pertinente aujourd'hui ?\n\n— Non. Ban, oui et non, parce que, comme on l'a dit tout à l'heure, il n'y a plus de traces.  À moins 10 000 ans, à peu près, à la douche, on n'a plus de traces du tout de ce qui était parlé. Il y a des théories qui disent que toutes les langues du monde n'ont qu'une seule langue, et il y a autant de théories à côté de... qui disent que non, la langue est née en divers endroits du globe, et qu'il n'y a pas qu'une famille de langues, mais plusieurs. Et en l'état actuel des choses, je doute qu'on puisse, un jour prouver, déterminer qui a tort ou qui a raison.\n\nQu'explique Charles Brassard à propos de la langue originelle ?",
+        "audio": "/mp3/172/38.mp3",
+        "options": [
+            "Le consensus à ce sujet semble impossible.",
+            "Le nombre de données complexifie l’analyse.",
+            "Les études existantes doivent être révisées.",
+            "Les thèses avancées varient selon les pays."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 39,
+        "testId": 172,
+        "text": "On part du principe que nos vies contemporaines étant ce qu'elles sont, peu à peu, si on n'y prend pas garde, ils font être expulsées de nos journées tous les temps d'attente, de non-action. On est sans arrêt soit en train de nous engager dans des actions, faire des choses avec nos mains ou avec notre cerveau, soit nous nous reposons dans des distractions. On regarde si on a des messages sur internet, on écoute de la musique, on se passe un film, mais à aucun moment notre cerveau n'entre sur un mode très simple qui est d'être là, conscient que je suis vivant, conscient que j'appartiens à un ordre naturel, et juste contempler et ressentir ce phénomène. Selon l’intervenant qu’est-ce qui caractérise nos vies comtemporaines?",
+        "audio": "/mp3/172/39.mp3",
+        "options": [
+            "L’absence de temps morts.",
+            "L’ennui des distractions.",
+            "L’insuffisance de repos.",
+            "Le manque d’action."
+        ],
+        "answer": 0
+    }
+]
