@@ -1,0 +1,519 @@
+[
+    {
+        "id": 1,
+        "testId": 176,
+        "text": "A. Asseyez-vous, je vous en prie.\n\nB. Enchanté, je suis Julie.\n\nC. Je suis désolée, c'est complet.\n\nD. Un instant, ne quittez pas.",
+        "audio": "/mp3/176/1.mp3",
+        "img": "/mp3/176/1.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 2,
+        "testId": 176,
+        "text": "A. Et là, c'est ta maison ?\n\nB. C'est toi, le joli bébé ?\n\nC. Il est gentil, ce gros chien ?\n\nD. Ta sœur, elle est sur le vélo ?",
+        "audio": "/mp3/176/2.mp3",
+        "img": "/mp3/176/2.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 3,
+        "testId": 176,
+        "text": "A. Essaye une taille plus grande.\n\nB. La couleur de ta robe est très jolie.\n\nC. Mets tes chaussures.\n\nD. Toutes les cabines sont occupées.",
+        "audio": "/mp3/176/3.mp3",
+        "img": "/mp3/176/3.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 4,
+        "testId": 176,
+        "text": "Qu'est-ce que tu veux manger ce soir?\n\nA. Au restaurant grec.\n\nB. Il n'y a pas de bar.\n\nC. Juste une salade.\n\nD. Mardi 20h chez moi.",
+        "audio": "/mp3/176/4.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 5,
+        "testId": 176,
+        "text": "Pour les vacances d'été, je voudrais partir au Japon avec Céline. Qu'est-ce que t'en penses?\n\nA. C'est vraiment dommage.\n\nB. Elle aime beaucoup cette ville.\n\nC. J'ai un peu de temps libre.\n\nD. Quelle bonne idée!",
+        "audio": "/mp3/176/5.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 6,
+        "testId": 176,
+        "text": "Pardon madame, vous pouvez m'aider ? Je cherche les vêtements de sport.\n\nA. C'est au 2e étage.\n\nB. Ils existent dans ces deux couleurs.\n\nC. Les soldes commencent demain.\n\nD. Vous pouvez payer par chèque.",
+        "audio": "/mp3/176/6.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 7,
+        "testId": 176,
+        "text": "J'ai trouvé un nouveau restaurant. On réserve une table pour deux à midi? Tu es d'accord?\n\nA. Désolé, je mange avec mes collègues.\n\nB. Désolé, je ne peux pas t'aider.\n\nC. Désolé, je préfère le menu à 18 euros.\n\nD. Désolé, je te réponds dans la soirée.",
+        "audio": "/mp3/176/7.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 8,
+        "testId": 176,
+        "text": "Ma nièce Camille va avoir 10 ans vendredi prochain. J'aimerais l'emmener au cirque. Tu en penses quoi ?\n\nA. Bien sûr, je déteste les animaux.\n\nB. D'accord, le spectacle est complet.\n\nC. Non, la réservation est obligatoire.\n\nD. Pourquoi pas, c'est un beau cadeau.",
+        "audio": "/mp3/176/8.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 9,
+        "testId": 176,
+        "text": "Vous avez mal au ventre depuis combien de temps?\n\nA. Deux fois par mois.\n\nB. La semaine prochaine.\n\nC. Tous les matins.\n\nD. Trois jours.",
+        "audio": "/mp3/176/9.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 10,
+        "testId": 176,
+        "text": "— Allô, maman? Prête pour notre repas au restaurant près du parc des rosiers ce midi?\n\n— Désolée Elias, j'ai un gros rhume, je préfère rester à la maison.\n\nPourquoi est-ce qu'Elias téléphone à sa mère?",
+        "audio": "/mp3/176/10.mp3",
+        "options": [
+            "Pour aller manger ensemble.",
+            "Pour annuler leur rendez-vous.",
+            "Pour faire une promenade.",
+            "Pour prendre des nouvelles."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 11,
+        "testId": 176,
+        "text": "— Excusez-moi, madame, mais je suis complètement perdu, je ne trouve pas la gare et mon train part dans 5 minutes, à l'hôtel on m'a dit de passer par là.\n\n— Montrez-moi votre plan, mais vous le regardez à l'envers, le muséé est au bout de la rue et la gare, juste derrière.\n\n— Ah, merci beaucoup.\n\nQue veut faire cet homme ?",
+        "audio": "/mp3/176/11.mp3",
+        "audioAI": "/mp3/176/ai_11.mp3",
+        "options": [
+            "Acheter un plan.",
+            "Prendre un train.",
+            "Trouver un hôtel.",
+            "Visiter un musée."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 12,
+        "testId": 176,
+        "text": "On entend souvent dire qu'il y a trop de gras dans notre alimentation, mais est-ce bien vrai ? Ce n'est pas certain. En réalité, nous manquons de bons gras dont le corps et le cerveau ont besoin pour fonctionner pleinement. Il est par exemple recommandé de consommer du fromage le matin ainsi que des poissons gras. Pour les végétariens, pensez aux œufs et aux noix. Qu'apprend-on ici au sujet de certains aliments gras ?",
+        "audio": "/mp3/176/12.mp3",
+        "options": [
+            "Ils causent de nouvelles maladies.",
+            "Ils favorisent les prises de poids.",
+            "Ils sont bénéfiques pour la santé.",
+            "Ils sont indispensables aux sportifs."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 13,
+        "testId": 176,
+        "text": "— Mathieu, j'aurai besoin d'un conseil, est-ce que tu penses que je devrais aller aux Etats-Unis pour finir mon master ?\n\n— C'est très personnel comme décision, est-ce que tu crois que ce sera une bonne opportunité pour ta carrière ?\n\n— Oui, d'après mes profs, si j'y vais, j'aurai un meilleur niveau d'anglais et je pourrai plus facilement obtenir un poste dans une entreprise bilingue.\n\n— Alors fais-le, et en plus tu feras de nouvelles connaissances.\n\nQue conseille Mathieu à son ami ?",
+        "audio": "/mp3/176/13.mp3",
+        "options": [
+            "D’apprendre une langue.",
+            "D’arrêter des études.",
+            "De partir à l’étranger.",
+            "De rencontrer du monde."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 14,
+        "testId": 176,
+        "text": "Mesdames et Messieurs, la mer étant très agitée et la météo annonçant une sorte d'aggravation de la situation en fin d'après-midi. Il vous est demandé de faire preuve d'une grande prudence. Ne vous éloignez pas du rivage. Restez toujours dans les zones surveillées et n'allez pas dans les zones non-surveillées. Ne nagez pas au-delà de la ligne des flotteurs et des bouées de sécurité. Ne pratiquez aucun sport nautique: planche à voile ou autre. Tout non-respect de ces recommandations est sous votre entière responsabilité. Que recommande l'annonce aux baigneurs?",
+        "audio": "/mp3/176/14.mp3",
+        "audioAI": "/mp3/176/ai_14.mp3",
+        "options": [
+            "D’attendre la fin de la journée pour nager.",
+            "De s’équiper avant de se mettre à l’eau.",
+            "De se baigner dans les secteurs prévus.",
+            "De faire attention aux surfeurs."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 15,
+        "testId": 176,
+        "text": "— Bonjour, je voudrais réserver un séjour au Seychelles.\n\n— Alors, j'ai plusieurs formules de voyage à vous proposer. J'ai notamment quelque chose de très intéressant. Un combiné avion plus hôtel 4 étoiles sur l'île principale à 1300 euros la semaine, départ entre le 10 et le 15 décembre.\n\n— C'est au-dessus de mes moyens. Qu'auriez-vous d'autres à me proposer?\n\n— J'ai aussi des hôtels de catégorie inférieure.\n\n— Oui, je préférerais.\n\nQu'est-ce qui pose problème au client?",
+        "audio": "/mp3/176/15.mp3",
+        "options": [
+            "La date de départ.",
+            "La durée du voyage.",
+            "La situation de l’hôtel.",
+            "Le prix du séjour."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 16,
+        "testId": 176,
+        "text": "— Bonjour, vous êtes la chanteuse Pascaloun, n'est-ce pas ?\n\n— Oui, c'est moi !\n\n— Bonjour ! Voilà, nous sommes une association et nous organisons chaque année une grande soirée, une fête solidaire au profit d'un programme de lutte contre la malnutrition de finale façon. Et nous proposons à différents artistes de se produire ce soir-là, gratuitement, bien entendu. Et donc, on a pensé à vous cette année. On vous invite à participer à ce moment de solidarité. Chaque artiste invité dispose de 20 minutes sur scène et on met à votre disposition une équipe de techniciens pour vous aider. On espère ainsi récolter suffisamment de fonds pour poursuivre cette action. Cela vous intéresse ?\n\nQue demande-t-on à Pascaloun ?",
+        "audio": "/mp3/176/16.mp3",
+        "options": [
+            "Une contribution financière.",
+            "Une formation artistique.",
+            "Une intervention télévisée.",
+            "Une participation bénévole."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 17,
+        "testId": 176,
+        "text": "— Ça y est, j'ai trouvé un stage pour cet été, dans une société de transports. C'est assez loin de chez moi, mais je suis super contente !\n\n— Tu seras payée ?\n\n— Pas beaucoup, mais ce sera une bonne expérience.\n\n— Et tu vas faire quoi ?\n\n— Des statistiques sur la circulation des bus.\n\n— Toi qui adores les chiffres, c'est super ! Comment tu as trouvé ce stage ?\n\n— C'est un ami de mon père, il travaille là-bas.\n\nPourquoi ce stage intéresse-t-il la jeune femme ?",
+        "audio": "/mp3/176/17.mp3",
+        "audioAI": "/mp3/176/ai_17.mp3",
+        "options": [
+            "Il correspond à ses attentes.",
+            "Il dure six mois au total.",
+            "Il est proche de son domicile.",
+            "Il offre un très bon salaire."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 18,
+        "testId": 176,
+        "text": "— Février est l'un des mois les plus brossades au niveau de la météo. C'est souvent le mois le plus gris et le plus froid de l'année. Du coup, les gens ont tendance d'une part à surchauffer leur chambre et aussi à moins l'aérer. Or tous les spécialistes le disent, une température intérieure de plus de 19°C, vivement terre fraîche, font défaut à la qualité du sommeil.\n\n— Et selon la statistique du mois de février, il serait uniquement dû au problème du sommeil ?\n\n— Non, il se trouve qu'en février, enfin en hiver, l'organisme est plus vulnérable, d'autant qu'il est minable à cause du manque de lumière naturelle et de l'absence d'activités physiques régulières. Les défenses immunitaires sont affaiblies, et de nombreuses personnes font la fameuse dépression saisonnière.\n\nQu'explique la journaliste ?",
+        "audio": "/mp3/176/18.mp3",
+        "audioAI": "/mp3/176/ai_18.mp3",
+        "options": [
+            "Comment diminuer la consommation d’énergie.",
+            "Comment il faut appliquer les conseils des experts.",
+            "Comment la santé est influencée par le calendrier.",
+            "Comment se protège des maladies contagieuses."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 19,
+        "testId": 176,
+        "text": "Bonjour à tous, voici des informations sur la circulation et les premiers problèmes ce matin sur les routes de France. Pour le premier week-end des vacances scolaires, il y a beaucoup de monde sur les routes, donc faites très attention quand vous êtes en voiture. Et n'oubliez pas de vous arrêter toutes les deux heures pour faire une pause. Quelle information donne le journaliste ?",
+        "audio": "/mp3/176/19.mp3",
+        "options": [
+            "Les accidents sont importants.",
+            "Les arrêts sont interdits.",
+            "Les départs sont nombreux.",
+            "Les embouteillages sont finis."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 20,
+        "testId": 176,
+        "text": "— Hélène Carrère-Dancos, votre article nous informe du danger qui menace l'existence et le développement des lycées français de l'étranger.\n\n— Oui, ces lycées étaient payants. Ils sont devenus gratuits en 2007. Cette décision, au départ généreuse, se retourne finalement contre les lycées, car les entreprises qui payaient ne le font plus. C'est l'État seul qui soutient les lycées, donc, quand cela deviendra trop lourd pour l'État, il risque de vouloir enfermer certains.\n\nPour Hélène Carrère-Dancos, quels sont les problèmes des lycées français de l'étranger ?",
+        "audio": "/mp3/176/20.mp3",
+        "options": [
+            "Le nombre d’élèves est en baisse.",
+            "Les frais de scolarité sont élevés.",
+            "Leurs programmes sont inadaptés.",
+            "Leurs financements sont fragilisés."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 21,
+        "testId": 176,
+        "text": "— Bonjour, Madame Léveille. Qu'est-ce qui vous amène aujourd'hui?\n\n— Eh bien, ma voiture a un problème au démarrage depuis hier. Elle démarre assez bien, puis elle s'arrête brusquement au bout de dix minutes. Vous pouvez voir ce qu'il se passe?\n\n— Là, maintenant? C'est pas possible. Demain, peut-être.\n\n— Ah, c'est dommage. J'en ai vraiment besoin dès demain, M. Lavoie.\n\n— Hum, attendez. Je regarde mon agenda. Bon, écoutez. Laissez-la moi toute l'après-midi et vous la reprendrez ce soir. Elle sera prête.\n\n— C'est vraiment très gentil de votre part. Alors, à ce soir. Merci.\n\nQue va faire la cliente? Sous-titrage Société Radio-Canada",
+        "audio": "/mp3/176/21.mp3",
+        "options": [
+            "Elle va repartir avec sa voiture.",
+            "Elle va revenir dans dix minutes.",
+            "Elle va revenir le lendemain.",
+            "Elle va repartir sans sa voiture."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 22,
+        "testId": 176,
+        "text": "— Est-ce que c'est toujours compatible ça, d'avoir beaucoup d'heures de sport comme ça et pouvoir concilier des études aussi?\n\n— Non, spontanément c'est pas toujours compatible et puis c'est un grand paradoxe qui s'installe d'entrée de jeu parce que on fait faire du sport à nos enfants pour développer des valeurs, des valeurs de rigueur, sens d'habitude de vie, de qualité de vie et puis on se retrouve à devoir composer avec des attitudes qui ne sont pas très très de grande qualité. On va faire manger les enfants dans la voiture en s'en allant à l'aréna, on va faire des devoirs 2-3 fois plus parce qu'on sait que tel ou tel jour on n'aura pas le temps de les faire. Donc, on fait plusieurs entorses à l'hygiène de vie parfois pour réussir à rencontrer les horaires.\n\nQu'est-ce qui inquiète cette mère de famille?",
+        "audio": "/mp3/176/22.mp3",
+        "options": [
+            "La fréquence des compétitions sportives.",
+            "Le contenu des programmes sportifs.",
+            "Les contraintes liées aux pratiques sportives.",
+            "L’insuffisance des résultats sportifs."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 23,
+        "testId": 176,
+        "text": "— Tiens, c'est le Salon de l'Agriculture la semaine prochaine, il faut que vous y alliez Françoise, je suis sûr que vous allez adorer.\n\n— Vous savez, moi, j'y connais rien, c'est pas le genre de salon que je fréquente.\n\n— Vous avez tort, moi j'y vais tous les ans, imaginez la plus grande ferme du monde qui s'installe en plein Paris pour dix jours.\n\n— Oui, oui, bien sûr, il y a plein d'autres choses intéressantes à faire à Paris.\n\n— Bien sûr, mais il faut y aller, vous allez voir les animaux par exemple, c'est incroyable, vous pourrez les carsser. Je ne vous parle pas des spécialités gastronomiques, un régal.\n\n— Vous savez, moi, les animaux, cependant, vous avez éveillé ma curiosité, mais il faudra venir avec moi.\n\nDans ce dialogue, quelle est l'attention du monsieur?",
+        "audio": "/mp3/176/23.mp3",
+        "options": [
+            "Il fait des compliments.",
+            "Il formule une invitation.",
+            "Il cherche à convaincre.",
+            "Il donne des conseils."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 24,
+        "testId": 176,
+        "text": "Je crois que l'enjeu de cette maison, c'est... ça déborde, je crois vraiment, le le le côté du Médiciel est de l'essence. C'est qu'est-ce que... c'est peut-être quelque chose où... on exige du théâtre, de la musique, des soignants conformes et différents, des parents présents, un espace de circulation ouvert, vitré, transparent. C'est...ah... avec... de jolies couettes, de jolis meubles, de jolis espaces, et un grand respect de... du sujet plutôt que de sa maladie, dit quoi. Comme si on attaquait la maladie, on respecte le patient. Selon cette personne, qu'est-ce qui caractérise une structure médicale de bonne qualité?",
+        "audio": "/mp3/176/24.mp3",
+        "audioAI": "/mp3/176/ai_24.mp3",
+        "options": [
+            "La qualité de l’accueil des visiteurs et des familles.",
+            "Le souci du bien-être des personnes hospitalisées.",
+            "La capacité d’adaptation du personnel médical.",
+            "La prise en charge personnalisée en fonction de l’Age."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 25,
+        "testId": 176,
+        "text": "Deux manières de ne pas goûter les aliments, c'est de manger en silence, on les trouve moins bons, ou de manger avec un bruit sonore, de la musique constamment, ou un bruit de fond continu qui altère le goût des aliments. La dimension sonore adaptée au goût des aliments, c'est la parole. Il faut commenter tout ce que l'on déguste, commenter les aliments, et à ce moment-là, on éprouve mieux leur goût. On éprouve mieux leur saveur quand on discute avec quelqu'un, alors que lorsque l'on est seul dans le silence, le plaisir de manger et de boire est bien moins grand. Selon cet homme, qu'est-ce qui permet d'apprécier pleinement ce que l'on mange ?",
+        "audio": "/mp3/176/25.mp3",
+        "options": [
+            "Écouter de la musique classique.",
+            "Parler des plats que l’on savoure.",
+            "Partager un repas en famille.",
+            "Avoir une table bien décorée."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 26,
+        "testId": 176,
+        "text": "Étudiants ou lycéens, il existe une façon très simple d'améliorer vos copies. C'est d'éviter l'utilisation du verbe « être ». Ce verbe apparaît trop souvent dans les dissertations. Or, le verbe « être », c'est la description d'un état. Et une succession de descriptions d'états n'a jamais constitué une explication. Vous pouvez vous entraîner à remplacer le verbe « être » dans vos textes par d'autres verbes, plus appropriés à ce que vous voulez dire. Vous verrez, vous allez enrichir votre vocabulaire et vous trouverez votre production bien plus intéressante. Après tout, Georges Perec a écrit un livre qui s'appelle « La disparition » dans lequel il n'a pas utilisé la lettre « e ». Vous pouvez bien rédiger une rédaction sans « être ». Quel conseil est donné pour améliorer la qualité d'un texte ?",
+        "audio": "/mp3/176/26.mp3",
+        "options": [
+            "Aller à l’essentiel.",
+            "Faire des phrases courtes.",
+            "Hiérarchiser ses idées.",
+            "S’exprimer avec précision."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 27,
+        "testId": 176,
+        "text": "— Comment les jeunes français envisagent-ils leur avenir ?\n\n— La réponse est à lire dans le sondage publié aujourd'hui par le tout nouvel observatoire des jeunes et des familles. 1000 jeunes de 18 à 25 ans et 1000 familles ont été interrogés. Première surprise, les jeunes ont plutôt confiance en l'avenir à 52% et même si les difficultés économiques les angoissent, 8 sur 10 estiment qu'ils obtiendront ce qu'ils veulent mais les principaux obstacles seront le travail et le logement.\n\nQu'apprend-on sur l'attitude des jeunes français face à leur avenir ?",
+        "audio": "/mp3/176/27.mp3",
+        "options": [
+            "Ils espèrent obtenir une allocation de l’état.",
+            "Ils voient leur futur de manière positive.",
+            "Ils comptent sur le soutien de leurs proches.",
+            "Ils refusent d’habiter chez leurs parents."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 28,
+        "testId": 176,
+        "text": "— Des menus équilibrés, un bar à salade, une sandwicherie, l'école secondaire de Rochebelle à Sainte-Foy au Québec fait tout pour inciter les jeunes à mieux manger.\n\n— J'aime la nourriture, le choix, les sandwiches et le bar à salade. Je suis fatiguée de manger gras.\n\n— Une étude parue l'année dernière sur les habitudes des jeunes menées en collaboration avec l'Université de Laval montre qu'ils sont encore trop nombreux à manger à l'extérieur de l'école et à privilégier la restauration rapide.\n\n— On aimerait augmenter de 15% la proportion des élèves qui restent à l'école pour déjeuner.\n\nQuel problème soulève l'étude menée par l'Université de Laval ?",
+        "audio": "/mp3/176/28.mp3",
+        "options": [
+            "Les élèves manquent de temps pour prendre leurs repas.",
+            "Les habitudes alimentaires des élèves sont difficiles à modifier.",
+            "Les menus des cantines scolaires sont très mal équilibrés.",
+            "Les restaurants scolaires coutent cher aux familles."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 29,
+        "testId": 176,
+        "text": "Apprendre à gérer son argent n’est pas une priorité éducative alors que l’argent nous accompagne toute notre vie. Construire un budget ça s’apprend, mais trop souvent le sujet est considéré tabou par les adultes. Donc pas question d’en parler avec les enfants. Dans la sphère de l’école, aucune séance de travail n’est dédiée à cette question. Pourtant, chacun est concerné dans sa vie professionnelle et personnelle par les principales notions que sont les coûts, les crédits, les prêts, les taux d’intérêt, l’endettement, l’économie à l’échelle de l’individu. Voilà un domaine qui touche chaque Français sans que jamais celui-ci y soit vraiment initié. Que dénonce cette journaliste?",
+        "audio": "/mp3/176/29.mp3",
+        "options": [
+            "L'absence de formation sur l'élaboration d'un budget.",
+            "Le désintérêt des jeunes pour les questions financières.",
+            "Le manque de cours d'économie à l'université.",
+            "Le peu d'informations des banques sur les crédits."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 30,
+        "testId": 176,
+        "text": "Aujourd'hui, quand le voyageur rentre de Bamako, de Sarajevo ou de Québec, il rapporte un trésor très précieux, le carnet de voyage. Composé d'aquarelles, de croquis, de descriptions de petits rien, de photos, de textes ou de collages, de sable ou de coquillages, ces petits objets de mémoire et d'évasion sont à la mode en France, notamment depuis le succès des carnet de voyage du navigateur Tito Walamazu. D'après cette chronique, en France, quel est l'objet qui est à la mode de rapporter de voyage ?",
+        "audio": "/mp3/176/30.mp3",
+        "options": [
+            "Un bijou d’artisanat local.",
+            "Un guide touristique illustré.",
+            "Un modèle réduit de bateau.",
+            "Un album de souvenirs personnels."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 31,
+        "testId": 176,
+        "text": "Vous savez, aujourd'hui, on parle beaucoup des effets négatifs des écrans pour les enfants et les psychologues s'accordent à dire que des enfants qui sont trop soumis aux écrans ont des troubles de l'apprentissage, de la concentration, voire des difficultés de sommeil. En fait, pour les adultes, c'est exactement la même chose et on voit des salariés aujourd'hui qui ont du mal à se concentrer parce qu'ils sont en permanence dérangés par des notifications, par des mails. Donc c'est des difficultés de concentration, c'est des difficultés parfois d'apprentissage et il y a beaucoup de salariés qui, aujourd'hui, se plaignent de cette charge mentale. Il y a une étude récente qui citait comme chiffre un tiers des salariés qui se sentent surchargés par l'information sur le lieu de travail. Donc l'enjeu, c'est de revenir justement à des temps de calme, de sérénité, propices à la concentration, propices à la créativité. Qu'est-ce qui participe à la charge mentale des salariés ?",
+        "audio": "/mp3/176/31.mp3",
+        "options": [
+            "L’inégalité dans la répartition des taches.",
+            "La surabondance de sollicitations.",
+            "Le manque de fonctionnalité des locaux.",
+            "Les interventions des collègues."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 32,
+        "testId": 176,
+        "text": "En fait, comme on habite tous le 19e arrondissement de Paris, le canal de Lourdes qui est devenu notre espace de baignade quotidienne. Après une journée de travail, généralement on se retrouve au bord du canal, tous ensemble, et on se baigne. Aujourd'hui on est entre 15 et 20 à se baigner régulièrement dans le canal de Lourdes. On est des jeunes étudiants fauchés, qu'on a envie de s'amuser, qu'on a pas forcément les moyens aussi de partir de Paris. Que font les jeunes parisiens dont parle ce reportage ?",
+        "audio": "/mp3/150/32.mp3",
+        "options": [
+            "Ils nagent en plein air dans la capitale.",
+            "Ils s’amusent dans un parc d’attractions.",
+            "Ils se retrouvent à la piscine municipale.",
+            "Ils sont en vacances au bord de la mer."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 33,
+        "testId": 176,
+        "text": "— On rend hommage aujourd'hui à un grand pianiste, chef d'orchestre, compositeur canadien d'origine argentine, qui est considéré, Stéphanie, comme un des musiciens actuels les plus importants.\n\n— Oui, j'ai eu ce grand privilège de rencontrer Raoul Sosa au Conservatoire de Montréal où il donne des cours aux futurs grands pianistes canadiens. Et vous savez Raymond, ce sujet me tient particulièrement à cœur parce que j'ai étudié le piano et donc je n'ai aucun mal à imaginer ce que ça prend pour arriver au niveau de cet artiste. Originaire de Buenos Aires, il a quitté son pays à l'âge de 20 ans pour étudier en Europe et en 1978, il a reçu le prix de la meilleure émission radiophonique d'un soliste canadien par le Conseil canadien de la musique à Ottawa.\n\n— Pourquoi la journaliste a-t-elle été touchée de rencontrer Raoul Sosa?",
+        "audio": "/mp3/176/33.mp3",
+        "options": [
+            "Parce qu’elle admire l’orchestre du conservatoire et qu’elle espère y jouer.",
+            "Parce qu’elle aspire à rencontrer tous les grands interprètes classiques du moment.",
+            "Parce qu’elle connait la discipline dont il faut faire preuve pour bien jouer.",
+            "Parce qu’elle est elle-même migrante et sait combien peut lui être utile."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 34,
+        "testId": 176,
+        "text": "L'équipe d'Interception vous propose de découvrir le travail d'habillage sonore qui rentre aujourd'hui dans la conception des véhicules automobiles, aussi bien ceux qui sont équipés d'un moteur à explosion que des autres. Transformer les bruits que produisent les voitures en sons, en sons utiles et agréable, c'est un outil. Ceux qui le pratiquent apprennent ce qu'il faut bien passer dans le domaine, planchent sur la limite au point d'un environnement sonore à la carte. D'un clic, tout conducteur pourra bientôt choisir le bruit de son moteur ou de ses clignotants et il en changera même au biais de ses humeurs. Pourquoi développe-t-on l'habillage sonore des voitures en français ?\n\n<br/>**Note:** The options are generated by ChatGPT as original options are actually from question 34, Série 149.",
+        "audio": "/mp3/176/34.mp3",
+        "audioAI": "/mp3/176/ai_34.mp3",
+        "options": [
+            "Pour améliorer l'expérience de conduite en rendant les sons plus agréables et personnalisés.",
+            "Pour réduire la consommation de carburant en utilisant des sons plus doux et plus efficaces.",
+            "Pour analyser les préférences des conducteurs en matière de couleurs et de design.",
+            "Pour étudier l'impact des sons de la nature sur le comportement des conducteurs."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 35,
+        "testId": 176,
+        "text": "— Alors Jean, c'était ce journal. Qu'est-ce que ça a donné ?\n\n— C'était passionnant et puissant parce que l'on ne compte pas ses heures. Il y a énormément de déplacements, ça c'est un côté agréable mais qu'il faut gérer intelligemment par rapport à la vie de famille.\n\n— C'est un travail très valorisant, non ?\n\n— C'est vrai, on bénéficie d'une considération exceptionnelle, mais ça aussi il faut le gérer.\n\n— Le hic, c'est que la rédaction garde un droit de regard sur les papiers. Je crains que le travail avec eux soit trop orienté. Ils ont des accointances fortes avec certains élus, même s'ils le nient, et ça dépasse en conséquence.\n\n— Le salaire pourra peut-être te faire oublier tes réticences ?\n\n— La déontologie et toi, ça fait deux.\n\nQue redoute Jean à propos de cet emploi?",
+        "audio": "/mp3/176/35.mp3",
+        "options": [
+            "La perte de sa liberté intellectuelle.",
+            "Les nombreux voyages à l’étranger.",
+            "Un manque de reconnaissance.",
+            "Une rémunération insuffisante."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 36,
+        "testId": 176,
+        "text": "Petit dicton au rayon du bon sens près de chez nous, quand on a un problème, eh bien, dormons dessus. Rien de tel qu'une bonne nuit de sommeil pour y voir plus clair. Eh bien, cette vérité, sachez-le, les chercheurs américains de l'Université de Californie l'ont démontré scientifiquement. Le sommeil permet de résoudre des problèmes sans que vous fassiez quoi que ce soit. Quand on dort, vous le savez, on alterne les périodes de sommeil profond et de sommeil paradoxal. Eh bien, cette phase paradoxale, riche en rêves, jouerait un rôle essentiel dans l'inventivité et dans la résolution des problèmes. Vous avez donc compris le message, il faut dormir. Qu'a-t-on découvert sur le sommeil ?",
+        "audio": "/mp3/176/36.mp3",
+        "options": [
+            "Il conditionne l’humeur.",
+            "Il dope l’énergie.",
+            "Il minimise l’angoisse.",
+            "Il stimule la créativité."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 37,
+        "testId": 176,
+        "text": "— Renaud Capuçon, ce que je me demande, c'est comment vous, en tant que violoniste, vous arrivez à vous accorder si bien avec les autres instruments ?\n\n— C'est le grand bonheur de la musique de chambre. C'est justement ce plaisir d'essayer, non pas de tirer la couverture à soi ou de jouer solo, mais de parvenir à une symbiose. Je trouve que ça remet vraiment les bands du balaire. Parfois, on joue peu avec un orchestre. Ou bien on passe d'un orchestre à un autre. On travaille avec des orchestres que l'on voit très peu, puisqu'on répète une demi-heure et qu'on joue ensuite un concerto. À contrario, la musique de chambre  permet d'aller au fond des choses. On ne peut pas tricher. Sur scène, le dialogue est absolument 5 minutes. Que permet la musique de chambre, selon Renaud Capuçon ?",
+        "audio": "/mp3/176/37.mp3",
+        "audioAI": "/mp3/176/ai_37.mp3",
+        "options": [
+            "D’affiner l’écoute entre musiciens.",
+            "D’exprimer l’originalité d’une interprétation.",
+            "De faire varier le répertoire des concerts.",
+            "De perfectionner la technique du violoniste."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 38,
+        "testId": 176,
+        "text": "— Le plan Nord mise aussi sur l'appui des populations locales, notamment celui des Inuits et des Amérindiens, que l'on va former aux nouveaux emplois. Certaines nations, comme celle des Inus, ont des réticences. Ce conseiller juridique milite pour que son peuple et le gouvernement du Québec signent une entente pour sortir les Autochtones de leur dépendance économique.\n\n— De toute évidence, les retombées économiques pour les communautés autochtones des Inus ne seront pas là, tout simplement. Mais je pense que c'est une responsabilité du gouvernement, de l'État québécois également, de s'assurer que les jeunes Inus soient formés et qu'ils aient accès à des jobs valorisants dans le cadre des projets miniers.\n\n— Certains environnementalistes ont des réserves face à ce plan qui va faciliter l'exploitation de zones jusqu'à leur vierge.\n\nComment réagissent les populations indigènes concernées par ce projet?",
+        "audio": "/mp3/176/38.mp3",
+        "options": [
+            "Elles demandent un nouveau statut juridique.",
+            "Elles exigent des garanties réelles et tangibles.",
+            "Elles mettent en doute la viabilité du projet.",
+            "Elles veulent que les terres restent intactes."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 39,
+        "testId": 176,
+        "text": "— Et c'est tout l'art d'une série captivée son public. La place que peut prendre une série dans la vie de jeunes gens ou moins jeunes peut inquiéter. Jean-Pierre Coutron est psychologue clinicien spécialiste des addictions.\n\n— On commence à voir dans des entretiens avec des familles, avec des jeunes, ce problème qui est à bordé, ce qui est un des critères de l'addiction sur le mode de j'arrive pas à faire autrement, j'arrive pas à contrôler et ça crée de la souffrance. C'est la thématique de l'hyper-connexion, c'est la thématique de la technologie sans limite, donc c'est à l'humain de s'arrêter de lui-même et c'est toujours plus difficile. On a toute une réflexion à partager avec les parents parce que la première réponse c'est quand même la réponse éducative.\n\nQue constate l'intervenant à propos des séries ?",
+        "audio": "/mp3/176/39.mp3",
+        "options": [
+            "Elles entrainent des dépendances maladives.",
+            "Elles nuisent aux capacités d’apprentissage.",
+            "Elles perturbent la perception de la réalité.",
+            "Elles provoquent un isolement dangereux."
+        ],
+        "answer": 0
+    }
+]
