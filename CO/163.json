@@ -1,0 +1,531 @@
+[
+    {
+        "id": 1,
+        "testId": 163,
+        "text": "A. Il est beau ce danseur.\n\nB. J'adore cette chanson.\n\nC. La radio est trop forte.\n\nD. Tu joues bien du piano.",
+        "audio": "/mp3/163/1.mp3",
+        "audioAI": "/mp3/163/ai_1.mp3",
+        "img": "/mp3/163/1.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 2,
+        "testId": 163,
+        "text": "A. Je peux m'asseoir ici?\n\nB. Mon chien peut venir avec moi?\n\nC. Quand passe le prochain bus?\n\nD. Vous me donnez un ticket?",
+        "audio": "/mp3/163/2.mp3",
+        "img": "/mp3/163/2.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 3,
+        "testId": 163,
+        "text": "A. 1, 2, 3, levez-vous !\n\nB. Attention, souriez !\n\nC. Chantez ensemble !\n\nD. Prêt ? Partez !",
+        "audio": "/mp3/163/3.mp3",
+        "audioAI": "/mp3/163/ai_3.mp3",
+        "img": "/mp3/163/3.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 4,
+        "testId": 163,
+        "text": "A. C'est un bon marchand de légumes.\n\nB. Demandez un plan de la ville.\n\nC. L'entrée de la préfecture est là-bas.\n\nD. Ma voiture est au parking.",
+        "audio": "/mp3/163/4.mp3",
+        "img": "/mp3/163/4.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 5,
+        "testId": 163,
+        "text": "— Bonjour madame, qu'est-ce qui vous arrive?\n\n— Bonjour, j'ai très mal à la gorge. Est-ce que vous avez quelque chose pour moi?\n\nA. Oui, c'est plus difficile.\n\nB. Oui, je suis malade aussi.\n\nC. Oui, prenez ce médicament.\n\nD. Oui, voici votre facture.",
+        "audio": "/mp3/163/5.mp3",
+        "audioAI": "/mp3/163/ai_5.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 6,
+        "testId": 163,
+        "text": "Quand est-ce que tu commences ton nouveau travail ?\n\nA. Il y a quinze jours.\n\nB. La semaine prochaine.\n\nC. Tous les après-midi.\n\nD. Vendredi dernier.",
+        "audio": "/mp3/163/6.mp3",
+        "audioAI": "/mp3/163/ai_6.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 7,
+        "testId": 163,
+        "text": "J'ai envie de me baigner. On se retrouve à la piscine?\n\nA. Oui, mais tu ne viens pas.\n\nB. Non, moi j'aime bien nager.\n\nC. Non, j'ai envie de nager.\n\nD. Oui, pourquoi pas.",
+        "audio": "/mp3/163/7.mp3",
+        "audioAI": "/mp3/163/ai_7.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 8,
+        "testId": 163,
+        "text": "Vous avez reçu la commande de Madame Cordier ?\n\nA. Oui, bientôt.\n\nB. Oui, ce matin.\n\nC. Oui, d'accord.\n\nD. Oui, pourquoi pas.",
+        "audio": "/mp3/163/8.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 9,
+        "testId": 163,
+        "text": "Salut Charlie! Je prends l'avion jeudi à 4h du matin. À cette heure-là, il n'y a pas de transport en commun. Tu pourrais m'emmener à l'aéroport en voiture?\n\nA. Avec plaisir. J'adore les voyages.\n\nB. Bien sûr. Je passe te prendre chez toi.\n\nC. D'accord. Je te prêterai ma valise.\n\nD. Parfait. Je viendrai te chercher à la gare.",
+        "audio": "/mp3/163/9.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 10,
+        "testId": 163,
+        "text": "Bonjour Mademoiselle Duflo, ici, le service des inscriptions de l'université. Je viens de regarder votre dossier de candidature et il manque la photocopie de votre passeport. Merci de nous l'apporter au plus vite au bureau 300 B. Que doit faire Mademoiselle Duflo ?",
+        "audio": "/mp3/163/10.mp3",
+        "audioAI": "/mp3/163/ai_10.mp3",
+        "options": [
+            "Attendre la réponse.",
+            "Compléter son dossier.",
+            "Demander un passeport.",
+            "Envoyer son inscription."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 11,
+        "testId": 163,
+        "text": "— Ça te dirait d'aller voir «Liberté» ce soir ? La séance est à 20h.\n\n— D'accord, mais pas à 20h. C'est l'heure où je quitte le travail.\n\n— Allons voir «Séraphine» alors. Il passe à 21h.\n\n— Je l'ai déjà vue. Et pourquoi pas «L'Arbre» ?\n\n— Il n'est pas encore sorti.\n\nDe quoi parlent ces deux personnes?",
+        "audio": "/mp3/163/11.mp3",
+        "options": [
+            "De cinéma.",
+            "De lecture.",
+            "De musique.",
+            "De théâtre."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 12,
+        "testId": 163,
+        "text": "Soyez les bienvenus dans notre bus à destination de Paris-Bercy. Nous ferons une pause à midi pour vous permettre de vous restaurer. Je vous rappelle que vous pouvez connecter vos appareils sur notre réseau tout au long du trajet. Un agent passera parmi vous pour vérifier vos billets et votre numéro de siège. Je vous invite à l'informer si vous voulez en changer et à lui poser vos questions. Merci d'avoir choisi notre compagnie et bon voyage! Quelle est la particularité de ce bus?",
+        "audio": "/mp3/163/12.mp3",
+        "options": [
+            "Il y a un service internet.",
+            "Le placement est libre.",
+            "On y propose des repas.",
+            "Son personnel est bilingue."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 13,
+        "testId": 163,
+        "text":"— Bonjour, je voudrais réserver un séjour au Seychelles.\n\n— Alors, j'ai plusieurs formules de voyage à vous proposer. J'ai notamment quelque chose de très intéressant. Un combiné avion plus hôtel 4 étoiles sur l'île principale à 1300 euros la semaine, départ entre le 10 et le 15 décembre.\n\n— C'est au-dessus de mes moyens. Qu'auriez-vous d'autres à me proposer?\n\n— J'ai aussi des hôtels de catégorie inférieure.\n\n— Oui, je préférerais.\n\nQu'est-ce qui pose problème au client?",
+        "audio": "/mp3/163/13.mp3",
+        "options": [
+            "La date de départ.",
+            "La durée du voyage.",
+            "La situation de l’hôtel.",
+            "Le prix du séjour."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 14,
+        "testId": 163,
+        "text": "— Alors, finalement, tu as vu l'exposition Mathis ?\n\n— Oui, j'y suis allée pendant les vacances. Il y avait deux heures d'attente avant de pouvoir entrer. Heureusement que j'avais un bon livre.\n\n— Ah oui, c'est souvent comme ça. Mais après, tu as vu ? La disposition du tableau, l'organisation de l'espace, la lumière... C'est vraiment superbe.\n\n— Oui, il y a un très bel éclairage, qui met bien les étoiles en valeur. Mais dans cette foule, il faut se battre pour les voir. Très sincèrement, j'aurais été plus tranquille chez moi à feuilleter une revue d'art contemporain.\n\nPourquoi l’un des interlocuteurs n’a-t-il pas apprécié l’exposition ?",
+        "audio": "/mp3/163/14.mp3",
+        "options": [
+            "Il n’aime pas l’œuvre de ce peintre.",
+            "La présentation des tableaux lui a déplu.",
+            "Il a trouvé qu’il y avait trop de visiteurs.",
+            "Il s’est ennuyé en faisant la queue."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 15,
+        "testId": 163,
+        "text": "— Bonjour, Marc Ito à l'appareil. Je voudrais parler à M. Lacos.\n\n— Il est en formation cette semaine.\n\n— Je peux lui laisser un message ?\n\n— Je vous écoute.\n\n— Je voudrais lui faire découvrir le nouveau logiciel de ma société, InfraLorgue.\n\n— Vous pourriez le rencontrer la semaine prochaine ?\n\n— Bien sûr, je dois justement voir des clients à Lyon, jeudi et vendredi.\n\n— Disons, jeudi matin alors, 10 h ?\n\n— C'est parfait. Merci mademoiselle. \n\nPourquoi Marc Ito veut-il rencontrer, M. Lacos ?",
+        "audio": "/mp3/163/15.mp3",
+        "audioAI": "/mp3/163/ai_15.mp3",
+        "options": [
+            "Pour lui présenter un produit.",
+            "Pour organiser un voyage.",
+            "Pour suivre une formation.",
+            "Pour visiter Lyon avec lui."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 16,
+        "testId": 163,
+        "text": "— Alors, mademoiselle, vous considérez donc pour être vendeuse Veiyain Parfaitement. Vous savez qu'il est nécessaire d'avoir certaines qualités. Pouvez-vous me dire quel sont vos dotes?\n\n— Évidemment, je sais que je suis souriante, et je sais être patiente et écouter les gens. En général, vous le savez ça veut dire. J'ai vraiment de bonnes relations avec le public.\n\n— Je vois dans votre CV que vous avez déjà une expérience dans la vente. C'est important pour ce poste. Vous serez disponible à partir de quelle date ? \n\n— Une semaine prochaine.\n\nQu'est-ce que la candidature valorise le role des frontières ?",
+        "audio": "/mp3/163/16.mp3",
+        "audioAI": "/mp3/163/ai_16.mp3",
+        "options": [
+            "Son caractère.",
+            "Ses diplômes.",
+            "Son expérience.",
+            "Ses motivations."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 17,
+        "testId": 163,
+        "text": "— Tu sais, Gil, j'ai vraiment peur.\n\n— Ne te mets pas dans les états pareils. D'accord, c'est un autre tient important pour ta carrière, mais tu as toutes les qualités pour décrocher le poste. C'est vrai que tu es jeune, mais même, si tu n'as fait qu'un stage dans une boîte de communication, tu as un diplôme d'une bonne école de commerce. Reste confiante!\n\n— Tu es gentil, merci!\n\nSelon Gil, qu'est-ce qui permettra à son ami d'obtenir le poste ?",
+        "audio": "/mp3/163/17.mp3",
+        "audioAI": "/mp3/163/ai_17.mp3",
+        "options": [
+            "Son âge.",
+            "Sa motivation.",
+            "Son expérience.",
+            "Sa qualification."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 18,
+        "testId": 163,
+        "text": "— Charles, vous avez retrouvé le dossier blue, celui sur la production éthière? Je dois le lire avant de communiquer à mes associés. \n\n— Mais madame, il est sur votre bureau ?\n\n— Ah, je vous assure que non. Il y a celui sur les quotas, celui sur les subventions, et ce matin vous m'avez dit que vous ne le retrouviez pas.\n\n— Pardon, je vous ai dit que je le mettais sur votre bureau. D'ailleurs, regardez, c'est ce dossier bleu, sous le courrier.\n\n— Ah, mais oui, vous avez raison. Tiens moi, je vous ai accusé. Je suis vraiment désolée.\n\n— Ce n'est rien, madame. Je crois simplement que vous travaillez trop. Vous devriez prendre les projets. \n\nQu'est-ce que la responsable a cru au sujet du dossier bleu ?",
+        "audio": "/mp3/163/18.mp3",
+        "audioAI": "/mp3/163/ai_18.mp3",
+        "options": [
+            "Qu’elle l’avait oublié en vacances.",
+            "Qu’un collègue l’avait consulté.",
+            "Que son assistant l’avait perdu.",
+            "Qu’on l’avait envoyé ailleurs."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 19,
+        "testId": 163,
+        "text": "— Allô, bonjour Madame Tremblay. Je suis désolé, il y a eu un problème informatique la-bas. Je ne peux pas retirer l'argent, ou bien j'aurai mon loyer dans deux ou trois jours, ou bien je vous apporte un chèque demain si vous préférez.\n\n— Non, ce n'est pas la peine. Deux ou trois jours, ce n'est pas question.\n\n— Ok, merci beaucoup. \n\nQue va faire la propriété?",
+        "audio": "/mp3/163/19.mp3",
+        "audioAI": "/mp3/163/ai_19.mp3",
+        "options": [
+            "Elle va appeler le locataire.",
+            "Elle va attendre un petit peu.",
+            "Elle va refuser le paiement.",
+            "Elle va revenir une autre fois."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 20,
+        "testId": 163,
+        "text":"— Quel froid ce matin!\n\n— Oui, mais au moins, il y a du soleil.\n\n— C'est sûr, à côté d'hier, la pluie toute la journée, c'était l'horreur.\n\n— Ah oui, j'aime mieux ce froid sec.\n\nQuel temps fait-il aujourd'hui?",
+        "audio": "/mp3/163/20.mp3",
+        "options": [
+            "Il fait beau qu’hier.",
+            "Il fait plus mauvais qu’hier.",
+            "Il pleut plus qu’hier.",
+            "Il y a moins de soleil qu’hier."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 21,
+        "testId": 163,
+        "text": "— Bonjour, Madame Léveille. Qu'est-ce qui vous amène aujourd'hui?\n\n— Eh bien, ma voiture a un problème au démarrage depuis hier. Elle démarre assez bien, puis elle s'arrête brusquement au bout de dix minutes. Vous pouvez voir ce qu'il se passe?\n\n— Là, maintenant? C'est pas possible. Demain, peut-être.\n\n— Ah, c'est dommage. J'en ai vraiment besoin dès demain, M. Lavoie.\n\n— Hum, attendez. Je regarde mon agenda. Bon, écoutez. Laissez-la moi toute l'après-midi et vous la reprendrez ce soir. Elle sera prête.\n\n— C'est vraiment très gentil de votre part. Alors, à ce soir. Merci.\n\nQue va faire la cliente?",
+        "audio": "/mp3/163/21.mp3",
+        "options": [
+            "Elle va repartir avec sa voiture.",
+            "Elle va revenir dans dix minutes.",
+            "Elle va revenir le lendemain.",
+            "Elle va repartir sans sa voiture."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 22,
+        "testId": 163,
+        "text": "— Tu as vu ? J'ai découvert tes gâteaux préférés !\n\n— Tu as pris un lot de quatre ? Ça fait longtemps, non? Prends-un moi !\n\n— Il y en a quatre pour le prix de trois !\n\n— Ah, attention ! Parce que j'ai entendu à la radio que les supermarchés avec des payer des amendes « vélo comme ça » ?\n\n— Qu'est-ce que tu veux dire par « vélo comme ça » ?\n\n— Bah, tu achètes un lot de quatre paquets de gâteaux en pensant que c'est moins cher que si tu les achètes séparément, et en fait, non, c'est du vol.\n\n— Ah bon ? Attends, je vais aller vérifier alors.\n\nPourquoi les supermarchés ont-ils été condamné  payer des amendes ?",
+        "audio": "/mp3/163/22.mp3",
+        "audioAI": "/mp3/163/ai_22.mp3",
+        "options": [
+            "Ils affichaient des prix erronés.",
+            "Ils annonçaient de fausses promotions.",
+            "Ils soldaient des articles périmés.",
+            "Ils vendaient des marchandises à perte."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 23,
+        "testId": 163,
+        "text": "— Monsieur, bonjour!\n\n— Bonjour! Je voudrais les billets pour la Corse. Le 3 août, au soir. Deux adultes, deux enfants, un chien, une voiture et 4 vélos.\n\n— Je vois regrette, monsieur, mais pour cette date, ce sera pas possible, c'est complet pour les véhicules. Il y a une possibilité pour le 5 août, mais en cabine seulement.\n\n— Va pour le 5 août cabine. Je vous règle maintenant ?\n\n— Non, vous règlerez lors de l'embarquement. Je vous rappelle qu'il faut vous présenter à la gare d'Aretzi, deux heures avant, et que le chien devra être tenu en laisse tout le temps du trajet. C'est à quel nom, s'il vous plaît?\n\n— Bernier.\n\n— Hum voici votre réservation, monsieur. Bon séjour en Corse.\n\n— Merci.\n\n Pourquoi le voyage en Corse est-il impossible le 3 août ?",
+        "audio": "/mp3/163/23.mp3",
+        "audioAI": "/mp3/163/ai_23.mp3",
+        "options": [
+            "II n’y a plus de place en seconde classe.",
+            "II n’y a plus de place pour la voiture.",
+            "Il n’y a plus de place pour quatre personnes.",
+            "II n’y a plus de cabines pour quatre personnes."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 24,
+        "testId": 163,
+        "text": "— En Allemagne, Cattel a profité d'études peu coûteuses, mais aussi découvert un rapport aux études supérieures complètement décomplexées par rapport à ceux qu'on connaît en France.\n\n— Contrairement à la France où on est vraiment dans un programme prédéfini avec une option fortement recommandée, donc on n'a pas vraiment le choix. Là, j'ai pu choisir mes matières. J'ai pris des cours sur la presse, sur Napoléon, sur...\n\n— Napoléon, c'est original ça.\n\n— Oui, Napoléon, c'est marrant de voir la vision. Par exemple, eux, ils disent pas la défaite de Waterloo mais la victoire de Waterloo.\n\nPourquoi Cattel a-t-elle apprécié ses études en Allemagne ?",
+        "audio": "/mp3/163/24.mp3",
+        "options": [
+            "Elle a changé de cursus universitaire.",
+            "Elle a rencontré des gens étonnants.",
+            "Elle a suivi des enseignements variés.",
+            "Elle a trouvé le niveau des cours facile."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 25,
+        "testId": 163,
+        "text": "— Malgré les apparences, vous n'êtes pas dans une salle de danse, mais dans une école, pour le moins innovante et unique, à Marseille. Ici, on enseigne bien sûr les matières essentielles, mais aussi la comédie musicale, la cuisine ou bien l'électricité. Cette école parie surtout depuis 5 ans sur la pédagogie active de remotivation dans l'intérêt de l'enfant. On écoute la directrice de l'établissement.\n\n— La pédagogie active, c'est une pédagogie qui implique l'élève dans son apprentissage. Il est acteur, c'est-à-dire qu'on va le familiariser tout seul, avec un texte ou avec n'importe quel support d'information. Il s'autonomise tout en prenant plaisir à apprendre.\n\nSelon la directrice de cette école, quel est l'objectif de la pédagogie active ?",
+        "audio": "/mp3/163/25.mp3",
+        "options": [
+            "Amener l’élève à participer à sa propre formation.",
+            "Axer principalement l’apprentissage sur le jeu.",
+            "Initier les élèves à des activités parascolaires.",
+            "Responsabiliser les élèves encore immatures."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 26,
+        "testId": 163,
+        "text": "Il va faire chaud cette semaine, très chaud, la chaleur va de nouveau être difficile à supporter. Cette situation fait les affaires des professionnels du tourisme de la montagne. Là-bas, pendant la nuit, les températures vont de 12 à 15 degrés, ce qui permet de mieux se reposer. Pendant la journée, il est possible de faire des activités nautiques dans de l'eau bien fraîche, et c'est ce dont tout le monde rêve actuellement. Selon le reportage, que font les touristes pendant les grandes chaleurs ?",
+        "audio": "/mp3/163/26.mp3",
+        "options": [
+            "Ils annulent leurs activités.",
+            "Ils partent à la montagne.",
+            "Ils préfèrent sortir la nuit.",
+            "Ils restent au frais à l’intérieur."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 27,
+        "testId": 163,
+        "text": "— Salut Géraldine, ça va ?\n\n— Non, pas trop.\n\n— Tu sais que je cherchais du travail. Et bien, maintenant que je l'ai trouvé, je ne suis pas très contente.\n\n— Pourquoi ? Tu ne touches pas assez d'argent ?\n\n— Non, c'est que deux fois par semaine, je commence à six heures du matin et à une heure de chez moi en plus.\n\n— Oh, c'est tôt ! Et comment tu vas faire pour les enfants ?\n\n— Oh, Gilles va s'en occuper. Mais moi, imagine ! Je ne sais pas comment je vais faire pour récupérer.\n\n— Tu vas dormir les week-ends !\n\nDe quoi se plaint Géraldine ?",
+        "audio": "/mp3/163/27.mp3",
+        "options": [
+            "De ses difficultés à se réveiller le matin.",
+            "De son dernier salaire qui est insuffisant.",
+            "De son emploi du temps professionnel.",
+            "De son manque d’organisation habituel."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 28,
+        "testId": 163,
+        "text": "— Je pense que le chef de département a raison. Il faudrait modifier la façon dont nous fonctionnons et redéfinir clairement les missions de chacun.\n\n— Oui, je suis d'accord. D'autant que nous avons eu des incompréhensions entre nous ces derniers temps. D'après moi, elles sont directement liées au fait que personne ne sait précisément où commence son rôle et surtout où il s'arrête dans le projet.\n\n— Tout à fait d'accord. Moi-même, je suis un peu perdu. Si tout le monde essaie de tout faire, on ne sera jamais d'accord au sein de ce service, sans compter que ça ne nous fait pas gagner de temps.\n\n— Bien, alors mettons ça à l'ordre de la réunion d'équipe de demain.\n\nQuel est l'objet de la discussion?",
+        "audio": "/mp3/163/28.mp3",
+        "options": [
+            "La répartition des tâches dans le service.",
+            "Le manque d’expérience de l’équipe.",
+            "Le retard pris dans la réalisation d’un projet.",
+            "Les désaccords entre employeur et employés."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 29,
+        "testId": 163,
+        "text": "Imagine pouvoir faire le tour du monde sans avoir à payer pour te loger. Imagine partager des cultures différentes avec des guides personnalisés, totalement gratuits. Arrête d'imaginer, ça existe. Depuis l'an 2000, près de 300 000 personnes l'ont fait, à bon marché et hors des circuits touristiques programmés, grâce à l'hospitalité des membres d'un réseau social qui s'étend sur les cinq continents. Son fondateur, jeune étudiant allemand de 22 ans, assure que l'objectif final est de promouvoir la paix par l'échange interculturel. Que propose ce reportage ?",
+        "audio": "/mp3/163/29.mp3",
+        "options": [
+            "D’apprendre à élaborer des itinéraires de visites.",
+            "D’expérimenter une manière différente de voyager.",
+            "De découvrir des adresses d’hôtel à l’étranger.",
+            "De participer à des actions de solidarité internationale."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 30,
+        "testId": 163,
+        "text": "— Alors François, c'est encore une fois ton réveil qui n'a pas servi?\n\n— Non, que l'on se dit facile pour quelqu'un qui sans arrêt invoque les embouteillages pour justifier ses retards au bureau.\n\n— Quoi alors mon petit François, un énième arrêt de travail en métro?\n\n— Non pas cette fois-ci tu vois, mais quand l'électro s'arrête comme de courant, on est bien obligé d'attendre que ça revienne. Et aujourd'hui, si tu veux tout savoir, ça a pris plus d'un quart d'heure. Mais moi monsieur, je ne pollue pas matin et soir avec ma voiture.\n\nPour quelle raison François a-t-il arrivé en retard?",
+        "audio": "/mp3/163/30.mp3",
+        "audioAI": "/mp3/163/ai_30.mp3",
+        "options": [
+            "Il y a eu des problèmes de circulation automobile.",
+            "Le réveille-matin n’a pas sonné.",
+            "Il y a eu une panne d’électricité dans le métro.",
+            "Le personnel du métro a fait grève."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 31,
+        "testId": 163,
+        "text": "N'oubliez pas que je dirige ce service et que vous devez faire ce que je vous demande. Je suis prêt à dialoguer avec vous à propos de l'organisation des livraisons, mais il n'est pas question de remettre en cause ma manière de travailler dans ce bureau. Que fait ce chef de service?",
+        "audio": "/mp3/163/31.mp3",
+        "audioAI": "/mp3/163/ai_31.mp3",
+        "options": [
+            "Il annonce une réorganisation.",
+            "Il encourage un collaborateur.",
+            "Il négocie des délais de livraison.",
+            "II rappelle à l’ordre un employé."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 32,
+        "testId": 163,
+        "text": "Je vous disais, il y a une grande variation sur les façons de gérer l'argent. Mais on retrouve quand même deux grandes logiques dans lesquelles tout le monde s'inscrirait. Une logique de mise en commun des revenus. Donc, c'est ce qui touche, c'est ce qui ressemble plus au revenu familial, le concept de revenu familial qu'on voit dans la politique sociale. Alors c'est vraiment une mise en commun des revenus, ça donne l'impression aussi que les deux ont accès à l'argent et que les deux aussi partagent une redistribution plus ou moins interne. Mais avec le temps, avec le temp, il y a de plus en plus de gens gèrent séparément, on voit dans les études internationales aussi, comme vous le disiez justement parce que il y a des  femmes gagnent de l'argent maintenant, alors il y a une possibilité maintenant de gérer séparément. Selon cette intervenante, qu'est-ce qui modifie la gestion de l'argent au sein de la famille?",
+        "audio": "/mp3/163/32.mp3",
+        "audioAI": "/mp3/163/ai_32.mp3",
+        "options": [
+            "L’attribution d’aides financières.",
+            "Les inégalités salariales.",
+            "Les modes de consommation.",
+            "L’essor du travail féminin."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 33,
+        "testId": 163,
+        "text": "Bonjour et bienvenue à France-Québec TV. On va commencer par les opportunités au Québec. Figurez-vous que l'on recherche plus de 300 vétérinaires pour faire face à une certaine pénurie. Chaque année, sur 90 diplômés, seulement 10 à 15 se consacrent aux soins des animaux de ferme. C'est que la pratique auprès des animaux d'élevage est particulièrement exigeante. Le travail demande beaucoup de déplacements, une bonne forme physique et une disponibilité 24h sur 24 et 7 jours sur 7. Pour ces raisons, peu de jeunes diplômés sont attirés par le travail à la campagne et les vétérinaires d'un certain âge continuent souvent parce qu'ils n'ont personne pour les remplacer. Quel est le problème exposé?",
+        "audio": "/mp3/163/33.mp3",
+        "options": [
+            "Les jeunes diplômés privilégient le travail en milieu urbain.",
+            "Les lauréats aux concours vétérinaires sont trop peu nombreux.",
+            "Les soins aux animaux de ferme demandent une spécialisation.",
+            "Les vétérinaires en activité refusent de former les nouveaux."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 34,
+        "testId": 163,
+        "text": "— Les plus de 60 ans, ils sont près d'un milliard sur la planète, 15 millions en France et ce nombre a vocation à grossir. Aujourd'hui les seniors c'est 23% de la population française, bientôt ce sera 30% des seniors qui voyagent, qui consomment, qui s'équipent. Des seniors dont la santé vacille aussi et qui entrent dans la dépendance. Un marché juteux pour les entreprises et un formidable gisement de croissance et d'emploi qui n'a pas échappé à Michel Delonney, la ministre déléguée aux personnes âgées.\n\n— Dans le secteur de l'aide à domicile, on considère qu'il faut 220 000 emplois de plus d'ici 2020. Incroyable, aucun autre ministère ne peut proposer autant de champs de croissance.\n\nDans ce reportage, qu'apprend-on sur les seniors ?",
+        "audio": "/mp3/163/34.mp3",
+        "options": [
+            "Ils consomment plus que la jeune génération.",
+            "Ils dépensent beaucoup pour leur santé.",
+            "Ils profitent peu des effets de la croissance.",
+            "Ils sont à l’origine de créations d’emplois."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 35,
+        "testId": 163,
+        "text": "20% du bassin arctique canadien est devenu corrosif pour certains de ses habitants. On s'inquiète beaucoup ainsi de l'élargissement de ces fameuses zones mortes dans les océans, là où l'oxygène et la vie se sont retirées. Elles sont particulièrement nombreuses le long de la troisième côte océanique canadienne, donc le long de la province de la Colombie-Britannique. Denis Gilbert est chercheur scientifique au ministère canadien de pêche et océans Canada. Selon lui, il faut savoir dépasser les simples manchettes alarmistes des journaux, basées souvent sur les cris d'alarme des environnementalistes. Le phénomène des zones mortes ou de l'hypoxie n'est pas nouveau, et ce n'est pas obligatoirement une mauvaise chose. La preuve, en tout cas, reste à faire. Quelle est la position du chercheur Denis Gilbert?",
+        "audio": "/mp3/163/35.mp3",
+        "options": [
+            "Il considère que le phénomène doit être analysé.",
+            "Il conteste les méthodes de collecte des données.",
+            "Il partage la vision catastrophiste des écologistes.",
+            "Il s’oppose aux décisions du gouvernement."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 36,
+        "testId": 163,
+        "text": "— Bonjour, j'espère bientôt devenir chef d'entreprise. On me conseille de réaliser une étude de marché, mais je dois vous avouer que je ne sais pas exactement comment faire.\n\n— L'étude de marché consiste à valider votre projet en identifiant sur le terrain vos récurrents et clients potentiels et à vérifier que votre clientele a besoin de vos produits ou de vos services.\n\n— Oui, mais je connais bien le secteur dans lequel je m'engage et je dispose déjà des informations.\n\n— Ne négligez pas cette étape. Elle vous permet de définir une stratégie commerciale pour atteindre vos objectifs.\n\nQuelle est la réaction de cet homme?",
+        "audio": "/mp3/163/36.mp3",
+        "audioAI": "/mp3/163/ai_36.mp3",
+        "options": [
+            "Il demande un délai supplémentaire de réflexion.",
+            "Il doute de l’intérêt d’un diagnostic préalable.",
+            "Il hésite sur la définition de son projet.",
+            "II souhaite l’avis de consultants extérieurs."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 37,
+        "testId": 163,
+        "text": "— Bonjour à tous, Noël est passé, et bien maintenant on va s’intéresser aux jouets et à leur conception. Je pensais qu’on ne pouvait pas mettre un jouet sur le commerce s’il n’était pas sain pour les enfants et pour les grands aussi, parce qu’il y a des grands qui jouent aussi un petit peu, normal.\n\n— Alors il est vrai que pour les jouets, il existe des réglementations qui s’appliquent, notamment sur l’interdiction de certaines substances chimiques qui ne doivent pas être présentes dans les jouets, ou alors avec une limite de concentration à ne pas dépasser. Après comme tous les produits de consommation mis sur le marché, il n’y a pas d’autorisation de mise sur le marché comme ça existe pour les médicaments.\n\nDe quoi s’étonne le premier interlocuteur?",
+        "audio": "/mp3/163/37.mp3",
+        "options": [
+            "De la mise en vente libre de jouets sans contrôle sanitaire.",
+            "De la tendance des adultes à s’approprier les jouets des enfants.",
+            "De l’intérêt croissant suscité par les jouets tout au long de l’année.",
+            "Du niveau de toxicité maximal toléré dans la fabrication des jouets."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 38,
+        "testId": 163,
+        "text": "— Bonjour, Monsieur le Secrétaire Général. Le réseau Alliances françaises, présent dans 136 pays du monde, existe depuis plus de 130 ans. Comment expliquez-vous une telle vitalité?\n\n— Tout d'abord, cela tient à son mode de fonctionnement original. Parmi « à faire vivre » ceux qui y travaillent, elle n'a pas de but de faire de bénéfice. D'autre part, son principe n'est que pari potentieux de ses fondateurs est assez singulier. Le personnel des Alliances est principalement composé d'étrangers. Des détachés et des expatriés nous rejoignent, certes, grâce à l'appui et au soutien du ministère des Affaires étrangères. Néanmoins, il n'existe aucune alliance française strictement française. Dans chaque pays, il y a un conseil d'administration à caractère local, parfaitement responsable, en contact avec la Fondation, mais dans une grande autonomie, pour autant que les principes mêmes de l'alliance française dans le monde soient respectés.\n\nD'après la personne interrogée, sur quoi repose la longévité des alliances françaises?",
+        "audio": "/mp3/163/38.mp3",
+        "audioAI": "/mp3/163/ai_38.mp3",
+        "options": [
+            "Sur l’étroite collaboration avec les équipes locales.",
+            "Sur la formation des employés expatriés.",
+            "Sur la prédominance de bénévoles dans chaque pays.",
+            "Sur le montant élevé des bénéfices réalisés."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 39,
+        "testId": 163,
+        "text": "On part du principe que nos vies contemporaines étant ce qu'elles sont, peu à peu, si on n'y prend pas garde, ils font être expulsées de nos journées tous les temps de d'attente, de non-action. On est sans arrêt soit en train de nous engager dans des actions, faire des choses avec nos mains ou avec notre cerveau, soit nous nous reposons dans des distractions. On regarde si on a des messages sur internet, on écoute de la musique, on se passe un film, mais à aucun moment notre cerveau n'entre sur un mode très simple qui est d'être là, conscient que je suis vivant, conscient que j'appartiens à un ordre naturel, et juste contempler et ressentir ce phénomène. Selon l’intervenant qu’est-ce qui caractérise nos vies contemporaines?",
+        "audio": "/mp3/163/39.mp3",
+        "options": [
+            "L’absence de temps morts.",
+            "L’ennui des distractions.",
+            "L’insuffisance de repos.",
+            "Le manque d’action."
+        ],
+        "answer": 0
+    }
+]
