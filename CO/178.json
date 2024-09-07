@@ -1,0 +1,511 @@
+[
+    {
+        "id": 1,
+        "testId": 178,
+        "text": "A. Passez dans la salle suivante.\n\nB. Posez vos manteaux.\n\nC. Prenez un billet à la caisse.\n\nD. Regardez bien ce paysage.",
+        "audio": "/mp3/178/1.mp3",
+        "img": "/mp3/178/1.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 2,
+        "testId": 178,
+        "text": "A. Dépêche-toi, le train va bientôt partir.\n\nB. Fais un beau sourire pour la photo.\n\nC. Passe une bonne journée et travaille bien.\n\nD. Prends ton parapluie, il va bientôt pleuvoir.",
+        "audio": "/mp3/178/2.mp3",
+        "img": "/mp3/178/2.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 3,
+        "testId": 178,
+        "text": "Qu'est-ce que tu as pensé du match de football hier ?\n\nA. Il préfère faire de la natation.\n\nB. Je ne peux pas, j'ai perdu mon ballon.\n\nC. Les deux équipes ont très bien joué.\n\nD. On peut le regarder ensemble.",
+        "audio": "/mp3/178/3.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 4,
+        "testId": 178,
+        "text": "Où est-ce que je peux prendre un café pendant la pause?\n\nA. Deux euros.\n\nB. Salle 4.\n\nC. Trois minutes.\n\nD. Un sucre.",
+        "audio": "/mp3/178/4.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 5,
+        "testId": 178,
+        "text": "Salut Philippe, je serai chez toi dans une demi-heure, est-ce que j'apporte quelque chose à manger ?\n\nA. Non, j'ai déjà préparé un bon repas.\n\nB. Non, j'ai vraiment très faim.\n\nC. Oui, j'ai fait les courses hier.\n\nD. Oui, on pourra aller au restaurant.",
+        "audio": "/mp3/178/5.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 6,
+        "testId": 178,
+        "text": "Ah Desskis ! C'est un super cadeau ! Comment vous avez eu l'idée ?\n\nA. On a demandé à ton frère.\n\nB. On a fait ton gâteau préféré.\n\nC. On a invité tes amis et ta famille.\n\nD. On a réservé une salle.",
+        "audio": "/mp3/178/6.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 7,
+        "testId": 178,
+        "text": "J'ai deux places pour aller voir Hamlet au théâtre la semaine prochaine, ça t'intéresse de venir avec moi ?\n\nA. Ah oui, c'est une bonne idée !\n\nB. Oui, j'ai aimé ce film !\n\nC. Oui, on prend les billets !\n\nD. Oui, regarde le programme !",
+        "audio": "/mp3/178/7.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 8,
+        "testId": 178,
+        "text": "— Eh bien Julie, qu'est-ce qu'il y a?\n\n— Je vais déménager parce que mon propriétaire veut vendre l'appartement et faire de gros travaux dans quelques mois. Je regarde les annonces sur Internet.\n\n— Et tu as déjà trouvé un logement?\n\n— Non, pas encore.\n\n— Tu sais que Malika cherche un colocataire. Tu pourrais faire des économies sur le loyer.\n\n— Oui, mais je préfère vivre seule.\n\nQu'est-ce que Julie explique?",
+        "audio": "/mp3/178/8.mp3",
+        "options": [
+            "Elle doit quitter son logement.",
+            "Il y a des travaux chez elle.",
+            "Le loyer est devenu trop cher.",
+            "Sa colocataire est partie."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 9,
+        "testId": 178,
+        "text": "— Bonjour, je viens d'emménager à Marseille et je voudrais déposer un dossier pour m'inscrire à l'université.\n\n— Vous avez rempli le dossier ?\n\n— Oui, le voilà, avec les justificatifs.\n\n— Très bien, mais je ne vois pas la copie de votre passeport. C'est indispensable.\n\nQue souhaite la jeune femme?",
+        "audio": "/mp3/178/9.mp3",
+        "options": [
+            "Chercher un travail en France.",
+            "Obtenir une bourse d’études.",
+            "Suivre des cours à l’université.",
+            "Trouver un appartement à Marseille."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 10,
+        "testId": 178,
+        "text": "— Madame, Monsieur, avez-vous choisi?\n\n— Oui, pour moi, une tarte au fromage, et pour Madame, du poulet aux trois épices.\n\n— Excusez-moi, j'ai changé d'avis. Je n'ai pas très faim. Je prendrais une salade de crudité.\n\n— Excellent choix.\n\nPourquoi est-ce que la cliente commande la salade?",
+        "audio": "/mp3/178/10.mp3",
+        "options": [
+            "Elle est pressée.",
+            "Elle est végétarienne.",
+            "Elle fait le régime.",
+            "Elle manque d’appétit."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 11,
+        "testId": 178,
+        "text": "— Association Vie Étudiante, bonjour.\n\n— Bonjour madame. Je suis un étudiant étranger et je cherche un logement.\n\n— Est-ce que vous voulez une chambre en cité universitaire ?\n\n— Non.\n\n— Vous cherchez un appartement en colocation ?\n\n— Non, j'aimerais un studio.\n\n— Bien. Je vous envoie des adresses de propriétaires par courriel.\n\nQu'est-ce que cet étudiant veut ?",
+        "audio": "/mp3/178/11.mp3",
+        "options": [
+            "Changer de propriétaire.",
+            "Louer un appartement.",
+            "Partager un logement.",
+            "Partir vivre à l’étranger."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 12,
+        "testId": 178,
+        "text": "— Maintenant que les examens universitaires sont finis, qu'est-ce que tu vas faire ?\n\n— Je voudrais faire un stage de langue espagnole pendant un mois.\n\n— Bonne idée ! J'en ai fait un l'année dernière en Argentine. C'était super !\n\n— Je ne veux pas aller si loin. Je pense plutôt à l'Espagne.\n\n— Tu devrais aller dans le sud, à Séville. C'est une ville magnifique !\n\n— Pourquoi pas ? Mais j'ai un petit budget. Je dois voir si je peux trouver un logement pas trop cher.\n\nDe quoi parle ces deux personnes ?",
+        "audio": "/mp3/178/12.mp3",
+        "options": [
+            "De leur voyage en Argentine.",
+            "Des résultats des examens.",
+            "Du coût de la vie en ville.",
+            "D’un séjour linguistique."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 13,
+        "testId": 178,
+        "text": "— Salut Marion !\n\n— Salut Thomas, ça va ?\n\n— J'ai une journée difficile au bureau, on prend un verre quelque part et tu me racontes ton week-end ?\n\n— D'accord, mais avant je dois passer à la pharmacie.\n\n— Ce n'est pas loin, je suis fatigué moi.\n\nQu'est-ce que Thomas propose à Marion ?",
+        "audio": "/mp3/178/13.mp3",
+        "options": [
+            "D’aller dans un bar.",
+            "De faire les courses.",
+            "De préparer un voyage.",
+            "De travailler ensemble."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 14,
+        "testId": 178,
+        "text": "— Papa, maman, j'aimerais vraiment avoir un chat, vous savez ?\n\n— Oui, Sébastien, mais avec tes allergies, ça va être difficile. On pourrait plutôt prendre un chien.\n\n— Ah non, un chien, ça demande trop de travail.\n\nQuel est le problème ?",
+        "audio": "/mp3/178/14.mp3",
+        "options": [
+            "L’enfant est malade à cause des chats.",
+            "La famille a déjà eu un chien.",
+            "Le père déteste les animaux.",
+            "Les parents ont beaucoup de travail."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 15,
+        "testId": 178,
+        "text": "— Alors, tu as trouvé un logement?\n\n— Oui, c'est tout petit. Il y a une seule pièce. C'est au deuxième étage d'un immeuble situé en plein centre-ville. En plus, la propriétaire est gentille. C'est ce qu'il me faut.\n\nDans quel type de logement habite cette personne ?",
+        "audio": "/mp3/178/15.mp3",
+        "options": [
+            "Une chambre d’hôtel.",
+            "Une maison individuelle.",
+            "Un grand appartement.",
+            "Un studio en ville."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 16,
+        "testId": 178,
+        "text": "— Bonjour Monique.\n\n— Bonjour Olivier. Que puis-je pour vous ?\n\n— Je viens vous voir au sujet de mes vacances. Je voudrais les prendre en juillet. Je sais que certains collègues seront en formation et d'autres en extérieur, pour les présentations de nos produits sur les marchés d'Europe. Est-ce que cela sera possible ?\n\n— Nous aurons peut-être besoin de vous, effectivement. Je vais y réfléchir et je vous donne ma réponse cette semaine.\n\n— Je vous remercie. Permettez-moi juste de vous rappeler que, l'été dernier, j'ai travaillé tout le mois d'août.\n\nQue demande Olivier ?",
+        "audio": "/mp3/178/16.mp3",
+        "options": [
+            "À quel moment il pourra poser des congés.",
+            "Dans quelle ville il devra partir en mission.",
+            "Qui sera de permanence au mois d’août.",
+            "S’il sera autorisé à suivre un stage en été."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 17,
+        "testId": 178,
+        "text": "— Allô ? Pourrais-je parler au directeur des ressources humaines ?\n\n— Le directeur est actuellement en réunion, mais je peux lui transmettre un message ?\n\n— Je souhaite savoir s'il a bien reçu ma candidature pour le poste d'ingénieur. Je lui ai envoyé mon CV et ma lettre de motivation il y a deux semaines et je n'ai pas reçu de réponse.\n\n— Donnez-moi votre nom, s'il vous plaît, et je lui dirai de vous recontacter.\n\nQuel est l'objet de cet appel ?",
+        "audio": "/mp3/178/17.mp3",
+        "options": [
+            "Confirmer la date d’un entretien d’embauche.",
+            "Se renseigner sur les conditions de travail.",
+            "S’informer sur une formation professionnelle.",
+            "Vérifier si un courrier est bien arrivé."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 18,
+        "testId": 178,
+        "text": "L'Alberta est devenue une terre de prédilection pour de nombreux migrants canadiens. Le boom économique de ces dernières années a attiré des gens d'un peu partout au Canada. Cette migration interne au Canada implique surtout les jeunes qui se déplacent vers cette province de l'Ouest. Ce sont les gens qui sont le plus susceptibles d'avoir des enfants, alors il y a un effet double. Non seulement il y a de la croissance grâce à la migration interne, mais le taux de naissance augmente aussi en Alberta. Les deux facteurs contribuent grandement à cette croissance explosive. D'après cette chronique, pourquoi l'Alberta a-t-elle une économie en pleine croissance?",
+        "audio": "/mp3/178/18.mp3",
+        "options": [
+            "Elle accueille une main-d’œuvre ciblée.",
+            "Elle bénéficie d’une situation géographique privilégiée.",
+            "Elle est la destination d’une population migrante jeune.",
+            "Elle pratique une politique nataliste très attractive."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 19,
+        "testId": 178,
+        "text": "— Ah tiens Camilo, tu es au bureau aujourd'hui ? Tu n'es pas en télétravail normalement ?\n\n— Non, c'est seulement le jeudi.\n\n— Et ça te plaît alors ?\n\n— Au moins je ne perds pas de temps dans les transports et je me concentre mieux sur mes dossiers compliqués. Et puis, même si je ne suis pas là, je suis toujours joignable par téléphone et par courriel. Il m'arrive même d'assister à des réunions par visioconférence. Ce n'est pas très différent d'une journée normale.\n\nDe quoi parlent les deux personnes ?",
+        "audio": "/mp3/178/19.mp3",
+        "options": [
+            "D’une négociation par visioconférence.",
+            "De l’urgence des dossiers à traiter.",
+            "Des avantages du travail à distance.",
+            "Des problèmes fréquents de transports."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 20,
+        "testId": 178,
+        "text": "— Régis Solivérès, bonjour.\n\n— Bonjour, bonjour Philippe.\n\n— Régis, vous lancez une aventure, enfin vous lissez un, dans une aventure assez incroyable qui est de participer à la réalisation d'un film, un film avec un réalisateur professionnel, avec des professionnels du cinéma, il s'appelle François Chailloux.\n\n— Oui, à l'occasion du festival de Lufon, j'ai rencontré François, je lui ai dit que je voulais faire un film.\n\nQuel est le projet de Régis Solivérès et de ses élèves ?",
+        "audio": "/mp3/178/20.mp3",
+        "options": [
+            "Interviewer un réalisateur.",
+            "Participer à un festival.",
+            "Tourner un film.",
+            "Visiter des studios de cinéma."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 21,
+        "testId": 178,
+        "text": "Bienvenue dans notre émission culturelle, le peintre Soulages, connu mondialement, est célébré dans son pays au musée d'art moderne de Paris. L'exposition s'appelle Noir Lumière parce que le noir de Soulages ne ressemble à aucun autre. Qu'apprend-t-on sur le peintre Pierre Soulages?",
+        "audio": "/mp3/178/21.mp3",
+        "options": [
+            "C’est un artiste oublié par le public.",
+            "Il a travaillé avec des couleurs claires.",
+            "On lui a demandé de décorer un bâtiment.",
+            "Son œuvre est présentée en France."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 22,
+        "testId": 178,
+        "text": "— J'ai le plaisir de recevoir aujourd'hui M. Daoulé, qui nous vient tout droit du Nouveau-Brunswick. Alors, M. Daoulé, vous avez une belle famille, puisque vous avez 8 enfants, tous nés dans des endroits différents, je crois.\n\n— Oui, en Afrique, au Québec, et les petits derniers au Nouveau-Brunswick.\n\n— Ah! Et est-ce qu'ils ont tous des accents différents?\n\n— Ma foi, oui. Dans chacun de ces endroits, le français est parlé différemment et mes enfants ont pris l'accent du lieu où ils sont allés à l'école dans les premières années de leur vie.\n\n Pourquoi les enfants de M. Daoulé ont-ils des accents variés quand ils parlent français?",
+        "audio": "/mp3/178/22.mp3",
+        "options": [
+            "Parce qu’ils ont été scolarisés dans des lycées plurilingues.",
+            "Parce qu’ils ont été adoptés dans des pays différents.",
+            "Parce qu’ils ont vécu dans de diverses zones de la France.",
+            "Parce qu’ils parlent plusieurs langues à la maison."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 23,
+        "testId": 178,
+        "text": "Je crois que les difficultés en matière de lecture ont des causes à la fois individuelles et sociales. Les parents, par exemple, parce qu'ils sont angoissés par l'avenir de leurs enfants, leur présentent souvent la lecture comme une obligation, une démarche indispensable pour réussir, et c'est une erreur, parce que la lecture est avant tout un plaisir. Un livre, c'est un voyage, une découverte, une aventure, et il faudrait faire découvrir la lecture aux enfants comme on leur fait découvrir la cuisine chinoise ou les jeux dans la neige. Et puis les parents refusent aussi souvent à leurs enfants des lectures qu'ils considèrent comme mineures. Les bandes dessinées, par exemple, et ça aussi, c'est une erreur. Lire une bande dessinée, c'est lire. Et ça permet souvent d'ailleurs de découvrir ensuite d'autres formes de littérature. Que conseille cette intervenante aux parents ?",
+        "audio": "/mp3/178/23.mp3",
+        "options": [
+            "D’attribuer à la lecture le statut de loisir.",
+            "De favoriser la lecture en autonomie.",
+            "De limiter la lecture d’histoires illustrées.",
+            "De sélectionner des lectures classiques."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 24,
+        "testId": 178,
+        "text": "— Chers auditeurs, nous allons aujourd'hui vous présenter Chantal Harvey, une Franco-Québécoise qui travaille au centre de service de Shawinigan et qui, tenez-vous bien, conduit un chasse-neige. Alors Chantal, comment on se sent aux commandes de cette grosse machine?\n\n— Je me sens parfaitement dans mon élément.\n\n— Et votre chef, qu'en pense-t-il? Vous êtes satisfait d'avoir une femme dans votre équipe?\n\n— J'en suis ravi. Elle a assimilé rapidement les manœuvres d'exécution et elle intervient efficacement aux endroits stratégiques. Même si elle s'y connaît peu en déneigement, elle a su tirer son épingle du jeu. C'est une personne courageuse et regardez comme elle est à l'aise aux manettes de cet engin. On jurerait qu'elle a fait ça toute sa vie.\n\nPourquoi son responsable est-il satisfait de Chantal?",
+        "audio": "/mp3/178/24.mp3",
+        "options": [
+            "Elle a beaucoup d’expérience.",
+            "Elle a vite appris son métier.",
+            "Elle aime prendre des risques.",
+            "Elle sait diriger ses collègues."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 25,
+        "testId": 178,
+        "text": "— Vous êtes écologiste, vous êtes environnementaliste à temps plein, c'est votre carrière, c'est votre métier.\n\n— Tout à fait, j'ai ce plaisir. Moi, quand je faisais mes études, il n'y avait pas de possibilité de travailler en environnement. Alors maintenant, il existe des formations, des cours, on va à l'université pour… Tout à fait, il existe de très nombreux programmes, c'est assez fascinant. On a au-dessus de 400 programmes au Québec, tant au niveau technique que au niveau cégep.\n\n— 400?\n\n— 400 programmes, ouais. Technique, cégep, université, programme d'études.\n\n— Alors vous, vous êtes allé à l'université pour apprendre l'environnement?\n\n— Oui, tout à fait. J'ai travaillé beaucoup sur le terrain avant, alors que j'ai, il y avait moins de programmes à l'époque.\n\nQu'explique ces personnes sur le monde universitaire québécois?",
+        "audio": "/mp3/178/25.mp3",
+        "options": [
+            "Le nombre d’étudiants inscrits a augmenté.",
+            "Les cursus sur l’environnement se sont multipliés.",
+            "Les enseignants font des carrières prestigieuses.",
+            "Les formations sont devenues plus concrètes."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 26,
+        "testId": 178,
+        "text": "D'un côté, certaines personnes âgées ont de la place chez elles et besoin d'aide dans leur quotidien. D'un autre côté, certains jeunes ont du temps libre et cherchent à se loger. Alors, on en reste là ou on trouve une solution ? L'association de l'or, AREN, favorise la cohabitation entre personnes âgées et jeunes défavorisés. Si vous voulez soutenir ce type de solution, rendez-vous sur fondationdefrance.org. Que propose l'association présentée ?",
+        "audio": "/mp3/178/26.mp3",
+        "options": [
+            "Elle construit des maisons pour les personnes âgées.",
+            "Elle organise des événements rassemblant les générations.",
+            "Elle permet à des jeunes d’habiter chez des personnes âgées.",
+            "Elle valorise les professions d’assistance aux personnes âgées."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 27,
+        "testId": 178,
+        "text": "— Zon Marie-Nicole Lemieux.\n\n— Bonjour.\n\n— Merci beaucoup d'être avec nous.\n\n— Ça me fait très plaisir.\n\n— Tout d'abord, quel français est-ce que vous parlez, vous?\n\n— C'est un français que j'espère être international, donc vous êtes capable de me comprendre, c'est déjà ça. Mais disons aussi que j'ai la richesse de tout le patrimoine québécois qui contient évidemment des mots anciens, très anciens qu'on a gardés, comme là, présentement, nous ne discutons pas, nous jasons. Et puis, et puis aussi, d'anglicisme, le régime britannique a vraiment teinté aussi notre français.\n\nSelon Marie-Nicole Lemieux, quelle est la spécificité du français qu'elle parle?\n\n<br/> Original option B was \"Il est protégé par des apports lexicaux varies.\". Change **protégé** to **enrichi** as it is more suitable.",
+        "audio": "/mp3/178/27.mp3",
+        "options": [
+            "Il est caractérisé par son rythme.",
+            "Il est enrichi par des apports lexicaux varies.",
+            "Il est protégé par les académiciens.",
+            "Il est utilisé par une minorité de locuteurs."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 28,
+        "testId": 178,
+        "text": "— Je pense que le chef de département a raison. Il faudrait modifier la façon dont nous fonctionnons et redéfinir clairement les missions de chacun.\n\n— Oui, je suis d'accord. D'autant que nous avons eu des incompréhensions entre nous ces derniers temps. D'après moi, elles sont directement liées au fait que personne ne sait précisément où commence son rôle et surtout où il s'arrête dans le projet.\n\n— Tout à fait d'accord. Moi-même, je suis un peu perdu. Si tout le monde essaie de tout faire, on ne sera jamais d'accord au sein de ce service, sans compter que ça ne nous fait pas gagner de temps.\n\n— Bien, alors mettons ça à l'ordre de la réunion d'équipe de demain.\n\nQuel est l'objet de la discussion?",
+        "audio": "/mp3/178/28.mp3",
+        "options": [
+            "La répartition des tâches dans le service.",
+            "Le manque d’expérience de l’équipe.",
+            "Le retard pris dans la réalisation d’un projet.",
+            "Les désaccords entre employeur et employés."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 29,
+        "testId": 178,
+        "text": "— Parlons maintenant de l'enseignement à distance. Marielle Barreau, vous nous présentez un logiciel qui fait des filtres révision à votre place, c'est ça ? Finalement, vous voulez inciter nos auditeurs étudiants à se tourner les pouces.\n\n— Ce n'est pas exactement ça. On vous propose en fait de travailler plus efficacement. C'est un logiciel qui s'adapte à toutes les matières et qui vous fait réviser. Le principe, c'est que vous numérisez en un temps record n'importe quel cours. Vous faites vous-même votre fiche de révision que vous saisissez sur votre clavier, et le logiciel vous interroge de la façon la plus adéquate pour vous faire apprendre. Il pose des questions en rafale et il s'adapte à vos difficultés en mettant l'accent là où vous avez des points faibles.\n\nDe quoi est-il question dans cette émission ?",
+        "audio": "/mp3/178/29.mp3",
+        "options": [
+            "D’un outil qui facilite l’apprentissage, quelle que soit la discipline étudiée.",
+            "De la bonne méthode de révision d’un cours quand on est pris par le temps.",
+            "De la difficulté a rédigé des cours motivants pour les jeunes étudiants.",
+            "Des limites de l’enseignement à distance pour certaines disciplines."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 30,
+        "testId": 178,
+        "text": "La vieille dame de fer dans tous ses états, où, comment les jeunes, sans complexe, se sont mesurés à cette forme unique qu'est la Tour Eiffel. Pour ce concours, organisé par la Fondation Eiffel, adressée aux élèves des écoles d'architecture, la consigne était de rêver. Concevoir un édifice de très grande hauteur sur le champ de Mars à Paris, à distance, à coller ou à la place de la Tour Eiffel. Trois étudiants suppriment donc carrément la Tour. À la place, ils y construisent un aéroport vertical, ou creusent un puits de lumière avec de vastes plateaux. D'autres choisissent de la rendre habitable en comblant ses vides par des baies de couleurs ou la dot d'un jardin suspendu. De quoi traite ce reportage ?",
+        "audio": "/mp3/178/30.mp3",
+        "options": [
+            "D’un appel à projets imaginaires.",
+            "D’un examen de fin d’études.",
+            "D’un nouveau plan d’urbanisme.",
+            "D’une rénovation d’un monument."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 31,
+        "testId": 178,
+        "text": "— Là, on vient, très récemment, de... d'observer pour la première fois un trou noir, Hubert Rives. Quelle a été votre réaction?\n\n— Oui, c'est le moment où on découvre une chose pour la première fois, et surtout le fait que cette idée des trous noirs, qui a été inventée par Einstein dans les années 1910-15, je ne me souviens pas, c'était au départ une théorie de trouver que le comportement de ces trous noirs existe, c'est une confirmation de la valeur de la science en général, qui sont, par exemple, les idées des trous noirs. Ça vous donne confiance dans la science.\n\nSelon Hubert Rives, pourquoi cette première observation d'un trou noir est-elle importante ?",
+        "audio": "/mp3/178/31.mp3",
+        "options": [
+            "Elle annonce de futures découvertes.",
+            "Elle confirme une théorie ancienne.",
+            "Elle illustre les progrès du matériel scientifique.",
+            "Elle permet la poursuite des travaux d’Einstein."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 32,
+        "testId": 178,
+        "text": "C'est au cours de cette réunion internationale qu'un premier accord a été trouvé, in extremis, entre les deux pays, et de nouvelles négociations commencent aujourd'hui, mais sur le fond, rien n'est encore fait. En effet, il aura fallu deux jours de négociations marathons pour parvenir à accoucher de ce document conjoint. Cela marque donc le début d'un processus, mais il faut rester prudent car c'est maintenant que les choses démarrent réellement. Alors, amorce d'un processus de paix ou conférence symbolique? La secrétaire d'État a d'ailleurs précisé hier soir que l'échec n'était pas une option. En fait, on n'est pas encore rentré dans le vif du sujet. Beaucoup de points n'ont pas encore été abordés et n'ont pas été détaillés dans le document conjoint car les deux parties n'ont pas réussi à se mettre d'accord sur la formulation. Pourquoi la journaliste reste-t-elle prudente?",
+        "audio": "/mp3/178/32.mp3",
+        "options": [
+            "La conférence qui a eu lieu est uniquement symbolique.",
+            "La secrétaire d’État a fait part de son pessimisme.",
+            "Les discussions s’annoncent longues et difficiles.",
+            "Tous les points de l’accord ont déjà été traités sans succès."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 33,
+        "testId": 178,
+        "text": "— Alors Philippe, est-ce que vous pouvez nous en apprendre plus sur votre établissement?\n\n— Quand j'ai récupéré l'endroit, il s'agissait d'un lieu qui était ancien à Montréal, début 19e siècle. J'ai donc gardé ce qui était d'époque et j'ai rajouté une touche moderne, design, pour créer un espace particulier où les styles se mélangent. Comme je suis un passionné de meubles design, j'ai acheté des pièces qui me plaisent. Et en plus d'y manger, on peut assister à des soirées musicales, on a un DJ très connu internationalement dans le domaine de la musique électronique. Enfin, étant donné qu'on est dans un lieu très haut de plafond, j'ai accroché des tableaux, des œuvres contemporaines, mais on organise aussi des expos temporaires. Toutes les formes d'expression nous intéressent.\n\nQuelle est la particularité de l'établissement de Philippe?",
+        "audio": "/mp3/178/33.mp3",
+        "options": [
+            "C’est la reproduction d’un café du siècle dernier.",
+            "Il contient un dépôt-vente de meubles design.",
+            "C’est à la fois un restaurant et une galerie d’art.",
+            "Il y organise un festival de musique électronique."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 34,
+        "testId": 178,
+        "text": "— C'est la quatrième édition de ce rendez-vous qui s'échelonne sur deux semaines avec une cinquantaine d'auteurs invités. Pourquoi l'avoir appelé « hors limite » ? Ça n'évoque pas du tout la littérature.\n\n— Alors par contre ça parle de l'ouverture. Je dirais que ce festival littéraire veut prouver que la littérature est ouverte de deux points de vue sur le fond. Le maître mot du festival, c'est les croisements et l'ouverture des formes. Le festival propose des lectures croisées et il y a énormément de rencontres avec plusieurs auteurs. La littérature peut croiser la danse, le graphisme ou le cinéma. Je dirais aussi que « hors limite », c'est l'ouverture sur le fond puisque on veut prouver que la littérature n'est pas nombriliste, qu'elle est ouverte aux questions qui agitent notre temps.\n\nQuelle forme de littérature cherche à promouvoir le festival « hors limite » ?",
+        "audio": "/mp3/178/34.mp3",
+        "options": [
+            "Une littérature axée sur les débats avec le public.",
+            "Une littérature expérimentée à travers le jeu.",
+            "Une littérature interprétée par les comédiens.",
+            "Une littérature portée sur l’interdisciplinarité."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 35,
+        "testId": 178,
+        "text": "— Internet pollue. Cette technologie consomme aujourd'hui 10% de l'énergie mondiale et cette consommation augmente d'année en année. Depuis 2013, elle a doublé. Alors, pour enrayer ce fléau, une application a été créée afin de nous inciter à mieux utiliser nos smartphones, car chaque geste compte.\n\n— Comment se présente-t-elle cette application ?\n\n— Et bien, comme pour mieux se faire entendre, Mathilde, elle prend la forme d'un assistant vocal dont le but est de nous aider à revoir certains de nos réflexes.\n\n— Et quel est le principe ?\n\n— Le principe n'est pas d'utiliser moins son smartphone, mais mieux. L'application Plana va donc scanner l'activité de votre téléphone. Elle va en-dresser le bilan afin de pouvoir en tirer des conclusions et le rendre moins énergivore.\n\nQuel est l'intérêt de l'application Plana pour les usagers ?",
+        "audio": "/mp3/178/35.mp3",
+        "options": [
+            "Allonger la durée de vie des smartphones.",
+            "Evaluer la consommation téléphonique.",
+            "Gérer le temps de connexion à internet.",
+            "Optimiser l’utilisation des appareils."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 36,
+        "testId": 178,
+        "text": "— Et on est rendu à notre chronique littéraire avec Aude Rimenez. Alors tout d'abord, autostop Daniel Bélanger.\n\n— Alors on a affaire évidemment à un musicien, guitariste aguerri, mais Daniel Bélanger c'est d'abord un compositeur, c'est l'auteur de ses chansons et c'est ce pan de son travail qu'on retrouve ici. Pour la forme du récit, on a d'ailleurs cette présentation là qu'on trouve dans les jaquettes des CD, là vous savez, le texte qui est centré au milieu de la page, donc on a des renvois à la ligne à chaque nouvelle strophe, ici c'est la même chose.\n\n— C'est la partition que j'aimerais voir ! Ce format quoi, c'est une nouveauté chez les allusifs.\n\n— Voilà, on connaît cette maison d'édition pour ses parutions souvent étrangères, aussi poétiques, mais les allusifs, là ils sortent une nouvelle collection de petits livres qu'ils appellent « Les Peurs », avec comme adage « un auteur, une peur, un livre ».\n\nQuelle est la particularité de l'œuvre présentée ?",
+        "audio": "/mp3/178/36.mp3",
+        "options": [
+            "Des partitions musicales ponctuent les chapitres.",
+            "Elle réunit des textes de musiciens sur le thème de la peur.",
+            "L’éditeur a choisi d’accompagner le livre d’un DVD.",
+            "Sa mise en page est comparable à celle du livret d’un disque."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 37,
+        "testId": 178,
+        "text": "Voilà, la question principale c'est de savoir si on va médicaliser la crise d'adolescence ou pas, sachant qu'aujourd'hui le symptôme principal de la crise d'adolescence chez le garçon, c'est le jeu vidéo excessif ou l'internet excessif. Donc si on dit addiction, on le médicalise et ça veut dire tôt ou tard, pas seulement des psychothérapies, mais des chimiothérapies pour tous les adolescents joueurs, alors qu'on sait encore une fois d'expérience que 99% arrêtent de jouer à 17 ou 18 ans parce qu'ils ont fini leur crise d'adolescence, qu'ils ne sont plus en révolte contre les parents qui sont soucieux de s'intégrer à la société et d'avoir une activité professionnelle. Donc l'adolescence, on l'accompagne, voilà, ne la pathologisons pas et je suis bien content que l'Académie de médecine ait pris cette position. Que préconise ce spécialiste face à l'engouement des jeunes pour les jeux vidéo ?\n\n<br/>The original option was \"**Pour limiter la naissance des automobiles.**\", which doesn't make any sense in the context. It could be \"**D'attendre la naissance d'autonomie**\". Here, we borrow the option from ***Série 149 Q 37***.",
+        "audio": "/mp3/178/37.mp3",
+        "options": [
+            "De consulter un médecin psychothérapeute.",
+            "D'attendre que le temps ait fait son œuvre.",
+            "De prescrire un traitement médicamenteux.",
+            "D’informer les utilisateurs sur leurs dangers."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 38,
+        "testId": 178,
+        "text": "— En Grande-Bretagne, quand un consommateur achète un produit défectueux, il a le choix entre la réparation, le remplacement ou le remboursement. En Allemagne, c'est le commerçant qui décide pour lui. Et bien la Commission européenne veut mettre à plat toutes ces législations et proposer des règles communes en matière de protection des consommateurs. Harmonisation maximale ou minimale ? Au Parlement européen le débat dure depuis deux ans. L'eurodéputée socialiste allemande Evelyne Gebhardt redoute, elle, l'harmonisation maximale préconisée par Bruxelles. Elle estime que la Commission doit respecter les usages en cours dans chaque pays.\n\n— Nous avons des traditions, des cultures très différentes et les consommateurs ont des demandes différentes aussi dans les États membres, ce qui crée évidemment une différenciation assez grande dans le droit qui existe. C'est pour ça que jusqu'à maintenant nous avons toujours dit, nous faisons une harmonisation minimale, un minimum de droits qui doivent être là, et nous laissons une flexibilité aux États membres pour donner une réponse aux demandes des citoyens.\n\nQue recommande l'eurodéputée Evelyne Gebhardt ?",
+        "audio": "/mp3/178/38.mp3",
+        "options": [
+            "Un durcissement des politiques relatives à la consommation.",
+            "Un renforcement des pouvoirs de la Commission européenne.",
+            "Une homogénéisation des réglementations internationales.",
+            "Une législation dans le respect de la singularité des États."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 39,
+        "testId": 178,
+        "text": "— Tes recherches sur les algues, ça avance ?\n\n— Oui, pas mal.\n\n— Mais, tu étudies quoi au juste ?\n\n— Leur système de reproduction. Dans un milieu aquatique, le vent ou les insectes ne jouent évidemment aucun rôle. En fait, ce sont des petites boules au bout des tiges qui se fondent et attirent les cellules mâles pour les féconder.\n\n— Et à quoi te serviront ces découvertes ?\n\n— Par la suite, on pourra multiplier ces algues et les utiliser dans la composition des produits pharmaceutiques.\n\nQue cherche à étudier cette personne à propos des algues ?",
+        "audio": "/mp3/178/39.mp3",
+        "options": [
+            "Le processus d’attractivité des cellules femelles.",
+            "Les différences avec la reproduction des plantes terrestres.",
+            "La constitution de certains organismes aquatiques.",
+            "L’influence de la météorologie sur leur fécondation."
+        ],
+        "answer": 0
+    }
+]
