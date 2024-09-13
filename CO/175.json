@@ -1,0 +1,513 @@
+[
+    {
+        "id": 1,
+        "testId": 175,
+        "text": "A. La séance débute tout de suite, salle 3. Bon film.\n\nB. Voilà votre carte d'embarquement. Bon voyage.\n\nC. Votre table est juste devant vous. Bon appétit.\n\nD. Votre train part dans 30 minutes. Bon après-midi.",
+        "audio": "/mp3/175/1.mp3",
+        "img": "/mp3/175/1.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 2,
+        "testId": 175,
+        "text": "A. Quel temps fait-il?\n\nB. Qu'est-ce que tu lis?\n\nC. Qui est au téléphone?\n\nD. Ne veux-tu aller dehors?",
+        "audio": "/mp3/175/2.mp3",
+        "img": "/mp3/175/2.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 3,
+        "testId": 175,
+        "text": "A. Éteins la lumière.\n\nB. Ferme la fenêtre.\n\nC. Lève-toi, c'est l'heure.\n\nD. Pose ton livre.",
+        "audio": "/mp3/175/3.mp3",
+        "img": "/mp3/175/3.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 4,
+        "testId": 175,
+        "text": "A. C'est un acteur formidable.\n\nB. Je déteste la publicité.\n\nC. Tu vas payer nos billets.\n\nD. Viens, on va s'asseoir là.",
+        "audio": "/mp3/175/4.mp3",
+        "img": "/mp3/175/4.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 5,
+        "testId": 175,
+        "text": "Qu'est-ce que tu veux manger ce soir?\n\nA. Au restaurant grec.\n\nB. Il n'y a pas de bar.\n\nC. Juste une salade.\n\nD. Mardi 20h chez moi.",
+        "audio": "/mp3/175/5.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 6,
+        "testId": 175,
+        "text": "Après mon baccalauréat, je voudrais étudier la biologie comme musée. Qu'est-ce que tu en penses?\n\nA. Ça change parfois.\n\nB. J'attends sa réponse.\n\nC. Réfléchis bien.\n\nD. Tu dois écouter.",
+        "audio": "/mp3/175/6.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 7,
+        "testId": 175,
+        "text": "Cette année, c'est décidé. Nous allons faire du ski pendant les vacances de Noël. Tu nous accompagnes ?\n\nA. Avec plaisir. Je suis libre demain.\n\nB. Bonne idée. J'adore la neige.\n\nC. D'accord. Je pars tout seul.\n\nD. Super. Je connais bien cette ville.",
+        "audio": "/mp3/175/7.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 8,
+        "testId": 175,
+        "text": "Je m'appelle Albert, j'ai 36 ans, je viens de Versailles, et je suis traducteur en anglais et chinois. Et toi, qu'est-ce que tu viens étudier à Montréal?\n\nA. J'ai choisi les cours de littérature.\n\nB. J'ai habité à Bruxelles et à Paris.\n\nC. J'ai trouvé une chambre d'étudiants.\n\nD. J'ai voyagé pendant deux ans.",
+        "audio": "/mp3/175/8.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 9,
+        "testId": 175,
+        "text": "— Je dois aller au supermarché avant la fermeture. Qu'est-ce que tu veux manger ce soir ?\n\n— Je ne sais pas. Des pizzas, c'est possible ?\n\n— Oui, mais elles sont meilleures au restaurant italien. Tu peux en acheter une avant de rentrer à la maison ?\n\n— Bien sûr.\n\nDe quoi est-ce que ces deux personnes parlent ?",
+        "audio": "/mp3/175/9.mp3",
+        "options": [
+            "D'un atelier de cuisine.",
+            "D'une recette familiale.",
+            "Des courses pour un repas.",
+            "Des horaires d’un magasin."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 10,
+        "testId": 175,
+        "text": "— Ça ne va pas? Tu es malade?\n\n— Non, mais mon mari vient de réserver un appartement à la montagne pour 15 jours. Au programme, randonnée, vélo et escalade.\n\n— C'est génial!\n\n— C'est affreux, tu veux dire. Moi, je rêvais de deux semaines de repos et de lecture.\n\nDe quoi discutent les deux femmes?",
+        "audio": "/mp3/175/10.mp3",
+        "options": [
+            "D'un prochain déménagement.",
+            "De sport pour le week-end.",
+            "De vacances en famille.",
+            "D'un problème de santé."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 11,
+        "testId": 175,
+        "text": "— Association Vie Étudiante, bonjour.\n\n— Bonjour madame. Je suis un étudiant étranger et je cherche un logement.\n\n— Est-ce que vous voulez une chambre en cité universitaire ?\n\n— Non.\n\n— Vous cherchez un appartement en colocation ?\n\n— Non, j'aimerais un studio.\n\n— Bien. Je vous envoie des adresses de propriétaires par courriel.\n\nQu'est-ce que cet étudiant veut ?",
+        "audio": "/mp3/175/11.mp3",
+        "options": [
+            "Changer de propriétaire.",
+            "Louer un appartement.",
+            "Partager un logement.",
+            "Partir vivre à l’étranger."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 12,
+        "testId": 175,
+        "text": "— Pardon monsieur, pourriez-vous m'indiquer où se trouve la bibliothèque s'il vous plaît ?\n\n— Oui bien sûr, elle n'est pas très loin, enfin si vous êtes en voiture.\n\n— Hélas, je suis à pied.\n\n— Il vous faudra marcher vingt minutes. Allez tout droit et passez deux carrefours, vous verrez la bibliothèque sur votre droite.\n\nQuel renseignement donne l'homme ?",
+        "audio": "/mp3/175/12.mp3",
+        "options": [
+            "La distance à parcourir.",
+            "L’adresse d’un garage.",
+            "Le bus à emprunter.",
+            "Le chemin à suivre."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 13,
+        "testId": 175,
+        "text": "— Bonjour, je voudrais réserver un séjour au Seychelles.\n\n— Alors, j'ai plusieurs formules de voyage à vous proposer. J'ai notamment quelque chose de très intéressant. Un combiné avion plus hôtel 4 étoiles sur l'île principale à 1300 euros la semaine, départ entre le 10 et le 15 décembre.\n\n— C'est au-dessus de mes moyens. Qu'auriez-vous d'autres à me proposer?\n\n— J'ai aussi des hôtels de catégorie inférieure.\n\n— Oui, je préférerais.\n\nQu'est-ce qui pose problème au client?",
+        "audio": "/mp3/175/13.mp3",
+        "options": [
+            "La date de départ.",
+            "La durée du voyage.",
+            "La situation de l’hôtel.",
+            "Le prix du séjour."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 14,
+        "testId": 175,
+        "text": "— Bonjour madame, je viens de voir à l'affichage que le train pour Londres a une heure de retard. Pourquoi ? C'est encore des cheminots qui ne sont pas contents ?\n\n— Non, pas cette fois. Mais malheureusement, je n'en sais pas plus que vous.\n\n— Alors là, c'est un comble ! Pour une fois que ce n'est pas un arrêt de travail, il n'y a personne qui puisse nous renseigner ?\n\n— Ben non.\n\n— C'est peut-être une panne.\n\n— Je ne sais pas non plus. Il faut attendre et continuer à consulter le panneau. C'est tout.\n\nPourquoi le voyageur est-il en colère ?",
+        "audio": "/mp3/175/14.mp3",
+        "options": [
+            "Parce que la file d’attente est très longue.",
+            "Parce qu’il manque d’information.",
+            "Parce que les conducteurs sont en grève.",
+            "Parce que les guichets sont fermés."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 15,
+        "testId": 175,
+        "text": "— Alors Marie, prête pour le départ ?\n\n— Oui. Tu as le guide touristique de Vienne ? Tu pourrais visiter la ville et goûter les spécialités locales ?\n\n— Oh, je ne sais pas. Je serai occupée du matin au soir par les réunions et des rendez-vous avec des clients.\n\n— Ah, et tu vas voir tes amis autrichiens ?\n\n— Non, pas cette fois.\n\nQu'est-ce que Marie va faire à Vienne ?",
+        "audio": "/mp3/175/15.mp3",
+        "options": [
+            "Manger des plats typiques.",
+            "Rencontrer sa famille.",
+            "Travailler toute la journée.",
+            "Voir une exposition."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 16,
+        "testId": 175,
+        "text": "— Tiens, Julie, qu'est-ce que tu fais là ?\n\n— Je viens pour le test de biologie.\n\n— Tu ne sais pas qu'il a été annulé ?\n\n— Non, j'étais absente au dernier cours. Pourquoi ce changement ?\n\n— À cause de la grippe. Il y a eu beaucoup d'absents cette semaine. Le prof préfère le faire dans deux semaines. Mais puisque tu es là, accompagne-moi en salle B14. Il y a une conférence intéressante.\n\nQu'apprend-on à propos du test de Julie ?",
+        "audio": "/mp3/175/16.mp3",
+        "options": [
+            "Il aura lieu plus tard dans le semestre.",
+            "Il évaluera le chapitre des maladies.",
+            "Il se fera dans le grand amphithéâtre.",
+            "Il sera corrigé par un enseignant extérieur."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 17,
+        "testId": 175,
+        "text": "— Bonjour, vous êtes la chanteuse Pascaloun, n'est-ce pas ?\n\n— Oui, c'est moi !\n\n— Bonjour ! Voilà, nous sommes une association et nous organisons chaque année une grande soirée, une fête solidaire au profit d'un programme de lutte contre la malnutrition au Burkina Faso. Et nous proposons à différents artistes de se produire ce soir-là, gratuitement, bien entendu. Et donc, on a pensé à vous cette année. On vous invite à participer à ce moment de solidarité. Chaque artiste invité dispose de 20 minutes sur scène et on met à votre disposition une équipe de techniciens pour vous aider. On espère ainsi récolter suffisamment de fonds pour poursuivre cette action. Cela vous intéresse ?\n\nQue demande-t-on à Pascaloun ?",
+        "audio": "/mp3/175/17.mp3",
+        "options": [
+            "Une contribution financière.",
+            "Une formation artistique.",
+            "Une intervention télévisée.",
+            "Une participation bénévole."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 18,
+        "testId": 175,
+        "text": "— Malo, tu veux venir chez moi? On pourrait regarder le championnat du monde de jeux vidéo.\n\n— Oui, je sais que tu es fan, mais je trouve que ce sport n'a rien à voir avec le vrai sport. Les participants ne font pas vraiment d'efforts physiques, ce n'est pas très impressionnant.\n\n— Tu as tort. Certains champions de sport électronique ressemblent aux autres champions. Ils signent un contrat, s'entraînent beaucoup, sont suivis par des médecins pour éviter des douleurs au dos ou à la main.\n\nQue propose Malo à son ami?",
+        "audio": "/mp3/175/18.mp3",
+        "options": [
+            "De participer à un match.",
+            "De préparer une épreuve sportive.",
+            "De tester un nouveau jeu.",
+            "De voir une compétition mondiale."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 19,
+        "testId": 175,
+        "text": "— Bonjour, monsieur. Vous voulez bien accrocher cette affiche dans votre magasin? Mon école organise une collecte de jouets pour financer notre voyage en Europe. On organisera ensuite une tombola. Les billets seront vendus à deux euros.\n\n— C'est une très bonne idée. Je vais la mettre sur la porte. Où est-ce que les gens doivent déposer les jeux qu'ils veulent donner?\n\n— Dans un coin de votre boutique, si ça ne vous dérange pas. Je peux vous laisser ce carton?\n\n— J'ai pas tellement de place. Pour le carton, demandez à la pharmacie juste à côté.\n\nQu'est-ce que le commerçant accepte de prendre? Je ne sais pas.",
+        "audio": "/mp3/175/19.mp3",
+        "options": [
+            "L'affiche.",
+            "Le carton.",
+            "Les billets.",
+            "Les jouets."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 20,
+        "testId": 175,
+        "text": "— Bonjour, je souhaiterais passer quelques jours à Paris. J'espère qu'il est encore temps de réserver. Qu'est-ce que vous me conseillez ?\n\n— Oh, pour Paris, ce n'est pas un problème. Vous avez le temps, mais il faut mieux une formule tout compris.\n\n— C'est ce qu'il y a de moins cher à cette époque ? Pas forcément le moins cher, mais en tout cas le plus facile.\n\n Pourquoi l'employé conseille-t-il au client de choisir une formule tout compris ?",
+        "audio": "/mp3/175/20.mp3",
+        "options": [
+            "C’est meilleur marché.",
+            "C’est plus simple.",
+            "C’est plus rapide.",
+            "C’est trop tard."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 21,
+        "testId": 175,
+        "text": "— Alors Frédéric, ce voyage en Inde?\n\n— Très intéressant, mais c'était dur. J'ai traversé des paysages magnifiques et des régions très pittoresques, mais par 40 degrés à l'ombre, je ne recommencerai pas. Et puis, ce n'est pas vraiment prévu pour un voyage à vélo. Beaucoup de circulation sur les routes et pratiquement pas de voies cyclables. Par contre, l'accueil des gens a été partout très chaleureux, même s'ils avaient du mal à comprendre pourquoi je voulais traverser leur pays à vélo, et seul en plus.\n\nQu'est-ce que Frédéric a trouvé difficile pendant son voyage?",
+        "audio": "/mp3/175/21.mp3",
+        "options": [
+            "Le comportement des habitants.",
+            "Le sentiment de solitude.",
+            "Les conditions météoritiques.",
+            "Les obstacles linguistiques."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 22,
+        "testId": 175,
+        "text": "— Salut Nathalie! Alors, comment s'est passé ton week-end à la montagne?\n\n— L'endroit était splendide, mais le séjour a été gâché parce qu'il a plu tout le temps. On n'a pas pu faire de la randonnée comme prévu.\n\n— Ah, c'est dommage. Qu'est-ce que vous avez fait alors?\n\n— On a sorti les dominos et les cartes. On aurait pu faire ça chez nous, ça nous aurait coûté moins cher. On a fait beaucoup de routes pour rester enfermés.\n\nQue regrettes-tu, Nathalie?",
+        "audio": "/mp3/175/22.mp3",
+        "options": [
+            "Elle a perdu aux jeux de société.",
+            "Elle est restée près de chez elle.",
+            "La météo était très mauvaise.",
+            "Le logement était mal situé."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 23,
+        "testId": 175,
+        "text": "Eh bien, à Amiens, les aspirateurs des agents de la Boirie avalent 500 tonnes de feuilles chaque année. Celles-ci, une fois ramassées, sont d'abord stockées dans plusieurs lieux de la ville, puis elles sont triées dans l'usine de mécanisation Picard, IDEX environnement. Elles ne vont pas toutes subir le même sort. Toutes ne sont pas traitées de la même manière. Les feuilles les plus propres, généralement celles ramassées dans les parcs et jardins, sont transformées en compost. De quoi parle le journaliste ?",
+        "audio": "/mp3/175/23.mp3",
+        "options": [
+            "De conservation des plantes.",
+            "De nettoyage d’espaces verts.",
+            "De procédés de recyclage.",
+            "De techniques de culture."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 24,
+        "testId": 175,
+        "text": "Pourquoi accumulons-nous des objets ? Avant tout, l'objet en fait nous signale. L'objet, c'est un peu nous. Je suis ce que j'ai, je suis ce que je porte, je suis ce que je possède. Et en fait, l'objet, via le regard d'autrui sur notre objet, nous permet de nous construire une identité, qui on est, notre intérêt. Tout ça passe effectivement par la médiation des objets, que ce soit les vêtements, que ce soit une voiture, que ce soit un lieu de résidence, des chaussures ou je ne sais quoi. Donc l'objet est très important. Selon l'intervenante, pourquoi accumulons-nous des objets ? ",
+        "audio": "/mp3/175/24.mp3",
+        "options": [
+            "Pour afficher notre niveau de vie.",
+            "Pour affirmer notre personnalité.",
+            "Pour améliorer notre quotidien.",
+            "Pour imiter notre entourage."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 25,
+        "testId": 175,
+        "text": "— Bruno Blandy a appris la musique en autodidacte en écoutant du jazz, de la musique brésilienne ou les Beatles. Avec sa guitare, il a intégré des groupes de rock, de blues ou de chansons françaises, composé un album de musique métissée, est parti en tournée puis est devenu chef d'orchestre. Durant son temps libre, il fabriquait des instruments de musique avec des matériaux de récupération: vibraphone en piquets de tente, flûte en tuyaux d'arrosage.\n\n— La difficulté c'est de produire des notes justes. J'utilise des sons qu'on ne trouve pas ailleurs, ça donne une couleur particulière.\n\n— Récupère tout en un seul mot et avec un cas, c'est le nom du spectacle pour enfants tiré de ce concept. Un concert à retrouver le 20 mai à la Citrouille.\n\nQuelle est l'originalité des instruments de musique du spectacle de Bruno Blandy ?",
+        "audio": "/mp3/175/25.mp3",
+        "options": [
+            "C’est le jeune public qui les crée.",
+            "Ce sont des outils de jardinage transformés.",
+            "Ils sont confectionnés sur scène.",
+            "Ils sont réalisés avec des objets recyclés."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 26,
+        "testId": 175,
+        "text": "— Bonjour Tom, c'est Monsieur Durand. Avez-vous bien reçu le colis que nous a envoyé notre client japonais ?\n\n— Toutes mes excuses Monsieur, j'ai oublié de vous le dire, j'ai contacté le bureau de poste hier. Ils ont pris beaucoup de retard à cause de la neige et ne pourront pas distribuer le courrier avant vendredi.\n\n— D'accord, n'oubliez pas de me prévenir car c'est vraiment urgent. J'espère avoir ce colis d'ici vendredi matin.\n\nPourquoi Monsieur Durand appelle-t-il ?",
+        "audio": "/mp3/175/26.mp3",
+        "options": [
+            "Pour annoncer une nouvelle.",
+            "Pour annuler une livraison.",
+            "Pour faire une réclamation.",
+            "Pour obtenir une information."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 27,
+        "testId": 175,
+        "text": "— Delphine Manseau, en tant que directrice de l'Institut pour l'innovation et la compétitivité, pensez-vous que tout le monde peut être innovant ?\n\n— On croit souvent que l'innovation survient par hasard et qu'il s'agit d'un don individuel. Mais être innovant et créatif, ça s'apprend.\n\n— Alors, comment rend-t-on un étudiant innovant, par exemple ?\n\n— Il faut différencier l'innovation individuelle et la capacité à être innovant collectivement. Nous avons donc mis en place des programmes pour apprendre aux jeunes à conduire des projets innovants dans le cadre d'équipes diversifiées. Comment favorise-t-on l'innovation chez les jeunes dans cet institut ?",
+        "audio": "/mp3/175/27.mp3",
+        "options": [
+            "En les incitant à travailler de manière collaborative.",
+            "En les poussant à prendre des risques importants.",
+            "En leur offrant des formations personnalisées.",
+            "En leur proposant de participer à des compétitions."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 28,
+        "testId": 175,
+        "text": "— Et si les enfants ne mangent pas assez de fruits et légumes, c'est peut-être parce qu'ils n'aiment pas ça.\n\n— En fait, les enfants mangent principalement par plaisir et c'est une fonction que ne remplissent pas les fruits et légumes. Certes, tout le monde est d'accord pour dire que c'est bon à la santé, que c'est nécessaire, que c'est souvent contraignant à préparer, que cela ne remplit pas l'estomac, voire que ce n'est pas bon. Mais on trouve rarement la notion de plaisir associée aux fruits et légumes.\n\nDe quoi est-il question ?",
+        "audio": "/mp3/175/28.mp3",
+        "options": [
+            "Des besoins énergétiques des jeunes.",
+            "Des bons réflexes pour les repas.",
+            "Des comportements alimentaires.",
+            "Des conseils de préparation culinaire."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 29,
+        "testId": 175,
+        "text": "— M. Rinon, vous êtes architecte et vous allez nous présenter une avenue à Paris datant de la fin du 19e siècle. La façade haussmannienne est-elle toujours en pierre ?\n\n— Oui, c'était une obligation qui figurait dans l'acte de vente. C'était la manière finalement dont Haussmann légiférait puisqu'il n'y avait pas de loi.\n\n— Pourquoi ? Le permis de construire n'existait pas ?\n\n— Le permis de construire en effet viendra plus tard.\n\n— Donc on leur disait simplement, vous devez utiliser de la pierre pour les façades ?\n\n— C'est ça. Quand les propriétaires achetaient le terrain pour construire, on leur imposait une pierre de taille. Dans les belles avenues comme celle de l'Opéra, on indiquait aussi que les lignes devaient filer, pour donner une certaine harmonie, une certaine homogénéité, une certaine monotonie pour ceux qui n'apprécient pas cette esthétique. L'idée d'Haussmann, c'était qu'à partir du moment où on construisait un immeuble dans une avenue, les immeubles suivants devaient le prendre comme modèle.\n\nQuel principe retrouve-t-on dans l'architecture haussmannienne ?",
+        "audio": "/mp3/175/29.mp3",
+        "options": [
+            "L’absence d’éléments ornementaux.",
+            "La limitation du nombre d’étages.",
+            "Le respect d’obligations légales.",
+            "L’utilisation d’un matériau unique."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 30,
+        "testId": 175,
+        "text": "— Bonjour. Alors, voilà ma question. Je voudrais savoir comment fonctionne le système des pourboires au Québec, car cela varie beaucoup d'un pays à l'autre. Est-ce obligatoire ou non?\n\n— Eh bien, c'est une chose courante chez nous de laisser une somme d'argent à quelqu'un pour le remercier de ses bons services, car le service n'est pas inclus dans le salaire du personnel.\n\n— Et comment calcule-t-on la somme d'argent qu'on doit laisser?\n\n— En général, on doit laisser entre 15 et 20 % de la somme indiquée sur la facture.\n\n— C'est une vraie gymnastique, alors, au moment de payer?\n\n— Non, pas vraiment. Nous autres, Québécois, on est habitués à ce système. Ça se fait presque automatiquement.\n\nDe quoi dépend le montant du pourboire au Québec?",
+        "audio": "/mp3/175/30.mp3",
+        "options": [
+            "De la législation en vigueur.",
+            "De la paye des employés.",
+            "Du bon vouloir du client.",
+            "Du type d’établissement."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 31,
+        "testId": 175,
+        "text": "— Là, on vient, très récemment, de... d'observer pour la première fois un trou noir, Hubert Rives. Quelle a été votre réaction?\n\n— Oui, c'est le moment où on découvre une chose pour la première fois, et surtout le fait que cette idée des trous noirs, qui a été inventée par Einstein dans les années 1910-15, je ne me souviens pas, c'était au départ une théorie de trouver que le comportement de ces trous noirs existe, c'est une confirmation de la valeur de la science en général, qui sont, par exemple, les idées des trous noirs. Ça vous donne confiance dans la science.\n\nSelon Hubert Rives, pourquoi cette première observation d'un trou noir est-elle importante ?",
+        "audio": "/mp3/175/31.mp3",
+        "options": [
+            "Elle annonce de futures découvertes.",
+            "Elle confirme une théorie ancienne.",
+            "Elle illustre les progrès du matériel scientifique.",
+            "Elle permet la poursuite des travaux d’Einstein."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 32,
+        "testId": 175,
+        "text": "Les articles de journaux, en tant qu'objet d'études dans les manuels scolaires, existent depuis le XIXe siècle. En revanche, l'actualité des journaux est restée très longtemps interdite d'entrer dans les écoles. Ce n'est qu'en 1957 que le gouvernement confère aux journaux quotidiens le droit de pénétrer tel quel dans les établissements scolaires. Ainsi, l'idée que la presse et l'école avaient quelque chose à faire ensemble, que la presse pouvait constituer un objet pédagogique, faisait son chemin. Il a fallu attendre 1983 pour que le ministère de l'Éducation nationale ne se décide à administrer l'enseignement de la presse à l'école. C'est la création du CLEMI, le Centre de Liaison pour l'Enseignement des Moyens d'Information. Quelle mesure a pris l'État dans les années 80 ?",
+        "audio": "/mp3/175/32.mp3",
+        "options": [
+            "Il a accepté les articles de presse dans les livres scolaires.",
+            "Il a créé un journal quotidien dédié à l’éducation publique.",
+            "Il a distribué des journaux aux établissements scolaires.",
+            "Il a intégré l’étude de la presse à ses programmes."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 33,
+        "testId": 175,
+        "text": "Auguste Escoffier, c'est le roi des cuisiniers. Le cuisinier des rois, qui est connu pour ses innovations culinaires et son habitude de présenter à ses hôtes ses plats en salle. Une belle amitié et une incroyable complicité avec César Ritz, son pendant en hôtellerie, ont fait de leur association un des plus grands succès de la fin du 19e siècle. Leur idée de séduire la clientèle et de lui offrir le rêve en dédiant par exemple les nouveaux plats inventés par Escoffier aux convives célèbres, comme la pêche Melba, ou la timbale Garibaldi, a assuré leur fortune. Selon ce journaliste, comment s'explique l'enrichissement d'Escoffier?",
+        "audio": "/mp3/175/33.mp3",
+        "options": [
+            "Des recettes ont été baptisées en l’honneur de clients réputés.",
+            "La promotion de son restaurant a été confiée à des personnalités.",
+            "Un accueil chaleureux et généreux était réservé aux habitués.",
+            "Un partenariat inédit entre hôtel et restaurant a été mis en place."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 34,
+        "testId": 175,
+        "text": "Interdire les téléphones de tous les lieux de travail permettrait d'être plus productif et peut-être même de devenir plus joyeux. À ce jour, très peu de patrons demandent à leurs employés d'éteindre leur portable quand ils entrent en salle de réunion. Pourtant, ce ne serait pas difficile à mettre en place. Si nos enfants sont capables quand ils vont à l'école, cela devrait être identique pour la majorité des adultes. Qu'apprend-on sur l'obligation d'éteindre les portables ?",
+        "audio": "/mp3/175/34.mp3",
+        "options": [
+            "Elle doit servir d’exemple aux enfants.",
+            "Elle est automatique en cas de réunion.",
+            "Elle répond à un besoin des employés.",
+            "Elle s’applique très rarement au travail."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 35,
+        "testId": 175,
+        "text": "On l'a dit, la culture générale a tous ses défauts, mais en plus, elle a le défaut d'ignorer les sciences. Ça c'est assez facile à faire comme constat. Oui, assez facile à faire comme constat, mais ce qui est déplorable, c'est que c'est pas incorporé cette idée-là, il me semble. C'est-à-dire qu'on peut traiter aujourd'hui et se prétendre cultiver, et les gens qui parlent de culture générale sont très souvent, ou typiquement des humanistes qui ont une culture littéraire, être cultivés sans avoir de connaissances scientifiques. Et j'irais même jusqu'à dire pire, en méprisant, ou en trouvant que ça pose absolument pas problème de pas avoir des cultures scientifiques, ou pour prendre un exemple que j'aime beaucoup, en se vantant de rien connaître aux mathématiques. Et là, je pense que c'est une profonde erreur, et puis le livre se veut une défense passionnée, j'oserais dire, de l'importance d'incorporer les notions de culture scientifique. Pour l'auteur, de quoi les gens cultivés doivent-ils se rendre compte ?",
+        "audio": "/mp3/175/35.mp3",
+        "options": [
+            "De l’absurdité qu’il y a à valoriser leur manque de culture scientifique.",
+            "De la nécessité de mieux défendre les acquis de la culture classique.",
+            "Du besoin qu’ont les mathématiciens d’avoir une culture générale.",
+            "Du refus des valeurs humanistes par les milieux scientifiques."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 36,
+        "testId": 175,
+        "text": "— Et ces clowns travaillent, Bruno, en étroite collaboration avec les équipes soignantes ?\n\n— Oui, parce qu'ils ne peuvent pas débarquer dans la chambre d'un enfant sans connaître précisément son état. Alors, avant d'enfiler leur costume, ces clowns professionnels prennent le temps de discuter avec l'équipe médicale du cas de chaque enfant. C'est un moment indispensable pour préparer la journée, car selon l'humeur, l'état de santé de chaque enfant, ces acteurs qui sont rompus à l'improvisation vont adapter leur intervention dans un but. Permettre à un enfant, mais aussi à ses parents, d'oublier pendant quelques minutes l'hôpital, de retrouver l'envie de rire.\n\nQuelle est la particularité de ces interventions ?",
+        "audio": "/mp3/175/36.mp3",
+        "options": [
+            "Elles abordent les traitements des enfants.",
+            "Elles s’appuient sur la complicité des parents.",
+            "Elles sont animées par le personnel hospitalier.",
+            "Elles tiennent compte de l’avis des médecins."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 37,
+        "testId": 175,
+        "text": "Il y a un manque de clarté au niveau de la politique des dates de péremption au Canada. Parce que souvent les conservateurs vont peut-être jeter des produits quand la date meilleure avant est passée. Mais ça ne veut pas nécessairement dire que le produit est insalubre. Le produit peut être encore bon. Il y a des forces démographiques qui jouent contre l'industrie. Il y a une soif de profit au sein de l'industrie. Pourquoi? Parce que les gens mangent moins. Les gens vieillissent au Canada. Donc comment fait-on pour atteindre nos objectifs de vente quand les gens mangent moins? Alors il faut trouver de différents moyens pour augmenter ses recettes. Qui est lésé d'après l'intervenant?",
+        "audio": "/mp3/175/37.mp3",
+        "options": [
+            "Les acheteurs.",
+            "Les commerçants.",
+            "Les entreprises.",
+            "Les pouvoirs publics."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 38,
+        "testId": 175,
+        "text": "— Ouvrir une chambre d'hôte, c'est d'abord opter pour un mode de vie bien particulier où vous partagez la vie de votre quotidien avec des gens de passage, soit toute l'année ou une partie de l'année, et c'est une formule conviviale qui a du succès puisqu'on en compte plus de 110 000 en France.\n\n— Est-ce qu'il y a moins de contraintes pour les gîtes ruraux ?\n\n— Oui, tout à fait. Si vous êtes moins disponible, le gîte rural, pour cela il vous suffit d'être là à l'arrivée au départ des vacanciers et en fait il suppose au contraire un logement qui est vraiment indépendamment du vôtre, qui est généralement situé à proximité de celui du propriétaire, mais où le vacancier va séjourner en toute autonomie pendant la semaine ou pour le week-end.\n\nQue peut offrir un propriétaire de gîte rurale ?",
+        "audio": "/mp3/175/38.mp3",
+        "options": [
+            "De la tranquillité et de l’intimité.",
+            "Des facilités de réservation.",
+            "Un contact privilégié avec son hôte.",
+            "Un tarif intéressant toute l’année."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 39,
+        "testId": 175,
+        "text": "Effectivement, la loi de 2001 fait obligation aux banques de désigner un médiateur qui est là pour justement tenter de régler les problèmes. Et la FUB a fait voter à l'époque que les modalités pour saisir le médiateur doivent être précisées dans le relevé de banque et dans le contrat. Donc pour savoir comment saisir le médiateur, il faut lire le relevé de banque ou le contrat. On doit y avoir toutes les précisions. Le médiateur a deux mois pour rendre un avis. Ce n'est qu'un avis, entendons-nous bien. Et là, eh bah, disons qu'il y a parfois un petit problème. C'est d'abord, peu de clients ont recours au médiateur. Il faudrait être beaucoup plus, disons, nombreux. Et deuxièmement, ce sont parfois des renvoyeurs de balles, c'est-à-dire ceux qui s'adressent à eux, ont le sentiment qu'ils n'ont pas été compris ni entendu. Quel sont les limites du recours au médiateur lors d’un conflit avec sa banque?",
+        "audio": "/mp3/175/39.mp3",
+        "options": [
+            "Le nombre de médiateurs est insuffisant pour répondre à la demande.",
+            "Les banques influencent les décisions prises par les médiateurs.",
+            "Les demandeurs trouvent que la procédure est trop longue et compliquée.",
+            "Quelle que soit la nature du litige, le médiateur n’a qu’un pouvoir consultatif."
+        ],
+        "answer": 3
+    }
+]
