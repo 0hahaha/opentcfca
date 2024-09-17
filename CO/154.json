@@ -1,0 +1,521 @@
+[
+    {
+        "id": 1,
+        "testId": 154,
+        "text": "A. Il est beau ce danseur.\n\nB. J'adore cette chanson.\n\nC. La radio est trop forte.\n\nD. Tu joues bien du piano.",
+        "audio": "/mp3/154/1.mp3",
+        "img": "/mp3/154/1.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 2,
+        "testId": 154,
+        "text": "A. Tu aimes le bœuf à la québécoise?\n\nB. Tu connais l'heure du prochain film?\n\nC. Tu sais où est la station de métro?\n\nD. Tu vois où j'habite sur ce plan?",
+        "audio": "/mp3/154/2.mp3",
+        "img": "/mp3/154/2.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 3,
+        "testId": 154,
+        "text": "— Bonjour madame, qu'est-ce qui vous arrive?\n\n— Bonjour, j'ai très mal à la gorge. Est-ce que vous avez quelque chose pour moi?\n\nA. Oui, c'est plus difficile.\n\nB. Oui, je suis malade aussi.\n\nC. Oui, prenez ce médicament.\n\nD. Oui, voici votre facture.",
+        "audio": "/mp3/154/3.mp3",
+        "audioAI": "/mp3/154/ai_3.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 4,
+        "testId": 154,
+        "text": "Où est-ce que je peux prendre un café pendant la pause?\n\nA. Deux euros.\n\nB. Salle 4.\n\nC. Trois minutes.\n\nD. Un sucre.",
+        "audio": "/mp3/154/4.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 5,
+        "testId": 154,
+        "text": "Madame, je réserve vos billets. Comment voulez-vous voyager ?\n\nA. Je pars le 12 mars.\n\nB. Je préfère l'avion.\n\nC. Je reste deux jours.\n\nD. Je vais à Paris.",
+        "audio": "/mp3/154/5.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 6,
+        "testId": 154,
+        "text": "À quelle heure part le prochain avion pour Rio de Janeiro, s'il vous plaît ?\n\nA. À demain matin.\n\nB. À 22h37.\n\nC. Le lendemain.\n\nD. Pour 17h.",
+        "audio": "/mp3/154/6.mp3",
+        "audioAI": "/mp3/154/ai_6.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 7,
+        "testId": 154,
+        "text": "Je peux revenir échanger ce pull, si ça ne va pas?\n\nA. Aujourd'hui, tout est à 50%.\n\nB. Bien sûr, mais seulement avec le ticket d'achat.\n\nC. Désolée, je n'ai pas votre table.\n\nD. Regardez, le rayon or est juste en face.",
+        "audio": "/mp3/154/7.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 8,
+        "testId": 154,
+        "text": "— Bonjour, j'ai très mal à la gorge. Est-ce que vous pouvez me donner quelque chose ?\n\n— Je vous conseille ces comprimés qui sont très efficaces.\n\n— Je dois les prendre pendant combien de temps ?\n\nA. Au milieu du repas.\n\nB. Deux fois par jour.\n\nC. Seulement le matin.\n\nD. Une semaine.",
+        "audio": "/mp3/154/8.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 9,
+        "testId": 154,
+        "text": "Pourquoi étiez-vous absent hier après-midi?\n\nA. J'avais rendez-vous chez le médecin.\n\nB. Moi non plus, je ne suis pas venu.\n\nC. Je ne sais pas, je n'étais pas là.\n\nD. Si, mais je n'ai pas eu le temps.",
+        "audio": "/mp3/154/9.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 10,
+        "testId": 154,
+        "text": "— Ça ne va pas ?\n\n— Non Nathalie, j'ai la grippe. Je n'ai pas eu le temps d'aller voir le docteur.\n\n— Il ne faut pas attendre, appelle-le.\n\nQuel conseil donne Nathalie à son ami ?",
+        "audio": "/mp3/154/10.mp3",
+        "options": [
+            "Prendre des médicaments.",
+            "Rentrer chez elle se coucher.",
+            "Se rendre à la pharmacie.",
+            "Téléphoner au médecin."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 11,
+        "testId": 154,
+        "text": "Les passagers du vol Air France 275 sont invités à se présenter porte 2C pour un embarquement immédiat. Qu'est-ce que le message annonce ?",
+        "audio": "/mp3/154/11.mp3",
+        "options": [
+            "L’arrivée d’un vol.",
+            "Le retard d’un vol.",
+            "Le départ d’un vol.",
+            "L’annulation d’un vol."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 12,
+        "testId": 154,
+        "text": "— Alors, madame, que pensez-vous de cet appartement avec vue sur le parc?\n\n— Spacieux, mais trop sombre à mon goût.\n\n— J'en ai un autre, plus lumineux, mais plus cher. Voulez-vous le visiter?\n\n— Oui, bien sûr. Le prix n'importe pas.\n\nQu'apprend-on sur la cliente?",
+        "audio": "/mp3/154/12.mp3",
+        "audioAI": "/mp3/154/ai_12.mp3",
+        "options": [
+            "Elle cherche un grand logement.",
+            "Elle doit respecter un budget.",
+            "Elle souhaite avoir une belle vue.",
+            "Elle va voir un autre appartement."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 13,
+        "testId": 154,
+        "text": "— Allô, bonjour. Je vous appelle pour savoir quand je pourrais récupérer ma voiture. Une Peugeot verte. Elle est chez vous depuis une semaine.\n\n— Un instant s'il vous plaît, Madame. Je me renseigne. La pièce qui manque pour la boîte de vitesse devrait être livrée ce matin. La réparation devrait être terminée en fin d'après-midi. Pourriez-vous nous rappeler vers 17h?\n\n— Volontiers. Pourriez-vous m'indiquer à ce moment-là la somme à payer? À tout à l'heure.\n\nQue veux cette dame?",
+        "audio": "/mp3/154/13.mp3",
+        "options": [
+            "Demander une facture détaillée.",
+            "Faire repeindre son automobile.",
+            "Prendre rendez-vous au garage.",
+            "Savoir si son véhicule est prêt."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 14,
+        "testId": 154,
+        "text": "— Bonjour madame, je viens de voir à l'affichage que le train pour Londres a une heure de retard. Pourquoi ? C'est encore des cheminots qui ne sont pas contents ?\n\n— Non, pas cette fois. Mais malheureusement, je n'en sais pas plus que vous.\n\n— Alors là, c'est un comble ! Pour une fois que ce n'est pas un arrêt de travail, il n'y a personne qui puisse nous renseigner ?\n\n— Ben non.\n\n— C'est peut-être une panne.\n\n— Je ne sais pas non plus. Il faut attendre et continuer à consulter le panneau. C'est tout.\n\nPourquoi le voyageur est-il en colère ?",
+        "audio": "/mp3/154/14.mp3",
+        "options": [
+            "Parce que la file d’attente est très longue.",
+            "Parce qu’il manque d’information.",
+            "Parce que les conducteurs sont en grève.",
+            "Parce que les guichets sont fermés."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 15,
+        "testId": 154,
+        "text": "Je m'appelle Pascale, ça fait 4 ans que je travaille dans une école maternelle. Je suis chargée d'aider les enseignants dans la classe. Alors, le plus dans le métier pour moi, c'est les relations avec les enseignants et les enfants. Ça, on a vraiment beaucoup de chance à ce niveau-là, surtout avec les enfants. Les côtés négatifs du métier... Je dirais peut-être les journées un peu longues, dans le bruit, parce que les enfants sont quand même en général bruyants. Qu'apprécie Pascale dans son métier?",
+        "audio": "/mp3/154/15.mp3",
+        "options": [
+            "La répartition des horaires.",
+            "Le contact avec les élèves.",
+            "Les activités pédagogiques.",
+            "L’organisation des leçons."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 16,
+        "testId": 154,
+        "text": "— Et Sophia, elle vient ?\n\n— Non, elle ne pourra pas venir avec nous au cinéma. Elle m'a demandé de vous prévenir.\n\n— Pourquoi ? Elle a une sortie avec ses collègues. Ils ont réservé une table pour 19h.\n\n— C'est dommage. Peut-être qu'elle pourra nous rejoindre plus tard.\n\nOù sera Sophia à 19h ?",
+        "audio": "/mp3/154/16.mp3",
+        "options": [
+            "Au bureau.",
+            "Au cinéma.",
+            "Au restaurant.",
+            "Au théâtre."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 17,
+        "testId": 154,
+        "text": "Amis auditeurs, voici une idée de lecture originale. Les éditions Parigram ont publié un ouvrage intitulé « Paris et ses alentours au temps de Napoléon » histoire de nous faire découvrir les lieux qui ont compté au cours de cette période, mais aussi les principaux travaux, les constructions les plus emblématiques et les transformations les plus remarquables, voulu par Napoléon, car quand il n'est pas à la guerre, il nourrit de grands dessins pour la capitale. L'âme de Triomphe, la colonne Vendôme... Quel est le sujet du livre?",
+        "audio": "/mp3/154/17.mp3",
+        "options": [
+            "La découverte des palais de l’empereur.",
+            "L’élargissement de Paris à ses environs.",
+            "Les lieux qui ont changé sous Napoléon.",
+            "Les traces des batailles napoléoniennes."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 18,
+        "testId": 154,
+        "text": "— Centre d'affaires de la Cité, bonjour.\n\n— Bonjour Madame. Je voudrais louer une salle de conférence. Quels sont vos tarifs et les services proposés?\n\n— C'est ma collègue, Madame Martineau, qui s'occupe de la réservation des salles. Je vous la passe, ne quittez pas.\n\n— Merci Madame. Au revoir.\n\nPourquoi cet homme appel-t-il?",
+        "audio": "/mp3/154/18.mp3",
+        "options": [
+            "Il veut obtenir des renseignements.",
+            "Il cherche à joindre la directrice.",
+            "ll désire visiter les locaux disponibles.",
+            "II souhaite participer à un congrès."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 19,
+        "testId": 154,
+        "text": "— Alors, ça t'a plu?\n\n— Oui, j'ai trouvé le scénario original et la fin surprenante, mais je ne suis pas très fan de l'acteur principal. Je trouve qu'ils auraient pu choisir quelqu'un d'autre pour ce rôle. Et la musique était insupportable.\n\nQu'ont fait ces personnes?",
+        "audio": "/mp3/154/19.mp3",
+        "options": [
+            "Elles ont assisté à un concert.",
+            "Elles ont lu le même livre.",
+            "Elles ont rencontré une célébrité.",
+            "Elles ont vu un film au cinéma."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 20,
+        "testId": 154,
+        "text": "Les avancées des sciences et des techniques se lèvent des questions qui touchent à la vie de chacun et font débat. Le projet n'est plus une évidence. Les citoyens veulent comprendre ce que la recherche rend possible. Le Collège de la Cité des Sciences et de l'Industrie organise tout au long de l'année des cycles de conférences et de débats où des chercheurs viennent à la rencontre du public. L'ambition est de permettre à chacun d'acquérir des connaissances fondamentales, de s'informer des développements récents, de se former une opinion éclairée pour que la science devienne une composante de la culture. Quel est le but du Collège de la Cité des Sciences et de l'Industrie ?",
+        "audio": "/mp3/154/20.mp3",
+        "options": [
+            "Délivrer des diplômes à ceux qui suivent ses cours.",
+            "Élargir les connaissances scientifiques des participants.",
+            "Faire progresser la recherche scientifique en France.",
+            "Recueillir des fonds pour les laboratoires français."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 21,
+        "testId": 154,
+        "text": "— Mathieu, je vous félicite. Vous avez fait un très bon travail de recherche.\n\n— C'est vrai ? Je ne pensais pas avoir réussi, mais j'ai mis beaucoup de temps. Ça n'a pas été facile.\n\n— En tout cas, c'est une excellente copie. Vous avez la meilleure note du groupe.\n\n— Ça alors ! Je ne peux pas le croire.\n\nQu'exprime le jeune homme ?",
+        "audio": "/mp3/154/21.mp3",
+        "options": [
+            "De l’enthousiasme.",
+            "De l’étonnement.",
+            "De l’admiration.",
+            "De l’intérêt."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 22,
+        "testId": 154,
+        "text": "— Est-ce que c'est toujours compatible ça, d'avoir beaucoup d'heures de sport comme ça et pouvoir concilier des études aussi?\n\n— Non, spontanément c'est pas toujours compatible et puis c'est un grand paradoxe qui s'installe d'entrée de jeu parce que on fait faire du sport à nos enfants pour développer des valeurs, des valeurs de rigueur, sens d'habitude de vie, de qualité de vie et puis on se retrouve à devoir composer avec des attitudes qui ne sont pas très très de grande qualité. On va faire manger les enfants dans la voiture en s'en allant à l'aréna, on va faire des devoirs 2-3 fois plus parce qu'on sait que tel ou tel jour on n'aura pas le temps de les faire. Donc, on fait plusieurs entorses à l'hygiène de vie parfois pour réussir à rencontrer les horaires.\n\nQu'est-ce qui inquiète cette mère de famille?",
+        "audio": "/mp3/154/22.mp3",
+        "options": [
+            "La fréquence des compétitions sportives.",
+            "Le contenu des programmes sportifs.",
+            "Les contraintes liées aux pratiques sportives.",
+            "L’insuffisance des résultats sportifs."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 23,
+        "testId": 154,
+        "text": "Bonjour M. Nouguet, Madame Lefebvre de la Direction des ressources humaines de la Société Algepro. Je vous appelle au sujet de votre candidature pour le poste de graphiste. Votre CV a été présélectionné par la Directrice des ressources humaines. Si ce poste vous intéresse toujours, nous aimerions vous rencontrer dans les prochains jours. Merci de me rappeler au 01 25 38 67 54. Au revoir. Pourquoi Mme Lefebvre a-t-elle appelé M. Nouguet?",
+        "audio": "/mp3/154/23.mp3",
+        "options": [
+            "Pour lui annoncer le rejet de sa proposition.",
+            "Pour lui confirmer un rendez-vous de travail.",
+            "Pour lui demander des documents supplémentaires.",
+            "Pour lui fixer un entretien d’embauche."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 24,
+        "testId": 154,
+        "text": "Les Français sont de plus en plus nombreux à rechercher les loisirs de plein air. Et le camping n'est plus seulement choisi pour de simples raisons économiques, puisque l'on trouve des terrains 5 étoiles, qui proposent même des restaurants gastronomiques et des salles de bain privées. Le mot camping commence d'ailleurs à laisser la place à hôtellerie de plein air. Qu'apprend-on sur le camping ?",
+        "audio": "/mp3/154/24.mp3",
+        "options": [
+            "Il intéresse très peu les vacanciers.",
+            "Il offre des services de qualité supérieure.",
+            "Il permet le développement des campagnes.",
+            "Il souffre d’une augmentation des tarifs."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 25,
+        "testId": 154,
+        "text": "— Et celle-là, qu'est-ce que t'en penses?\n\n— Ouais, pas mal. J'aime bien la forme des branches. Tourne-toi un peu pour voir. Ce sera parfait pour la montagne.\n\n— Bon, j'essaie encore ces trois paires et je me décide.\n\n— Moi, je préfère celle-là. Elles vont très bien avec la couleur de tes cheveux et elles sont très élégantes.\n\n— Bon, ben allez, d'accord, je les prends.\n\nQu'est-ce que la fille achète?",
+        "audio": "/mp3/154/25.mp3",
+        "options": [
+            "Une paire de boucles d’oreille.",
+            "Une paire de chaussures.",
+            "Une paire de lunettes.",
+            "Une paire de skis."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 26,
+        "testId": 154,
+        "text": "L'Institut de langue et civilisation orientale, c'est-à-dire l'INALCO, a été fondé par Colbert au XVIIe siècle à Istanbul. Aujourd'hui encore, même si l'école est à Paris, les professeurs sont soit des autochtones originaires du pays dont ils enseignent la langue, soit des Français qui ont vécu dans ce pays. Les professeurs étrangers ont souvent acquis la nationalité française par la suite. Ils sont tous des spécialistes de leur domaine linguistique ou culturelle et un certain nombre d'entre eux ont fait leurs études à l'Institut. Qu'est-ce applique au recrutement des professeurs de l'INALCO？",
+        "audio": "/mp3/154/26.mp3",
+        "options": [
+            "Avoir effectué de nombreux séjours à l’étranger.",
+            "Avoir été eux-mêmes formés à l’école Colbert.",
+            "Avoir obtenu la nationalité française.",
+            "Avoir vécu dans le pays de la langue qu’ils enseignent."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 27,
+        "testId": 154,
+        "text": "— Bonjour Madame. J'habite en France depuis six mois seulement dans un studio. J'ai reçu une feuille d'impôt bizarre à payer avant le 15 octobre prochain. Pourquoi?\n\n— Oui, c'est normal. Il y a le loyer et une fois par an, il y a des impôts locaux. Ils sont basés sur la superficie de votre studio et sur le lieu de résidence.\n\n— Quoi? Il faut que je paie le loyer et cette facture locale? Mais dans mon pays, ça n'existe pas ça.\n\n— Désolée, mais chaque pays a ses droits. Si vous étiez propriétaire, vous payeriez aussi la taxe foncière, mais pas le loyer bien sûr.\n\nDe quoi s'étonne le jeune homme?",
+        "audio": "/mp3/154/27.mp3",
+        "options": [
+            "Des différences entre la taxe locative et la taxe foncière.",
+            "Du délai accordé pour le paiement des taxes.",
+            "Du mode de calcul de la taxe locative.",
+            "Du système français de taxe d’habitation."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 28,
+        "testId": 154,
+        "text": "— Mesdames, Messieurs, bienvenue sur le bateau de la Société Saphine au service de notre clientèle Oganian. Nous allons découvrir ensemble Paris au gré de la Seine.\n\n— C'est quand même mieux qu'à pied ou en autocar.\n\n— Voici votre programme. De 10h à 12h, nous allons longer les quais et passer sous de nombreux ponts. Nous nous arrêterons devant Notre-Dame de Paris, les musées du Louvre et d'Orsay. Enfin, nous arrivons au Trocadéro. Pour vous remettre de toutes ses émotions, un déjeuner est prévu ici-même à 12h30. Un bus viendra vous reprendre à 13h30 pour vous conduire à votre hôtel. Passez un très agréable moment en notre compagnie.\n\nQue propose la guide au touriste ?",
+        "audio": "/mp3/154/28.mp3",
+        "audioAI": "/mp3/154/ai_28.mp3",
+        "options": [
+            "Un tour de la capitale en bus découvert.",
+            "Un parcours à pied le long des quais.",
+            "Une visite guidée du Musée du Louvre.",
+            "Une croisière-promenade sur la Seine."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 29,
+        "testId": 154,
+        "text": "Mesdames, Messieurs, suite à un incident technique, notre train arrive en gare de Valence TGV avec un retard de 45 minutes. Nous invitons tous les voyageurs qui descendent à se rapprocher du personnel de gare. Il vous remettra une enveloppe et un document à remplir et à retourner à l'adresse indiquée pour que la SNCF puisse vous virer la somme correspondant au prix de votre billet de train, à titre de dédommagement. Nous vous prions de bien vouloir vous excuser pour la gêne occasionnée. Assurez-vous de n'avoir rien oublié à vos places. Bonne fin de journée. Quelle information le chef de train donne-t-il aux voyageurs ?",
+        "audio": "/mp3/154/29.mp3",
+        "options": [
+            "Ils devront demander le remboursement de leur billet par écrit.",
+            "Ils devront descendre en gare de Valence suite à une panne.",
+            "Ils devront patienter à leur place jusqu'à l’arrêt complet du train.",
+            "Ils devront présenter leur billet à leur descente du train."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 30,
+        "testId": 154,
+        "text": "— L'idée reçue selon laquelle les filles sont moins douées pour les mathématiques que les garçons est tellement ancrée dans la tête des filles ou des femmes qu'elle vient perturber les résultats des tests et du coup elle auto-entretient cette idée reçue.\n\n— Alors a-t-on une idée, Daniel, de ce qui alimente cette idée reçue dans notre société ?\n\n— Alors c'est vraiment insidieux, on peut entretenir ce stéréotype sans même s'en rendre compte. Par exemple, les enseignants en mathématiques eux-mêmes, en tout cas certains d'entre eux, tournaient leur part de responsabilité des chercheurs pour mener les études dans des classes. Ils ont observé que dans cette discipline, statistiquement, les enseignants interrogent un petit peu moins les filles que les garçons et que lorsque les filles prennent la parole, ils les incitent un peu moins à parler et à parler un peu moins longtemps.\n\nQuelle hypothèse expliquerait les meilleurs résultats des garçons en mathématiques ?",
+        "audio": "/mp3/154/30.mp3",
+        "audioAI": "/mp3/154/ai_30.mp3",
+        "options": [
+            "Ils bénéficient d’enseignements adaptés.",
+            "Ils se consacrent peu aux matières littéraires.",
+            "Ils sont dotés d’un esprit plus scientifique.",
+            "Ils sont encouragés lors de leur apprentissage."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 31,
+        "testId": 154,
+        "text": "Si l'on en pense ce que disent certains sociologues, je crois qu'on peut oublier les dimanches en famille, l'hiver, au point du feu. Dans 10 ans, les parents auront de grandes chances de se rencontrer à l'étranger. Du coup, les enfants auront des grands-parents de pays différents, ils voyageront plus souvent, plus jeunes, et tout ça est le résultat d'une plus grande mobilité dans le travail. La possibilité de se réunir devra être diminuée par le coût des transports. Alors les familles auront sûrement un réseau internet très développé, mais d'une certaine manière, ça va les éloigner. On peut imaginer qu'il y aura une tension entre la valorisation de la famille en tant que groupe et le désir de s'investir dans son travail. À quoi sera confrontée la famille dans le futur?",
+        "audio": "/mp3/154/31.mp3",
+        "audioAI": "/mp3/154/ai_31.mp3",
+        "options": [
+            "À baisse de l’intérêt manifesté pour le mariage.",
+            "À la difficulté de se retrouver dans un même lieu.",
+            "À l’augmentation des tarifs des transports aériens.",
+            "Aux problèmes relationnels rencontrés par les enfants."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 32,
+        "testId": 154,
+       "text": "Les articles de journaux, en tant qu'objet d'études dans les manuels scolaires, existent depuis le XIXe siècle. En revanche, l'actualité des journaux est restée très longtemps interdite d'entrer dans les écoles. Ce n'est qu'en 1957 que le gouvernement confère aux journaux quotidiens le droit de pénétrer tel quel dans les établissements scolaires. Ainsi, l'idée que la presse et l'école avaient quelque chose à faire ensemble, que la presse pouvait constituer un objet pédagogique, faisait son chemin. Il a fallu attendre 1983 pour que le ministère de l'Éducation nationale ne se décide à administrer l'enseignement de la presse à l'école. C'est la création du CLEMI, le Centre de Liaison pour l'Enseignement des Moyens d'Information. Quelle mesure a pris l'État dans les années 80 ?",
+        "audio": "/mp3/154/32.mp3",
+        "options": [
+            "Il a accepté les articles de presse dans les livres scolaires.",
+            "Il a créé un journal quotidien dédié à l’éducation publique.",
+            "Il a distribué des journaux aux établissements scolaires.",
+            "Il a intégré l’étude de la presse à ses programmes."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 33,
+        "testId": 154,
+        "text": "— La deuxième marque, Agnès B, nous connaissons tous, est-elle encore fabriquée dans notre pays ? Et dans quelle proportion ?\n\n— Oui, on continue à fabriquer en France, j'ai commencé il y a très longtemps, j'ai continué autant que je peux. On est entre 40 et 50% fabriqués en France, avec des usines avec lesquelles on travaille depuis très longtemps. On travaille ensemble, on leur donne une quantité à l'avance, on travaille de façon très très proche.\n\n— Vous avez vu disparaître ?\n\n— En fait, ça arrête tellement de choses.\n\n— Dans quelle dimension?\n\n— C'est terrible, tous les trois jours, on entend quelque chose à fermer, quelqu'un qui fait de la dentelle, des boutons, des ateliers...\n\nQu'explique la créatrice Agnès B ?",
+        "audio": "/mp3/154/33.mp3",
+        "audioAI": "/mp3/154/ai_33.mp3",
+        "options": [
+            "Elle cherche à privilégier le travail avec des entreprises françaises.",
+            "Elle organise régulièrement des réunions avec ses couturiers.",
+            "Elle s’apprête à signer un nouveau contrat avec un atelier de dentellerie.",
+            "Elle souhaite modifier ses commandes avec les usines partenaires."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 34,
+        "testId": 154,
+        "text": "— Le Zoom de France Info consacré ce matin aux dérives de l'industrie pharmaceutique ou comment inventer de nouvelles maladies pour recycler d'anciennes molécules. Le mal de dos est devenu une spondylarthrite ankylosante. Une période de tristesse cache forcément une dépression. Aujourd'hui, on a l'impression, Philippe Évène, que tout est maladie.\n\n— Oui, ça fait maintenant 15 ans que ça dure. Vous savez, quand une industrie comme celle-là, qui a beaucoup apporté, ne trouve plus de médicaments, alors elle invente des maladies pour recycler les molécules antérieures et trouver de nouveaux créneaux d'exploitation. Ce que vous venez de raconter est absolument scandaleux. Un, la spondylarthrite ankylosante est une maladie exceptionnelle. Et deuxièmement, malheureusement, on n'a aucun moyen de la guérir.\n\nQuelle est l'accusation portée contre l'industrie pharmaceutique ?",
+        "audio": "/mp3/154/34.mp3",
+        "options": [
+            "Elle commercialise des produits dangereux pour la santé.",
+            "Elle crée des besoins pour réutiliser de vieux remèdes.",
+            "Elle fait des profits grâce à la vente de traitements périmés.",
+            "Elle limite la recherche consacrée aux pathologies rares."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 35,
+        "testId": 154,
+        "text": "— Ce sont les entreprises elles-mêmes qui payent la société une boîte à vivre pour être audité et à chaque fois entre 200 et 800 salariés sont consultés. Réaction de Marie-Alice Mettelefondrieux, responsable du dialogue social au sein du syndicat Force Proprière.\n\n— Quand une entreprise force ses salariés à être interrogés par une structure extérieure, forcément, vous allez compter les qualités de votre entreprise et vous allez répondre favorablement. Les problèmes internes de l'entreprise ne seront pas du tout dévoilés. On sait ce que c'est un sondage, la façon dont on oriente les questions. Qui plus est, il s'agit aussi d'une procédure qui consiste à permettre à l'entreprise d'améliorer son image à l'extérieur. Donc forcément, la réalité est biaisée.\n\nQuelle est la position de cette syndicaliste sur les audits de travail ?",
+        "audio": "/mp3/154/35.mp3",
+        "audioAI": "/mp3/154/ai_35.mp3",
+        "options": [
+            "Elle critique la fiabilité des méthodes d’investigation utilisées.",
+            "Elle déplore leur manque d’impact au sein des entreprises.",
+            "Elle doute de la qualité de l’interprétation des données collectées.",
+            "Elle met en question la représentativité des échantillons."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 36,
+        "testId": 154,
+        "text": "— Comment choisir un prestataire? Revient à voyager à la responsable, c'est eux qui embauchent les gens localement, qui vont faire des repérages, qui choisissent les automobiles qu'ils travaillent, réservés directement auprès des locaux, en général pour faire que les retombées locales sont plus fortes et pour favoriser le développement de l'économie locale.\n\n— Comment est-ce que vous sélectionnez les agences?\n\n— On va voir toutes les agences locales qui existent dans le pays, on a un certain nombre de critères sur la francophonie, sur la qualité des échanges, sur l'expertise des agents et sur leur activité responsable. On a une agence en Tanzanie par exemple, qui a monté un orphelinat, une agence au Népal qui reforeste une partie de l'Everest. Beaucoup d'agences essayent de développer très fortement leur spécificité locale.\n\nQu'explique ce voyagiste sur sa façon de travailler?",
+        "audio": "/mp3/154/36.mp3",
+        "audioAI": "/mp3/154/ai_36.mp3",
+        "options": [
+            "Il privilégie des partenaires impliqués dans la vie de leur région.",
+            "Il favorise des hôtels qui répondent aux exigences occidentales.",
+            "Il préfère les conseils des populations autochtones à ceux des fournisseurs.",
+            "II propose des prestations qui contribuent au développement humanitaire."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 37,
+        "testId": 154,
+        "text": "— Thomas Le Pelletier, d'abord pour commencer, vous signez donc pour le magazine Science Humaine un article qui s'intitule « Faut-il encore manger de la viande ? » et vous décrivez et vous écrivez qu'il est nécessaire de diminuer fortement notre consommation sans pour autant devenir végétarien. C'est la condition animale qui vous intéresse principalement sur cette question ?\n\n— Oui, c'est une question d'éthique animale. Moi, je pense qu'il y a une grande évolution de la société. La notion de cruauté envers les animaux a de plus en plus de mal à être acceptée. Or, on a assisté depuis les 50 dernières années à une mise en place d'une industrie de la viande qui fait terriblement souffrir les animaux.\n\nSur quoi s'appuient les recommandations de Thomas Le Pelletier ?",
+        "audio": "/mp3/154/37.mp3",
+        "options": [
+            "Sur des considérations morales.",
+            "Sur des convictions écologiques.",
+            "Sur des certitudes économiques.",
+            "Sur des prescriptions diététiques."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 38,
+        "testId": 154,
+        "text": "— J'ai entendu à la radio que le chômage avait reculé en février, selon le ministère du Travail.\n\n— Ce n'est pas l'analyse du Bureau international du Travail, pour qui le taux de chômage en France n'a pas varié l'an dernier.\n\n— Je t'assure que, comparant avec les pays voisins, le chômage a baissé en France pour tout le monde: hommes, femmes, jeunes.\n\n— Oui, c'est vrai. C'est bien pire ailleurs chez certains de nos voisins. Ce qui est préoccupant, c'est que la situation s'aggrave davantage pour les femmes et les jeunes.\n\n— Sur l'année, ça devrait s'allonger, mais le gouvernement appelle l'action pour l'emploi sa priorité.\n\n— Des promesses: pour les 12 derniers mois, le nombre de demandeurs d'emploi a augmenté de plus de 3%.\n\n Sur quel point l'homme et la femme sont-ils d'accord?",
+        "audio": "/mp3/154/38.mp3",
+        "audioAI": "/mp3/154/ai_38.mp3",
+        "options": [
+            "La situation de l’emploi ne s’améliore pas cette année en France.",
+            "La France n’est pas le pays européen le plus frappé par le chômage.",
+            "Le chômage a reculé pour tous, sans distinction d’âge ou de sexe.",
+            "L’action engagée par le gouvernement permettra une amélioration."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 39,
+        "testId": 154,
+        "text": "D'après les chercheurs, plus nous manifestons d'amabilité et plus nous sécrétons de sérotonine leur manque d'humeur. De plus, l'altruisme enrête des effets positifs sur le cerveau en activant des connexions qui sont moins vivaces quand la compassion est absente. Les pensées hostiles ou agressives augmentent le rythme cardiaque et la pression artérielle, alors que la gentillesse abaisse le niveau de stress et abaisse la tension. On a vu des gens mourir de méchanceté. L'agressivité pratiquée au quotidien augmente les risques cardiaques et conduit à une solitude qui aggrave tous les problèmes. D'après les chercheurs dont parle le journaliste, qu'est-ce qui est bénéfique pour la santé?",
+        "audio": "/mp3/154/39.mp3",
+        "options": [
+            "Pratiquer des exercices mentaux.",
+            "Exprimer ses sentiments.",
+            "Se montrer chaleureux.",
+            "Se retirer régulièrement au calme."
+        ],
+        "answer": 2
+    }
+]
