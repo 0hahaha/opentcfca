@@ -1,0 +1,511 @@
+[
+    {
+        "id": 1,
+        "testId": 167,
+        "text": "A. Là, c'est Marc à la montagne.\n\nB. Là, c'est Marc avec les voisins.\n\nC. Là, c'est Marc avec 2 adultes.\n\nD. Là, c'est Marc avec 2 amies.",
+        "audio": "/mp3/167/1.mp3",
+        "audioAI": "/mp3/167/ai_1.mp3",
+        "img": "/mp3/167/1.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 2,
+        "testId": 167,
+        "text": "A. J'aime prendre l'avion.\n\nB. Le train est arrivé.\n\nC. Quelle belle voiture.\n\nD. Voilà enfin l'autobus.",
+        "audio": "/mp3/167/2.mp3",
+        "img": "/mp3/167/2.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 3,
+        "testId": 167,
+        "text": "Jacques, il faut qu'on achète un nouveau frigo. Quel modèle tu préfères ?\n\nA. Génial ! Il est très grand.\n\nB. Je ne sais pas. Tu peux choisir.\n\nC. Non, la cuisinière est chère.\n\nD. Tu as raison. C'est le gris.",
+        "audio": "/mp3/167/3.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 4,
+        "testId": 167,
+        "text": "Quand est-ce que la conférence commence?\n\nA. À 9 heures.\n\nB. Depuis deux jours.\n\nC. Il y a dix minutes.\n\nD. Mercredi dernier.",
+        "audio": "/mp3/167/4.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 5,
+        "testId": 167,
+        "text": "Ici, tout va bien, il fait beau. Quel temps fait-il à Marseille ?\n\nA. C'est très très beau.\n\nB. Beaucoup mieux, merci.\n\nC. Encore trois jours.\n\nD. Chaud et ensoleillé.",
+        "audio": "/mp3/167/5.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 6,
+        "testId": 167,
+        "text": "Tu es allé dans ce nouveau restaurant? Qu'est-ce que tu penses du menu?\n\nA. Ça sent toujours bon.\n\nB. C'est complet chaque soir.\n\nC. Il est proche du métro.\n\nD. Il y a beaucoup de choix.",
+        "audio": "/mp3/167/6.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 7,
+        "testId": 167,
+        "text": "Qu'est-ce que tu prends pour aller à la plage ?\n\nA. Avec quelques amis.\n\nB. Juste mon maillot de bain.\n\nC. Nous y allons à pied.\n\nD. Oui, c'est un bel endroit.",
+        "audio": "/mp3/167/7.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 8,
+        "testId": 167,
+        "text": "Quentin va bientôt passer ses examens de médecine. Est-ce qu'il travaille plus que l'année dernière?\n\nA. Oui, il a de mauvaises notes.\n\nB. Oui, il refuse d'aller en cours.\n\nC. Oui, il révise tous les jours.\n\nD. Oui, il s'est inscrit à l'université.",
+        "audio": "/mp3/167/8.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 9,
+        "testId": 167,
+        "text": "Pour notre voyage de juillet prochain, j'ai réservé l'hôtel et le train. Et toi, quelles informations est-ce que tu as eues sur les activités proposées ?\n\nA. Je déteste prendre le bus.\n\nB. Je préfère partir plus tard.\n\nC. On écrira des cartes postales.\n\nD. On pourra visiter un château.",
+        "audio": "/mp3/167/9.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 10,
+        "testId": 167,
+        "text": "— Salut! On va prendre un café?\n\n— Avec plaisir! On peut aller au salon de thé à côté de chez moi. Il est très agréable et ils servent des gâteaux comme ceux de ma grand-mère quand j'étais petite. Tu le connais?\n\n— C'est là où il y a des expositions de peinture?\n\n— Non, juste à côté.\n\nDe quoi parlent les deux personnes?",
+        "audio": "/mp3/167/10.mp3",
+        "options": [
+            "D’un lieu de restauration.",
+            "D’un nouveau musée.",
+            "D’une école de pâtisserie.",
+            "D’une maison de famille."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 11,
+        "testId": 167,
+        "text": "— Salut Sarah, comment tu vas ?\n\n— Bien, j'ai trouvé un emploi de serveuse en août. Et toi, qu'est-ce que tu vas faire cet été ? Tu as fini ton stage ?\n\nQue va faire Sarah ?",
+        "audio": "/mp3/167/11.mp3",
+        "options": [
+            "Elle va acheter un restaurant.",
+            "Elle va partir en vacances.",
+            "Elle va suivre des cours.",
+            "Elle va travailler un mois."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 12,
+        "testId": 167,
+        "text": "Il est 7h45 et les automobilistes sont déjà très nombreux dans les rues de Dieppe. Comme à tous les matins, Josée Turgeon-Roy quitte la maison pour le travail. Un court trajet de 8 kilomètres. Pourtant, pour la résidente de Dieppe, une course folle va débuter. Ici, il n'y a pas de prix à gagner. Seulement l'espoir d'arriver à temps au travail 45 minutes plus tard. Quel est le problème évoqué ici ?",
+        "audio": "/mp3/167/12.mp3",
+        "options": [
+            "Un climat trop froid.",
+            "Un tarif trop cher.",
+            "Un trafic trop dense.",
+            "Un travail trop dur."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 13,
+        "testId": 167,
+        "text": "— Périne, tu viens au cinéma avec nous?\n\n— Quand? Aujourd'hui?\n\n— Ce soir, la séance est à 20h. Il passe une comédie romantique.\n\n— Non, j'ai une réunion au bureau jusqu'à 18h. Et après, j'ai rendez-vous au restaurant avec Paul.\n\nQu'est-ce que Périne va faire ce soir?",
+        "audio": "/mp3/167/13.mp3",
+        "options": [
+            "Dîner avec un ami.",
+            "Regarder un film.",
+            "Rentrer chez elle.",
+            "Travailler tard."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 14,
+        "testId": 167,
+        "text": "— J'ai adoré cet expo. C'était fantastique, non?\n\n— Oui, sauf que comme tu n'avais pas acheté les billets en avance, on a dû faire la queue pendant trois heures pour entrer.\n\n— Ça en valait la peine.\n\n— Bof, il y avait tellement de monde, je ne voyais pas les œuvres. Je n'ai pas profité de la visite.\n\n— Tu as pris le catalogue au moins?\n\n— Euh, non, je ne l'ai pas trouvé.\n\nQue critique cet homme?",
+        "audio": "/mp3/167/14.mp3",
+        "options": [
+            "La qualité du catalogue.",
+            "Le prix des entrées.",
+            "Les conditions de visite.",
+            "Les œuvres présentées."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 15,
+        "testId": 167,
+        "text": "Suite à un accident de voyageurs, le train numéro 8791 en direction de Marseille, départ initial 13h35, est immobilisé en gare de Lyon-Perrache. Les voyageurs sont invités à descendre du train et à se rendre au guichet où de plus amples informations leur seront communiquées. Nous vous remercions de votre compréhension. Question 15. Qu'est-ce que les voyageurs doivent faire?",
+        "audio": "/mp3/167/15.mp3",
+        "options": [
+            "Prendre un car.",
+            "Rester dans le train.",
+            "Se renseigner au guichet.",
+            "Prendre une correspondance."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 16,
+        "testId": 167,
+        "text": "— Rafika de Buffalo, bienvenue dans La Terre est Belle.\n\n— Bonjour Mark.\n\n— Alors, nous sommes ravis de vous avoir à l'antenne parce qu'on n'a jamais eu personne de Buffalo. Vous allez nous apprendre des choses. Ça se trouve, vous déjà ?\n\n— Totalement à l'ouest de l'état de New York. C'est limitrophe du Canada. C'est drôle comme nom. Il n'y a pas spécialement de buffles ou de choses comme ça ?\n\n— Non. D'après la légende, ça vient de Beau-fleuve, un nom donné par les explorateurs français. Enfin, c'est l'histoire qu'on raconte.\n\nPour quelle raison Rafika intervient-elle?",
+        "audio": "/mp3/167/16.mp3",
+        "options": [
+            "Pour conseiller un livre.",
+            "Pour discuter d’écologie.",
+            "Pour parler de sa ville.",
+            "Pour raconter un voyage."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 17,
+        "testId": 167,
+        "text": "— Bonjour Monique.\n\n— Bonjour Olivier. Que puis-je pour vous ?\n\n— Je viens vous voir au sujet de mes vacances. Je voudrais les prendre en juillet. Je sais que certains collègues seront en formation et d'autres en extérieur, pour les présentations de nos produits sur les marchés d'Europe. Est-ce que cela sera possible ?\n\n— Nous aurons peut-être besoin de vous, effectivement. Je vais y réfléchir et je vous donne ma réponse cette semaine.\n\n— Je vous remercie. Permettez-moi juste de vous rappeler que, l'été dernier, j'ai travaillé tout le mois d'août.\n\nQue demande Olivier ?",
+        "audio": "/mp3/167/17.mp3",
+        "options": [
+            "À quel moment il pourra poser des congés.",
+            "Dans quelle ville il devra partir en mission.",
+            "Qui sera de permanence au mois d’août.",
+            "S’il sera autorisé à suivre un stage en été."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 18,
+        "testId": 167,
+        "text": "Lorsque nous nous sommes installés loin de chez nos parents, nous nous sommes aperçus que le magasin le plus proche de chez nous, pour laver nos vêtements, était à plus de deux kilomètres. On s'est dit que ce serait vraiment sympa si notre voisine pouvait nous prêter sa machine à laver. Nous avons donc créé un site internet. Il met en relation ceux qui ont une machine à laver et leurs voisins qui n'en ont pas contre quelques euros. Que propose le site internet présenté ?",
+        "audio": "/mp3/167/18.mp3",
+        "options": [
+            "De créer un réseau étudiant pour échanger des services.",
+            "De mettre en contact des personnes pour partager du matériel.",
+            "De trouver une voiture pour transporter des affaires lourdes.",
+            "D’employer des jeunes pour réparer de vieux objets."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 19,
+        "testId": 167,
+        "text": "Ah, j'ai commencé dans l'entreprise, cela fait quand même 30 ans, à l'époque où on ne s'embarrassait pas avec le recrutement. Je me souviens, dès le soir où j'ai fini ma formation, mon patron de stage m'a proposé de rester, et pour mes copains de formation, pareil. Ah, c'est sûr, on n'embauche plus si facilement. Maintenant, je suis un ancien. Je dois recruter les jeunes qui arrivent, et je trouve ça incroyable. Ils accumulent les diplômes, ont fait plein de stages, sont 150 à postuler. Cela ne doit pas être drôle. Que constate cet employé ?",
+        "audio": "/mp3/167/19.mp3",
+        "options": [
+            "Les conditions de recrutement sont plus difficiles aujourd’hui.",
+            "Les étudiants ignorent le fonctionnement de l’entreprise.",
+            "Les jeunes étaient préparés plus sérieusement dans le passé.",
+            "Les patrons actuels ont un degré d’exigence trop élevé."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 20,
+        "testId": 167,
+        "text": "— Dis, Jean-Paul, t'as pas l'air d'avoir très envie d'aller à la campagne ce week-end. En tout cas, moi j'ai peur d'avoir froid. Le chauffage marche si mal.\n\n— Moi, c'est pas ça. Ce qui m'ennuie, c'est de faire tous ces kilomètres pour rester à peine deux jours.\n\n— Oh, la route, c'est pas grave. Mais la météo n'est pas très bonne. Ça ne me dit rien d'être bloqué tout le week-end dans la maison.\n\nPourquoi Jean-Paul n'a-t-il pas envie d'aller à la campagne?",
+        "audio": "/mp3/167/20.mp3",
+        "options": [
+            "Il ne fera pas beau durant le week-end.",
+            "La maison est mal chauffée.",
+            "Le voyage est trop long.",
+            "Il n’aime pas rester enfermé."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 21,
+        "testId": 167,
+        "text": "— Stéphane, est-ce que Corinne est rentrée de sa mission au Japon ?\n\n— Oui, elle était au bureau hier et aujourd'hui, mais elle est très fatiguée.\n\n— La pauvre. Sa mission a été plus difficile que d'habitude ?\n\n— Oui, elle a eu des réunions dans plusieurs villes. Elle n'a pas arrêté de circuler.\n\n— C'est sympa. Elle a pu découvrir plein de lieux différents.\n\n— Pas du tout. Elle terminait très tard le soir.\n\n— Elle devrait prendre des vacances.\n\n— Impossible. Elle repart pour une conférence au Canada, la semaine prochaine.\n\nQu'apprend-on sur Corinne ?",
+        "audio": "/mp3/167/21.mp3",
+        "options": [
+            "Elle est en congé.",
+            "Elle est tombée malade.",
+            "Elle travaille la nuit.",
+            "Elle voyage souvent."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 22,
+        "text": "— Salut Nathalie! Alors, comment s'est passé ton week-end à la montagne?\n\n— L'endroit était splendide, mais le séjour a été gâché parce qu'il a plu tout le temps. On n'a pas pu faire de la randonnée comme prévu.\n\n— Ah, c'est dommage. Qu'est-ce que vous avez fait alors?\n\n— On a sorti les dominos et les cartes. On aurait pu faire ça chez nous, ça nous aurait coûté moins cher. On a fait beaucoup de routes pour rester enfermés.\n\nQue regrettes-tu, Nathalie?",
+        "audio": "/mp3/167/22.mp3",
+        "options": [
+            "Elle a perdu aux jeux de société.",
+            "Elle est restée près de chez elle.",
+            "La météo était très mauvaise.",
+            "Le logement était mal situé."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 23,
+        "testId": 167,
+        "text": "— Si la mer monte beaucoup, ceux qui vivent sur les petites îles, ils vont aller où ?\n\n— Ce que je peux dire, c'est qu'il y a des architectes qui réfléchissent déjà à créer des cités flottantes qui seraient autosuffisantes pour accueillir jusqu'à 5000 habitants. Donc c'est un projet qui est un peu utopiste, mais en même temps on se dit, est-ce qu'on ne sera pas amené à développer ce genre de projet pour accueillir justement les réfugiés climatiques ?\n\nEn quoi consiste le projet évoqué ?",
+        "audio": "/mp3/167/23.mp3",
+        "options": [
+            "La construction de villes sur l’eau.",
+            "La création d’un lieu de vie sous-marin.",
+            "Le développement de bateaux aménagés.",
+            "L’installation de digues sur les côtes."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 24,
+        "testId": 167,
+        "text": "— On a l'impression, nous en entendant, qu'on est en train de s'empoisonner chaque fois qu'on va à la cantine.\n\n— Ce qui est inacceptable, c'est qu'il y a plein de substances qui sont invisibles à l'œil nu dans les aliments, que le consommateur ne peut pas choisir s'il va les avaler ou pas, puisque ça n'est pas indiqué sur les emballages, qu'on ne le sait pas, et que oui c'est dangereux pour la santé. Donc ce qu'on ne veut pas, c'est alimenter les peurs, mais encore faut-il...\n\n— Un petit peu là quand même.\n\n— Non, non, mais parce que la peur, la seule façon de ne pas l'alimenter, c'est de dire eh bien oui, faisons ce qu'il faut pour qu'effectivement, quand on achète nos aliments, que ce soit au supermarché ou ailleurs, on n'a pas à se poser la question des substances cachées qui peuvent être dangereuses pour notre santé.\n\n— Alors, madame...\n\nQue souhaite cette intervenante ?",
+        "audio": "/mp3/167/24.mp3",
+        "options": [
+            "Un meilleur contrôle des repas dans les cantines.",
+            "Une information complète pour le consommateur.",
+            "Une promotion des produits bons pour la santé.",
+            "Une suppression des emballages en plastique."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 25,
+        "testId": 167,
+        "text": "— Vous d'ailleurs vous lisez plutôt des romans anglo-saxons ?\n\n— Américains ?\n\n— Américains.\n\n— Mais oui, mais c'est toute ma culture. Quand j'avais 20 ans, c'était une telle révolution, aussi bien au niveau de la musique que de la mode, que du cinéma. Tout ça, c'était... J'étais obligé de lire des romans américains, d'autant plus que c'étaient les romans qui étaient importants pour moi, pour me donner des directions éventuellement et pour savoir un petit peu vers quoi j'avais envie de me diriger.\n\nÀ quoi sont liés les goûts littéraires de cet invité ?",
+        "audio": "/mp3/167/25.mp3",
+        "options": [
+            "À l’époque de sa jeunesse.",
+            "À sa passion pour un artiste.",
+            "À son amour des langues.",
+            "À un voyage aux Etats-Unis."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 26,
+        "testId": 167,
+        "text": "— Quel rapport aviez-vous avec votre père ?\n\n— Je ne lui parlais plus de mes études. Il avait toujours la peur ou peut-être le désir que je n'y arrive pas. Il s'énervait de me voir à longueur de journée dans les livres. Je crois qu'il pensait que j'étais malheureuse.\n\n— Comment se comportait-il avec vous face au monde extérieur ?\n\n— Devant la famille, les clients, de la gêne, presque de la honte que je ne gagne pas encore ma vie à 17 ans. Il craignait qu'on ne me prenne pour une paresseuse et lui pour un crâneur. Il disait que j'apprenais bien, jamais que je travaillais bien.\n\n— Quelle était pour lui la définition du mot « travail » ?\n\n— « Travailler », c'était seulement travailler de ses mains.\n\nQuelle relation le père entretenait-il avec sa fille ?",
+        "audio": "/mp3/167/26.mp3",
+        "options": [
+            "Il avait du mal à accepter ses choix.",
+            "Il essayait souvent de rivaliser avec elle.",
+            "Il était attentif à ses centres d'intérêt.",
+            "Il lui interdisait les activités intellectuelles."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 27,
+        "testId": 167,
+        "text": "Bon, l'affaire est révélée par le Wall Street Journal et fait beaucoup de bruit dans la presse anglo-saxonne. Désormais, chez Facebook, on ne peut proposer à un ou une collègue de sortir boire un verre ou de dîner. Vous savez, les Américains parlent de dates qu'une seule fois, s'ils ou elles refusent. Alors, on ne peut pas l'inviter une seconde fois et ça figure désormais dans le code de conduite de l'entreprise. Aller plus loin peut s'exposer à des sanctions disciplinaires. La direction de Facebook est entrée dans les détails. Un non n'a pas à être totalement explicite. Si vous entendez répondre « Je suis occupé ce soir, je ne suis pas disponible et bien cela suffit », vous n'aurez pas le droit de réitérer votre invitation, passer cette limite. On pourrait entrer dans un possible harcèlement. Pourquoi l'entreprise Facebook a-t-elle modifié son code de conduite ?",
+        "audio": "/mp3/167/27.mp3",
+        "options": [
+            "Pour améliorer la cohésion des équipes.",
+            "Pour empêcher la diffusion de rumeurs.",
+            "Pour éviter les sollicitations abusives.",
+            "Pour limiter les distractions au travail."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 28,
+        "testId": 167,
+        "text": "— Bonjour docteur, je voudrais faire de l'escalade et j'ai besoin de votre autorisation pour m'inscrire dans un club de sport.\n\n— De l'escalade, mais c'est très mauvais pour votre dos. Je vous conseille plutôt de faire de la natation.\n\n— La natation, ce n'est pas bon pour ma peau.\n\n— Et puis j'adore la montagne.\n\n— Eh bien, faites plutôt de la randonnée. Ah oui, la randonnée, c'est une idée. Ça peut m'aider à maigrir.\n\nQue doit faire le médecin ?",
+        "audio": "/mp3/167/28.mp3",
+        "options": [
+            "Conseiller des médicaments.",
+            "Établir un certificat médical.",
+            "Examiner une radiographie.",
+            "Traiter un problème de poids."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 29,
+        "testId": 167,
+        "text": "— Parlons maintenant de l'enseignement à distance. Marielle Barreau, vous nous présentez un logiciel qui fait des filtres révision à votre place, c'est ça ? Finalement, vous voulez inciter nos auditeurs étudiants à se tourner les pouces.\n\n— Ce n'est pas exactement ça. On vous propose en fait de travailler plus efficacement. C'est un logiciel qui s'adapte à toutes les matières et qui vous fait réviser. Le principe, c'est que vous numérisez en un temps record n'importe quel cours. Vous faites vous-même votre fiche de révision que vous saisissez sur votre clavier, et le logiciel vous interroge de la façon la plus adéquate pour vous faire apprendre. Il pose des questions en rafale et il s'adapte à vos difficultés en mettant l'accent là où vous avez des points faibles.\n\nDe quoi est-il question dans cette émission ?",
+        "audio": "/mp3/167/29.mp3",
+        "options": [
+            "D’un outil qui facilite l’apprentissage, quelle que soit la discipline étudiée.",
+            "De la bonne méthode de révision d’un cours quand on est pris par le temps.",
+            "De la difficulté à rédiger des cours motivants pour les jeunes étudiants.",
+            "Des limites de l’enseignement à distance pour certaines disciplines."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 30,
+        "testId": 167,
+        "text": "Aujourd'hui, quand le voyageur rentre de Bamako, de Sarajevo ou de Québec, il rapporte un trésor très précieux, le carnet de voyage. Composé d'aquarelles, de croquis, de descriptions de petits rien, de photos, de textes ou de collages, de sable ou de coquillages, ces petits objets de mémoire et d'évasion sont à la mode en France, notamment depuis le succès des carnet de voyage du navigateur Tito Walamazu. D'après cette chronique, en France, quel est l'objet qui est à la mode de rapporter de voyage ?",
+        "audio": "/mp3/167/30.mp3",
+        "options": [
+            "Un bijou d’artisanat local.",
+            "Un guide touristique illustré.",
+            "Un modèle réduit de bateau.",
+            "Un album de souvenirs personnels."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 31,
+        "testId": 167,
+        "text": "— Jean-Pierre, pouvez-vous nous parler de votre métier qui est une vraie passion pour vous?\n\n— Oui, eh bien, ce qui me plaît le plus, c'est que je voyage beaucoup. Je dois toujours me déplacer si je veux que les gens soient informés au moment même où les événements se produisent.\n\n— On vous connaît comme un voyageur infatigable qui ne se sépare jamais de son appareil photo, alors que vous ne vous en servez même pas.\n\n— J'ai toujours rêvé d'être reporter-photographe et avoir cet appareil avec moi me donne l'impression que mon rêve est presque réel.\n\n— En réalité, vous mettez en scène les mots et non les images. C'est ce qui caractérise votre métier et vous a rendu célèbre.\n\nQuel est le métier de Jean-Pierre?",
+        "audio": "/mp3/167/31.mp3",
+        "options": [
+            "Metteur en scène.",
+            "Explorateur.",
+            "Photographe.",
+            "Journaliste."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 32,
+        "testId": 167,
+        "text": "La communication est l'une des plus grandes révolutions de notre époque moderne. Elle a bouleversé nos existences et la société. Ainsi parle Dominique Volton, sociologue très médiatique. Dominique Volton a passé sa vie à valoriser une conception originale de la communication. Il s'est penché sur les mouvements de libération de la femme, les syndicats, les médias, la politique. Une question obsède Dominique Volton. Comment réussir à cohabiter avec l'autre? Et un paradoxe l'étonne. Malgré les techniques de communication de plus en plus performantes, les hommes, les sociétés ou les cultures ne se comprennent pas mieux qu'il y a 2000 ans. Comment ce sociologue étudie-t-il la communication?",
+        "audio": "/mp3/167/32.mp3",
+        "options": [
+            "En écoutant les gens dans la sphère privée.",
+            "En employant des technologies innovantes.",
+            "En interrogeant des personnes cultivées.",
+            "En observant divers types d'interlocuteurs."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 33,
+        "testId": 167,
+        "text": "— Jean-Philippe, la Coalition pour l'avenir du Québec veut aussi réduire la dette. Ce que propose François Legault, c'est d'investir 100% des redevances tirées des ressources naturelles pour rembourser la dette. On pourrait la chercher environ 200 millions de dollars par année. Mais pour Simon Tremblay-Pépin, de l'Institut de recherche et d'information socio-économique, ce n'est pas du tout une bonne idée.\n\n— Au lieu d'investir dans des services publics qui, évidemment, sont dynamiques, qui aident à favoriser la croissance de l'économie et donc à réduire son rapport avec la dette, eh bien, là, on décide de le retirer du secteur de l'économie. Donc, ça me semble tout à fait une très, très mauvaise idée de se tenter là-dedans.\n\nSur quoi s'opposent François Legault et Simon Tremblay-Pépin?",
+        "audio": "/mp3/167/33.mp3",
+        "options": [
+            "Sur l’amplitude de l’effet de la dette sur la croissance.",
+            "Sur l’utilisation des recettes fiscales pour régler la dette.",
+            "Sur l’acquittement de la dette par la vente du patrimoine de l’Etat.",
+            "Sur le montant de la dette contractée par la province québécoise."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 34,
+        "testId": 167,
+        "text": "— Depuis quelques années, des vignerons ont investi des sommes importantes au Québec pour se lancer dans une nouvelle culture, comme Daniel Desmoulins qui a ouvert le vignoble L'Ange-Gardien en face du fleuve Saint-Laurent.\n\n— Faire du vin au Québec, c'est un challenge. Je serais peut-être pas parti là-dessus il y a 20 ans, mais je trouvais que les produits étaient de mieux en mieux et c'est pour ça qu'il y a 10 ans, avec ma femme, on a dit « on va se lancer ». Dans le vin, je pense que l'on a des produits extrêmement intéressants parce qu'il y a un petit peu d'acidité. Puis, il y a toujours le vin de glace, on a la température pour ça. On cueille le raisin fin décembre, début janvier.\n\nQu'est-ce qui a décidé Daniel Desmoulins à démarrer son activité?",
+        "audio": "/mp3/167/34.mp3",
+        "options": [
+            "La qualité croissante des résultats.",
+            "Les aménagements hydrauliques.",
+            "L’expérience de ses collègues.",
+            "L’importation de pieds de vigne."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 35,
+        "testId": 167,
+        "text": "Aujourd'hui, le mont Saint-Michel est au patrimoine mondial de l'humanité. L'histoire et la légende veulent qu'une nuit d'octobre 708, Aubert, évêque d'Avranches, soit réveillé par l'archange Saint-Michel, lui ordonnant de construire un sanctuaire sur le mont Tombe, au milieu de cette baie. Le chantier va durer dix siècles, et aux travaux des bâtisseurs ont succédé depuis cent ans les plans de restauration des architectes des bâtiments historiques. Qu'évoque cette personne ?",
+        "audio": "/mp3/167/35.mp3",
+        "options": [
+            "Des fouilles archéologiques dans un sanctuaire.",
+            "La construction d’un édifice emblématique.",
+            "Le tourisme religieux au cours des siècles.",
+            "Une visite lors des journées du patrimoine."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 36,
+        "testId": 167,
+        "text": "— Bruno voulait nous parler ce matin des Serious Games. Ces applications informatiques s'inspirent des jeux vidéo pour améliorer l'efficacité d'un médecin, mais pas seulement face à une maladie, face à un problème de santé. Pour mieux comprendre, on va prendre des exemples et notamment celui qui est développé en ce moment au CHU de Toulouse, Bruno.\n\n— Et bien ce jeu de simulation en 3D permet de tester le travail d'une équipe dans une salle d'opération. Alors il ne porte pas sur les gestes médicaux techniques, mais sur la communication au sein de l'équipe médicale et sur les procédures à respecter. C'est un jeu très utile quand on sait que près d'un tiers des événements indésirables graves liés aux soins viennent d'un problème au niveau du travail en équipe.\n\nQue permet la pratique de ce jeu vidéo aux membres d'une équipe médicale ?",
+        "audio": "/mp3/167/36.mp3",
+        "options": [
+            "D’automatiser leurs techniques.",
+            "D’éviter les rivalités entre collègues.",
+            "De perfectionner leur savoir-faire.",
+            "D’enrichir leurs échanges internes."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 37,
+        "testId": 167,
+        "text": "— Qu'est-ce que vous avez en couverture ce mois-ci?\n\n— Ce mois-ci, on se questionne sur la présence de pétrole dans le Golfe Saint-Laurent, dans le sous-sol du Golfe Saint-Laurent. Il y a beaucoup de controverses au sujet de son exploitation, son extraction, sur les dommages potentiels que ça pourrait causer au Golfe, qui est un écosystème assez précieux et assez unique aussi au monde. Mais il y a aussi cette richesse qu'on ne soupçonnait pas il y a une vingtaine, trentaine d'années, ce pétrole dans le sous-sol. Alors ça fait des débats de société assez importants ici.\n\nQu'est-ce qui fait polémique?",
+        "audio": "/mp3/167/37.mp3",
+        "options": [
+            "L’industrialisation galopante des rives.",
+            "La dégradation d’un site naturel rare.",
+            "La pollution des nappes phréatiques.",
+            "La raréfaction des énergies fossiles."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 38,
+        "testId": 167,
+        "text": "Avant-hier, dans une tribune officielle, une élue française a brisé un tabou, et sans doute heureusement. En parlant des États-Unis d'Europe comme de l'objectif ultime du processus d'unification européenne, elle a d'un coup redonné une clarté à cette entreprise si complexe qu'elle en est devenue obscure à tant d'Européens. De crainte de passer pour de doux rêveurs, romantiques, utopistes, ignorants des réalités politiques, même les plus déterminés des partisans de l'unité de l'Europe n'osaient plus employer l'expression de Victor Hugo. « On ne peut pas, dit-on, ce serait briser net un consensus, ce serait rompre avec certaines nations, susciter de nouvelles querelles bien plus violentes encore que celles du traité constitutionnel. » L'idée véhiculée par les États-Unis d'Europe, c'est-à-dire des États soumis à un pouvoir fédéral, n'est pas du tout à l'ordre du jour. Selon le chroniqueur, pourquoi l'expression « États-Unis d'Europe » est-elle taboue ?",
+        "audio": "/mp3/167/38.mp3",
+        "options": [
+            "Elle est trop éloignée des orientations politiques actuelles.",
+            "Elle fait référence à des événements historiques douloureux.",
+            "Elle fait ressurgir des rivalités ou des antagonismes oubliés.",
+            "Elle remet en cause la domination de fait de certains pays."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 39,
+        "testId": 167,
+        "text": "— Et c'est tout l'art d'une série captivée son public. La place que peut prendre une série dans la vie de jeunes gens ou moins jeunes peut inquiéter. Jean-Pierre Coutron est psychologue clinicien spécialiste des addictions.\n\n— On commence à voir dans des entretiens avec des familles, avec des jeunes, ce problème qui est à bordé, ce qui est un des critères de l'addiction sur le mode de j'arrive pas à faire autrement, j'arrive pas à contrôler et ça crée de la souffrance. C'est la thématique de l'hyper-connexion, c'est la thématique de la technologie sans limite, donc c'est à l'humain de s'arrêter de lui-même et c'est toujours plus difficile. On a toute une réflexion à partager avec les parents parce que la première réponse c'est quand même la réponse éducative.\n\nQue constate l'intervenant à propos des séries ?",
+        "audio": "/mp3/167/39.mp3",
+        "options": [
+            "Elles entraînent des dépendances maladives.",
+            "Elles nuisent aux capacités d’apprentissage.",
+            "Elles perturbent la perception de la réalité.",
+            "Elles provoquent un isolement dangereux."
+        ],
+        "answer": 0
+    }
+]
