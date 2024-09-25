@@ -1,0 +1,520 @@
+[
+    {
+        "id": 1,
+        "testId": 180,
+        "text": "A. Cours vite, le train arrive.\n\nB. Descends vite de ton vélo.\n\nC. Entre vite dans la voiture.\n\nD. Monte vite dans le bus.",
+        "audio": "/mp3/180/1.mp3",
+        "img": "/mp3/180/1.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 2,
+        "testId": 180,
+        "text": "Vous pouvez fermer la porte, s'il vous plaît?\n\nA. Bien sûr.\n\nB. C'est vrai.\n\nC. Très souvent.\n\nD. Merci bien.",
+        "audio": "/mp3/180/2.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 3,
+        "testId": 180,
+        "text": "— Qu'est-ce que tu fais cet après-midi ?\n\n— Je m'occupe de ma nièce.\n\n— Super ! Est-ce que tu vas la chercher à l'école ?\n\nA. Non, c'est la fille de mon frère.\n\nB. Bien sûr, elle est en vacances.\n\nC. Oui, et après nous irons au parc.\n\nD. Peut-être, elle sait lire et écrire.",
+        "audio": "/mp3/180/3.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 4,
+        "testId": 180,
+        "text": "Excusez-moi, est-ce que ce bus va au centre commercial ?\n\nA. Oui, c'est le dernier arrêt.\n\nB. Oui, il y a de bonnes promotions.\n\nC. Oui, je préfère cette petite boutique.\n\nD. Oui, nous voulons offrir une robe",
+        "audio": "/mp3/180/4.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 5,
+        "testId": 180,
+        "text": "Je m'appelle Albert, j'ai 36 ans, je viens de Versailles, et je suis traducteur en anglais et chinois. Et toi, qu'est-ce que tu viens étudier à Montréal?\n\nA. J'ai choisi les cours de littérature.\n\nB. J'ai habité à Bruxelles et à Paris.\n\nC. J'ai trouvé une chambre d'étudiants.\n\nD. J'ai voyagé pendant deux ans.",
+        "audio": "/mp3/180/5.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 6,
+        "testId": 180,
+        "text": "Salut Charlie! Je prends l'avion jeudi à 4h du matin. À cette heure-là, il n'y a pas de transport en commun. Tu pourrais m'emmener à l'aéroport en voiture?\n\nA. Avec plaisir. J'adore les voyages.\n\nB. Bien sûr. Je passe te prendre chez toi.\n\nC. D'accord. Je te prêterai ma valise.\n\nD. Parfait. Je viendrai te chercher à la gare.",
+        "audio": "/mp3/180/6.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 7,
+        "testId": 180,
+        "text": "— Allô, Samira ? C'est Léo, j'ai deux billets pour le concert de Stromae samedi soir, ça te dit de venir avec moi ?\n\n— Merci pour la proposition, mais je ne peux pas, c'est l'anniversaire de ma sœur.\n\n— Dommage, j'ai deux billets seulement, ta sœur ne pourrait même pas venir.\n\n— Une autre fois, tu sais, on reste en famille.\n\nQu'est-ce que Léo propose à Samira ?",
+        "audio": "/mp3/180/7.mp3",
+        "options": [
+            "D'aller au concert tous les deux.",
+            "D'inviter sa sœur à une sortie.",
+            "De dîner avec sa famille.",
+            "De fêter son anniversaire."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 8,
+        "testId": 180,
+        "text": "— Bonjour madame, je voudrais réserver des places pour le spectacle de danse du 18 décembre.\n\n— À cette date, il reste des places à 30 euros.\n\n— Ah, je ne voudrais pas payer plus de 20 euros. Et pour la représentation du 17?\n\n— Désolée, c'est pareil.\n\nPourquoi est-ce que le jeune homme repart sans billet?",
+        "audio": "/mp3/180/8.mp3",
+        "options": [
+            "La représentation est annulée.",
+            "Le spectacle est complet.",
+            "Les places sont trop chères.",
+            "Les réservations sont terminées."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 9,
+        "testId": 180,
+        "text": "— Ça ne va pas? Tu es malade?\n\n— Non, mais mon mari vient de réserver un appartement à la montagne pour 15 jours. Au programme, randonnée, vélo et escalade.\n\n— C'est génial!\n\n— C'est affreux, tu veux dire. Moi, je rêvais de deux semaines de repos et de lecture.\n\nDe quoi discutent les deux femmes?",
+        "audio": "/mp3/180/9.mp3",
+        "options": [
+            "D'un prochain déménagement.",
+            "De sport pour le week-end.",
+            "De vacances en famille.",
+            "D'un problème de santé."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 10,
+        "testId": 180,
+        "text": "— Salut Faustine, ça va ?\n\n— Ça va, mais je cherche toujours un job après les cours pour gagner un peu d'argent.\n\n— Ah mince ! Moi je livre des courses à domicile deux soirs par semaine. Je pourrais parler avec mon chef, je crois qu'il veut recruter quelqu'un. Viens avec moi ce soir et je te le présenterai.\n\n— Oui, merci Nourdine, ce serait super.\n\n— Et j'ai vu que la fac organisait un forum pour l'emploi cette semaine, ça peut être utile aussi.\n\n— Parfait, je vais y aller.\n\nQue propose Nourdine à Faustine ?",
+        "audio": "/mp3/180/10.mp3",
+        "options": [
+            "La publication de son CV en ligne.",
+            "Un remplacement dans son entreprise.",
+            "Une formation gratuite à l’université.",
+            "Une rencontre avec son patron."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 11,
+        "testId": 180,
+        "text": "— Allô Paul, tu peux m'aider ?\n\n— Qu'est-ce qui t'arrive Lydie ?\n\n— J'ai laissé mes clés de voiture dans la salle de conférence et elle est occupée jusqu'à 20h.\n\n— Je peux te ramener si tu veux ?\n\n— Oh merci, ça m'arrange. Je dois être chez moi à 18h30. Demain je viendrai en transport.\n\nQuel est le problème de Lydie ?",
+        "audio": "/mp3/180/11.mp3",
+        "options": [
+            "Elle a oublié un objet important.",
+            "Elle a raté son bus ce matin.",
+            "Elle doit s’absenter du bureau.",
+            "Elle est en retard à une réunion."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 12,
+        "testId": 180,
+        "text": "— Mathieu, j'aurais besoin d'un conseil, est-ce que tu penses que je devrais aller aux Etats-Unis pour finir mon master ?\n\n— C'est très personnel comme décision, est-ce que tu crois que ce sera une bonne opportunité pour ta carrière ?\n\n— Oui, d'après mes profs, si j'y vais, j'aurai un meilleur niveau d'anglais et je pourrai plus facilement obtenir un poste dans une entreprise bilingue.\n\n— Alors fais-le, et en plus tu feras de nouvelles connaissances.\n\nQue conseille Mathieu à son ami ?",
+        "audio": "/mp3/180/12.mp3",
+        "options": [
+            "D’apprendre une langue.",
+            "D’arrêter ses études.",
+            "De partir à l’étranger.",
+            "De rencontrer du monde."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 13,
+        "testId": 180,
+        "text": "— Si tu prends le bus de midi pour aller à l'université, tu seras en retard.\n\n— Et que veux-tu que je fasse?\n\n— Marche! Il fait beau! Et si tu passes par le parc, tu pourras t'arrêter au kiosque pour acheter ton déjeuner.\n\nQue conseille la jeune fille à son amie?",
+        "audio": "/mp3/180/13.mp3",
+        "options": [
+            "D’aller à l’université à pied.",
+            "De courir pour être à l’heure.",
+            "De déjeuner avant de partir.",
+            "De prendre le bus de midi."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 14,
+        "testId": 180,
+        "text": "— Bonjour, Pablo ! Tu vas bien ? Installe-toi.\n\n— Merci, Amélie. Ah, dis donc, ce fauteuil rouge et jaune est magnifique.\n\n— Merci. Il est très vieux, mais je l'adore. C'est ma grand-mère qui me l'a donné.\n\nQu'est-ce que Pablo pense de ce fauteuil ?",
+        "audio": "/mp3/180/14.mp3",
+        "options": [
+            "Il est peu coloré.",
+            "Il est très confortable.",
+            "Il est trop ancien.",
+            "Il est vraiment beau."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 15,
+        "testId": 180,
+        "text": "— Alors Marie, prête pour le départ ?\n\n— Oui. Tu as le guide touristique de Vienne ? Tu pourrais visiter la ville et goûter les spécialités locales ?\n\n— Oh, je ne sais pas. Je serai occupée du matin au soir par les réunions et des rendez-vous avec des clients.\n\n— Ah, et tu vas voir tes amis autrichiens ?\n\n— Non, pas cette fois.\n\nQu'est-ce que Marie va faire à Vienne ?",
+        "audio": "/mp3/180/15.mp3",
+        "options": [
+            "Manger des plats typiques.",
+            "Rencontrer sa famille.",
+            "Travailler toute la journée.",
+            "Voir une exposition."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 16,
+        "testId": 180,
+        "text": "— Je sais ce que j'ai à la retraite, le bruit est aussi une source de fatigue et de tension.\n\n— Moi le bruit m'empêche de dormir bien sûr, j'arrive à un âge où on a peut-être besoin de moins de sommeil. Mais il est évident qu'en mordure de pouvoir perdre le bruit, je n'arrive pas à supporter ce niveau sonore qui est permanent. Entre autres, il faut aussi ne pas oublier que même si l'intensité routière diminue en nuit, on est réveillé par des bruits un petit peu exceptionnels, une moto pétarade qui passe ou une voiture qui passe à 200 à l'heure sur le boulevard à l'œil, c'est ce qu'on constate régulièrement.\n\nQu'est-ce qui empêche cet homme de dormir?",
+        "audio": "/mp3/180/16.mp3",
+        "audioAI": "/mp3/180/ai_16.mp3",
+        "options": [
+            "Les conducteurs qui klaxonnent au feu rouge.",
+            "Les motards qui s’amusent sur le parking.",
+            "Les ouvriers qui travaillent sur l’autoroute.",
+            "Les véhicules qui circulent près de chez lui."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 17,
+        "testId": 180,
+        "text": "Bonjour chérie, je vais rentrer tard ce soir. Ne m'attends pas pour dîner ? La directrice veut me parler. Je lui ai demandé si on pouvait se voir demain, mais ça n'a pas été possible. Je te raconterai tout ça. Je suis vraiment désolée. Je t'embrasse. Pour quelle raison la femme laisse-t-elle un message à son mari ?",
+        "audio": "/mp3/180/17.mp3",
+        "audioAI": "/mp3/180/ai_17.mp3",
+        "options": [
+            "Pour lui annoncer qu’elle sort avec des amis.",
+            "Pour lui demander de préparer le repas.",
+            "Pour lui dire qu’elle est retenue au bureau.",
+            "Pour lui résumer sa journée de travail."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 18,
+        "testId": 180,
+        "text": "Salut Laurent, c'est Martin. Dis, il y a un gymnase qui vient d'ouvrir à côté de chez moi. Il y a plusieurs salles. En ce moment, on peut y essayer tous les sports et c'est gratuit. Ça te dirait de venir faire une partie de basketball avec les copains demain soir ? Réponds-moi vite pour que j'appelle le club pour réserver le terrain. À plus tard ! Que propose Martin à Laurent ?",
+        "audio": "/mp3/180/18.mp3",
+        "options": [
+            "D’assister à une rencontre sportive.",
+            "De fêter leur victoire entre copains.",
+            "De jouer au basket-ball sans payer.",
+            "De s’inscrire dans un nouveau club."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 19,
+        "testId": 180,
+        "text": "— Bonjour, je voudrais me faire rembourser mon billet pour Montréal. Je devais partir demain, mais mon voyage est annulé.\n\n— D'accord, mais vous allez perdre 40% du prix du billet.\n\n— Tant pis.\n\n— Je vous conseille plutôt de l'échanger.\n\n— Non, merci, ça ne m'intéresse pas.\n\nQue veut la cliente ?",
+        "audio": "/mp3/180/19.mp3",
+        "audioAI": "/mp3/180/ai_19.mp3",
+        "options": [
+            "Acheter un autre billet.",
+            "Échanger son billet.",
+            "Partir pour Montréal.",
+            "Récupérer son argent."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 20,
+        "testId": 180,
+        "text": "— Bonjour, je voudrais envoyer ce colis en Outre-mer en express.\n\n— D'accord. Alors, ça vous fera 20 euros, s'il vous plaît.\n\n— 20 euros ?\n\n— Oui, mais si vous préférez, nous proposons des boîtes standards qui coûtent moins cher.\n\n— Je pense que je vais refaire le colis chez moi avec une de vos boîtes et reviens demain.\n\n— N'oubliez pas de détailler le contenu du colis pour la boîte.\n\n— Oui, je m'en suis occupée. J'ai également la fiche avec les coordonnées du destinataire.\n\nPourquoi cette dame va-t-elle finalement envoyer son colis le lendemain ?",
+        "audio": "/mp3/180/20.mp3",
+        "audioAI": "/mp3/180/ai_20.mp3",
+        "options": [
+            "Elle a décidé de changer d’emballage.",
+            "Elle a laissé son portefeuille chez elle.",
+            "Elle a mal rempli la fiche de douane.",
+            "Elle a oublié l’adresse du destinataire."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 21,
+        "testId": 180,
+        "text": "Je suis une militante de la cuisine. Dans ce plaisir, j'éprouve le besoin de le partager et surtout je considère que cette place dans les familles ne peut pas rester vacante. On est à une époque où on a la chance de bénéficier de l'industrie alimentaire, des livraisons, on peut manger indien, thaï, français, voilà. D'accord, sauf malheureusement ceux pour qui c'est beaucoup trop cher et pour qui la cuisine est encore une contrainte. Mais il me semble que cette place doit être occupée par un des membres de la famille, l'homme, la femme, les enfants, peu importe, mais que ce plaisir-là, ce partage-là et ce lien familial et social doit être sauvegardé. Question 21 D'après cette personne, que permet la cuisine au sein d'une famille?",
+        "audio": "/mp3/180/21.mp3",
+        "options": [
+            "De conforter le rôle de chacun.",
+            "De faire des économies.",
+            "De renforcer les relations.",
+            "De transmettre des savoir-faire."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 22,
+        "testId": 180,
+        "text": "— Salut Nathalie! Alors, comment s'est passé ton week-end à la montagne?\n\n— L'endroit était splendide, mais le séjour a été gâché parce qu'il a plu tout le temps. On n'a pas pu faire de la randonnée comme prévu.\n\n— Ah, c'est dommage. Qu'est-ce que vous avez fait alors?\n\n— On a sorti les dominos et les cartes. On aurait pu faire ça chez nous, ça nous aurait coûté moins cher. On a fait beaucoup de routes pour rester enfermés.\n\nQue regrettes-tu, Nathalie?",
+        "audio": "/mp3/180/22.mp3",
+        "options": [
+            "Elle a perdu aux jeux de société.",
+            "Elle est restée près de chez elle.",
+            "La météo était très mauvaise.",
+            "Le logement était mal situé."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 23,
+        "testId": 180,
+        "text": "Eh bien, à Amiens, les aspirateurs des agents de la Boirie avalent 500 tonnes de feuilles chaque année. Celles-ci, une fois ramassées, sont d'abord stockées dans plusieurs lieux de la ville, puis elles sont triées dans l'usine de mécanisation Picard, IDEX environnement. Elles ne vont pas toutes subir le même sort. Toutes ne sont pas traitées de la même manière. Les feuilles les plus propres, généralement celles ramassées dans les parcs et jardins, sont transformées en compost. De quoi parle le journaliste ?",
+        "audio": "/mp3/180/23.mp3",
+        "options": [
+            "De conservation des plantes.",
+            "De nettoyage d’espaces verts.",
+            "De procédés de recyclage.",
+            "De techniques de culture."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 24,
+        "testId": 180,
+        "text": "— Malgré les apparences, vous n'êtes pas dans une salle de danse, mais dans une école, pour le moins innovante et unique, à Marseille. Ici, on enseigne bien sûr les matières essentielles, mais aussi la comédie musicale, la cuisine ou bien l'électricité. Cette école parie surtout depuis 5 ans sur la pédagogie active de re-motivation dans l'intérêt de l'enfant. On écoute la directrice de l'établissement.\n\n— La pédagogie active, c'est une pédagogie qui implique l'élève dans son apprentissage. Il est acteur, c'est-à-dire qu'on va le familiariser tout seul, avec un texte ou avec n'importe quel support d'information. Il s'autonomise tout en prenant plaisir à apprendre.\n\nSelon la directrice de cette école, quel est l'objectif de la pédagogie active ?",
+        "audio": "/mp3/180/24.mp3",
+        "options": [
+            "Amener l’élève à participer à sa propre formation.",
+            "Axer principalement l’apprentissage sur le jeu.",
+            "Initier les élèves à des activités parascolaires.",
+            "Responsabiliser les élèves encore immatures."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 25,
+        "testId": 180,
+        "text": "— Monsieur, pourrais-je faire mon exposé plus tard que prévu ?\n\n— Pourquoi voulez-vous déplacer la date de votre exposé ?\n\n— Parce que sinon, je ne pourrais pas terminer la dissertation que vous avez demandé.\n\n— Pour le bon déroulement du cours, il est important que vous fassiez votre exposé la semaine prochaine. Je préfère encore que vous me rendiez le travail écrit en retard.\n\n— Je comprends. J'essayerai donc de passer comme prévu.\n\nSur quoi le professeur et l'élève sont-ils d'accord ?",
+        "audio": "/mp3/180/25.mp3",
+        "audioAI": "/mp3/180/ai_25.mp3",
+        "options": [
+            "Le report de la remise d’un devoir.",
+            "Le changement de l’emploi du temps.",
+            "Le rattrapage d’une mauvaise note.",
+            "Le programme de révision pour un examen."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 26,
+        "testId": 180,
+        "text": "Nous vivons aujourd'hui au rythme d'une quatrième révolution industrielle, celle du numérique. La mécanisation, l'électrification et l'industrialisation ont transformé le monde au cours des derniers siècles. Les technologies transforment actuellement l'ensemble des sociétés. Nous devons projeter le Québec en avant. Donnons-nous un système éducatif suffisamment agile pour assurer les bases de notre avenir collectif. Soutenons les apprenants pour qu'ils développent les compétences qui leur seront nécessaires pour être des citoyens responsables dans le monde de demain. Favorisons leur autonomie. Adaptons l'intégration du numérique à leur façon de penser, de réfléchir et de résoudre des problèmes de manière créative et innovante. D'après cet intervenant, que doit faire le Québec?",
+        "audio": "/mp3/180/26.mp3",
+        "audioAI": "/mp3/180/ai_26.mp3",
+        "options": [
+            "Développer sa coopération industrielle.",
+            "Favoriser l’embauche de profils créatifs.",
+            "Financer des projets de recherche innovants.",
+            "Renforcer la formation numérique des jeunes."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 27,
+        "testId": 180,
+        "text": "L'écriture inclusive, le langage inclusif est parfois caricaturé, alors qu'en fait, tout simplement, ça revient à dire que quand on parle d'hommes et de femmes dans un texte, quand dans un discours on s'adresse à des hommes et des femmes, on ne peut pas tout accorder systématiquement au masculin et invisibiliser complètement les femmes. On dit souvent aujourd'hui de transformer la langue. En fait, il ne s'agit pas de transformer la langue, mais c'est de revenir au fait que les académiciens, les linguistes, progressivement ont effacé la place des femmes dans l'histoire. La règle du masculin l'emporte sur le féminin n'a pas toujours existé, ça a été instauré à partir du XVIIe siècle. En fait c'est au fil du temps qu'on a invisibilisé les femmes dans la langue et que ça a aussi contribué à ce qu'on invisibilise leur place dans l'histoire. Quel est le point de vue de cette intervenante sur la langue française?",
+        "audio": "/mp3/180/27.mp3",
+        "options": [
+            "Elle encourage des propos stéréotypés en société.",
+            "Elle masque les inégalités de la société.",
+            "Elle perpétue des usages de la société médiévale.",
+            "Elle reflète une vision sexiste de la société."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 28,
+        "testId": 180,
+        "text": "— Retour sur le Nutri-Score, vous savez c'est ce logo qui est apposé sur les produits alimentaires. Il y a tout juste un an, l'ARETE qui recommande son utilisation a été signée en grand pompe au ministère de la Santé.\n\n— Et une étude qui vient d'être réalisée dans 12 pays vient de prouver qu'il est le meilleur logo, le plus efficace parmi les cinq testés. C'est en fait celui qui permet d'orienter le plus facilement les consommateurs vers des aliments de meilleure qualité nutritionnelle. Concrètement, c'est un logo à cinq couleurs qui est apposé sur la face avant des emballages avec une lettre associée. Cela va de la lettre A sur fond vert pour les aliments d'excellente qualité nutritionnelle à la lettre E sur fond rouge pour les plus mauvais.\n\nQuelle est la fonction de ce logo?",
+        "audio": "/mp3/180/28.mp3",
+        "audioAI": "/mp3/180/ai_28.mp3",
+        "options": [
+            "Aider les consommateurs à mieux acheter.",
+            "Faire la publicité des produits biologiques.",
+            "Garantir l’origine de certains aliments.",
+            "Identifier les emballages recyclables."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 29,
+        "testId": 180,
+        "text": "— Quand un Français s'aperçoit que ses compétences ne sont pas en adéquation avec le marché du travail québécois, il commet généralement la même erreur. Plutôt que d'aller chercher une autre expérience en se disant « Ce n'est pas grave, je vais peut-être obtenir un poste avec moins de responsabilités, mais je vais chercher à développer de nouvelles compétences en occupant un nouvel emploi dans un secteur différent », il essaie de retourner à l'université et refait un certificat.\n\n— Hum, que conseillez-vous alors?\n\n— En tant qu'enseignant à l'université, je lui dis, « Tu pourrais trouver un emploi demain matin si tu misais sur le développement de tes compétences plutôt que sur ton bout de papier ».\n\nQue recommande cette universitaire pour trouver un travail au Québec?",
+        "audio": "/mp3/180/29.mp3",
+        "options": [
+            "De devenir entrepreneur en créant son entreprise.",
+            "De s’informer sur les secteurs porteurs d’emplois.",
+            "De suivre une formation diplômante à l’université.",
+            "D’élargir sa recherche d’emploi à d’autres domaines."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 30,
+        "testId": 180,
+        "text": "— Le coup de projecteur maintenant sur la biffe, c'est un phénomène qui s'étend ici surtout à Paris, c'est par la précarité. Des hommes et des femmes qui ne sont pas brocanteurs font de la récup, leur métier, revendent en fait tout ce qui peut l'être. Alors le dialogue avec les autorités n'est pas toujours simple, mais une association se mobilise pour leur permettre de poursuivre leur activité.\n\n— Pour les acteurs du marché au plus, c'est que ce dynamisme économique est nécessaire en ville pour lutter contre la pauvreté, pour réduire les déchets, pour créer une économie circulaire populaire et pour évidemment protéger aussi les ressources de la planète. En premier lieu, pour les familles des biffins et les biffins, c'est nécessaire d'avoir un peu d'argent en vendant sa récup, c'est un travail et il devrait être connu comme tel.\n\nQue souhaite l'association dont il est question?",
+        "audio": "/mp3/180/30.mp3",
+        "audioAI": "/mp3/180/ai_30.mp3",
+        "options": [
+            "Accroître la mixité sociale dans les grandes villes.",
+            "Décrocher des financements pour ses activités.",
+            "Modifier le fonctionnement des marchés aux puces.",
+            "Obtenir un statut professionnel officiel pour les biffins."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 31,
+        "testId": 180,
+        "text": "— Donc sans aller jusqu'au licenciement, Philippe, quelles sont les conséquences d'un mauvais niveau d'orthographe ?\n\n— Alors les responsables des ressources humaines, interrogés par Opinion Web pour Becherel, reconnaissent à 52% que ça a déjà pu jouer dans la mise à l'écart d'un candidat au moment du recrutement, et ils sont 15% à estimer que ça peut freiner la promotion d'un salarié, s'il n'est pas après tout énorme pour l'ensemble de la population, mais ça prend de toutes autres proportions si on s'intéresse aux plus jeunes, aux moins de 30 ans. Ce sont eux qui disent avoir le plus de mal avec l'orthographe. Quand on leur demande si leur faute ont suscité des reproches de la part de leurs collègues, de leur hiérarchie, de leurs clients, ils sont deux fois plus nombreux que le reste de la population à dire oui.\n\nQu'apprend-on sur le niveau d'orthographe dans le monde du travail ?",
+        "audio": "/mp3/180/31.mp3",
+        "options": [
+            "C’est un détail négligeable pour les recruteurs.",
+            "Il est indépendant de la promotion professionnelle.",
+            "Il est prévu de tester celui des futurs salariés.",
+            "La question est préoccupante pour les plus jeunes."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 32,
+        "testId": 180,
+        "text": "Bonjour et bienvenue à France-Québec TV. On va commencer par les opportunités au Québec. Figurez-vous que l'on recherche plus de 300 vétérinaires pour faire face à une certaine pénurie. Chaque année, sur 90 diplômés, seulement 10 à 15 se consacrent aux soins des animaux de ferme. C'est que la pratique auprès des animaux d'élevage est particulièrement exigeante. Le travail demande beaucoup de déplacements, une bonne forme physique et une disponibilité 24h sur 24 et 7 jours sur 7. Pour ces raisons, peu de jeunes diplômés sont attirés par le travail à la campagne et les vétérinaires d'un certain âge continuent souvent parce qu'ils n'ont personne pour les remplacer. Quel est le problème exposé?",
+        "audio": "/mp3/180/32.mp3",
+        "options": [
+            "Les jeunes diplômés privilégient le travail en milieu urbain.",
+            "Les lauréats aux concours vétérinaires sont trop peu nombreux.",
+            "Les soins aux animaux de ferme demandent une spécialisation.",
+            "Les vétérinaires en activité refusent de former les nouveaux."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 33,
+        "testId": 180,
+        "text": "Le chiffre est impressionnant. Chaque année, 640 000 tonnes de matériel de pêche finissent sous l'eau. Des filets, des casiers et autres pièges en tout genre sont perdus ou abandonnés au fond des mers. Des chiffres révélés par Greenpeace reprenant un comptage de la FAO, l'Organisation de l'ONU pour l'Agriculture et l'Alimentation. Alors une pollution qui se rajoute aux milliers de tonnes de déchets qui font, vous savez, les fameux continents plastiques, ces agrégations de déchets qui flottent à travers les océans. Alors justement, les animaux marins, ce sont eux les premières victimes de ce matériel de pêche abandonné. Les casiers dérivants prennent aux pièges les tortues, les phoques, les baleines, bref 100 000 animaux faisant des galipettes dans l'eau salée en sont victimes chaque année. Question 33 Que dénonce Greenpeace ?",
+        "audio": "/mp3/180/33.mp3",
+        "audioAI": "/mp3/180/ai_33.mp3",
+        "options": [
+            "L’industrie du plastique.",
+            "Les activités agricoles.",
+            "Les pièges de braconniers.",
+            "Les pratiques de pêcheurs."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 34,
+        "testId": 180,
+        "text": "— Vous avez dit, je vous cite, « Nous sommes tous convaincus, notamment des enseignements, des chercheurs, nous sommes tous convaincus que l'enseignement en maternelle ne sert pas à grand chose. »\n\n— Alors là où on était sur l'enseignement en maternelle, on parle davantage d'une sensibilisation mais pas d'un apprentissage. Donc, je crois qu'il faut vraiment faire la différence entre sensibilisation et apprentissage. À l'école élémentaire aujourd'hui, on est sur les créneaux 2 fois 45 minutes par exemple, il n'est pas possible.\n\n— Par semaine.\n\n— Par semaine, et il n'est pas question de faire des élèves bilingues. L'objectif, c'est de former des élèves qui savent communiquer.\n\nPourquoi la personne interviewée minimise-t-elle l'importance de l'enseignement des langues en classe de maternelle?",
+        "audio": "/mp3/180/34.mp3",
+        "audioAI": "/mp3/180/ai_34.mp3",
+        "options": [
+            "La seule visée de cet enseignement est d’initier les enfants à la langue.",
+            "Le temps imparti à cette discipline est trop court pour qu’il soit utile.",
+            "Les élèves manquent de la maturité nécessaire pour cet apprentissage.",
+            "Les professeurs sont opposés au concept d’une jeunesse plurilingue."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 35,
+        "testId": 180,
+        "text": "Parce que la bande dessinée est un exercice qui demande une telle rigueur, une telle discipline. La pratique de la bande dessinée nous impose une grammaire, une grammaire tellement étroite, déjà le dessin est enfermé dans des cases la plupart du temps. Donc, tout est là pour que le dessin, sans qu'il ose, se redisse, se redisse, s'amidonne. Tous les éléments sont là pour que notre dessin se dessèche. Donc, à l'intérieur de cet exercice domestiqué qu'est la bande dessinée, essayer de rendre un dessin vivant ou simplement plaisant à exécuter, c'es pas, c'est pas gagné en fait. Qu'explique l'interlocuteur à propos de la bande dessinée?",
+        "audio": "/mp3/180/35.mp3",
+        "options": [
+            "Elle aborde des sujets de fonds.",
+            "Elle créé de la concurrence entre auteurs.",
+            "Elle est encadrée par des normes strictes.",
+            "Elle s’adresse à un public averti."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 36,
+        "testId": 180,
+        "text": "Dire que les écrans sont un poison pour les enfants, c'est vraiment excessif. On ne peut vraiment pas signifier les choses de cette façon-là, il faut être un peu plus nuancé. Évidemment un usage excessif, ce n'est absolument pas constructif pour l'enfant, mais un usage pondéré et accompagné par les parents, là, ça peut vraiment être intéressant. Il y a un impact des écrans sur les enfants, c'est-à-dire qu'ils peuvent apprendre des choses avec les écrans, ils peuvent jouer, donc ça c'est l'impact positif. Et puis l'impact négatif, c'est effectivement quand il y a trop d'écrans, quand on se ferme aux interactions, quand on ne fait plus que ça, quand on ne réfléchit plus et qu'on est passif à recevoir l'information, ça c'est plutôt négatif. Qu'affirme cette spécialiste au sujet des écrans dans la vie des enfants ?",
+        "audio": "/mp3/180/36.mp3",
+        "options": [
+            "Ils favorisent les interactions avec les adultes.",
+            "Ils permettent d’apprendre de façon ludique.",
+            "Ils peuvent compenser les absences des parents.",
+            "Ils sont utiles pour l’accompagnement scolaire."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 37,
+        "testId": 180,
+        "text": "C'est un des bouchers les plus médiatisés de Paris, on le surnomme le boucher des stars. Il défend les races de boucheries, les viandes vieillies, il défend les artisans. Et puis le printemps dernier, il a publié « L'effet bœuf ». C'est un livre dans lequel il s'inquiète des changements, des changements qui surviennent dans les élevages. Où maintenant la rapidité, l'efficacité changent, les pratiques changent, même la saveur ressemble-t-il des viandes. Il continue de s'intéresser aux élevages dans lesquels les animaux sont nourris à l'herbe. Quelle est la position de ce boucher ?",
+        "audio": "/mp3/180/37.mp3",
+        "options": [
+            "Il conseillé d’augmenter la productivité.",
+            "Il milite pour la création d’un label qualité.",
+            "Il s’efforce de moderniser sa profession.",
+            "Il valorise les méthodes traditionnelles."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 38,
+        "testId": 180,
+        "text": "— C'est une dame que je ne connaissais pas du tout. Une des deux filles, Tyrène Némirovsky, une dame qui est décédée maintenant et qui s'appelle Elisabeth Gilles, qui était éditrice chez Julliard, qui un jour m'a appelé en me disant « Voilà, ça fait des années que je vous entends à la télé, ça fait des années que je me dis qu'en fait vous êtes un écrivain qui ne le savez pas ». Et quand je suis arrivé dans son bureau elle m'a expliqué qu'« en fait je n'avais rien à faire à la télé et que ce n'était pas mon métier ».\n\n— Mais vous croyez au hasard de la vie, aux rencontres vous essentiellement?\n\n— À moi ça m'est tout le temps arrivé, ça oui, j'ai beaucoup de chance.\n\nComment s'est révélée la vocation de cet écrivain?",
+        "audio": "/mp3/180/38.mp3",
+        "options": [
+            "À l’occasion d’une entrevue.",
+            "En côtoyant des auteurs connus.",
+            "Grâce à des relations amicales.",
+            "Lors d’une émission de radio."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 39,
+        "testId": 180,
+        "text": "Bonjour et bienvenue à tous. Je vous ai convoqué aujourd'hui afin de faire un point sur les fiches préparatoires à votre entretien d'évaluation. J'ai entendu ici et là que nombreux sont ceux parmi vous qui rechignent à les remplir. Ils ont tort. Toute cette phase de réflexion vous permettra de mieux cerner les difficultés que vous avez rencontré cette année et d'y remédier. Vous pourrez ainsi fixer de nouveaux objectifs, plus en adéquation avec les besoins réels de l'entreprise. Et surtout, de mieux faire évoluer votre carrière. Formation, promotion, augmentation… Ah, je vois qu'il y a déjà des questions. Quel est le but de cette réunion?",
+        "audio": "/mp3/180/39.mp3",
+        "options": [
+            "Expliquer l’intérêt de renseigner un document.",
+            "Motiver les employés ayant un mauvais bilan.",
+            "Présenter un nouveau système d’avancement.",
+            "Remercier l’équipe pour son investissement."
+        ],
+        "answer": 0
+    }
+]
