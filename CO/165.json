@@ -1,0 +1,510 @@
+[
+    {
+        "id": 1,
+        "testId": 165,
+        "text": "A. Cours vite, le train arrive.\n\nB. Descends vite de ton vélo.\n\nC. Entre vite dans la voiture.\n\nD. Monte vite dans le bus.",
+        "audio": "/mp3/165/1.mp3",
+        "img": "/mp3/165/1.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 2,
+        "testId": 165,
+        "text": "Vous pouvez fermer la porte, s'il vous plaît?\n\nA. Bien sûr.\n\nB. C'est vrai.\n\nC. Très souvent.\n\nD. Merci bien.",
+        "audio": "/mp3/165/2.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 3,
+        "testId": 165,
+        "text": "— Qu'est-ce que tu fais cet après-midi ?\n\n— Je m'occupe de ma nièce.\n\n— Super ! Est-ce que tu vas la chercher à l'école ?\n\nA. Non, c'est la fille de mon frère.\n\nB. Bien sûr, elle est en vacances.\n\nC. Oui, et après nous irons au parc.\n\nD. Peut-être, elle sait lire et écrire.",
+        "audio": "/mp3/165/3.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 4,
+        "testId": 165,
+        "text": "Hey Sophie, dis-moi pourquoi tu es toujours aussi en forme?\n\nA. Je fais souvent de l'exercice.\n\nB. Je lis des histoires drôles.\n\nC. Je regarde le sport à la télé.\n\nD. Je vais au cinéma.",
+        "audio": "/mp3/165/4.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 5,
+        "testId": 165,
+        "text": "— Il est 19 heures. Si on veut arriver au cinéma avant le début du film et trouver une place dans la salle, il faut partir maintenant.\n\n— Partir maintenant? Mais regarde, il pleut!\n\nA. Oui, mais la salle est sombre.\n\nB. Oui, mais le cinéma est près d'ici.\n\nC. Oui, mais le film se passe en plein air.\n\nD. Oui, mais les places sont chères.",
+        "audio": "/mp3/165/5.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 6,
+        "testId": 165,
+        "text": "Ah, des skis ! C'est un super cadeau ! Comment vous avez eu l'idée ?\n\nA. On a demandé à ton frère.\n\nB. On a fait ton gâteau préféré.\n\nC. On a invité tes amis et ta famille.\n\nD. On a réservé une salle.",
+        "audio": "/mp3/165/6.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 7,
+        "testId": 165,
+        "text": "Si tu veux, je t'emmène à la piscine cet après-midi. Qu'est-ce que tu en penses?\n\nA. J'ai cassé ma raquette.\n\nB. J'ai oublié mon ballon.\n\nC. J'ai perdu mon maillot.\n\nD. J'ai trouvé mes chaussures.",
+        "audio": "/mp3/165/7.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 8,
+        "testId": 165,
+        "text": "— Bonjour Madame.\n\n— Bonjour. Je cherche un cadeau pour mon fils. C'est son anniversaire.\n\n— Très bien. Il a quel âge ? Et qu'est-ce qu'il aime ?\n\n— Il va avoir 19 ans demain. Il est étudiant en histoire. Il adore la poésie, les romans policiers et historiques, bien sûr.\n\nQu'est-ce que le vendeur peut proposer à cette cliente ?",
+        "audio": "/mp3/165/8.mp3",
+        "options": [
+            "Un film.",
+            "Un livre.",
+            "Un vêtement.",
+            "Un voyage."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 9,
+        "testId": 165,
+        "text": "— Salut Faustine, ça va ?\n\n— Ça va, mais je cherche toujours un job après les cours pour gagner un peu d'argent.\n\n— Ah mince ! Moi je livre des courses à domicile deux soirs par semaine. Je pourrais parler avec mon chef, je crois qu'il veut recruter quelqu'un. Viens avec moi ce soir et je te le présenterai.\n\n— Oui, merci Nourdine, ce serait super.\n\n— Et j'ai vu que la fac organisait un forum pour l'emploi cette semaine, ça peut être utile aussi.\n\n— Parfait, je vais y aller.\n\nQue propose Nourdine à Faustine ?",
+        "audio": "/mp3/165/9.mp3",
+        "options": [
+            "La publication de son CV en ligne.",
+            "Un remplacement dans son entreprise.",
+            "Une formation gratuite à l’université.",
+            "Une rencontre avec son patron."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 10,
+        "testId": 165,
+        "text": "— Léo, comment ça va depuis que tu es dans ta nouvelle maison?\n\n— Ça va, ça va, mais je n'ai pas encore Internet.\n\n— Mince alors! Et est-ce que ton téléphone fixe marche au moins?\n\n— Oui, mais je n'en ai pas vraiment besoin. Je viens de m'acheter un ordinateur tout neuf, mais sans Internet. Je ne peux pas travailler et contacter mes clients.\n\n— Je comprends. Tu as vu quelqu'un pour arranger ça?\n\nQu'est-ce qui est difficile pour Léo?",
+        "audio": "/mp3/165/10.mp3",
+        "options": [
+            "La communication avec ses clients.",
+            "La recherche d’un nouveau travail.",
+            "L’achat d’un nouveau téléphone fixe.",
+            "L’utilisation de son ordinateur portable."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 11,
+        "testId": 165,
+        "text": "— Allô Paul, tu peux m'aider ?\n\n— Qu'est-ce qui t'arrive Lydie ?\n\n— J'ai laissé mes clés de voiture dans la salle de conférence et elle est occupée jusqu'à 20h.\n\n— Je peux te ramener si tu veux ?\n\n— Oh merci, ça m'arrange. Je dois être chez moi à 18h30. Demain je viendrai en transport.\n\nQuel est le problème de Lydie ?",
+        "audio": "/mp3/165/11.mp3",
+        "options": [
+            "Elle a oublié un objet important.",
+            "Elle a raté son bus ce matin.",
+            "Elle doit s’absenter du bureau.",
+            "Elle est en retard à une réunion."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 12,
+        "testId": 165,
+        "text": "— Mathieu, j'aurais besoin d'un conseil, est-ce que tu penses que je devrais aller aux Etats-Unis pour finir mon master ?\n\n— C'est très personnel comme décision, est-ce que tu crois que ce sera une bonne opportunité pour ta carrière ?\n\n— Oui, d'après mes profs, si j'y vais, j'aurai un meilleur niveau d'anglais et je pourrai plus facilement obtenir un poste dans une entreprise bilingue.\n\n— Alors fais-le, et en plus tu feras de nouvelles connaissances.\n\nQue conseille Mathieu à son ami ?",
+        "audio": "/mp3/165/12.mp3",
+        "options": [
+            "D’apprendre une langue.",
+            "D’arrêter ses études.",
+            "De partir à l’étranger.",
+            "De rencontrer du monde."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 13,
+        "testId": 165,
+        "text": "— Bonjour, je voudrais réserver un séjour au Seychelles.\n\n— Alors, j'ai plusieurs formules de voyage à vous proposer. J'ai notamment quelque chose de très intéressant. Un combiné avion plus hôtel 4 étoiles sur l'île principale à 1300 euros la semaine, départ entre le 10 et le 15 décembre.\n\n— C'est au-dessus de mes moyens. Qu'auriez-vous d'autres à me proposer?\n\n— J'ai aussi des hôtels de catégorie inférieure.\n\n— Oui, je préférerais.\n\nQu'est-ce qui pose problème au client?",
+        "audio": "/mp3/165/13.mp3",
+        "options": [
+            "La date de départ.",
+            "La durée du voyage.",
+            "La situation de l’hôtel.",
+            "Le prix du séjour."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 14,
+        "testId": 165,
+        "text": "— Bonjour madame, auriez-vous quelques minutes pour répondre à un sondage ?\n\n— Rapidement, oui. Parfait.\n\n— Suivez-vous l'actualité ? Oui, un peu, mais je n'ai pas toujours le temps.\n\n— Vous lisez les journaux ? Un peu, dans le métro, mais je regarde plutôt les informations à la télévision.\n\n— Et sur Internet ?\n\n— Oui, parfois des amis postent des actualités sur les réseaux sociaux. J'aime ce qui parle des grands réalisateurs de films, des acteurs, parce que je suis actrice, vous savez.\n\n— Très bien, merci madame. Vos réponses nous seront très utiles.\n\nQuel est le thème du sondage ?",
+        "audio": "/mp3/165/14.mp3",
+        "options": [
+            "L’intérêt pour le cinéma.",
+            "Les activités de loisirs.",
+            "Les habitudes de transport.",
+            "L’utilisation des médias."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 15,
+        "testId": 165,
+        "text": "Je m'appelle Pascale, ça fait 4 ans que je travaille dans une école maternelle. Je suis chargée d'aider les enseignants dans la classe. Alors, le plus dans le métier pour moi, c'est les relations avec les enseignants et les enfants. Ça, on a vraiment beaucoup de chance à ce niveau-là, surtout avec les enfants. Les côtés négatifs du métier... Je dirais peut-être les journées un peu longues, dans le bruit, parce que les enfants sont quand même en général bruyants. Qu'apprécie Pascale dans son métier?",
+        "audio": "/mp3/165/15.mp3",
+        "options": [
+            "La répartition des horaires.",
+            "Le contact avec les élèves.",
+            "Les activités pédagogiques.",
+            "L’organisation des leçons."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 16,
+        "testId": 165,
+        "text": "— Allô ?\n\n— Salut, c'est Rachida.\n\n— Salut, petite sœur.\n\n— Je t'appelle pour qu'on s'organise. Tu te souviens qu'on sera déjà parti quand vous arriverez ?\n\n— Ah c'est vrai, j'avais complètement oublié. Comment on fait pour les clés ?\n\n— Je les laisserai chez la voisine d'en face. On vous a préparé des draps, des serviettes, et le frigo est plein. Nous vous avons aussi laissé une liste d'activités à faire ici et des adresses pour sortir dîner.\n\n— Merci beaucoup. Je te dois combien ?\n\n— Ah ben rien, tu plaisantes. C'est normal, tu es mon frère.\n\nPourquoi Rachida appelle-t-elle son frère ?",
+        "audio": "/mp3/165/16.mp3",
+        "options": [
+            "Pour l’inviter au restaurant.",
+            "Pour le remercier de son accueil.",
+            "Pour lui conseiller un logement.",
+            "Pour lui donner des informations."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 17,
+        "testId": 165,
+        "text": "— Alors, comment as-tu trouvé le film?\n\n— Assez moyen. Les acteurs jouaient bien, mais je n'ai pas réussi à croire à ce scénario.\n\n— C'est mon avis aussi. J'ai eu du mal à suivre l'histoire. En revanche, j'ai apprécié la musique et la façon de filmer.\n\n— En effet, le réalisateur a du talent.\n\n— On continue cette discussion dans un café?\n\n— Avec plaisir!\n\nQu'est-ce que ces deux amis reprochent au film?",
+        "audio": "/mp3/165/17.mp3",
+        "options": [
+            "L’histoire est compliquée.",
+            "La musique est ennuyeuse.",
+            "Le réalisateur est mauvais.",
+            "Les acteurs sont inconnus."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 18,
+        "testId": 165,
+        "text": "Bonjour, c'est un message de GRD Solutions pour M. Lalande. Je vous appelais au sujet du problème que vous avez rencontré en installant notre logiciel d'épéimage. Nous avons un technicien qui pourrait vous dépanner et venir sur site rapidement. Vous pouvez me recontacter jusqu'à 18h30 au 01-28-12-87-43. Bonne journée. Pourquoi cette personne laisse-t-elle un message?",
+        "audio": "/mp3/165/18.mp3",
+        "options": [
+            "Pour confirmer un rendez-vous.",
+            "Pour demander un entretien.",
+            "Pour proposer un service.",
+            "Pour signaler un retard."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 19,
+        "testId": 165,
+        "text": "— On dit souvent qu'à Londres, on peut changer de job quasiment comme de chemise. Est-ce que c'est toujours vrai?\n\n— Il est toujours facile de passer d'un job à l'autre. Le diplôme a beaucoup moins d'importance. On va surtout regarder les postes que vous avez déjà occupés. On va aussi tenir compte de vos motivations. C'est vrai qu'on vous donne aussi la possibilité d'augmenter assez… enfin… comment dire… de franchir les étapes beaucoup plus rapidement. On retrouve assez régulièrement des personnes vers 22-23 ans et déjà managers, tandis qu'en France, c'est quand même un petit peu plus compliqué.\n\nQue dit cette intervenante au sujet du travail à Londres ?",
+        "audio": "/mp3/165/19.mp3",
+        "options": [
+            "Le recrutement se fonde sur l’expérience.",
+            "Les salaires à l’embauche sont très élevés.",
+            "L’évolution professionnelle est très lente.",
+            "L’obtention d’un premier emploi est aisée."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 20,
+        "testId": 165,
+        "text": "— Vous venez ? On va faire un volley et après on ira nager ! Tu viens Véro ?\n\n— Mais ce n'est pas possible par ce temps ! Vous avez vu ce vent ? Vous n'attraperez jamais le ballon !\n\n— N'exagère pas, ce n'est pas grave ! Allez viens, tu adores ça !\n\n— Non, allez-y sans moi, j'aime mieux aller me baigner !\n\nPour quelle raison la fille refuse-t-elle de jouer au volley ?",
+        "audio": "/mp3/165/20.mp3",
+        "options": [
+            "Elle veut faire du vélo.",
+            "Elle a horreur du volley.",
+            "Elle trouve le vent trop fort.",
+            "Elle se sent fatiguée."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 21,
+        "testId": 165,
+        "text": "— Salut, ça va ?\n\n— Ça va, mais mon petit ami est parti pour trois mois pour réaliser un documentaire sur la Gaspésie, une région assez sauvage du Québec.\n\n— Ah oui, je connais. Quelle chance ! J'adorerais y retourner. Et tu vas y aller aussi ?\n\n— J'aimerais bien, mais j'ai des missions prévues prochainement. Mais bon, je vois mon patron demain, je lui demanderai si je peux prendre des vacances.\n\n— Bonne chance. Tu m'écriras pour me raconter ton expérience là-bas. Et préviens-moi quand le film sortira.\n\nDe quoi parlent ces personnes ?",
+        "audio": "/mp3/165/21.mp3",
+        "options": [
+            "D’un projet de voyage.",
+            "D’un changement de travail.",
+            "D’un futur déménagement.",
+            "D’une sortie au cinéma."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 22,
+        "testId": 165,
+        "text": "Et donc les compositeurs ont un autre métier, c'est-à-dire qu'ils sont chef d'orchestre ou ils sont directeurs de conservatoire ou ils sont enseignants, chercheurs, directeurs artistiques parfois parce que leur métier de compositeur ne leur permet pas de pouvoir avoir suffisamment de rémunération pour vivre correctement. Je pense qu'il doit y avoir à peu près que 2 ou 3 % de compositeurs aujourd'hui qui vivent réellement de leur musique, c'est vraiment très très peu. Quelle difficulté les créateurs de musique rencontrent-ils?",
+        "audio": "/mp3/165/22.mp3",
+        "options": [
+            "Leur public est en diminution.",
+            "Leur salaire est insuffisant.",
+            "Leur savoir est peu transmis.",
+            "Leur talent est dévalorisé."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 23,
+        "testId": 165,
+        "text": "— ...autonome.\n\n— Oui, différents modèles de véhicules sans conducteur étaient à essayer dans les rues de Las Vegas la semaine dernière. Pour le moment, il s'agit seulement d'expérimentations. En attendant une réglementation, le secteur s'intéresse à ce que l'on fera dans ses voitures quand elles conduiront, vraiment toutes seules, persuadées que c'est l'intérieur de la voiture et les services proposés qui feront la différence demain, bien plus que le moteur. Plusieurs concepts d'habitacle futuriste étaient présentés sur le salon. Des voitures avec des écrans partout, intégrées dans les vitres ou faisant toute la largeur du tableau de bord. Des véhicules qui se personnaliseront en fonction de leurs passagers.\n\nSur quel aspect travaillent les concepteurs des voitures autonomes ?",
+        "audio": "/mp3/165/23.mp3",
+        "options": [
+            "L’écologie.",
+            "La puissance.",
+            "La sécurité.",
+            "Les équipements."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 24,
+        "testId": 165,
+        "text": "— Psychologue, vous animez une émission télévisée. Comment faites-vous pour jongler entre vos consultations et vos émissions?\n\n— J'ai suspendu mes consultations privées dans un souci éthique. Je ne veux pas utiliser cette émission comme fond de commerce, comme une manière de rabattre de la clientèle. Je suis un thérapeute ordinaire et je ne veux pas donner l'image de quelqu'un qui va plus vite que les autres.\n\nPour quelles raisons ce psychologue a-t-il interrompu ses consultations?",
+        "audio": "/mp3/165/24.mp3",
+        "options": [
+            "Il a répondu à une demande de ses patients.",
+            "Il consacre son temps à son nouveau métier.",
+            "Il s'est remis en question suite à un échec.",
+            "Il veut éviter toute publicité personnelle."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 25,
+        "testId": 165,
+        "text": "Souvent, on les surnomme les médecins de la terre. Claude et Lydia Bourguignon auscultent les sols. Ils tentent de leur rendre la santé quand les méthodes agressives de l'agriculture intensive ont fortement abîmé les terres cultivables, au point parfois d'en faire disparaître toute trace de vie. Engrais chimiques et pesticides ne sont pas les amis de ce couple de scientifiques. Claude et Lydia Bourguignon invitent les paysans à mieux connaître leurs champs ou leurs vignes, à les travailler autrement sans pour autant sacrifier les rendements, à ne pas nuire à l'environnement. De cette révolution verte qu'ils défendent, dépend selon eux la qualité de l'offre faite aux consommateurs, ainsi que la survie des agriculteurs et des terres qu'ils cultivent. Quel est l'objectif de ces deux scientifiques ?",
+        "audio": "/mp3/165/25.mp3",
+        "options": [
+            "Augmenter le nombre des surfaces exploitables.",
+            "Développer la production des fruits et légumes.",
+            "Diffuser des procédés en accord avec la nature.",
+            "Introduire la plantation de nouvelles espèces."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 26,
+        "testId": 165,
+        "text": "— Tu viens à l'anniversaire de Bertrand samedi ?\n\n— Je ne sais pas encore. J'ai un examen lundi prochain.\n\n— Tu es prête ?\n\n— Plus ou moins. Mes cousins de Toulouse sont venus passer une partie des vacances à la maison et j'ai dû leur faire visiter les monuments et les musées de Paris.\n\n— Tu as pu travailler un peu ?\n\n— Oui, mais je dois encore étudier les maths.\n\nDe quoi parlent les deux jeunes filles ?",
+        "audio": "/mp3/165/26.mp3",
+        "options": [
+            "De la préparation des vacances.",
+            "Des révisions d’un examen.",
+            "D'un anniversaire surprise.",
+            "D'un projet de visites culturelles."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 27,
+        "testId": 165,
+        "text": "— T'as vu la fiche dans le hall de l'université? Ce week-end, les finissants organisent une bourse aux livres sur les programmes qu'ils ont étudiés. On y va?\n\n— Ah, tu sais, ce genre de vente ne m'intéresse pas parce que les manuels changent tous les ans, surtout en économie. Il faut se tenir au courant de tout. Non, vas-y toute seule.\n\n— Ah, tu me déçois. On va rencontrer des étudiants qui ont déjà travaillé sur notre futur programme. C'est aussi important de pouvoir discuter sur ce que l'on va rencontrer l'an prochain. Le cursus, les profs, le diplôme. Allez, viens!\n\n— Non, j'ai pas envie. Je dois revoir mes cours pour mes partiels.\n\nQue souhaite la jeune fille?",
+        "audio": "/mp3/165/27.mp3",
+        "options": [
+            "Revendre des livres d’occasion auprès des finissants.",
+            "Rencontrer les étudiants nouvellement inscrits.",
+            "Se rendre à une vente de livres universitaires d’occasion à la faculté.",
+            "Aller acheter des livres pour réviser avec son ami avant leurs examens."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 28,
+        "testId": 165,
+        "text": "— Salut Marie, alors finalement qu'est-ce que tu as fait samedi soir ?\n\n— Bah, j'avais pas le moral, j'étais invité chez ma sœur, je n'y suis pas allé. Il y a des amis qui m'ont appelé pour aller danser au dernier moment, j'ai pas eu envie.\n\n— Tu as fait quoi alors ?\n\n— Finalement j'ai voulu aller au cinéma. La séance était annulée pour raisons techniques, alors je suis rentré, je me suis couché.\n\n— Si j'avais su, je serais venu te chercher, on est allé jouer au bowling, on a passé une super soirée.\n\nComment la jeune fille a-t-elle passé sa soirée ?",
+        "audio": "/mp3/165/28.mp3",
+        "options": [
+            "Elle est sortie en boîte de nuit.",
+            "Elle a dîné avec sa famille.",
+            "Elle est restée toute seule.",
+            "Elle a vu un mauvais film."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 29,
+        "testId": 165,
+        "text": "— Quels sont les objectifs de carrière des étudiants ?\n\n— Vous savez, hommes et femmes aspirent à utiliser salaire et promotion, non seulement pour pouvoir utiliser une entreprise comme un nom sur un CV, mais aussi pour obtenir un réel accélérateur de carrière. Plus simplement, ce qui attire hommes et femmes, c'est d'envisager de pouvoir gagner beaucoup plus. Les kilos euros de leur premier salaire ne sauraient donc être un frein à leur entrée dans une société, tant que ces jeunes diplômés peuvent se projeter dans une globalité liant augmentation salariale et promotion interne rapide.\n\nQue désirent les jeunes en commençant leur carrière ?",
+        "audio": "/mp3/165/29.mp3",
+        "options": [
+            "Une ascension professionnelle accompagnée de revenus confortables.",
+            "Une nomination à un premier poste valorisant au sein de l’entreprise.",
+            "Une opportunité de multiplier les contrats dans différentes entreprises.",
+            "Une reconnaissance rapide de leurs supérieurs sur les résultats obtenus."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 30,
+        "testId": 165,
+        "text": "Si demain vous viviez dans une oasis, je ne vous parle pas d'un lac avec des petits palmiers au milieu du désert, mais d'une communauté, une petite communauté en France, en ville ou à la campagne, où vos voisins seraient comme vous, décidés à vivre de façon plus écolo. C'est ça les oasis, 500 petits groupes aujourd'hui, des familles, qui vivent côte à côte, mais aussi ensemble. Et c'est peut-être avant-gardiste. Prenez par exemple, en Oréloire, l'éco-hamo du Klessin. 28 familles, soit 60 personnes, qui vivent dans des bâtiments bio-climatiques dont le chauffage, pour faire simple, ne pollue pas. Qui, toutes, ont renoncé à se brancher au tout-à-l'égout. Leurs eaux grises sont traitées dans des bassins plantés de roseaux, qui dépolluent. C'est parfaitement légal, et ça marche. Que recherchent les habitants de ces oasis ?",
+        "audio": "/mp3/165/30.mp3",
+        "options": [
+            "Adopter un mode de vie collectif responsable.",
+            "Construire un réseau d’assainissement des eaux.",
+            "Faire la promotion de logements écologiques.",
+            "Mener une politique d’aménagement des villes."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 31,
+        "testId": 165,
+        "text": "La vieille dame de fer dans tous ses états, où, comment les jeunes, sans complexe, se sont mesurés à cette forme unique qu'est la Tour Eiffel. Pour ce concours, organisé par la Fondation Eiffel, adressée aux élèves des écoles d'architecture, la consigne était de rêver. Concevoir un édifice de très grande hauteur sur le champ de Mars à Paris, à distance, à coller ou à la place de la Tour Eiffel. Trois étudiants suppriment donc carrément la Tour. À la place, ils y construisent un aéroport vertical, ou creusent un puits de lumière avec de vastes plateaux. D'autres choisissent de la rendre habitable en comblant ses vides par des baies de couleurs ou la dot d'un jardin suspendu. De quoi traite ce reportage ?",
+        "audio": "/mp3/165/31.mp3",
+        "options": [
+            "D’un appel à projets imaginaires.",
+            "D’un examen de fin d’études.",
+            "D’un nouveau plan d’urbanisme.",
+            "D’une rénovation d’un monument."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 32,
+        "testId": 165,
+        "text": "— Des commentaires sur la gastronomie de Toronto?\n\n— On y mange très bien, mais c'est impossible d'y manger la même chose 4 ans plus tard. Comme à Québec, la gastronomie est très tendance. Qu'est-ce qui se passe aujourd'hui? Qu'est-ce qui se passera demain? Mais qu'est-ce qui s'est passé hier? On ne veut plus rien savoir. Qu'est-ce qu'un restaurateur doit faire si sa cuisine n'est pas tendance mais tout aussi bonne? À Toronto, il doit la changer. C'est différent à Québec. J'ai l'impression qu'à Toronto, la capitale des affaires, on gère tous aux dépens des valeurs sûres.\n\nQue constate ce journaliste sur la gastronomie à Toronto?",
+        "audio": "/mp3/165/32.mp3",
+        "options": [
+            "Elle est dans l’innovation constante.",
+            "Elle est tournée vers l’exotisme.",
+            "Elle fait la part belle à la tradition.",
+            "Elle nécessite un service très rapide."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 33,
+        "testId": 165,
+        "text": "— Il y a certains légumes qui sont moins bien connus que d'autres.\n\n— Oui, la courge entre autres, c'est quelque chose qui... vraiment les gens la regardent avec un point d'interrogation, qu'est-ce que je vais faire avec ça? Donc il faut être imaginatif comme producteur pour tenter les gens de le cuisiner. Puis on comprend que le temps est tellement précieux, les gens n'ont pas le temps, donc il faut essayer de leur trouver des trucs.\n\nQue doit faire cette personne pour vendre ses légumes?",
+        "audio": "/mp3/165/33.mp3",
+        "options": [
+            "Donner des conseils de préparation.",
+            "Éviter de faire attendre les acheteurs.",
+            "Faire connaître des aliments oubliés.",
+            "Respecter le goût des consommateurs."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 34,
+        "testId": 165,
+        "text": "— Mais c'est important la langue que l'on parle aujourd'hui en 2018 alors que l'on a des traducteurs sur tous les téléphones.\n\n— Ah oui c'est important parce que la langue véhicule autre chose, la langue véhicule manière de regarder le monde, véhicule aussi des solidarités. Des gens qui ont fait leurs études en France, qui se sont imprégnés des systèmes, par exemple juridiques français, n'ont pas la même façon de raisonner et vont créer avec nous un espace très important. Et puis j'ajoute que la francophonie, c'est pas seulement la France. On voit bien les membres de l'OIF, de l'Organisation Internationale de la Francophonie, qui viennent de très nombreux horizons, de continents différents.\n\nQue dit cet intervenant sur la langue française?",
+        "audio": "/mp3/165/34.mp3",
+        "options": [
+            "Elle crée des discriminations.",
+            "Elle enrichit les rapports.",
+            "Elle est utile pour le droit.",
+            "Elle varie selon les contextes."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 35,
+        "testId": 165,
+        "text": "— Depuis quelques années, des vignerons ont investi des sommes importantes au Québec pour se lancer dans une nouvelle culture, comme Daniel Desmoulins qui a ouvert le vignoble L'Ange-Gardien en face du fleuve Saint-Laurent.\n\n— Faire du vin au Québec, c'est un challenge. Je serais peut-être pas parti là-dessus il y a 20 ans, mais je trouvais que les produits étaient de mieux en mieux et c'est pour ça qu'il y a 10 ans, avec ma femme, on a dit « on va se lancer ». Dans le vin, je pense que l'on a des produits extrêmement intéressants parce qu'il y a un petit peu d'acidité. Puis, il y a toujours le vin de glace, on a la température pour ça. On cueille le raisin fin décembre, début janvier.\n\nQu'est-ce qui a décidé Daniel Desmoulins à démarrer son activité?",
+        "audio": "/mp3/165/35.mp3",
+        "options": [
+            "La qualité croissante des résultats.",
+            "Les aménagements hydrauliques.",
+            "L’expérience de ses collègues.",
+            "L’importation de pieds de vigne."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 36,
+        "testId": 165,
+        "text": "— Alors un chantier de construction navale ici, pour qui ?\n\n— Pour l'export principalement. La politique sénégalaise depuis quelques années avec le changement de gouvernement favorise l'implantation d'investisseurs étrangers dans le sens où elle nous permet d'exporter et d'importer hors taxes, hors douane. Donc nos bateaux sont évidemment des bateaux de plaisance et notre clientèle est à l'étranger, donc on travaille uniquement sur de l'exportation.\n\n— Qu'est-ce que vous construisez comme bateau ?\n\n— Un catamaran de 12 mètres, dessiné par Éric Lerouge, en collaboration avec les ateliers du Cap Vert, pour un compagnon français qui partira voyager dans un an et demi, faire un tour du monde avec.\n\nDe quel type de bateau est-il question ?",
+        "audio": "/mp3/165/36.mp3",
+        "options": [
+            "De voiliers destinés à des particuliers.",
+            "De navires pour la marine marchande.",
+            "De paquebots adaptés au tourisme de masse.",
+            "De bateaux de pêche traditionnels."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 37,
+        "testId": 165,
+        "text": "Dans mon cabinet de recrutement, Internet est devenu un outil indispensable, non seulement pour repérer des candidats potentiels sur la toile, mais également pour la phase d'entretien. Grâce au logiciel de visioconférence, les cadres ne doivent plus se déplacer et parfois faire des centaines de kilomètres pour s'entendre dire après 10 minutes d'entretien qu'ils n'ont pas le profil. De plus, l'utilisation de tel logiciel offre un autre avantage considérable, il réduit les discriminations. Comme l'entretien peut être enregistré aussi bien par le candidat que par le recruteur, cela évite les questions déplacées. Enfin, les enregistrements peuvent être visionnés autant de fois qu'on le souhaite, ou encore être transmis à nos clients pour plus de transparence et de professionnalisme. Selon cette personne, qu'est-ce que l'utilisation d'Internet apporte au processus de recrutement?",
+        "audio": "/mp3/165/37.mp3",
+        "options": [
+            "Une diminution de la longueur des entretiens.",
+            "Une meilleure diffusion des offres d’emploi.",
+            "Une plus grande équité entre les candidats.",
+            "Une protection accrue des données personnelles."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 38,
+        "testId": 165,
+        "text": "Les grandes écoles accueillent plus de 36 000 étudiants étrangers, soit 17% de leurs effectifs. Ce chiffre est en progression, avec une hausse très importante en provenance de deux régions du monde. La première, c'est la zone Asie-Pacifique. La deuxième région d'origine, c'est le Maghreb. La conférence des grandes écoles fait quelques propositions pour que la France soit plus attractive. Elle propose par exemple la possibilité d'enseigner en anglais, mais là, on se heurte à la loi Toubon de défense de la langue française. Autre idée, que le niveau de français de l'étranger ne soit plus une cause d'inadmissibilité dans une école, mais que l'on exige plutôt un niveau minimum de français en fin de cursus. Que souhaitent les grandes écoles ?",
+        "audio": "/mp3/165/38.mp3",
+        "options": [
+            "Devenir plus attrayantes aux yeux des étrangers.",
+            "Diminuer le nombre d’inscrits d’origine française.",
+            "Diversifier les nationalités au sein de chaque cursus.",
+            "Intégrer de préférence des étudiants anglophones."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 39,
+        "testId": 165,
+        "text": "— La rénovation urbaine est aujourd'hui plébiscitée par les élus locaux et les habitants des banlieues, mais ce programme a aussi eu des effets pervers selon Renaud Epstein. Il est sociologue spécialiste des politiques urbaines.\n\n— La mobilisation de milliards d'euros pour changer le bâti et changer l'urbanisme, c'est fait au dépens d'autres domaines d'intervention dans ces mêmes quartiers. Parfois on a pu rebâtir des écoles, mais ça ne change pas nécessairement les moyens qui sont mis à disposition de ces écoles pour réaliser leur mission et en même pour les équipements sociaux, culturels dans ces quartiers. Est-ce que l'enjeu ne devrait pas être plutôt d'améliorer la qualité de service dans ces quartiers?\n\nQuelle réserve le sociologue Renaud Epstein émet-il ?",
+        "audio": "/mp3/165/39.mp3",
+        "options": [
+            "Les bâtiments restaurés sont en nombre insuffisant.",
+            "Les cités réaménagées sont surtout résidentielles.",
+            "Les municipalités privilégient les projets coûteux.",
+            "Les réhabilitations ont une portée limitée."
+        ],
+        "answer": 3
+    }
+]
