@@ -1,0 +1,518 @@
+[
+    {
+        "id": 1,
+        "testId": 158,
+        "text": "A. J'aimerais ouvrir ce colis. C'est un cadeau.\n\nB. Je n'arrive pas à écrire le courrier pour le directeur.\n\nC. Je voudrais envoyer cette lettre, s'il vous plaît.\n\nD. Le facteur est passé. Tu vas chercher le courrier?",
+        "audio": "/mp3/158/1.mp3",
+        "img": "/mp3/158/1.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 2,
+        "testId": 158,
+        "text": "Tu aimes visiter les musées ?\n\nA. Oui ! J'y habite depuis un mois.\n\nB. Oui ! J'y fais les courses le dimanche.\n\nC. Oui ! J'y suis né en 1992.\n\nD. Oui ! J'y vais très souvent.",
+        "audio": "/mp3/158/2.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 3,
+        "testId": 158,
+        "text": "Qu'est-ce que tu veux faire ce soir?\n\nA. À l'hôtel du parc.\n\n B. Avoir le livre.\n\n C. Un pain au chocolat.\n\n D. Aller au cinéma.",
+        "audio": "/mp3/158/3.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 4,
+        "testId": 158,
+        "text": "— Vous avez choisi ?\n\n— Non, qu'est-ce que vous me conseillez ?\n\nA. C'est au fond, à droite.\n\nB. Le poisson est très bon.\n\nC. Nous allons fermer.\n\nD. Vous pouvez réserver.",
+        "audio": "/mp3/158/4.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 5,
+        "testId": 158,
+        "text": "Combien coûte un ticket de bus?\n\nA. Deux kilomètres.\n\nB. La ligne 4.\n\nC. Trois heures.\n\nD. Un euro vingt.",
+        "audio": "/mp3/158/5.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 6,
+        "testId": 158,
+        "text": "À quelle heure as-tu rendez-vous?\n\nA. À tout de suite.\n\nB. C'est très rapide.\n\nC. Dans une demi-heure.\n\nD. Il est déjà tard.",
+        "audio": "/mp3/158/6.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 7,
+        "testId": 158,
+        "text": "Ah, des skis ! C'est un super cadeau ! Comment vous avez eu l'idée ?\n\nA. On a demandé à ton frère.\n\nB. On a fait ton gâteau préféré.\n\nC. On a invité tes amis et ta famille.\n\nD. On a réservé une salle.",
+        "audio": "/mp3/158/7.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 8,
+        "testId": 158,
+        "text": "Je vais faire les courses pour le dîner, qu'est ce que je prends?\n\nA. Des glaces pour le dessert.\n\nB. Des vêtements chauds.\n\nC. Un bouquet de fleurs.\n\nD. Un magazine d'actualités.",
+        "audio": "/mp3/158/8.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 9,
+        "testId": 158,
+        "text": "Bonjour Mademoiselle Duflo, ici, le service des inscriptions de l'université. Je viens de regarder votre dossier de candidature et il manque la photocopie de votre passeport. Merci de nous l'apporter au plus vite au bureau 308. Que doit faire Mademoiselle Duflo ?",
+        "audio": "/mp3/158/9.mp3",
+        "options": [
+            "Attendre la réponse.",
+            "Compléter son dossier.",
+            "Demander un passeport.",
+            "Envoyer son inscription."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 10,
+        "testId": 158,
+        "text": "Pour les pandas, il y a un niveau diplomatique très haut, ça veut dire que ce sont les présidents de la république qui décident de l'arrivée des pandas. En fait, parce qu'en Chine, le panda est un animal bélisé par la population et par les Chinois. C'est le trésor national chinois. Le président doit lui-même donner son accord pour que les pandas puissent sortir de Chine, parce que pour eux, c'est un animal extrêmement important. Que dit-on des pandas chinois dans ce reportage ?",
+        "audio": "/mp3/158/10.mp3",
+        "options": [
+            "Ils coûtent cher au pays.",
+            "Ils ont une santé fragile.",
+            "Ils sont difficiles à nourrir.",
+            "Ils sont protégés par l’État."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 11,
+        "testId": 158,
+        "text": "— Marie, je voudrais vous inviter à dîner jeudi prochain avec les Blanchards. Vous aimez ça, les fruits de mer ?\n\n— Moi oui, mais Vincent est allergique aux crevettes.\n\n— Ah bon ? Je fais un plat végétarien alors ?\n\n— Oui, c'est mieux. Et pour le dessert, on mange de tout.\n\n— Super ! Je fais une tarte aux pommes.\n\nQuel est le problème de Vincent ?",
+        "audio": "/mp3/158/11.mp3",
+        "options": [
+            "Il déteste les plats végétariens.",
+            "Il est absent à la date du dîner.",
+            "Il est malade avec les crevettes.",
+            "Il est stressé par les Blanchard."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 12,
+        "testId": 158,
+        "text": "— Allô, bonjour. Je vous appelle pour savoir quand je pourrais récupérer ma voiture. Une Peugeot verte. Elle est chez vous depuis une semaine.\n\n— Un instant s'il vous plaît, Madame. Je me renseigne. La pièce qui manque pour la boîte de vitesse devrait être livrée ce matin. La réparation devrait être terminée en fin d'après-midi. Pourriez-vous nous rappeler vers 17h?\n\n— Volontiers. Pourriez-vous m'indiquer à ce moment-là la somme à payer? À tout à l'heure.\n\nQue veux cette dame?",
+        "audio": "/mp3/158/12.mp3",
+        "options": [
+            "Demander une facture détaillée.",
+            "Faire repeindre son automobile.",
+            "Prendre rendez-vous au garage.",
+            "Savoir si son véhicule est prêt."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 13,
+        "testId": 158,
+        "text": "— Alors, tu as aimé ?\n\n— Bof, je n'ai pas très bien compris la fin.\n\n— Ah oui ? Mais enfin, le héros quitte secrètement la France. Et il part où ?\n\n— Je ne sais pas, en Espagne, il est espagnol.\n\n— Alors pourquoi le voit-on rentrer dans cette maison ?\n\n— Pour aller chercher un faux passeport. Tu t'es endormi pendant la séance, toi, non ?\n\nDe quoi parlent ces deux personnes ?",
+        "audio": "/mp3/158/13.mp3",
+        "options": [
+            "De l’actualité européenne.",
+            "Du dernier film qu’elles ont vu.",
+            "D’un trafic de documents.",
+            "D’un vieil ami commun."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 14,
+        "testId": 158,
+        "text": "Je m'appelle Pascale, ça fait 4 ans que je travaille dans une école maternelle. Je suis chargée d'aider les enseignants dans la classe. Alors, le plus dans le métier pour moi, c'est les relations avec les enseignants et les enfants. Ça, on a vraiment beaucoup de chance à ce niveau-là, surtout avec les enfants. Les côtés négatifs du métier... Je dirais peut-être les journées un peu longues, dans le bruit, parce que les enfants sont quand même en général bruyants. Qu'apprécie Pascale dans son métier?",
+        "audio": "/mp3/158/14.mp3",
+        "options": [
+            "La répartition des horaires.",
+            "Le contact avec les élèves.",
+            "Les activités pédagogiques.",
+            "L’organisation des leçons."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 15,
+        "testId": 158,
+        "text": "— Ce c'est prêt général retraite, le bruit est aussi une source de fatigue et de tension.\n\n— Moi le bruit m'empêche de dormir bien sûr, j'arrive à un âge où on a peut-être besoin de moins de sommeil. Mais il est évident qu'en m'endurant de vouloir pédaler, je n'arrive pas à supporter ce niveau sonore qui est permanent. Entre autres, il faut aussi ne pas oublier que même si l'intensité routière diminue en nuit, on est réveillé par des bruits un petit peu exceptionnels, une moto pétarade qui passe ou une voiture qui passe à 200 à l'heure sur le boulevard à l'œil, c'est ce qu'on constate régulièrement.\n\nQu'est-ce qui empêche cet homme de dormir?",
+        "audio": "/mp3/158/15.mp3",
+        "audioAI": "/mp3/158/ai_15.mp3",
+        "options": [
+            "Les conducteurs qui klaxonnent au feu rouge.",
+            "Les motards qui s’amusent sur le parking.",
+            "Les ouvriers qui travaillent sur l’autoroute.",
+            "Les véhicules qui circulent près de chez lui."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 16,
+        "testId": 158,
+        "text": "— Alors, comment as-tu trouvé le film?\n\n— Assez moyen. Les acteurs jouaient bien, mais je n'ai pas réussi à croire à ce scénario.\n\n— C'est mon avis aussi. J'ai eu du mal à suivre l'histoire. En revanche, j'ai apprécié la musique et la façon de filmer.\n\n— En effet, le réalisateur a du talent.\n\n— On continue cette discussion dans un café?\n\n— Avec plaisir!\n\nQu'est-ce que ces deux amis reprochent au film?",
+        "audio": "/mp3/158/16.mp3",
+        "options": [
+            "L’histoire est compliquée.",
+            "La musique est ennuyeuse.",
+            "Le réalisateur est mauvais.",
+            "Les acteurs sont inconnus."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 17,
+        "testId": 158,
+        "text": "— Service à présent, bonjour !\n\n— Bonjour madame, voilà je vous téléphone parce que mon lecteur DVD ne fonctionne pas.\n\n— Il est sous-garanti ?\n\n— J'espère bien, il est tout neuf !\n\n— Avez-vous une preuve d'achat ?\n\n— Euh, en fait c'est un cadeau.\n\n— Dans ce cas, monsieur, je ne peux malheureusement rien pour vous. Demandez la facture à la personne qui vous l'a offert.\n\nQue manque-t-il à ce client ?",
+        "audio": "/mp3/158/17.mp3",
+        "options": [
+            "Le bon de garantie.",
+            "Le chèque cadeau.",
+            "Le justificatif d’achat.",
+            "Le mode d’emploi."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 18,
+        "testId": 158,
+        "text": "10h30 à Gaspé, merci d'être fidèle à Radio du Monde! On commence par les titres de l'actualité de ce jeudi. Comme hier, le premier titre c'est le tremblement de terre en Indie. La communauté internationale se mobilise pour aider la population. Le reportage de le tremblement de terre spécial dans un instant. À Ottawa, les premiers ministres des provinces évoqueront justement les conséquences du réchauffement climatique. Enfin, samedi soir, auront lieu des concerts géants, simultanément dans cinq grandes villes du monde, afin de récolter des fonds pour lutter contre le cancer. Quel sera le premier sujet développé au cours de ce journal d'information radiophonique?",
+        "audio": "/mp3/158/18.mp3",
+        "options": [
+            "L’état de la recherche mondiale sur le cancer.",
+            "Une rencontre des ministres européens de l’écologie.",
+            "La lutte contre le réchauffement climatique en Asie.",
+            "Un reportage sur les lieux d’un tremblement de terre."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 19,
+        "testId": 158,
+        "text": "Salut Laurent, c'est Martin. Dis, il y a un gymnase qui vient d'ouvrir à côté de chez moi. Il y a plusieurs salles. En ce moment, on peut y essayer tous les sports et c'est gratuit. Ça te dirait de venir faire une partie de basketball avec les copains demain soir ? Réponds-moi vite pour que j'appelle le club pour réserver le terrain. À plus tard ! Que propose Martin à Laurent ?",
+        "audio": "/mp3/158/19.mp3",
+        "options": [
+            "D’assister à une rencontre sportive.",
+            "De fêter leur victoire entre copains.",
+            "De jouer au basket-ball sans payer.",
+            "De s’inscrire dans un nouveau club."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 20,
+        "testId": 158,
+        "text": "— Rémi, vous avez deux activités, ce n'est pas trop difficile?\n\n— Non, ça va. Les 35 heures, ce n'est pas pour moi.\n\n— Alors, vous êtes cuisinier le jour et vous travaillez dans une discothèque la nuit. Vous arrivez à tout faire sans problème?\n\n— Oui, mais je dois préciser que pour me sentir bien, 4 heures de sommeil me suffisent et je fais du sport dès que je peux.\n\nQu'apprend-on sur Rémi ?",
+        "audio": "/mp3/158/20.mp3",
+        "options": [
+            "Il a besoin de beaucoup de sommeil.",
+            "Il déteste tous les types de sport.",
+            "Il travaille pour plusieurs entreprises.",
+            "Il va souvent danser en discothèque."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 21,
+        "testId": 158,
+        "text": "— C'est-à-dire qu'Ormiole, justement, lui qu'on maîtrise, nous élever les deux types d'insectes. Qu'est-ce que vous pensez de ces chefs qui, justement, se mettent à produire ces insectes dans leurs menus ?\n\n— Alors, dis au moins, je recherche que c'est très intéressant que voila les chefs commencent à réfléchir à comment pouvoir incorporer des insectes dans l'alimentation des Européens. Et selon ma conviction, c'est que voila les insectes domestiques ont tellement du sens pour entrer dans l'alimentation des Européens, et qu'on ne va pas pouvoir les consommer comme on les consomme de par ailleurs en Asie, en Afrique, en Amérique du Sud. Donc, il faut vraiment développer des plats créatifs, des chefs, qui vont être capables d'adapter les insectes à la cuisine européenne.\n\nQue recommande Cédric Ormiole pour développer la consommation d'insectes en Europe ?",
+        "audio": "/mp3/158/21.mp3",
+        "audioAI": "/mp3/158/ai_21.mp3",
+        "options": [
+            "Des déclarations rassurantes des autorités sanitaires.",
+            "Des études de spécialistes sur leur apport nutritionnel.",
+            "L’implication des professionnels de la gastronomie.",
+            "Une mise en valeur par les producteurs eux-mêmes."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 22,
+        "testId": 158,
+        "text": "— Allô, Jenny ? C'est Joanne ! Merci pour ta carte. Alors tes vacances en célibataire? T'es parti tout seul faire du golf, c'est ça ?\n\n— Oui, j'avais envie de connaître le golf. C'était super. Pas facile, mais super!\n\n— Non! Ah bon ? Mais t'es pas vraiment sportif, toi! Le golf ! Quand j'ai vu ta carte, j'en revenais pas.\n\n— Non, mais j'ai bien l'intention de recommencer. Pas toute l'année, hein. Un stage d'été, c'est suffisant.\n\n— Eh ben, à ce rythme, tu vas pas être bon très très vite, hein ?\n\n— Qu'est-ce que tu crois ? Je suis pas si mauvais.\n\nQu'est-ce qui fait rire la femme ?",
+        "audio": "/mp3/158/22.mp3",
+        "audioAI": "/mp3/158/ai_22.mp3",
+        "options": [
+            "Que l’homme soit parti seul en vacances.",
+            "Que l’homme ait progressé au golf.",
+            "Que l’homme lui ait envoyé une carte.",
+            "Que l’homme se soit mis à faire du sport."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 23,
+        "testId": 158,
+        "text": "— Sylvie, qu'est-ce qui vous plaît plus particulièrement dans votre travail ?\n\n— En tant que responsable multimédia, je suis également conceptrice de formation en ligne, formatrice de formateur et enseignante de français langue étrangère. C'est ce dernier point qui m'attire. Un de mes centres d'intérêt en français langue étrangère concerne le développement d'une politique linguistique en faveur du français comme langue de communication, et pas seulement comme symbole d'une certaine culture et du pays des droits de l'homme ou comme langue de l'amour. J'essaie de montrer que l'apprentissage des langues est une passerelle entre les peuples et les cultures.\n\nQuel objectif Sylvie poursuit-elle en enseignant le français langue étrangère ?",
+        "audio": "/mp3/158/23.mp3",
+        "options": [
+            "La diffusion d’une langue qui exprime les nuances des sentiments.",
+            "La multiplication des actions pour la défense des droits de l’homme.",
+            "La promotion d’un moyen d’échanges entre les différentes nationalités.",
+            "La reconnaissance d’un patrimoine culturel unique par sa richesse."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 24,
+        "testId": 158,
+        "text": "— La question du jour, Valérie Cantier, pourquoi l'établissement français du sang en appelle-t-il aux étudiants ?\n\n— Les jeunes donnent plus facilement leur sang, il faut le savoir, ils voient ça comme un premier acte de citoyenneté, un acte solidaire, disent-ils, un geste utile, c'est ce qui ressort des sondages. Un donneur sur cinq a entre 18 et 24 ans en France, mais souvent ils déclarent ne pas donner parce qu'ils ne sont pas sollicités, pas assez en tout cas, ou bien parce qu'ils ne savent pas où aller. Du coup, la semaine prochaine, l'établissement français du sang lance une campagne pour mobiliser les étudiants, le slogan « on est plus qu'amis, on est donneurs de sang ».\n\nQuelle est l'attitude des jeunes face aux dons du sang ?",
+        "audio": "/mp3/158/24.mp3",
+        "options": [
+            "Ils déplorent un manque d’information.",
+            "Ils refusent de participer à la collecte.",
+            "Ils s’inquiètent de la sécurité sanitaire.",
+            "Ils souhaitent rencontrer des soignants."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 25,
+        "testId": 158,
+        "text": "Vous savez sans doute ce que signifie le mot poète. Le mot poète est rentré en décadence assez rapidement et il a désigné une sorte de rêveur qui parle d'une certaine manière avec le cœur, dit-on, ou l'imagination, je ne sais quoi. Non, non, non, non, je ne dois pas dire ça. Je dois dire créateur. C'est-à-dire fabricateur. C'est-à-dire fabricateur de langue. Et il a fallu dire le fabricateur de langue, je prends l'exemple que j'ai pris tout à l'heure de Standaï qui a créé le mot « tourisme » par exemple, ou d'autres écrivains qui ont créé d'autres mots. Selon l'intervenant, qu'est-ce qu'un poète?",
+        "audio": "/mp3/158/25.mp3",
+        "audioAI": "/mp3/158/ai_25.mp3",
+        "options": [
+            "Quelqu’un qui invente de nouveaux termes.",
+            "Quelqu’un qui utilise un langage complexe.",
+            "Quelqu’un qui joue avec les sonorités.",
+            "Quelqu’un qui idéalise le monde."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 26,
+        "testId": 158,
+        "text": "— Eh monsieur, vous voyez bien qu'il y a une barrière? Vous pouvez pas aller voir ces tableaux-là. En plus, il y a une alarme qui peut se mettre à sonner.\n\n— Euh, oui, mais je voulais rien voler, hein. Excusez-moi. Habituellement, on peut visiter cette salle. Vous êtes en train de la refaire?\n\n— Non, non, mais aujourd'hui, nous ne sommes pas assez nombreux pour ouvrir toutes les salles. Bienvenue, Philippe Girif.\n\n— Ah, très bien, je comprends mieux. Ben, au moins, il n'y aura pas besoin d'y faire le ménage aujourd'hui.\n\nPourquoi le visiteur ne peut-il pas accéder à cette salle du musée?",
+        "audio": "/mp3/158/26.mp3",
+        "options": [
+            "Parce que la salle est en travaux aujourd’hui.",
+            "Parce qu’un vol a eu lieu dans cette salle.",
+            "Parce que le personnel procède au nettoyage.",
+            "Parce qu’il manque du personnel aujourd’hui."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 27,
+        "testId": 158,
+       "text": "— Quel rapport aviez-vous avec votre père ?\n\n— Je ne lui parlais plus de mes études. Il avait toujours la peur ou peut-être le désir que je n'y arrive pas. Il s'énervait de me voir à longueur de journée dans les livres. Je crois qu'il pensait que j'étais malheureuse.\n\n— Comment se comportait-il avec vous face au monde extérieur ?\n\n— Devant la famille, les clients, de la gêne, presque de la honte que je ne gagne pas encore ma vie à 17 ans. Il craignait qu'on ne me prenne pour une paresseuse et lui pour un crâneur. Il disait que j'apprenais bien, jamais que je travaillais bien.\n\n— Quelle était pour lui la définition du mot « travail » ?\n\n— « Travailler », c'était seulement travailler de ses mains.\n\nQuelle relation le père entretenait-il avec sa fille ?",
+        "audio": "/mp3/158/27.mp3",
+        "options": [
+            "Il avait du mal à accepter ses choix.",
+            "Il essayait souvent de rivaliser avec elle.",
+            "Il était attentif à ses centres d'intérêt.",
+            "Il lui interdisait les activités intellectuelles."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 28,
+        "testId": 158,
+        "text": "— Les entreprises québécoises ont fait beaucoup pour l'intégration des immigrés, mais elles doivent faire davantage.\n\n— Je pense qu'on peut toujours faire mieux, mais on a encore besoin d'être sensibilisés, d'être ouverts. Donc je pense que c'est un défi de tous les jours. Si on ne le fait pas, on y perd parce qu'il y a tellement de gains en immigration. On a qu'à parler de s'ouvrir vers d'autres cultures, on y gagne. On apprend sur l'un autre. On apprend sur les autres. Et pour le milieu du travail également, toute la richesse, la diversité que d'autres cultures peuvent nous apporter. Quand on parle d'un contexte de globalisation, on travaille à l'échelle de la planète. Il faut avoir un regard beaucoup plus large.\n\nSelon la personne interrogée, pour quelles raisons les entreprises québécoises doivent-elles continuer leurs efforts pour l'intégration des immigrés?",
+        "audio": "/mp3/158/28.mp3",
+        "options": [
+            "Parce qu’elles ont beaucoup à apprendre d’eux.",
+            "Parce qu’elles s’implanteront mieux ensuite à l’étranger.",
+            "Parce qu’elles sont en manque de main-d’œuvre.",
+            "Parce qu’elles y sont contraintes par la mondialisation."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 29,
+        "testId": 158,
+        "text": "Après deux années de recherche, nous allons lancer le dernier modèle de notre gamme et votre rôle va être essentiel. Le marché sur lequel votre équipe va intervenir est en pleine croissance. C'est pourquoi nous avons besoin de personnes prêtes à prendre leurs fonctions rapidement. Nous allons maintenant examiner les étapes que vous devrez suivre pour être les meilleurs pendant la période de vente. Que fait cette intervenante?",
+        "audio": "/mp3/158/29.mp3",
+        "options": [
+            "Elle annonce la fin prochaine d’un projet.",
+            "Elle félicite des collègues pour un travail.",
+            "Elle prépare une opération commerciale.",
+            "Elle présente une nouveauté à des clients."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 30,
+        "testId": 158,
+        "text": "— Bonjour docteur, je voudrais faire de l'escalade et j'ai besoin de votre autorisation pour m'inscrire dans un club de sport.\n\n— De l'escalade, mais c'est très mauvais pour votre dos. Je vous conseille plutôt de faire de la natation.\n\n— La natation, ce n'est pas bon pour ma peau.\n\n— Et puis j'adore la montagne.\n\n— Eh bien, faites plutôt de la randonnée. Ah oui, la randonnée, c'est une idée. Ça peut m'aider à maigrir.\n\nQue doit faire le médecin ?",
+        "audio": "/mp3/158/30.mp3",
+        "options": [
+            "Conseiller des médicaments.",
+            "Établir un certificat médical.",
+            "Examiner une radiographie.",
+            "Traiter un problème de poids."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 31,
+        "testId": 158,
+        "text": "Apprendre à gérer son argent n’est pas une priorité éducative alors que l’argent nous accompagne toute notre vie. Construire un budget ça s’apprend, mais trop souvent le sujet est considéré tabou par les adultes. Donc pas question d’en parler avec les enfants. Dans la sphère de l’école, aucune séance de travail n’est dédiée à cette question. Pourtant, chacun est concerné dans sa vie professionnelle et personnelle par les principales notions que sont les coûts, les crédits, les prêts, les taux d’intérêt, l’endettement, l’économie à l’échelle de l’individu. Voilà un domaine qui touche chaque Français sans que jamais celui-ci y soit vraiment initié. Que dénonce cette journaliste?",
+        "audio": "/mp3/158/31.mp3",
+        "options": [
+            "L'absence de formation sur l'élaboration d'un budget.",
+            "Le désintérêt des jeunes pour les questions financières.",
+            "Le manque de cours d'économie à l'université.",
+            "Le peu d'informations des banques sur les crédits."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 32,
+        "testId": 158,
+        "text": "— Vous dénoncez un peu ces mères de famille au foyer qui ne vivent que par et pour leurs enfants. Diriez-vous que ce sont des poids morts économiques entre guillemets pour la société ou qu'elles contribuent à leur façon à l'économie du pays?\n\n— Je me moque des femmes obnubilées par leurs enfants au point de penser qu'ils sont le centre du monde et au point de faire l'impasse sur leur propre désir. Cela dit, les femmes au foyer ne sont pas des poids morts. Au contraire, tout le système ne tient que par le travail invisible, donc non rémunéré, de personnes, souvent des femmes, qui s'occupent des enfants, des vieux, des malades, etc.\n\nQuelle est la conclusion de cette intervenante sur les femmes au foyer?",
+        "audio": "/mp3/158/32.mp3",
+        "options": [
+            "Elles garantissent l’épanouissement des enfants.",
+            "Elles permettent à la société de fonctionner.",
+            "Elles profitent du système qui les soutient.",
+            "Elles représentent une charge pour leur famille."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 33,
+        "testId": 158,
+        "text": "Prenez vos potes, cartes, boussoles, je vous emmène à la chasse aux trésors, à la recherche de la chouette d'or, une sculpture qui vaut aujourd'hui 150 000 euros. Les inventeurs de ce jeu diabolique ont concocté pleins d'énigmes bien difficiles du genre. Le bon sens, c'est le sens du contresens et inversement, suivi d'une série de chiffres et d'un dessin. Ils pensaient que l'énigme allait être résolue dans un délai de 8 à 14 mois. Et 15 ans plus tard, malgré l'engouement suscité par le jeu, la Chouette d'Or n'a toujours pas été retrouvée. Enfin, du moins, ça n'a pris qu'en cuite. L'original dort en effet dans le coffre d'une banque. D'après ce journaliste, quel aspect du jeu les créateurs de la Chouette d'Or ont-ils mal évalué?",
+        "audio": "/mp3/158/33.mp3",
+        "audioAI": "/mp3/158/ai_33.mp3",
+        "options": [
+            "La lassitude du public pour ce genre de quête.",
+            "Le manque d’attractivité de la récompense.",
+            "Le temps nécessaire pour découvrir la cachette.",
+            "Les distances à parcourir pour trouver des indices."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 34,
+        "testId": 158,
+        "text": "Cette association, qui se définit elle-même comme militante, s'est fixée comme objectif de favoriser l'éducation et l'insertion par le biais du sport, en particulier dans le quartier difficile. Elle défend l'idée que le sport est social et citoyen et qu'il peut s'inscrire dans un projet collectif d'éducation et d'insertion sociale et professionnelle. L'idée est généreuse, mais elle ne va pas forcément de soi. Dans une étude menée avec le soutien du CIV, le Comité ministériel pour la ville, un groupe de chercheurs a mis en évidence le peu d'implication des clubs sportifs dans les réalités sociales des quartiers où ils sont pourtant implantés. Seules une minorité de ces clubs, souvent dirigés par des passionnés combatifs, cherchent à utiliser le sport comme un outil d'apprentissage de compétences sociales et professionnelles. Que reproche le comité ministériel pour la ville au club sportif?",
+        "audio": "/mp3/158/34.mp3",
+        "audioAI": "/mp3/158/ai_34.mp3",
+        "options": [
+            "Leur habitude de privilégier les sports de combat au détriment des autres.",
+            "Leur manque d’investissement dans des actions à caractère social.",
+            "Leur nombre restreint dans les zones urbaines réputées difficiles.",
+            "Leur réticence à travailler en collaboration avec le système éducatif."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 35,
+        "testId": 158,
+        "text": "— Est-ce qu'il est irréformable ce bac camus ?\n\n— On y arrivera bien un jour à le réformer. C'est obligatoire de toute façon, ce qu'on voit bien. C'est un examen qui coûte cher, ça tout le monde le sait, qui a beaucoup d'inconvénients. En plus, il n'apporte plus aujourd'hui les garanties de sélection. Parce qu'au fond, c'est ça le bac. Si il y a un examen, c'est bien pour sélectionner ceux qui l'ont, de ceux qui ne sont pas jugés capables par l'éducation nationale de sortir de ce système et d'aller vers l'enseignement supérieur. Donc à partir du moment où il n'y a plus cette garantie-là, il faut le faire évoluer.\n\nPourquoi le baccalauréat devrait être réformé selon celui qui s'exprime ?",
+        "audio": "/mp3/158/35.mp3",
+        "options": [
+            "L’intérêt principal de sa mise en place a disparu.",
+            "Le ministère manque de moyens pour l’organiser.",
+            "Le taux de réussite des candidats est en baisse.",
+            "Le nombre de fraudes constatées augmente."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 36,
+        "testId": 158,
+        "text": "— Nous avons interrogé les Français bien sûr et les médecins afin de voir leur regard sur la santé collective.\n\n— Et s'il ne fallait leur dire qu'un résultat qui nous a paru surprenant éventuellement, ce serait lequel?\n\n— Nous avons des médecins qui considèrent que pour que la médecine soit efficace, il faut que le patient intervienne le plus possible dans ses soins et pas qu'ils considèrent le médecin comme le sachant et l'unique des côtés positifs de sa voie, alors que les Français nous disent que c'est aux médecins qui se déroule.\n\nQue révèle l'enquête sur le comportement des patients français?",
+        "audio": "/mp3/158/36.mp3",
+        "audioAI": "/mp3/158/ai_36.mp3",
+        "options": [
+            "Ils attendent la dernière minute avant de consulter.",
+            "Ils consomment de plus en plus de médicaments.",
+            "Ils pratiquent majoritairement l’automédication.",
+            "Ils s’en remettent trop à l’autorité du praticien."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 37,
+        "testId": 158,
+        "text": "La qualité, vous savez, la qualité, surtout la très grande qualité, tout ça, ça a un prix. Si on veut trouver une place sur le marché, il faut donc, c'est tout un exercice, arriver à produire des aliments à des coûts qui sont quand même abordables. Et c'est l'exercice qui occupe en ce moment Sophie Barry de Carol&E. C'est une petite fabrique de pâtes et de sauces qui est installée à Sabrevois, à Montérégie. Que cherche à faire cette entreprise?",
+        "audio": "/mp3/158/37.mp3",
+        "options": [
+            "Améliorer la présentation des produits.",
+            "Augmenter le nombre de clients.",
+            "Multiplier les points de vente.",
+            "Maintenir des tarifs compétitifs."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 38,
+        "testId": 158,
+        "text": " Bien sûr, ce ne sont pas les médicaments génériques qui font directement progresser la santé, puisqu'ils ont la même efficacité thérapeutique que les médicaments de référence et ils sont fabriqués avec les mêmes molécules. Ceci dit, comme ils coûtent 30% moins cher que les médicaments de référence qui, eux, sont brevetés, ils font peur des économies à la collectivité, et les économies ainsi réalisées permettent à la collectivité de prendre en charge le remboursement des nouveaux médicaments qui sont innovants, donc chers. Les médicaments génériques ont ainsi une vocation de santé publique. Ils permettent en quelque sorte de constituer une réserve de fonds donnant accès à tous et sans restriction aux traitements innovants de demain. Qu'est-ce qui fait progresser la santé publique selon la chronique médicale de ce journaliste?",
+        "audio": "/mp3/158/38.mp3",
+        "audioAI": "/mp3/158/ai_38.mp3",
+        "options": [
+            "Les médicaments de référence parce qu’ils sont plus efficaces que les génériques.",
+            "Les génériques parce qu’ils compensent le coût élevé des nouveaux médicaments.",
+            "Les médicaments de référence parce qu’ils financent les nouveaux médicaments.",
+            "Les génériques parce qu’ils sont plus innovants que les médicaments de référence."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 39,
+        "testId": 158,
+        "text": "On voit vraiment que les pratiques culturelles sont clivées et que malheureusement aujourd'hui même au niveau de la jeunesse qui pourrait être fédérée par, par le phénomène générationnel, les pratiques culturelles sont très très séparées. On... Je regrette qu'il n'y ait pas plus de lieux qui permettent aux jeunes de se retrouver sur des terrains festifs. Ça c'est vrai que ce sont, ce sont des moments de se retrouver, de vivre ensemble et sans être dans une posture justement d'affrontement. Et ça, ça manque effectivement il y a les salles de cinéma, même dans les salles de cinéma même dans les multiplexes, on voit que selon les films les publics ne sont pas les mêmes et que effectivement, cela permet à des gens de se retrouver mais ce sont des gens souvent qui ont des pratiques séparées. Quel jugement cette personne porte-t-elle sur les lieux culturels?",
+        "audio": "/mp3/158/39.mp3",
+        "options": [
+            "Elle déplore le manque de structures pour accueillir et réunir les jeunes.",
+            "Elle désapprouve la disparition d'endroits consacrés aux pratiques culturelles.",
+            "Elle estime insuffisantes les tentatives des cinémas de mélanger les publics.",
+            "Elle regrette le désintérêt des publics pour les espaces et les échanges culturels."
+        ],
+        "answer": 0
+    }
+]
