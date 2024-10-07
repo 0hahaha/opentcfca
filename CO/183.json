@@ -1,0 +1,509 @@
+[
+    {
+        "id": 1,
+        "testId": 183,
+        "text": "Oh là là ! Cette valise est lourde et le train va partir. Est-ce que tu peux m'aider ?\n\nA. Oui, à 16h.\n\nB. Oui, bien sûr.\n\nC. Oui, il arrive.\n\nD. Oui, j'ai mal.",
+        "audio": "/mp3/183/1.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 2,
+        "testId": 183,
+        "text": "Bonjour, je voudrais un rendez-vous avec le docteur Savin, s'il vous plaît.\n\nA. Oui, à dix heures aujourd'hui ?\n\nB. Oui, c'est à quelle adresse ?\n\nC. Oui, pour combien de personnes ?\n\nD. Oui, qu'est-ce que vous cherchez ?",
+        "audio": "/mp3/183/2.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 3,
+        "testId": 183,
+        "text": "Nous organisons une petite fête pour l'anniversaire de Clémence, samedi soir. Tu peux venir ?\n\nA.  Oui, avec plaisir, je serai là.\n\nB. Oui, ce matin, je serai disponible.\n\nC. Oui, je serai absent aujourd'hui.\n\nD. Oui, je serai libre mardi midi.",
+        "audio": "/mp3/183/3.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 4,
+        "testId": 183,
+        "text": "Enchanté, mademoiselle Feng Li et bienvenue à la conférence Asie-Europe. D'où venez-vous ?\n\nA. Je viens de Chine.\n\nB. Je m'appelle Feng Li.\n\nC. J'aime beaucoup la France.\n\nD. Je vous remercie beaucoup.",
+        "audio": "/mp3/183/4.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 5,
+        "testId": 183,
+        "text": "Qu'est-ce que tu fais dans la vie ?\n\nA. J'aime le sport.\n\nB. Je suis célibataire.\n\nC. Je vis au Maroc.\n\nD. J'étudie l'anglais.",
+        "audio": "/mp3/183/5.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 6,
+        "testId": 183,
+        "text": "Et un jus d'orange! Un! Et pour vous, monsieur, qu'est-ce que ce sera?\n\nA. Oui, attendez. J'ai la monnaie, je crois.\n\nB. Laisse, c'est moi qui t'invite aujourd'hui.\n\nC. Un grand verre de lait, s'il vous plaît.\n\nD. Il fait trop chaud pour boire ça.",
+        "audio": "/mp3/183/6.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 7,
+        "testId": 183,
+        "text": "Pardon madame, vous pouvez m'aider ? Je cherche les vêtements de sport.\n\nA. C'est au 2e étage.\n\nB. Ils existent dans ces deux couleurs.\n\nC. Les soldes commencent demain.\n\nD. Vous pouvez payer par chèque.",
+        "audio": "/mp3/183/7.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 8,
+        "testId": 183,
+        "text": "Comment on va au spectacle du Cirque du Soleil demain soir?\n\nA. Ça va commencer tard.\n\nB. C'est un bel endroit.\n\nC. Je t'emmène en voiture?\n\nD. Jenny vient avec nous.",
+        "audio": "/mp3/183/8.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 9,
+        "testId": 183,
+        "text": "Allô, bonjour, est-ce que je peux parler à Céline, s'il vous plaît ?\n\nA. C'est de la part de qui ?\n\nB. Elle a un numéro de téléphone ?\n\nC. Je suis bien au 01 42 35 80 96 ?\n\nD. Vous voulez laisser un message ?",
+        "audio": "/mp3/183/9.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 10,
+        "testId": 183,
+        "text": "Chéri, demain soir je vais chez le médecin à 18h30, tu peux passer au collège chercher Salba ?\n\nA. Oui, c'est juste.\n\nB. Oui, elle va sortir.\n\nC. Oui, j'y serai.\n\nD. Oui, tu as raison.",
+        "audio": "/mp3/183/10.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 11,
+        "testId": 183,
+        "text": "— Tu voudrais aller à l'exposition Matisse au musée d'Orsay demain soir ?\n\n— Quelle bonne idée, mais après le travail je voulais aller en ville pour faire des courses.\n\n— Tu ne peux pas aller faire jeudi ?\n\n— Mais si ! Alors d'accord pour l'exposition, et après on dînera chez moi.\n\nQue vont faire ses amis le mercredi soir ?",
+        "audio": "/mp3/183/11.mp3",
+        "options": [
+            "Diner au restaurant.",
+            "Faire des courses.",
+            "Travailler tard.",
+            "Voir une exposition."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 12,
+        "testId": 183,
+        "text": "— Sophie, je ne trouve pas le dossier Sanovi.\n\n— Je l'ai posé sur votre bureau.\n\n— Où sur mon bureau?\n\n— Près de l'écran de votre ordinateur, sur la pile de papiers.\n\n— Ah zut, j'ai jeté tous les papiers qui traînaient.\n\n— Attendez, je vais regarder. Tenez, il n'est pas perdu. La femme de ménage n'est pas encore passée.\n\nOù Sophie trouve-t-elle le dossier Sanovi?",
+        "audio": "/mp3/183/12.mp3",
+        "options": [
+            "Dans la poubelle.",
+            "Aux archives.",
+            "Dans le tiroir.",
+            "Sur le bureau."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 13,
+        "testId": 183,
+        "text": "Soyez les bienvenus dans notre bus à destination de Paris-Bercy. Nous ferons une pause à midi pour vous permettre de vous restaurer. Je vous rappelle que vous pouvez connecter vos appareils sur notre réseau tout au long du trajet. Un agent passera parmi vous pour vérifier vos billets et votre numéro de siège. Je vous invite à l'informer si vous voulez en changer et à lui poser vos questions. Merci d'avoir choisi notre compagnie et bon voyage! Quelle est la particularité de ce bus?",
+        "audio": "/mp3/183/13.mp3",
+        "options": [
+            "Il y a un service internet.",
+            "Le placement est libre.",
+            "On y propose des repas.",
+            "Son personnel est bilingue."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 14,
+        "testId": 183,
+        "text": "— Votre association, Génération Médiateur, réunit en cette fin de semaine près de 150 jeunes médiateurs à la Grande Arche de la Défense. Ils sont collégiens, lycéens ou étudiants, mais qu'est-ce qu'un médiateur ? À quoi sert-il dans un collège-lycée ?\n\n— C'est un jeune qui a suivi une formation particulière. Il est ensuite au service de ses camarades dans son établissement. Il peut intervenir si ses camarades le lui demandent, ou bien il propose lui-même son aide quand il y a des copains qui sont en conflit, qui connaissent une rivalité. Souvent, le médiateur va pouvoir intervenir avant que le conflit ne se mette à dégénérer et à se transformer en violence.\n\nQuel est le sujet de cette interview ?",
+        "audio": "/mp3/183/14.mp3",
+        "options": [
+            "La création d’un réseau de médiateurs.",
+            "Le financement nécessaire aux médiateurs.",
+            "Le partage d’expériences entre médiateurs.",
+            "Le rôle des médiateurs en milieu scolaire."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 15,
+        "testId": 183,
+        "text": "— Alors, voici le 2-pièces. Il fait 1000 pieds carrés. Il y a une petite entrée. Et voici le salon. Très clair, grasse, beaux, grandes fenêtres qui donnent sur les plaines d'Abraham.\n\n— Quel espace!\n\n— En effet, mais dans quel état? Il n'a pas l'air récent.\n\n— Vous avez raison. Il date des années 70. Il y a quelques rénovations après moi. C'est d'ailleurs pour cette raison que son prix est si bas.\n\nQuel est le défaut de l'appartement?",
+        "audio": "/mp3/183/15.mp3",
+        "options": [
+            "Il a besoin de travaux.",
+            "Il est mal situé.",
+            "Il est trop cher.",
+            "Il manque de lumière."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 16,
+        "testId": 183,
+        "text": "— Allô ?\n\n— Bonsoir, Monsieur Le Querrec. C'est Mme George. J'appelle pour que l'on s'organise pour notre séjour chez vous.\n\n— Bonsoir, madame. Oui, alors nous serons déjà partis quand vous arriverez, donc on ne se verra pas. Mais les clés seront chez la voisine du deuxième étage. Je vous ai préparé des draps et serviettes, et un petit repas froid vous attendra au frigo. Nous vous avons aussi laissé une liste d'activités à faire ici, et des adresses pour sortir dîner.\n\n— Merci beaucoup. C'est très clair.\n\n— De rien. Bon séjour.\n\nQui est Monsieur Le Querrec ?",
+        "audio": "/mp3/183/16.mp3",
+        "options": [
+            "Un employé d'agence de voyage.",
+            "Un patron de restaurant.",
+            "Un propriétaire d’appartement.",
+            "Un réceptionniste d’hôtel."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 17,
+        "testId": 183,
+        "text": "Tom, c'est Sarah. Je viens d'avoir ton SMS mais je ne peux pas te répondre, je suis en réunion en ce moment. Pour ce soir, pas de problème, je te rejoins au cinéma à 20h et j'achète le popcorn. Qu'annonce Sarah à Tom ?",
+        "audio": "/mp3/183/17.mp3",
+        "options": [
+            "Elle a mal compris son message.",
+            "Elle accepte son invitation.",
+            "Elle achètera les billets à l’avance.",
+            "Elle est déjà occupée ce soir."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 18,
+        "testId": 183,
+        "text": "— Est-ce que tu achètes des vêtements sur Internet?\n\n— Oui, souvent. Les prix sont vraiment intéressants.\n\n— Moi, j'ai eu une mauvaise expérience l'autre jour. J'ai commandé un pantalon, mais ils ont fait une erreur. Et ils m'ont envoyé un modèle complètement différent. J'ai réussi à le rendre, mais c'était compliqué. Finalement, je préfère les boutiques. Au moins, on sait ce qu'on achète.\n\n— Tu n'as pas eu de chance.\n\nQu'est-ce qui déplaît à la jeune femme dans les achats en ligne?",
+        "audio": "/mp3/183/18.mp3",
+        "options": [
+            "Le prix élevé des produits.",
+            "Les délais pour être livrée.",
+            "Les difficultés en cas d’échange.",
+            "Les tailles de vêtements différentes."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 19,
+        "testId": 183,
+        "text": "— Rémi, vous avez deux activités, ce n'est pas trop difficile?\n\n— Non, ça va. Les 35 heures, ce n'est pas pour moi.\n\n— Alors, vous êtes cuisinier le jour et vous travaillez dans une discothèque la nuit. Vous arrivez à tout faire sans problème?\n\n— Oui, mais je dois préciser que pour me sentir bien, 4 heures de sommeil me suffisent et je fais du sport dès que je peux.\n\nQu'apprend-on sur Rémi ?",
+        "audio": "/mp3/183/19.mp3",
+        "options": [
+            "Il a besoin de beaucoup de sommeil.",
+            "Il déteste tous les types de sport.",
+            "Il travaille pour plusieurs entreprises.",
+            "Il va souvent danser en discothèque."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 20,
+        "testId": 183,
+        "text": "— Et salut Maël! Alors, tu vas au théâtre avec tes parents ce soir?\n\n— Non, finalement nous allons dîner en ville.\n\n— Ah bon? Pourquoi? Ils ont changé d'avis, la pièce finit trop tard. Je leur ai proposé le cinéma mais c'est trop loin.\n\nQu'est-ce que Maël va faire ce soir?",
+        "audio": "/mp3/183/20.mp3",
+        "options": [
+            "Manger au restaurant.",
+            "Regarder un film.",
+            "Rester à la maison.",
+            "Voir un spectacle."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 21,
+        "testId": 183,
+        "text": "— Alors Frédéric, ce voyage en Inde?\n\n— Très intéressant, mais c'était dur. J'ai traversé des paysages magnifiques et des régions très pittoresques, mais par 40 degrés à l'ombre, je ne recommencerai pas. Et puis, ce n'est pas vraiment prévu pour un voyage à vélo. Beaucoup de circulation sur les routes et pratiquement pas de voies cyclables. Par contre, l'accueil des gens a été partout très chaleureux, même s'ils avaient du mal à comprendre pourquoi je voulais traverser leur pays à vélo, et seul en plus.\n\nQu'est-ce que Frédéric a trouvé difficile pendant son voyage?",
+        "audio": "/mp3/183/21.mp3",
+        "options": [
+            "Le comportement des habitants.",
+            "Le sentiment de solitude.",
+            "Les conditions météorologiques.",
+            "Les obstacles linguistiques."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 22,
+        "testId": 183,
+        "text": "— Monsieur Morales, vous êtes donc secrétaire de la Fédération Syndicale des Travailleurs de l'Alimentation, de l'Agro-Industrie et Industries Similaires. Comment jugez-vous les rapports entre votre organisation syndicale et les patrons ?\n\n— Dans le cadre des discussions avec les partenaires sociaux, l'organisation patronale nous a récemment proposé, à titre expérimental, un système de résolution alternative des conflits. Ce système prévoit la formation, par le patronat, de médiateurs soi-disant indépendants et permettrait, je cite leur représentante, « d'intervenir en amont des conflits sociaux pour éviter le recours lent et coûteux aux inspections du travail et aux tribunaux ». Quelle belle initiative ! Mais une question me taraude. Comment peut-on prétendre être à la fois juge et parti ?\n\nComment cet individu reçoit-il la proposition patronale ?",
+        "audio": "/mp3/183/22.mp3",
+        "options": [
+            "Il est ironique.",
+            "Il est favorable.",
+            "Il est plein d’espoir.",
+            "Il est méprisant."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 23,
+        "testId": 183,
+        "text": "Et donc les compositeurs ont un autre métier, c'est-à-dire qu'ils sont chef d'orchestre ou ils sont directeurs de conservatoire ou ils sont enseignants, chercheurs, directeurs artistiques parfois parce que leur métier de compositeur ne leur permet pas de pouvoir avoir suffisamment de rémunération pour vivre correctement. Je pense qu'il doit y avoir à peu près que 2 ou 3 % de compositeurs aujourd'hui qui vivent réellement de leur musique, c'est vraiment très très peu. Quelle difficulté les créateurs de musique rencontrent-ils?",
+        "audio": "/mp3/183/23.mp3",
+        "options": [
+            "Leur public est en diminution.",
+            "Leur salaire est insuffisant.",
+            "Leur savoir est peu transmis.",
+            "Leur talent est dévalorisé."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 24,
+        "testId": 183,
+        "text": "— Charlotte, tu as trouvé une place pour te garer ?\n\n— Oui, mais j'ai mis au moins un quart d'heure, entre les emplacements réservés et les arrêts minutes.\n\n— Et tu t'es garé où ?\n\n— Rue Colbert, après l'intersection avec la rue en sens interdit.\n\n— Tu as pensé à prendre un ticket de stationnement ?\n\n— Non, c'est gratuit dans ce quartier.\n\n— Plus maintenant, la réglementation vient de changer.\n\n— Bon, j'y retourne avant le passage des policiers municipaux.\n\nQuel est le problème soulevé ?",
+        "audio": "/mp3/183/24.mp3",
+        "options": [
+            "La voiture est interdite en centre-ville.",
+            "Le sens de la circulation a été modifié.",
+            "Le stationnement est devenu payant.",
+            "Les embouteillages sont fréquents."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 25,
+        "testId": 183,
+        "text": "— Bonjour madame, j'ai acheté ce pull il y a trois jours mais il a un défaut. J'aimerais me faire rembourser. Voici le ticket de caisse.\n\n— D'accord monsieur mais je ne pourrais pas vous rendre la valeur de l'article en espèce. Le remboursement peut seulement se faire sous forme d'un échange ou d'un avoir.\n\n— Non, l'échange ne m'intéresse pas. Je n'ai trouvé aucun article qui me convienne.\n\n— Je vous fais donc un avoir. Il est valable pendant un mois. Vous aurez du temps pour choisir un autre produit.\n\n— Non, il n'en est pas question. Je pars dans une semaine en vacances et je ne pourrai pas utiliser cet avoir.\n\n— Ah, il existe une meilleure solution, la carte cadeau. Je mettrai le prix du pull sur cette carte et par la suite, vous pouvez la créditer jusqu'à 500 euros. Elle est valable 5 ans. Cela vous conviendrait ?\n\n— Hum, c'est d'accord. Donnez-moi la carte cadeau alors.\n\nQuelle est la durée de validité d'un avoir dans cette boutique ?",
+        "audio": "/mp3/183/25.mp3",
+        "options": [
+            "Trois jours.",
+            "Une semaine.",
+            "Un mois.",
+            "Cinq ans."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 26,
+        "testId": 183,
+        "text": "— Camille, à ton arrivée à Québec, dans quel type de logement résidais-tu?\n\n— J'ai d'abord habité un appartement en colocation, dans le quartier de Montcalm. Au bout de six mois à peine, j'ai emménagé à deux pas du centre-ville. C'est très simple de trouver un logement ici. Ça se fait en quelques jours.\n\n— Hum. Comment as-tu trouvé ton premier appartement?\n\n— Avant de quitter la France, sur un site Internet regroupant les annonces de colocation. Mais je conseille de chercher sur place. Il y a tout ce qu'il faut pour trouver facilement. On peut découvrir le quartier, voir si les pièces sont spacieuses, lumineuses et surtout bien insonorisées. Ce n'était pas le cas de mon premier logement, malgré le nom du quartier.\n\nD'après Camille, quel est le point fort de l'immobilier à Québec?",
+        "audio": "/mp3/183/26.mp3",
+        "options": [
+            "La recherche d’un appartement est rapide.",
+            "Le système de la colocation est encouragé.",
+            "Les habitations proposées sont de qualité.",
+            "Les logements sont bon marché en banlieue."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 27,
+        "testId": 183,
+        "text": "— À partir d'élève, vous n'avez jamais arrêté d'écrire ?\n\n— Oui, je n'ai jamais arrêté d'écrire. Et en même temps, ça me rend compte véritablement que j'étais écrivain. Moi, j'étais absolument persuadé pendant très très longtemps que tout petit garçon et toute petite fille qui rentrait chez elle ou chez lui, écrivait des histoires, puisque c'était ce que je faisais. C'est...J'ai l'impression que je suis écrivain comme le pommier fait les pommes, quoi. C'est très très naturel. Tout le monde avait compris que j'étais écrivain, sauf moi.\n\nQu'apprend-on au sujet de cet écrivain ?",
+        "audio": "/mp3/183/27.mp3",
+        "options": [
+            "Il a eu conscience de son talent tôt.",
+            "Il édite des œuvres pour la jeunesse.",
+            "Il pratique son art depuis l’enfance.",
+            "Il rédige des manuels de jardinage."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 28,
+        "testId": 183,
+        "text": "Le premier à avoir... La première indication que les organismes, et en particulier les animaux, avaient une horloge interne, c'est un droit à un biologie, à un médecin, en fait, suisse, qui observait les abeilles sur... en prenant son petit déjeuner à la terrasse de son chalet. Elles venaient, elles s'étaient attirées par la confiture. Et puis un jour, il faisait mauvais, il a pris son petit déjeuner à l'intérieur, donc les abeilles ne pouvaient pas sentir la confiture, mais elles sont quand même venues le chercher à l'heure où ils prenaient sorti à l'heure normale. Donc c'est une indication, c'est une indication qu'il y avait pas juste un rythme, mais un mécanisme de mesure du temps. Quelle conclusion le savant a-t-il tirée en observant les abeilles?",
+        "audio": "/mp3/183/28.mp3",
+        "options": [
+            "Elles ont la notion du temps chronologique.",
+            "Elles redoutent de s’approcher des humains.",
+            "Elles sont attirées par la lumière du soleil.",
+            "Elles sont un cas à part chez les animaux."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 29,
+        "testId": 183,
+        "text": "Les enfants à côté, il faut se donner la peine. Il faut vraiment dire ce temps-là, eh bien non, ce temps-là est consacré à la lecture.\n\nD'après l'intervenante, qu'est-ce qui est important pour un lecteur?",
+        "audio": "/mp3/183/29.mp3",
+        "options": [
+            "Partager ses impressions.",
+            "Rechercher de nouveaux auteurs.",
+            "S’extraire du quotidien.",
+            "Utiliser un support électronique."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 30,
+        "testId": 183,
+        "text": "— L'internaute n'a que l'embarras du choix aujourd'hui pour trouver une voiture de particulier à louer près de chez lui. Ziloc Auto se présente ainsi comme le numéro 1 du secteur, avec plus de 1000 locations par mois et 4000 propriétaires sur toute la France. Des propriétaires qu'il a parfois fallu rassurer, Marion Carette, cofondatrice du site ziloc.com.\n\n— Spontanément, un propriétaire de voiture, il a peur de louer sa voiture, mais on a vraiment beaucoup travaillé sur ces aspects-là. Donc on a un contrat, on a un système d'assurance qui permet d'assurer vraiment le locataire pour la voiture qui lui appartient pas pendant la durée de la location. On a un système d'évaluation, un système de caution, et tout ça fait finalement que le propriétaire arrive sur notre site en étant rassuré.\n\nPourquoi ce site plaît-il aux propriétaires de voitures?",
+        "audio": "/mp3/183/30.mp3",
+        "options": [
+            "Il contrôle rigoureusement toutes les formalités de garantie.",
+            "Il organise préalablement une rencontre avec les locataires.",
+            "Il propose une première révision gratuite des véhicules.",
+            "Il vérifie systématiquement l’identité de chacun de ses clients."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 31,
+        "testId": 183,
+        "text": "C'est un nouveau rendez-vous radiophonique que nous vous proposons ce soir sur notre chaîne internationale, avec notre émission consacrée à la chanson francophone. À travers la chanson, c'est surtout à la découverte de ces différents parlés – acadien, québécois, ivoirien, belge – qui donnent la couleur à notre langue française, que nous partirons ce soir avec bien sûr la rencontre aussi de voix, de musique, de chanteurs, de textes, de cultures, sans oublier pour terminer un petit tour au Festival des chorales francophones. Selon la présentatrice, quel est le but principal de cette émission?",
+        "audio": "/mp3/183/31.mp3",
+        "options": [
+            "Favoriser l’apprentissage de chansons françaises.",
+            "Montrer la variété de la langue française.",
+            "Promouvoir de nouveaux événements musicaux.",
+            "Faire le tour du monde des festivals francophones."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 32,
+        "testId": 183,
+        "text": "Aujourd'hui, à quoi sert le sport pour trouver sa place dans la société ? Foot, basket, lutte, course, il n'y a pas que la compétition. En tout cas, chez cette milliard, on va parler de l'esprit d'équipe, du dépassement de soi, du respect, de l'amitié. La FIFA, l'UNESCO et le Programme Alimentaire Mondial viennent de signer un partenariat pour aider les enfants dans ce sens. Et c'est vrai que l'impact social du sport est encore trop souvent ignoré. On dit toujours que le sport c'est bon pour la santé, mais il n'y a pas que la santé. Une génération bien dans ses baskets, c'est aussi une génération plus ouverte vers les autres. Qu'est-ce qui est mis en avant concernant le sport ?",
+        "audio": "/mp3/183/32.mp3",
+        "options": [
+            "Il développe la volonté de vaincre.",
+            "Il enrichit les relations humaines.",
+            "Il garantit l’équilibre psychologique.",
+            "Il procure des bienfaits physiques."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 33,
+        "testId": 183,
+        "text": "Le Devoir est un de ces journaux qui est d'une manière pas banale de s'informer, qui brasse des idées, qui met des débats au cœur de ses cahiers, qui est une institution à indépendance qui est très rare en ces temps de convergence. C'est vraiment un truc très particulier qui a réussi à survivre. Je trouve que c'est un outil de démocratie, c'est une information qui oblige à s'élever. C'est pas que c'est difficile de lire Le Devoir, mais en ces temps où l'information est très, très, très clippée, où les articles de journaux sont de plus en plus courts, de plus en plus presque prédigérés, il y a quand même un peu d'effort à faire. Et c'est vrai que pour s'informer correctement, il ne faut pas croire que tout nous tombe tout cuit dans le bec. Il faut faire un effort pour s'informer, et Le Devoir, c'est ça. Selon la chroniqueuse, quelle est la particularité du journal Le Devoir?",
+        "audio": "/mp3/183/33.mp3",
+        "options": [
+            "C’est le tout dernier journal indépendant.",
+            "Il offre un large panorama de l’actualité.",
+            "Les articles s’adressent à un public éclairé.",
+            "Ses lecteurs sont encouragés à réfléchir."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 34,
+        "testId": 183,
+        "text": "— Le retour en France peut ne pas être évident pour les enfants d'expatriés. Le succès passe souvent par l'accueil de l'école, comme en témoigne Marie Leblanc, dont les enfants ont intégré une petite école de quartier.\n\n— Chaque maîtresse avait préparé les enfants à la venue des nouveaux en disant qu'ils avaient vécu à l'étranger. Les enfants étaient valorisés, avaient plein de choses à raconter.\n\n— Mais l'adaptation présente parfois des difficultés, comme ce fut le cas pour les enfants de Françoise Casalis.\n\n— Eux, ils ont eu beaucoup de mal à s'adapter au système scolaire français assez rigide. Un des conseils que l'on peut donner aux parents, c'est de laisser l'enfant exprimer son mal-être. Il faut que l'enfant puisse faire son deuil.\n\nQuel conseil est donné aux parents pour faciliter le retour en France de leurs enfants?",
+        "audio": "/mp3/183/34.mp3",
+        "options": [
+            "De choisir une école avec un petit nombre de classes.",
+            "De permettre aux jeunes de parler de leur chagrin.",
+            "De placer les enfants dans une école internationale.",
+            "D'expliquer le système scolaire français aux enfants."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 35,
+        "testId": 183,
+        "text": "— On l'a dit, la culture générale a tous sorts de défauts, mais en plus, elle a le défaut d'ignorer les sciences. Ça, c'est assez facile à faire comme constat.\n\n— Oui, assez facile à faire comme constat, mais ce qui est déplorable, c'est que ce n'est pas incorporé, cette idée-là, il me semble. C'est-à-dire qu'on peut très bien aujourd'hui se prétendre cultiver, et les gens qui parlent de culture générale sont très souvent ou typiquement des humanistes qui ont une culture littéraire, être cultivés sans avoir de connaissances scientifiques. Et j'irais même jusqu'à dire pire, en méprisant ou en trouvant que ça pose absolument pas problème de pas avoir de culture scientifique, ou pour prendre un exemple que j'aime beaucoup, en se vantant de rien connaître aux mathématiques. Et là, je pense que c'est une profonde erreur, et puis le livre se veut une défense passionnée, j'oserais dire, de l'importance d'incorporer les notions de culture scientifique.\n\nPour l'auteur, de quoi les gens cultivés doivent-ils se rendre compte?",
+        "audio": "/mp3/183/35.mp3",
+        "options": [
+            "De l’absurdité qu’il y a à valoriser leur manque de culture scientifique.",
+            "De la nécessité de mieux défendre les acquis de la culture classique.",
+            "Du besoin qu’ont les mathématiciens d’avoir une culture générale.",
+            "Du refus des valeurs humanistes par les milieux scientifiques."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 36,
+        "testId": 183,
+        "text": "— Recruter grâce aux réseaux sociaux, ce n'est plus une tendance émergente, mais bien un mouvement de fond selon l'INSEE et ça annonce, Philippe, de nouvelles façons d'embaucher.\n\n— Oui, en quatre ans, la part des entreprises qui utilisent les médias sociaux a plus que doublé. Les entreprises sont donc de plus en plus présentes sur la toile, et celles qui y sont, et bien s'en servent de plus en plus pour recruter. C'est le cas de 44% d'entre elles.\n\nDans quel but les entreprises utilisent-elles les nouveaux médias ?",
+        "audio": "/mp3/183/36.mp3",
+        "options": [
+            "Pour faire connaître leurs services.",
+            "Pour rechercher des collaborateurs.",
+            "Pour s’informer sur la concurrence.",
+            "Pour vendre leurs produits en ligne."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 37,
+        "testId": 183,
+        "text": "— La violence en milieu scolaire est, on le sait, un problème aussi récurrent que préoccupant. La question de la responsabilité des parents est régulièrement posée et la possibilité vient d'être à nouveau évoquée cette semaine par le ministre d'Education de supprimer les allocations familiales aux familles des enfants violents. La décision sera prise fin janvier. Alors pensez-vous, Claude, qu'une mesure de ce type puisse être efficace ?\n\n— Je pense qu'elle ne peut pas l'être et qu'elle peut même avoir des effets négatifs parce qu'en fait elle est une fausse réponse à une vraie question. Une sanction peut être utile, mais à condition qu'elle s'inscrive dans un processus de prise en charge. Si on a essayé de comprendre les difficultés qu'ont les parents éduqués, si on les a vraiment accompagnés pour les aider à y arriver et que rien ne change, on peut les sanctionner.\n\nQuelle est l'opinion de l'intervenante sur la mesure proposée ?",
+        "audio": "/mp3/183/37.mp3",
+        "options": [
+            "Appliquée seule, elle est contre-productive.",
+            "C’est une proposition vraiment innovante.",
+            "Elle a déjà montré ses limites dans le passé.",
+            "Il faudrait la tester avant sa mise en place."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 38,
+        "testId": 183,
+        "text": "— Pour faciliter l'installation des compagnies minières, il faut bâtir des routes, mais aussi des logements. Le nombre de citoyens à Fermont, une ville en plein boom minier, va doubler, comme l'explique sa mairesse.\n\n— Il y a des secteurs de rue qui vont ouvrir d'ici les prochaines semaines, d'ici le prochain mois. Pourquoi ? Pour répondre aux besoins de construire des logements, des habitations, des bungalows, des appartements aussi pour les gens. C'est tout un défi qu'on a à relever.\n\nSelon cet élu, en quoi consiste le défi à relever ?",
+        "audio": "/mp3/183/38.mp3",
+        "options": [
+            "Mettre en place toutes les infrastructures d’accueil.",
+            "Prendre en compte les aspects financiers du projet.",
+            "Réussir l’intégration de la main-d’œuvre étrangère.",
+            "Susciter l’adhésion de tous les habitants concernés."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 39,
+        "testId": 183,
+        "text": "On a voulu faire une salle qui s'appelle « Monet, peintre des impressions » pour vraiment mettre en valeur l'aspect très original de Monet parmi les impressionnistes. Dans la salle précédente, on a mis ses premiers paysages qui sont les paysages d'Argenteuil. On y voit donc les paysages les plus classiques du peintre qui va devenir le chef de file de l'impressionnisme. Mais dans la salle « Monet, peintre des impressions », on voulait vraiment mettre en valeur ce qu'était que peindre des impressions. Donc évidemment, on a « Impression soleil levant » qui a le titre qu'il porte et qui met en valeur le côté impressionniste du paysage. C'est une vue du Havre, mais on ne peut presque plus reconnaître le Havre tant ce paysage montre ce qu'est une atmosphère lumineuse finalement. Cette atmosphère de crépuscule qui est mise en valeur par ces nouvelles couleurs et ces nouvelles petites touches de peinture. Comment l'exposition sur Monet a-t-elle été conçu?",
+        "audio": "/mp3/183/39.mp3",
+        "options": [
+            "En regroupant les œuvres selon un ordre chronologique.",
+            "En regroupant les tableaux dans une même salle.",
+            "En regroupant les toiles autour d’un même sujet.",
+            "En regroupant ses créations avec celles d’autres artistes."
+        ],
+        "answer": 2
+    }
+]
