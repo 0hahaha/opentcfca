@@ -1,0 +1,513 @@
+[
+    {
+        "id": 1,
+        "testId": 166,
+        "text": "A. Je peux m'asseoir ici?\n\nB. Mon chien peut venir avec moi?\n\nC. Quand passe le prochain bus?\n\nD. Vous me donnez un ticket?",
+        "audio": "/mp3/166/1.mp3",
+        "img": "/mp3/166/1.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 2,
+        "testId": 166,
+        "text": "A. Bravo aux cuisiniers, c'est délicieux.\n\nB. Je voudrais une table près de la fenêtre.\n\nC. Un autre café, s'il vous plaît.\n\nD. Vous pouvez garder la monnaie.",
+        "audio": "/mp3/166/2.mp3",
+        "img": "/mp3/166/2.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 3,
+        "testId": 166,
+        "text": "Vous pouvez fermer la porte, s'il vous plaît?\n\nA. Bien sûr.\n\nB. C'est vrai.\n\nC. Très souvent.\n\nD. Merci bien.",
+        "audio": "/mp3/166/3.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 4,
+        "testId": 166,
+        "text": "Excusez-moi, je suis perdue. Je veux aller à la mairie.\n\nA. Oui, allez-y. C'est ouvert maintenant.\n\nB. Oui, attendez. Elle va bientôt arriver.\n\nC. Oui, cherchez dans la bibliothèque.\n\nD. Oui, prenez la première rue à droite.",
+        "audio": "/mp3/166/4.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 5,
+        "testId": 166,
+        "text": "Bonjour, Docteur. Bonjour, M. Moulin. Asseyez-vous. Quel est le problème?\n\nA. Il fait très chaud.\n\nB. J'ai mal au ventre.\n\nC. Je cherche mes clés.\n\nD. Mon téléphone est cassé.",
+        "audio": "/mp3/166/5.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 6,
+        "testId": 166,
+        "text": "Tu viens au cinéma avec moi ?\n\nA. Bonne journée, à ce soir.\n\nB. C'est une bonne idée.\n\nC. Merci de ta visite.\n\nD. Oui, ça va bien.",
+        "audio": "/mp3/166/6.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 7,
+        "testId": 166,
+        "text": "Bonjour, je fais une enquête sur les Français et leur temps libre. Pourriez-vous me parler de vos loisirs préférés?\n\nA. J'adore jouer au tennis de table.\n\nB. Je préfère faire les courses en semaine.\n\nC. Je souhaite travailler en équipe.\n\nD. Je voudrais acheter une maison.",
+        "audio": "/mp3/166/7.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 8,
+        "testId": 166,
+        "text": "— On pourrait aller voir un film cet après-midi. Ça te dit ?\n\n— Tu sais, je dois faire des courses. Le frigidaire est vide. Et je dois chercher un paquet et des timbres. Et puis, je préférerais aller nager.\n\n— Pourquoi pas ? Je prépare les maillots et les serviettes et on se retrouve à 16 heures.\n\nOù est-ce que ces personnes vont se retrouver à 16h?",
+        "audio": "/mp3/166/8.mp3",
+        "options": [
+            "À la piscine.",
+            "À la poste.",
+            "Au cinéma.",
+            "Au marché."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 9,
+        "testId": 166,
+        "text": "— Bonjour, madame. J'habite à Québec depuis deux mois. Je cherche une activité sportive à faire dans le quartier Montcalm. Pouvez-vous m'aider?\n\n— Certainement, monsieur. Voici un catalogue avec de nombreuses informations utiles.\n\nQu'est-ce que cet homme veut faire?",
+        "audio": "/mp3/166/9.mp3",
+        "options": [
+            "Acheter un magazine.",
+            "Choisir un sport.",
+            "Trouver un logement.",
+            "Visiter un quartier."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 10,
+        "testId": 166,
+        "text": "— Eh Nicolas, tu as des projets pour ce week-end ?\n\n— Non, pas vraiment, et toi ?\n\n— Ben oui, j'ai bien envie d'aller à la piscine samedi après-midi. Ça te dit de venir avec moi ?\n\n— Pourquoi pas, j'ai besoin de me détendre après mes examens.\n\n— On se retrouve devant l'université avant, et on fait le trajet ensemble. On dit quatorze heures ?\n\n— Oui, d'accord.\n\nQue fait Nicolas ?",
+        "audio": "/mp3/166/10.mp3",
+        "options": [
+            "Il accepte la proposition de son ami.",
+            "Il offre son aide à son ami.",
+            "Il propose une sortie à son ami.",
+            "Il refuse l’invitation de son ami."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 11,
+        "testId": 166,
+        "text": "— Alors, que pensez-vous de la maison ?\n\n— Elle me plaît. Elle correspond à ce que je recherche. Un lieu de vie clair et spacieux.\n\n— Vous pourrez refaire la peinture, si vous voulez. Elle est un peu vieille.\n\n— Oui, peut-être. Pour l'instant, je préférerais changer les fenêtres. On entend beaucoup les voitures dehors.\n\n— En effet, il y a un supermarché à l'angle de la rue.\n\n— C'est embêtant. Je rêvais d'un endroit calme.\n\n— Prenez le temps de réfléchir.\n\nPour quelles raisons la femme hésite-t-elle à louer la maison ?",
+        "audio": "/mp3/166/11.mp3",
+        "options": [
+            "Elle a besoin de réparations urgentes.",
+            "Elle est localisée loin des commerces.",
+            "Elle est située dans une rue bruyante.",
+            "Elle possède un garage trop étroit."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 12,
+        "testId": 166,
+        "text": "— Je suis Tunisien, et je viens d'arriver au Canada. Et toi?\n\n— Moi, je suis Québécoise.\n\n— Alors, tu pourras peut-être me renseigner sur les démarches à suivre pour ma demande d'admission à l'université.\n\n— Il vaut mieux que tu t'adresses au secrétariat de l'université. En tant qu'étudiant étranger, il y a des modalités particulières.\n\n— Je ne peux pas faire de demande par courrier ou en ligne, et est-ce qu'il y a des équivalences avec mes diplômes tunisiens?\n\n— Je l'ignore. Téléphone plutôt au secrétariat.\n\nQuels conseils cette étudiante donne-t-elle au jeune homme?",
+        "audio": "/mp3/166/12.mp3",
+        "options": [
+            "Constituer son dossier par voie électronique.",
+            "Consulter la section « Étudiant étranger » sur internet.",
+            "Obtenir une reconnaissance de son diplôme tunisien.",
+            "Se mettre directement en contact avec l’université."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 13,
+        "testId": 166,
+        "text": "Cette fête de la gastronomie est l'occasion d'évoquer un plaisir que l'on peut partager très tôt en famille, le plaisir de cuisiner à quatre mains, parents et enfants réunis autour d'une même recette. Cuisiner avec son enfant, c'est une activité à la fois ludique, créative, enrichissante pour un enfant puisqu'elle fait appel à tous ses sens et c'est bien entendu un bon moment à passer ensemble. Selon cette personne, que permet la fête de la gastronomie ?",
+        "audio": "/mp3/166/13.mp3",
+        "options": [
+            "Conseiller les parents en matière d’alimentation.",
+            "Créer l’occasion de se retrouver en famille.",
+            "Découvrir des recettes de grand-mère.",
+            "Rassembler des enfants du monde entier."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 14,
+        "testId": 166,
+        "text": "— François, souvenez-vous que l'informaticien passera cet après-midi au service comptabilité?\n\n— Oui, je sais. Pour les deux ordinateurs en panne.\n\n— Oui. Appelez la comptable pour vérifier qu'elle a bien noté le rendez-vous. Elle est en formation jusqu'à la fin de la semaine. Sur le nouveau logiciel de comptabilité, justement. Elle revient lundi.\n\n— Demandez à notre stagiaire d'être présent, alors.\n\n— Je m'en occupe tout de suite.\n\nPourquoi l'informaticien vient-il ?",
+        "audio": "/mp3/166/14.mp3",
+        "options": [
+            "Pour contrôler l’état des machines en service.",
+            "Pour donner une formation aux employés.",
+            "Pour mettre à jour toutes les applications.",
+            "Pour réparer des équipements informatiques."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 15,
+        "testId": 166,
+        "text": "— Excusez-moi, je cherche le bureau de Mme Fournier, s'il vous plaît.\n\n— Oui, c'est juste au-dessus. Prenez l'escalier sur votre gauche et, en haut, poussez la porte. C'est le bureau 123.\n\nQue doit faire cette personne?",
+        "audio": "/mp3/166/15.mp3",
+        "options": [
+            "Continuer jusqu’au hall.",
+            "Descendre avec l’ascenseur.",
+            "Monter d’un étage.",
+            "Prendre le couloir à droite."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 16,
+        "testId": 166,
+        "text": "— Ce c'est prêt général retraite, le bruit est aussi une source de fatigue et de tension.\n\n— Moi le bruit m'empêche de dormir bien sûr, j'arrive à un âge où on a peut-être besoin de moins de sommeil. Mais il est évident qu'en m'endurant de vouloir pédaler, je n'arrive pas à supporter ce niveau sonore qui est permanent. Entre autres, il faut aussi ne pas oublier que même si l'intensité routière diminue en nuit, on est réveillé par des bruits un petit peu exceptionnels, une moto pétarade qui passe ou une voiture qui passe à 200 à l'heure sur le boulevard à l'œil, c'est ce qu'on constate régulièrement.\n\nQu'est-ce qui empêche cet homme de dormir?",
+        "audio": "/mp3/166/16.mp3",
+        "audioAI": "/mp3/166/ai_16.mp3",
+        "options": [
+            "Les conducteurs qui klaxonnent au feu rouge.",
+            "Les motards qui s’amusent sur le parking.",
+            "Les ouvriers qui travaillent sur l’autoroute.",
+            "Les véhicules qui circulent près de chez lui."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 17,
+        "testId": 166,
+        "text": "Amis auditeurs, voici une idée de lecture originale. Les éditions Parigram ont publié un ouvrage intitulé « Paris et ses alentours au temps de Napoléon » histoire de nous faire découvrir les lieux qui ont compté au cours de cette période, mais aussi les principaux travaux, les constructions, les plus emblématiques et les transformations les plus remarquables, voulues par Napoléon. Car quand il n'est pas à la guerre, il nourrit de grands dessins pour la capitale. L'âme de Triomphe, la colonne Vendôme... Quel est le sujet du livre?",
+        "audio": "/mp3/166/17.mp3",
+        "options": [
+            "La découverte des palais de l’empereur.",
+            "L'élargissement de Paris à ses environs.",
+            "Les lieux qui ont changé sous Napoléon.",
+            "Les traces des batailles napoléoniennes."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 18,
+        "testId": 166,
+        "text": "10h30 à Gaspé, merci d'être fidèle à Radio du Monde! On commence par les titres de l'actualité de ce jeudi. Comme hier, le premier titre c'est le tremblement de terre en Indie. La communauté internationale se mobilise pour aider la population. Le reportage du tremblement de terre spécial dans un instant. À Ottawa, les premiers ministres des provinces évoqueront justement les conséquences du réchauffement climatique. Enfin, samedi soir, auront lieu des concerts géants, simultanément dans cinq grandes villes du monde, afin de récolter des fonds pour lutter contre le cancer. Quel sera le premier sujet développé au cours de ce journal d'information radiophonique?",
+        "audio": "/mp3/166/18.mp3",
+        "options": [
+            "L'État de la recherche mondiale sur le cancer.",
+            "L'Élargissement des ministres européens de l’écologie.",
+            "La lutte contre le réchauffement climatique en Asie.",
+            "Un reportage sur les lieux d’un tremblement de terre."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 19,
+        "testId": 166,
+        "text": "Bonjour à tous, voici des informations sur la circulation et les premiers problèmes ce matin sur les routes de France. Pour le premier week-end des vacances scolaires, il y a beaucoup de monde sur les routes, donc faites très attention quand vous êtes en voiture. Et n'oubliez pas de vous arrêter toutes les deux heures pour faire une pause. Quelle information donne le journaliste ?",
+        "audio": "/mp3/166/19.mp3",
+        "options": [
+            "Les accidents sont importants.",
+            "Les arrêts sont interdits.",
+            "Les départs sont nombreux.",
+            "Les embouteillages sont finis."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 20,
+        "testId": 166,
+        "text": "— Hélène Carrère-Dancos, votre article nous informe du danger qui menace l'existence et le développement des lycées français de l'étranger.\n\n— Oui, ces lycées étaient payants. Ils sont devenus gratuits en 2007. Cette décision, au départ généreuse, se retourne finalement contre les lycées, car les entreprises qui payaient ne le font plus. C'est l'État seul qui soutient les lycées, donc, quand cela deviendra trop lourd pour l'État, il risque de vouloir enfermer certains.\n\nPour Hélène Carrère-Dancos, quels sont les problèmes des lycées français de l'étranger ?",
+        "audio": "/mp3/166/20.mp3",
+        "options": [
+            "Le nombre d’élèves est en baisse.",
+            "Les frais de scolarité sont élevés.",
+            "Leurs programmes sont inadaptés.",
+            "Leurs financements sont fragilisés."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 21,
+        "testId": 166,
+        "text": "— Quel froid ce matin!\n\n— Oui, mais au moins, il y a du soleil.\n\n— C'est sûr, à côté d'hier, la pluie toute la journée, c'était l'horreur.\n\n— Ah oui, j'aime mieux ce froid sec.\n\nQuel temps fait-il aujourd'hui?",
+        "audio": "/mp3/166/21.mp3",
+        "options": [
+            "Il fait plus beau qu’hier.",
+            "Il fait plus mauvais qu’hier.",
+            "Il pleut plus qu’hier.",
+            "Il y a moins de soleil qu’hier."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 22,
+        "testId": 166,
+        "text": "Quand j'étais adolescent, j'avais écrit un long poème à Georges Brassens. J'avais fini de le recopier, enfin, c'était une espèce de chanson que j'avais fini de recopier dans le bistrot en face de l'impasse Florimont où il habitait, et j'étais allé lui porter. Sauf qu'il n'habitait plus là depuis des années et que j'étais assez rassuré qu'il n'habite plus là parce que je ne sais pas ce que je lui aurais raconté. Mais je l'avais écrite, et je me dis que si un jour j'avais reçu un petit mot de Brassens me disant « j'ai lu vos chansons et j'aimerais bien vous en parler », ça m'aurait intéressé. Qu'aurait souhaité cette personne en allant chez Georges Brassens?",
+        "audio": "/mp3/166/22.mp3",
+        "options": [
+            "Lui apporter un livre.",
+            "Lui demander conseil.",
+            "Lui présenter son travail.",
+            "Lui proposer une interview."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 23,
+        "testId": 166,
+        "text": "Bonjour M. Nouguet, Madame Lefebvre de la Direction des ressources humaines de la Société Algepro. Je vous appelle au sujet de votre candidature pour le poste de graphiste. Votre CV a été présélectionné par la Directrice des ressources humaines. Si ce poste vous intéresse toujours, nous aimerions vous rencontrer dans les prochains jours. Merci de me rappeler au 01 25 38 67 54. Au revoir. Pourquoi Mme Lefebvre a-t-elle appelé M. Nouguet?",
+        "audio": "/mp3/166/23.mp3",
+        "options": [
+            "Pour lui annoncer le rejet de sa proposition.",
+            "Pour lui confirmer un rendez-vous de travail.",
+            "Pour lui demander des documents supplémentaires.",
+            "Pour lui fixer un entretien d’embauche."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 24,
+        "testId": 166,
+        "text": "— Bonjour monsieur, puis-je vous renseigner ?\n\n— Bonjour, je souhaiterais visiter le sud de la France avec mon épouse.\n\n— Eh bien, nous pouvons vous proposer un séjour sur la côte d'Azur. Vous pourriez acheter un forfait qui comprend le transport aller-retour, ainsi que les nuits d'hôtel et les trajets de bus entre les villes. Voici la brochure du séjour.\n\n— Je vais en parler à ma femme et je reviendrai demain. Merci.\n\nQuelle est l'intention de cette personne ?",
+        "audio": "/mp3/166/24.mp3",
+        "options": [
+            "Découvrir une région de France.",
+            "Partir vivre sur la Côte d’Azur.",
+            "Rejoindre son épouse dans le Sud.",
+            "Rendre visite à un ami français."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 25,
+        "testId": 166,
+        "text": "— Les agronomes travaillent beaucoup sur l'agro-écologie. Notre modèle est très dépendant du pétrole et du gaz pour les engrais, le transport des denrées, l'énergie pour l'irrigation. Et avec un pétrole qui devient plus rare et plus cher, il s'agit donc de trouver des techniques moins gourmandes, comme l'explique Olivier Descuteurs, rapporteur spécial des Nations Unies pour l'alimentation.\n\n— Dans beaucoup de zones qui ne sont pas encore développées selon les méthodes agro-industrielles de production, il faut effectivement mettre l'accent sur des pratiques agro-écologiques qui, par exemple, permettent de recycler les déchets dans le champ pour fertiliser le champ ou qui permettent de combiner l'agro-foresterie avec des cultures alimentaires pour économiser les engrais chimiques grâce à la fertilisation des sols par les arbres.\n\nQuelle piste est envisagée pour améliorer la production agricole ?",
+        "audio": "/mp3/166/25.mp3",
+        "options": [
+            "Augmenter les espaces se terres cultivables.",
+            "Moderniser les machines de production agricole.",
+            "Privilégier une agriculture sans produit chimique.",
+            "Utiliser des semences génétiquement modifiées."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 26,
+        "testId": 166,
+        "text": "— Le prénom que vos parents vous ont donné vous rebutent ? Vous pouvez en changer mais ce n'est pas une simple formalité. Il faut obligatoirement faire appel à un avocat qui dépose le dossier auprès du tribunal de grande instance du lieu de naissance ou du domicile du demandeur. La principale difficulté comme le souligne maître David Bachelard est de parvenir à convaincre les juges du bien fondé de sa requête.\n\n— On peut changer de prénom à condition de justifier d'un intérêt légitime. La francisation par exemple. Mais ça peut être également des personnes qui souhaitent mettre en adéquation leur prénom avec leur conviction religieuse. Et puis il y a des cas beaucoup plus atypiques. Une personne qui souffre de son prénom parce qu'il a un caractère quelque peu ridicule, qui rencontre des difficultés.\n\nPourquoi changer de prénom peut-il s'avérer difficile ?",
+        "audio": "/mp3/166/26.mp3",
+        "options": [
+            "Il faut obtenir l’accord de la famille.",
+            "Il faut prouver la nécessité de la démarche.",
+            "Il y'a de nombreux documents à l'assemblée.",
+            "Il y'a des frais de procédures élevés."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 27,
+        "testId": 166,
+        "text": "Mesdames, Messieurs, bienvenue sur le bateau de la Société Saphine au service de notre clientèle Oganian. Nous allons découvrir ensemble Paris au gré de la Seine. C'est quand même mieux qu'à pied ou en autocar. Voici votre programme. De 10h à 12h, nous allons longer les quais et passer sous de nombreux ponts. Nous nous arrêterons devant Notre-Dame de Paris, les musées du Louvre et d'Orsay. Enfin, nous arrivons au Trocadéro. Pour vous remettre de toutes ses émotions, un déjeuner est prévu ici-même à 12h30. Un bus viendra vous reprendre à 13h30 pour vous conduire à votre hôtel. Passez un très agréable moment en notre compagnie.\n\nQue propose la guide au touriste ?",
+        "audio": "/mp3/166/27.mp3",
+        "audioAI": "/mp3/166/ai_27.mp3",
+        "options": [
+            "Un tour de la capitale en bus découvert.",
+            "Un parcours à pied le long des quais.",
+            "Une visite guidée du musée du Louvre.",
+            "Une croisière-promenade sur la Seine."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 28,
+        "testId": 166,
+        "text": "Léonard reçoit une éducation relativement libre, comme l'étaient celles de la plupart des villageois de son âge. On imagine Léonard aujourd'hui comme un puits de science, une sorte de grand sage qui, très jeune, aurait été formé à la culture humaniste traditionnelle. Évidemment, ça n'est pas le cas. C'est un enfant qui s'est mis, en quelque sorte, à l'école de la nature, qui scrute, qui observe tout. Il est passionné par tout ce qui l'entoure et il s'aperçoit vite que le sens de l'observation est peut-être le meilleur des enseignements. Qu'est-ce que Léonard a de particulier ?",
+        "audio": "/mp3/166/28.mp3",
+        "options": [
+            "Sa mémoire exceptionnelle.",
+            "Ses aptitudes au jardinage.",
+            "Ses origines sociales modestes.",
+            "Son parcours d’apprentissage."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 29,
+        "testId": 166,
+        "text": "— Vous avez vu le premier film de Robert Feuillade hier ?\n\n— Non, ce n'est pas le genre de film que j'aime.\n\n— Moi, je regarde tous les films. J'adore le cinéma depuis toujours. Sans doute parce que mon père m'emmenait au cinéma alors que j'étais encore au biberon. Je me souviens encore de mon premier western. Dans la petite ville où on habitait, tous les samedis, il y avait le cinéma en plein air gratuit.\n\n— Moi, ce que je préférais quand j'allais au cinéma avec mon père, c'était la glace à la vanille qu'il m'achetait.\n\nSelon cette femme, qu'est-ce qui explique son amour inconditionnel du cinéma ?",
+        "audio": "/mp3/166/29.mp3",
+        "options": [
+            "L’absence de distractions dans le village où elle habitait.",
+            "L’influence autoritaire que son père a exercée sur elle.",
+            "Le choc du tout premier film qu’elle a vu dans sa vie.",
+            "Sa fréquentation des salles dès son plus jeune âge."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 30,
+        "testId": 166,
+        "text": "[colis.com](), toujours à votre service. Nous acheminons chaque jour plus de 75 millions de plis. Si, malgré tous nos efforts, un envoi n'est pas parvenu à son destinataire, des professionnels sont à votre disposition pour réaliser les recherches nécessaires et s'engagent à vous tenir informés dans les plus brefs délais. Pour ce faire, connectez-vous à notre site [www.colis.com]() ou appelez le 08-67-35-35-35. Nous serons toujours à votre écoute. À quel type d'entreprise appartient ce service? Sous-titrage Société Radio-Canada",
+        "audio": "/mp3/166/30.mp3",
+        "options": [
+            "Un groupe de centres d’appels téléphoniques.",
+            "Un service de livraison express du courrier.",
+            "Un spécialiste de la création de sites Internet.",
+            "Un fournisseur pour la restauration à domicile."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 31,
+        "testId": 166,
+        "text": "— Donc sans aller jusqu'au licenciement, Philippe, quelles sont les conséquences d'un mauvais niveau d'orthographe ?\n\n— Alors les responsables des ressources humaines, interrogés par Opinion Web pour Becherel, reconnaissent à 52% que ça a déjà pu jouer dans la mise à l'écart d'un candidat au moment du recrutement, et ils sont 15% à estimer que ça peut freiner la promotion d'un salarié, s'il n'est pas après tout énorme pour l'ensemble de la population, mais ça prend de toutes autres proportions si on s'intéresse aux plus jeunes, aux moins de 30 ans. Ce sont eux qui disent avoir le plus de mal avec l'orthographe. Quand on leur demande si leur faute ont suscité des reproches de la part de leurs collègues, de leur hiérarchie, de leurs clients, ils sont deux fois plus nombreux que le reste de la population à dire oui.\n\nQu'apprend-on sur le niveau d'orthographe dans le monde du travail ?",
+        "audio": "/mp3/166/31.mp3",
+        "options": [
+            "C’est un détail négligeable pour les recruteurs.",
+            "Il est indépendant de la promotion professionnelle.",
+            "Il est prévu de tester celui des futurs salariés.",
+            "La question est préoccupante pour les plus jeunes."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 32,
+        "testId": 166,
+        "text": "Longtemps, la copie illégale de produits ne concernait que le domaine du luxe. Aujourd'hui, tous les secteurs de l'économie sont atteints par ce phénomène. Pièces automobiles, prêts à porter, jouets ou encore médicaments. La douane française a saisi plus de 5 millions d'articles, soit deux fois plus que l'année dernière, et on estime que cette contrefaçon contribue à supprimer 30 000 emplois en France chaque année. Quels constats la journaliste fait-elle sur la contrefaçon ?",
+        "audio": "/mp3/166/32.mp3",
+        "options": [
+            "Elle concerne de moins en moins d’articles.",
+            "Elle est maîtrisée grâce aux contrôles.",
+            "Elle met en danger le marché du travail.",
+            "Elle se concentre sur des objets précieux."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 33,
+        "testId": 166,
+        "text": "C'est l'une des plus grandes chansons qui a été faite dans toute l'histoire de la chanson francophone. C'est on a accès à, c'est un court métrage, en fait  c'est même un long métrage en quelques minutes. Et d'arriver à dépeindre tout un univers où on comprend la complexité du personnage, où on peut le mettre dans un contexte social, où on peut, on a même presque des parfums, on a tout dans cette chanson-là. Donc c'est, c'est oui, c'est un, c'est pour moi, c'est comme si j'avais chanté un grand maître. Si j'étais en classique, j'aurais joué Bach. Ben, là, j'ai chanté Aznavour, j'ai chanté cette chanson-là d'Aznavour. De quoi parle cet artiste?",
+        "audio": "/mp3/166/33.mp3",
+        "options": [
+            "De la particularité de sa voix.",
+            "De la reprise d’une œuvre.",
+            "De sa nouvelle tournée.",
+            "De son dernier rôle au cinéma."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 34,
+        "testId": 166,
+        "text": "Les plus de 60 ans, ils sont près d'un milliard sur la planète, 15 millions en France et ce nombre a vocation à grossir. Aujourd'hui les seniors c'est 23% de la population française, bientôt ce sera 30% des seniors qui voyagent, qui consomment, qui s'équipent. Des seniors dont la santé vacille aussi et qui entrent dans la dépendance. Un marché juteux pour les entreprises et un formidable gisement de croissance et d'emploi qui n'a pas échappé à Michel Delonney, la ministre déléguée aux personnes âgées. Dans le secteur de l'aide à domicile, on considère qu'il faut 220 000 emplois de plus d'ici 2020. Incroyable, aucun autre ministère ne peut proposer autant de champs de croissance. Dans ce reportage, qu'apprend-on sur les seniors ? Sous-titres réalisés par la communauté d'Amara.org",
+        "audio": "/mp3/166/34.mp3",
+        "options": [
+            "Ils consomment plus que la jeune génération.",
+            "Ils dépensent beaucoup pour leur santé.",
+            "Ils profitent peu des effets de la croissance.",
+            "Ils sont à l’origine de créations d’emplois."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 35,
+        "testId": 166,
+        "text": "— Alors Jean, c'était ce journal. Qu'est-ce que ça a donné ?\n\n— C'était passionnant et puissant parce que l'on ne compte pas ses heures. Il y a énormément de déplacements, ça c'est un côté agréable mais qu'il faut gérer intelligemment par rapport à la vie de famille.\n\n— C'est un travail très valorisant, non ?\n\n— C'est vrai, on bénéficie d'une considération exceptionnelle, mais ça aussi il faut le gérer.\n\n— Le hic, c'est que la rédaction garde un droit de regard sur les papiers. Je crains que le travail avec eux soit trop orienté. Ils ont des accointances fortes avec certains élus, même s'ils le nient, et ça dépasse en conséquence.\n\n— Le salaire pourra peut-être te faire oublier tes réticences ?\n\n— La déontologie et toi, ça fait deux.\n\nQue redoute Jean à propos de cet emploi?",
+        "audio": "/mp3/166/35.mp3",
+        "options": [
+            "La perte de sa liberté intellectuelle.",
+            "Les nombreux voyages à l’étranger.",
+            "Un manque de reconnaissance.",
+            "Une rémunération insuffisante."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 36,
+        "testId": 166,
+        "text": "— Les nouveaux outils aujourd'hui que nous utilisons au quotidien, est-ce qu'ils ont stimulé de nouvelles intelligences ou est-ce qu'ils ont amoindri d'autres capacités ?\n\n— Alors, on peut considérer qu'en effet, les nouveaux outils numériques, par exemple ordinateurs, robots, font qu'on va déléguer aux machines certaines tâches asservissantes pour l'homme. \n\n— On voit pour la mémoire, par exemple, le calcul mental.\n\n— C'est un autre aspect, la mémoire. La mémoire, c'est le second, c'est que la mémoire est devenue plutôt externe. La mémoire étant externe et finalement, les tâches qui nécessitaient beaucoup de temps, de concentration, de labeur plus automatique, peuvent être déléguées aux machines. Donc, il y a là un espace de nouveauté.\n\nQu'explique l'intervenant à propos des nouveaux outils numériques ?",
+        "audio": "/mp3/166/36.mp3",
+        "options": [
+            "Ils améliorent les facultés d’attention.",
+            "Ils entravent la liberté de penser.",
+            "Ils assurent les travaux fastidieux.",
+            "Ils diminuent les aptitudes cognitives."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 37,
+        "testId": 166,
+        "text": "— Qu'est-ce que vous avez en couverture ce mois-ci?\n\n— Ce mois-ci, on se questionne sur la présence de pétrole dans le Golfe Saint-Laurent, dans le sous-sol du Golfe Saint-Laurent. Il y a beaucoup de controverses au sujet de son exploitation, son extraction, sur les dommages potentiels que ça pourrait causer au Golfe, qui est un écosystème assez précieux et assez unique aussi au monde. Mais il y a aussi cette richesse qu'on ne soupçonnait pas il y a une vingtaine, trentaine d'années, ce pétrole dans le sous-sol. Alors ça fait des débats de société assez importants ici.\n\nQu'est-ce qui fait polémique?",
+        "audio": "/mp3/166/37.mp3",
+        "options": [
+            "L’industrialisation galopante des rives.",
+            "La dégradation d’un site naturel rural.",
+            "La pollution des nappes phréatiques.",
+            "La raréfaction des énergies fossiles."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 38,
+        "testId": 166,
+        "text": "— Alors, aussi bien dans le public que dans le privé, cette... ce mal-être au travail résulte, selon vous, d'une mutation sociale profonde et structurelle du marché du travail, de notre rapport au travail?\n\n— Ce que l'on constate, c'est que, pour essayer de résumer ça, le travail est issu, étymologiquement, du « tripalium », le poteau de torture. tu gagneras ta vie à la sueur de ton front, etc. c'est-à-dire la pénibilité physique. Or, on constate, c'est le paradoxe, qu'en fait, le temps de travail dans la vie a plutôt diminué et la pénibilité physique a considérablement diminué dans la plupart des métiers. Mais ça a été compensé par ou transformé par une charge psychique, une mobilisation psychique et une pénibilité subjectives et donc le malaise est placé.\n\nQu'explique l'intervenant à propos de la pénibilité au travail?",
+        "audio": "/mp3/166/38.mp3",
+        "options": [
+            "Elle concerne de moins en moins d’articles.",
+            "Elle est maîtrisée grâce aux contrôles.",
+            "Elle met en danger le marché du travail.",
+            "Elle se concentre sur des objets précieux."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 39,
+        "testId": 166,
+        "text": "Peut-être aurais-je dû moi aussi faire l'acquisition de l'un de ces nombreux manuels du bonheur proposés par la librairie Erroll. Cela m'aurait peut-être aidé à positiver, à voir les choses autrement, comme le prônent justement ces ouvrages. Ainsi je ne serais pas rentrée avec la sensation un peu déprimante, je dois le dire, que pour être heureux, eh bien il faut faire des efforts. Le bonheur n'est pas inné, nous disent les spécialistes, il s'apprend. Et donc au rayon bonheur de la librairie, donc je n'invente pas, il y a bien une étiquette bonheur sur un rayon, les manuels proposent leur aide, un grand coup d'exercice, de conseils, rédigés généralement à l'impératif. On lit, ne vous souciez pas du regard des autres. Quelle conclusion la journaliste tire-t-elle de sa visite dans cette librairie?",
+        "audio": "/mp3/166/39.mp3",
+        "options": [
+            "Acheter des livres sur le bonheur rend heureux.",
+            "Chacun de nous est prédisposé au bonheur.",
+            "Des cours de bonheur s'impose dès l'enfance.",
+            "L'accès au bonheur nécessite du travail."
+        ],
+        "answer": 3
+    }
+]
