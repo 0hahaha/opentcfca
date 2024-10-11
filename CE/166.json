@@ -1,0 +1,509 @@
+[
+    {
+        "id": 1,
+        "testId": 166,
+        "text": "# <p style=\"text-align: center; font-size: 30pt;\">ATTENTION</p>\n\n<br/><p style=\"text-align: center; font-size: x-large; line-height: 150%;\">Traversée du parc <br/> interdite aux voitures, <br/> aux vélomoteurs et aux <br/> bicyclettes.</p>",
+        "query": "Comment peut-on se promener au parc?",
+        "options": [
+            "À moto.",
+            "À pied.",
+            "À vélo.",
+            "En taxi."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 2,
+        "testId": 166,
+        "text": "<svg viewBox=\"0 0 500 150\"><path id=\"curve\" fill=\"transparent\" d=\"M50,100 C130,20 370,20 450,100\" /><text width=\"500\" fill=\"#000000\" style=\"font-size: large;\"><textPath xlink:href=\"#curve\">Apprenez une langue étrangère sans aller en classe !</textPath></text></svg>\n\n<p style=\"text-align: center; font-size: 30pt; margin-top: -80px;\">👩🏻‍💻📓✍🏻💡</p>\n\n<br/><p style=\"text-align: center; font-size: large; line-height: 150%;\">L'école <b>Lingua Mobile</b> vous offre plusieurs <br/> solutions modernes : vous pouvez suivre <br/> vos cours par internet, depuis chez vous <br/> ou de votre bureau.</p>",
+        "query": "Quelle est la spécialité de Lingua Mobile ?",
+        "options": [
+            "Ses leçons à distance.",
+            "Ses professeurs expérimentés.",
+            "Ses salles neuves connectées.",
+            "Ses tarifs bon marché."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 3,
+        "testId": 166,
+        "text": "Désolé de te le dire si tard ! Je ne peux pas venir ce soir.\n\nPierre",
+        "query": "Pourquoi Pierre a-t-il écrit ce message ?",
+        "options": [
+            "Il annonce son absence.",
+            "Il donne un rendez-vous.",
+            "Il indique son arrivée.",
+            "Il signale son retard."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 4,
+        "testId": 166,
+        "text": "Camille,\n\nJe ne peux pas te retrouver au concert ce soir, désolé. Mes enfants sont malades et je dois rester avec eux. Viens déjeuner à la maison dimanche. Je pars bientôt en voyage, j'aimerais te voir avant mon départ.\n\nBises,\n\nDriss",
+        "query": "Qu'est-ce que Driss propose à son amie ?",
+        "options": [
+            "D'aller à un concert.",
+            "D'organiser un voyage.",
+            "De déjeuner chez lui.",
+            "De garder ses enfants."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 5,
+        "testId": 166,
+        "text": "## <p style=\"text-align: center;\">Examen de biologie</p>\n\n<p style=\"text-align: center;\">██████ Juin à 15h30 en salle 454.</p>",
+        "query": "Quelle information manque au sujet de cet examen ?",
+        "options": [
+            "La date.",
+            "La matière.",
+            "Le lieu.",
+            "L'heure."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 6,
+        "testId": 166,
+        "text": "Le restaurant **« L'Esquinade »** a réussi son pari: introduire l'atmosphère espagnole dans ses plats. Si vous voulez goûter à l'Espagne contemporaine pour votre pause déjeuner, cet endroit est pour vous ! Tapas, cœurs de canard, jambon serrano et foie gras s'y rencontrent dans une ambiance chaleureuse, nous faisant voyager entre le sud-ouest de la France et l'Espagne.",
+        "query": "Que propose ce restaurant ?",
+        "options": [
+            "D'apprendre à cuisiner des plats étrangers.",
+            "D'organiser des repas-spectacles à thèmes.",
+            "De gagner un voyage à la fin du repas.",
+            "De goûter des spécialités franco-espagnoles."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 7,
+        "testId": 166,
+        "text": "# <p style=\"text-align: center;\">ÉCOLE FERRANDI</p>\n\n<br/><p style=\"text-align: center; font-size: large; line-height: 150%;\">Les parents peuvent venir chercher <br/> leurs enfants après les cours du matin <br/> et du soir sauf si les enfants mangent à <br/> l'école ou s'ils font des activités après <br/> la classe. <br/><br/> Tous les enfants doivent avoir quitté <br/> l'école à 18h. <br/><br/> <b>P. Guignoux <br/>Directeur</b></p>",
+        "query": "De quoi parle le directeur ?",
+        "options": [
+            "De l'inscription des élèves.",
+            "Des horaires de sortie.",
+            "Des repas à la cantine.",
+            "Du temps de repos."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 8,
+        "testId": 166,
+        "text": "Vous venez d'arriver à Lyon pour suivre des cours à l'université, mais vous ne connaissez pas la ville ? Profitez des conseils de Clémence, Lyonnaise, qui vous donne ses adresses pour diner ou faire la fête le soir.\n\n[lesconseilsdeclemence-lyon.fr]()",
+        "query": "Que peut-on faire dans les endroits que propose Clémence ?",
+        "options": [
+            "Cuisiner.",
+            "Étudier.",
+            "S'amuser.",
+            "Se promener."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 9,
+        "testId": 166,
+        "text": "La France est le pays d'Europe où il y a le plus d'animaux par habitant. Chien, chat, poisson, cheval ou même serpent, les Français adorent s'occuper d'eux, les nourrir, les sortir et vivre à leurs côtés.",
+        "query": "Qu'apprend-on sur les Français et les animaux ?",
+        "options": [
+            "Ils aiment en voir dans la nature.",
+            "Ils les regardent à la télévision.",
+            "Ils sont nombreux à en avoir.",
+            "Ils vont les voir dans des zoos."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 10,
+        "testId": 166,
+        "text": "<p style=\"text-align: center; font-size: 80pt;\">🇪🇺</p>\n\n<br/><br/><p style=\"text-align: center; font-weight: bold; font-size: x-large; line-height: 150%; color: white; text-shadow: 2px 2px black, -2px -2px black, 2px -2px black, -2px 2px black, 0 0 5px black, 0 0 10px black, 0 0 10px black;\">Vous mangez italien, dansez le flamenco ou <br/> apprenez le suédois ?</p>\n\n<p style=\"text-align: center; font-size: x-large; line-height: 150%;\">Partagez vos prises de vue (portraits, paysages, etc.) <br/> qui montrent que l'Europe fait partie de votre vie. <br/>Participez au concours « Europe en images ».</p>\n\n<br/><p style=\"text-align: center; font-size: x-large; line-height: 150%;\"><span style=\"font-weight: bold; font-size: 30pt;color: white; text-shadow: 2px 2px black, -2px -2px black, 2px -2px black, -2px 2px black, 0 0 5px black, 0 0 10px black, 0 0 10px black;\">À GAGNER</span> : un séjour à Bruxelles où un <br/> atelier cuisine.</p>",
+        "query": "Que propose ce concours ?",
+        "options": [
+            "D'envoyer des photos.",
+            "D'inventer une recette.",
+            "De créer un spectacle.",
+            "De découvrir une langue."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 11,
+        "testId": 166,
+        "text": "<p style=\"font-size: 20pt; margin: 0 50px;line-height: 150%; transform: rotate(-20deg);\">Bienvenue à</p>\n\n# <br/><p style=\"text-align: center; font-size: 40pt; margin: 0 100px; border-bottom: 1px dashed black; line-height: 150%;\">L'hôtel du Parc</p>\n\n<p style=\"padding: 0 100px; font-size: x-large; line-height: 150%;\">notre boutique vous attend : <br/> - Bagages <br/> - Parfums <br/> - Bijoux <br/> - Produits de a région <br/>- Journaux et magazines.</p>",
+        "query": "Qu'est-ce qu'on peut acheter dans la boutique ?",
+        "options": [
+            "Des chocolats.",
+            "Des romans.",
+            "Des valises.",
+            "Ses vêtements."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 12,
+        "testId": 166,
+        "text": "La librairie des Orgues, à Paris, a récolté 9000 euros de ses clients afin de financer son déménagement. Un résultat inespéré qui a permis à la librairie de s'agrandir.\n\nLors de l'inauguration, la libraire a offert un verre à ses généreux donateurs. En fonction du montant de leur participation, ils ont reçu un livre de leur choix ou ont obtenu le statut de client d'or, signifié par une plaque à leur nom sur le mobilier de la librairie.",
+        "query": "Pourquoi la librairie a-t-elle récolté de l'argent ?",
+        "options": [
+            "Pour acheter des meubles de bibliothèque.",
+            "Pour organiser un concours de lecture.",
+            "Pour ouvrir un salon de thé littéraire.",
+            "Pour s'installer dans un local plus vaste."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 13,
+        "testId": 166,
+        "text": "Clément et Pierre vont participer au tour automobile 4L Trophy au Maroc. Ils vont apporter 40kg de matériel et 10kg de nourriture à une école. Les deux amis recherchent des solutions pour payer leur voyage. Vous voulez les aider ? [c&p@4Ltrophy.fr]()",
+        "query": "De quoi ont besoin Clément et Pierre ?",
+        "options": [
+            "D'argent pour la course.",
+            "De livres pour les enfants.",
+            "De produits pour les repas.",
+            "D'une voiture pour le transport."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 14,
+        "testId": 166,
+        "text": "Pierre, je suis sorti pour une urgence. Tu peux m'attendre au café au coin de la rue, c'est le plus sympa du quartier. Je serai de retour à la maison vers 19h. Désolé.\n\nDominique\n\nPS : Mon téléphone est cassé !",
+        "query": "Qu'est-ce que Dominique explique à Pierre ?",
+        "options": [
+            "Il a un rendez-vous à l'hôpital.",
+            "Il doit annuler leur rencontre.",
+            "Il est parti acheter un portable.",
+            "Il va arriver en retard chez lui."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 15,
+        "testId": 166,
+        "text": "Lundi prochain, en France, les librairies organisent une soirée du livre de jeunesse. Au programme, des activités pour enfants et des dégustations de desserts. On pourra aussi voir sur grand écran les princes et princesses du cinéma.",
+        "query": "Que pourra-t-on faire aux soirées du livre de jeunesse ?",
+        "options": [
+            "Écouter des chansons.",
+            "Gagner des cadeaux.",
+            "Goûter des recettes.",
+            "Jouer dans un film."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 16,
+        "testId": 166,
+        "text": "Inauguré en décembre 2012 dans le nord de la France, le musée du Louvre-Lens célèbre ses 5 ans avec une programmation spéciale. L'ambition initiale était d'attirer un public différent de celui du célèbre musée du Louvre à Paris. L'objectif est atteint : 65% des visiteurs sont originaires de la région du Nord, 18% sont ouvriers ou employés et plus de la moitié d'entre eux déclarent aller rarement au musée. À l'occasion de cet anniversaire, une quarantaine de nouveaux chefs-d'œuvre du Louvre-Paris y seront exposés.",
+        "query": "Qu'apprend-on sur le Louvre-Lens ?",
+        "options": [
+            "C'est un musée peu fréquenté.",
+            "Il a réussi à séduire un public local.",
+            "On y découvrir l’histoire de la région.",
+            "Sa collection sera présentée à Paris."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 17,
+        "testId": 166,
+        "text": "Dans les quartiers populaires de Kinshasa, il crée des tableaux en relief à partir des déchets trouvés dans la ville. Certains le prennent pour un fou, d'autres pour un génie. Yeux perçants, mains agiles, jambes déformées par la polio. Emmanuel Botalatala est appelé le « ministre des poubelles ». Ce poste n'est pas officiel, c'est son nom d'artiste. Le documentaire qui lui est consacré présente le rôle qu'un artiste et sa vision peuvent jouer dans une capitale en pleine mutation.",
+        "query": "De quoi est-il question dans cet article ?",
+        "options": [
+            "D'un comédien qui tourne dans des bidonvilles.",
+            "D'un homme qui produit des œuvres originales.",
+            "De la santé d’un membre du gouvernement.",
+            "De mesures écologiques prises par une mairie."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 18,
+        "testId": 166,
+        "text": "La question de l'orientation est fondamentale et se pose inévitablement au moment de commencer des études universitaires. Comment faire le bon choix ? Sur quelles bases ? Quel parcours sera le mieux adapté à la personnalité scolaire et psychologique, aux capacités de l'étudiant ? Un livre, édité par le magazine *L'Étudiant*, propose une démarche progressive qui aide à définir un projet en fonction des goûts et d'un objectif professionnel.",
+        "query": "Que peut-on trouver dans ce livre ?",
+        "options": [
+            "Des idées de stages en entreprise.",
+            "Un guide des démarches d'inscription.",
+            "Une méthode pour choisir une formation.",
+            "Une sélection des meilleures universités."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 19,
+        "testId": 166,
+        "text": "Des études de marché récentes montrent que les frites signent leur grand retour. Leur cote de popularité ne se dément pas mais elles doivent être préparées dans les règles de l'art : pour des frites dorées, moelleuses dedans, croquantes dehors, il faut les cuire, puis les frire en deux temps.\n\nSi la Belgique et la France s'en disputent la paternité, on n'en a toujours pas trouvé l'origine. Avec le bond spectaculaire du burger dont elles sont l'accompagnement idéal, les frites sont fortement consommées au restaurant.",
+        "query": "Que révèle cet article sur les frites ?",
+        "options": [
+            "L'origine historique de la recette.",
+            "Le secret d’une bonne préparation.",
+            "Les adresses où les consommer.",
+            "Les raisons de leur popularité."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 20,
+        "testId": 166,
+        "text": "À l'ère des réseaux sociaux, il n'y a pas une table où les convives ne dégainent leur smartphone pour « poster » immédiatement leur assiette. Peu importe qu'elle refroidisse, que ce soit bon ou pas. Sur la toile, la cuisine est devenue, l'univers le plus plébiscité avec le voyage.\n\nEt même si la vue des mets est un avant-goût du plaisir, réduire la cuisine à une galerie de natures mortes, aussi belles soient-elles, n'est pas sans interroger. « Pour moi, la bonne cuisine, c'est quand on soulève le couvercle, que ça fume, que ça sent bon et qu'on peut se resservir », disait le grand cuisinier Paul Bocuse. Pour les réseaux sociaux, c'est un plat qui en met plein la vue et qu'on vous sert sur écran plat.\n\n<br/><p style=\"text-align: right;\">D'après <i>lefigaro.fr</i></p>",
+        "query": "Qu'apprend-on dans cet article ?",
+        "options": [
+            "La réputation de restaurants touristiques est menacée par internet.",
+            "La technologie modifie la relation à la gastronomie.",
+            "Les grands chefs livrent leurs secrets sur des sites.",
+            "Les traditions culinaires peuvent se perpétuer grâce au numérique."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 21,
+        "testId": 166,
+        "text": "<p style=\"text-align: right;\">Paris, le 13 mars</p>\n\n<br/>Madame, Monsieur,\n\n<br/>&nbsp;&nbsp;&nbsp;&nbsp; Ce courrier fait suite à mon achat d'un téléphone le 5 mars dernier. Après réflexion, je souhaiterais le rendre, car j'ai finalement décidé d'acheter un appareil avec messagerie intégrée.\n\n<br/>&nbsp;&nbsp;&nbsp;&nbsp; Ainsi, je vous prie de bien vouloir me restituer la somme de 80 euros, correspondant à la somme versée le 5 mars par chèque.\n\n<br/>&nbsp;&nbsp;&nbsp;&nbsp; Dans l'attente de votre réponse, je vous transmets, Madame, Monsieur, mes meilleures salutations.\n\n<br/>*<p style=\"text-align: right;\">André Cellier</p>*",
+        "query": "Quel est l'objet de la lettre de monsieur Cellier ?",
+        "options": [
+            "Le remboursement de son article.",
+            "L'échange de son téléphone.",
+            "L'envoi de son téléphone par la poste.",
+            "Une réclamation sur son achat."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 22,
+        "testId": 166,
+        "text": "Pendant un an, la journaliste allemande Greta Taubert a décidé de quitter la société de consommation sans quitter son appartement berlinois. Pendant cette expérience, elle bu, mangé, s'est habillée sans payer : elle a échangé jupes et pantalons avec ses voisines, planté des légumes dans un jardin collectif. Pour ses vacances, elle est allée chez des amis en faisant de l'auto-stop. « Aujourd'hui, je suis contente de ne plus vivre aussi radicalement, c'était difficile mais je cherche à intégrer dans mon quotidien ce que j'ai appris », explique-t-elle.\n\n<br/><p style=\"text-align: right;\">D'après <i>linternaute.com</i></p>",
+        "query": "Quel est le constat de Greta Taubert après cette expérience ?",
+        "options": [
+            "C'est possible à la campagne.",
+            "C'est possible avec du temps.",
+            "C'est possible mais pénible.",
+            "C'est possible pour tous."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 23,
+        "testId": 166,
+        "text": "## <p style=\"text-align: center;\">Éducation numérique</p>\n\nIl n'y presque plus aujourd'hui de manuel scolaire qui paraisse sans avoir une double traduction, numérique et en ligne. C'est devenu le standard de la production au terme d'une mutation très rapide. Mais cependant, nous restons en proximité forte avec le manuel classique. De nouvelles applications qui seraient déconnectées du livre papier ne nous paraissent pas encore à ce stade conformes à notre mission, ni répondre aux attentes de la majorité des enseignants. En outre, cela ne correspond pas à l'équipement de la très grande majorité des établissements. Autrement dit, les conditions d'un changement d'ensemble ne sont pas réunies.\n\nM. Huet, éditeur de manuels scolaires",
+        "query": "Quelle est la position de cet éditeur de manuels sur la croissance du support numérique ?",
+        "options": [
+            "Il considère que l'ère du support papier est définitivement terminée.",
+            "Il estime qu'il reste du travail à faire pour mieux préparer cette évolution.",
+            "Il juge indispensable de n'utiliser que les supports électroniques.",
+            "Il pense qu'il faut privilégier le contact des élèves avec l'outil internet."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 24,
+        "testId": 166,
+        "text": "### Fixer des limites strictes à la pêche, c'est l'action que va mener l'Australie afin de protéger la vie aquatique.\n\n« Il est temps que la planète franchisse une nouvelle étape dans la protection des océans » a déclaré le ministre australien de l'environnement. La création d'un réseau de parcs naturels aura un impact sur le secteur de la pêche commerciale qui devrait recevoir 79,2 millions d'euros en contrepartie. La fondation australienne pour la protection de l'environnement a qualifié cette annonce d'« historique » mais elle a souligné que plusieurs zones restaient menacées par l'exploitation humaine des ressources naturelles.\n\n<br/><p style=\"text-align: right;\">D'après <i>www.lavoixdunord.fr</i></p>",
+        "query": "Que projette le gouvernement australien?",
+        "options": [
+            "D'aménager des réserves restreignant la pêche.",
+            "D'encourager une politique mondiale de la pêche.",
+            "D'organiser des contrôles pour surveiller la pêche.",
+            "De créer des taxes sur les produits de la pêche."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 25,
+        "testId": 166,
+        "text": "Dans cette belle institution qu'est l'Éducation nationale, ce sont les profs qui font tourner la boutique. Ce sont eux qui, chaque jour, nourrissent intellectuellement ceux qui feront la France de demain. Sans eux et leur amour du métier, l'école française se serait effondrée depuis belle lurette et ferait encore moins bien que ses résultats actuels. Notre journal veut donc leur dire merci en publiant quelques portraits et en vous demandant de nous signaler d'autres « héros de l'école ».\n\n### <p style=\"text-align: center;\">ENVOYEZ-NOUS VOS MESSAGES, NOUS LES PUBLIERONS.</p>",
+        "query": "D'après le texte, quel rôle jouent les enseignants dans l'institution scolaire ?",
+        "options": [
+            "Ils influencent les élèves au-delà de la classe.",
+            "Ils instillent le goût du travail en équipe.",
+            "Ils permettent au système de se maintenir.",
+            "Ils suscitent de nombreuses vocations."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 26,
+        "testId": 166,
+        "text": "Une enquête réalisée auprès de professeurs révèle que le manuel scolaire numérique est préféré pour l'étude d'images, de photos, de cartes... Au contraire, le papier est privilégié pour la réalisation d'exercices, l'étude de textes et les évaluations. Les professeurs choisissent ainsi l'outil le mieux adapté à leurs besoins.\n\nPar ailleurs, les enseignants voient le manuel numérique comme un moyen de capter l'attention des élèves et d'améliorer la participation en classe.",
+        "query": "Quelle information donne cette enquête sur les pratiques des enseignants ?",
+        "options": [
+            "Ils alternent les supports selon le type d'activité.",
+            "Ils hésitent à utiliser les techniques informatiques.",
+            "Ils optent toujours pour des ouvrages imprimés.",
+            "Ils tiennent compte des progrès des apprenants."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 27,
+        "testId": 166,
+        "text": "### <p style=\"text-align: center;\">Renaissance: un mot porteur de sens à de nombreux égards.</p>\n\nHistoriquement, elle symbolise le passage vers une ère nouvelle, créatrice, effervescente.\n\nUn retour aux sources et des artistes humanistes nourris par l'idée de temps nouveaux faits d'espoir et de confiance en l'homme. Ces multiples lectures ont été source d'inspiration pour la nouvelle collection.\n\nC'est aussi l'énergie nouvelle, un regain de vitalité. Avec une ligne plus urbaine, hommes et femmes trouveront dans des coupes près du corps aux couleurs toniques des tenues à leurs mesures pour affronter l'hiver avec sourire et imagination.",
+        "query": "D'où est tiré ce texte ?",
+        "options": [
+            "D'un catalogue de styliste.",
+            "D'un dictionnaire philosophique.",
+            "D'un manuel d'histoire de l’art.",
+            "D'une présentation de musée."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 28,
+        "testId": 166,
+        "text": "### <p style=\"text-align: center;\">L'huile de palme est l'huile la plus produite au monde.</p>\n\nUn tiers de nos produits de consommation courante en contiennent. Or, on lui reproche beaucoup de choses. Elle serait responsable du cholestérol. Autre problème, environnemental cette fois : la culture du palmier à huile étant très rentable, les surfaces de plantation ne cessent d'augmenter, souvent en lieu et place des forêts. Il existe pourtant d'autres huiles qui peuvent la remplacer mais c'est une solution plus onéreuse pour les industriels du secteur agro-alimentaire.\n\n<br/>D'après *www.liberation.fr*",
+        "query": "Pourquoi l'huile de palme est-elle produite massivement ?",
+        "options": [
+            "C'est un produit recherché par les consommateurs.",
+            "Elle valorise des méthodes agricoles traditionnelles.",
+            "Ses qualités nutritionnelles sont reconnues.",
+            "Son exploitation génère des revenus élevés."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 29,
+        "testId": 166,
+        "text": "Plus de 40% des espèces d'insectes sont en déclin et un tiers sont menacées. Leur taux de mortalité est huit fois plus rapide que celui des mammifères. À ce rythme, s'inquiètent les scientifiques, les insectes pourraient disparaître d'ici un siècle. Cette prévision est préoccupante car ils sont essentiels au bon fonctionnement de tous les écosystèmes. Ils pollinisent les plantes, recyclent les nutriments et servent de nourriture aux autres animaux. Leur disparition « aura des conséquences catastrophiques à la fois pour les écosystèmes de la planète et pour la survie de l'humanité ». « Si les modes de production alimentaire ne changent pas, les insectes dans leur ensemble s'engageront sur la voie de l'extinction dans quelques décennies », écrivent les chercheurs.\n\n<br/><p style=\"text-align: right;\">D'après <i>lemonde.fr</p>",
+        "query": "D'après l'article, qu'est-ce qui est à l'origine de la disparition des insectes ?",
+        "options": [
+            "Les changements de climat.",
+            "Les méthodes de culture.",
+            "Les oiseaux prédateurs.",
+            "Les politiques publiques."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 30,
+        "testId": 166,
+        "text": "Paul Bocuse n'était pas le plus créatif, ni le meilleur technicien de cette génération de chefs d'exception qui a vu éclore des cuisiniers de renommée internationale. Mais il avait une vision, du culot et un véritable talent de meneur.\n\nHistoire de donner une stature plus imposante aux cuisiniers, il a lancé la mode de la fameuse veste blanche « grand chef », avec le nom brodé sur la poitrine et le port de la toque démesurée qui évoque la coiffe des pharaons.\n\nDès ses débuts, sa personnalité et son sens de la formule ont fait mouche auprès de la presse, qui a publié de nombreux portraits flatteurs, faisant affluer les clients dans son restaurant.",
+        "query": "D'après ce journaliste, quelle a été la clé du succès de Paul Bocuse?",
+        "options": [
+            "Sa connaissance des médias.",
+            "Ses méthodes ancestrales.",
+            "Ses recettes originales.",
+            "Son charisme incroyable."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 31,
+        "testId": 166,
+        "text": "Ma chère Amélie,\n\n<br/>Merci pour la lettre. Je suis contente que tu te plaises dans la nouvelle résidence. Il faut dire que le soleil et à proximité de la mer rendent la vie plus agréable. Ta proposition me fait plaisir et je pense pouvoir te rejoindre bientôt. Cela ne me gêne pas que les travaux ne soient pas terminés dans la maison et je me réjouis de pouvoir profiter de la plage et de ton jardin.\n\n<br/>Encore mille mercis.\n\n<br/><p style=\"text-align: right;\"><i>Florence</i></p>",
+        "query": "Quelle information est absente de la lettre ?",
+        "options": [
+            "Amélie a déménagé récemment.",
+            "Amélie a invité Florence.",
+            "Florence a beaucoup de travail.",
+            "Florence aime le bord de mer."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 32,
+        "testId": 166,
+        "text": "Dans le monde de la littérature jeunesse, Michèle Moreau est une référence. Les bénévoles de l'association lire et faire lire, l'ont écoutée raconter son parcours et son engagement au service de cette littérature, au cours d'un « atelier comptines ». Michèle Moreau a montré les constantes, l'universalité des comptines et histoires qu'elle a éditées. Elle a aussi défendu l'idée que la littérature jeunesse n'était pas « une sous-culture » : « L'idée qu'il existerait un répertoire réservé aux enfants m'est inconnues. Si l'on n'est pas d'abord ému en tant qu'adulte, les enfants ne le seront pas non plus. Un livre ou un livre-disque doit savoir parler autant aux enfants qu'aux adultes, c'est pour cela que musiques, textes et illustrations sont particulièrement soignés. »",
+        "query": "Selon Michèle Moreau, à quoi reconnaît-on un bon livre jeunesse ?",
+        "options": [
+            "Il a plus d'illustrations que d'écrit.",
+            "Il préserve l'imaginaire des enfants.",
+            "Il touche également les adultes.",
+            "Il valorise le patrimoine littéraire."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 33,
+        "testId": 166,
+        "text": "Cette année encore, les adeptes de la culture ne savent plus où donner de la tête et du porte-monnaie. En nombre sans cesse croissant - notamment depuis que les collectivités territoriales (régions, départements...) ont compris le parti qu'elles pouvaient tirer de leur investissement en matière de communication - les festivals de musique foisonnent et les indicateurs sont au beau fixe, avec des rendez-vous emblématiques comme les Francofolies de La Rochelle et les Vieilles Charrues. L'année dernière, ils assuraient avoir battu des records de fréquentation.\n\n<br/>D'après *www.liberation.fr*",
+        "query": "Dans cet article, qu'apprend-on sur les festivals ?",
+        "options": [
+            "D'anciens artistes ont l'occasion de monter sur scène.",
+            "Les financements publics contribuent à leur expansion.",
+            "Les organisateurs s'adaptent aux nouvelles tendances.",
+            "Les tarifs proposés dépendent de la programmation."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 34,
+        "testId": 166,
+        "text": "Sur la côte de la Tanzanie, la petite bourgade de Pangani s'organise autour de son fleuve éponyme dont l'eau est de plus en plus viciée même s'il participe à lui donner des allures d'éden. Le fleuve a pourtant été depuis des décennies, la principale raison de vivre dans la région fournissant eau fraîche et travail aux pêcheurs. Dans son reportage, Federico Romano dévoile son ambivalence. Alors que Pangani est paradisiaque, calme et bordée de palmiers, il y a comme un ennemi invisible: les gens y boivent tous l'eau du fleuve, parce qu'ils n'ont tout simplement pas d'autre solution, alors que celle-ci n'a plus rien à voir avec de l'eau douce.",
+        "query": "Que révèle-t-on sur ce fleuve?",
+        "options": [
+            "Il constitue un bienfait autant qu’un problème.",
+            "Il est menacé d’assèchement.",
+            "Il pollue les terres avoisinantes.",
+            "Il représente un attrait touristique essentiel."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 35,
+        "testId": 166,
+        "text": "L'homme est de noir vêtu. Son crône, nu, joue avec la lumière. Tout est dit, tout est là, dans ce jeu d'ombre et de clarté qui fait d'un bâtisseur un poète. Jean Nouvel façonne le mystère pour insuffler du vivant aux édifices au cœur de pierre et bâtit sans dénaturer. Cet architecte éclairé n'érige rien, il convie cette émotion, suscite une apparition pour sa dernière création, l'œil découvre une ville-musée aux formes douces, un dôme qui semble né des mains d'une dentellière. Le dôme repose sur quatre piliers pour gagner en légèreté et s'allier au paysage, trait d'union avec les nuages.",
+        "query": "Quelle particularité de Jean Nouvel est louée dans cet article ?",
+        "options": [
+            "Sa technique puise dans divers mouvements artistiques.",
+            "Ses œuvres se fondent dans leur environnement.",
+            "Son inspiration provient de ses nombreuses lectures.",
+            "Son savoir-faire met en valeur des procédés connus."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 36,
+        "testId": 166,
+        "text": "On connait Cézanne surtout pour ses paysages, mais le Musée d'Orsay montre, pour la première fois, une partie méconnue de l'œuvre de l'artiste. On y croisera ainsi le visage de son épouse, seul motif autant étudié par le peintre que la montagne Sainte-Victoire. Au fil des versions, Hortense Fiquet devient l'objet d'une recherche plastique, de mise en scène et de géométrisation des formes. Mais Cézanne peut aussi avoir le pinceau cruel. Dès ses débuts, les figures de son père et de sa mère sont tourmentées. Lui-même se représente à 27 ans, patibulaire et le regard injecté de sang. À la fin de sa vie, Cézanne choisit des anonymes du monde rural. Ses tableaux ne sont alors qu'une autre forme de paysage.",
+        "query": "Que souligne cette exposition sur Paul Cézanne ?",
+        "options": [
+            "L'influence de ses contemporains.",
+            "La singularité de ses portraits.",
+            "Son engouement pour la nature.",
+            "Son travail post-impressionniste."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 37,
+        "testId": 166,
+        "text": "*Le Monde de l'éducation* a atteint son ambition : devenir la référence nationale en matière d'enseignement. Un succès confirmé par une récente enquête qui nous crédite d'un taux de satisfaction exceptionnellement élevé. Mais nos abonnés sont souvent des établissements scolaires... où *Le Monde de l'éducation* est le magazine français le plus « photocopillé » : environ 4000 exemplaires vendus pour plus d'un million cent mille lecteurs ! Un écart vente-lectorat devenu insupportable. Depuis 1974, *Le Monde de l'éducation* a accompli de nombreuses transformations. Après trente-quatre ans au service de l'éducation, votre magazine va vivre sa mue la plus importante. De mensuel payant vendu en kiosques ou par abonnement, il va devenir un supplément gratuit proposé avec le quotidien *Le Monde*.\n\n<br/>D'après www.lemonde.fr",
+        "query": "Qu'est-ce qui a justifié la transformation du Monde de l'éducation ?",
+        "options": [
+            "Une adéquation avec l'attente des lecteurs.",
+            "Une diffusion abusive de copies illégales.",
+            "Une offre promotionnelle provisoire.",
+            "Une perte croissante du nombre d'abonnés."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 38,
+        "testId": 166,
+        "text": "Inexorablement, la cravate perd de sa superbe. Un abandon progressif constaté par Serge Carreira maître de conférences à Sciences Po Paris et spécialiste du luxe et du mode : on l'impose de moins en moins de manière systématique à tout le monde au sein d'une entreprise. Toutefois, il existe des secteurs qui résistent à la tendance. Dans le monde de la finance, dans la haute administration, la cravate reste quelque chose de statutaire, estime Serge Carreira. C'est un symbole d'autorité et de respect vis-à-vis de ses interlocuteurs, de ses clients... Un formalisme qui n'est pas toujours très bien compris par les principaux intéressés : Josselin travaille pour une banque d'entreprise, il n'est pas en contact avec les clients et pourtant il doit se plier à la règle.",
+        "query": "Pourquoi certains continuent-ils à porter la cravate au travail ?",
+        "options": [
+            "C'est un accessoire d'élégance masculine.",
+            "C'est un signe de reconnaissance entre pairs.",
+            "C'est une coutume en réunion.",
+            "C'est une marque de courtoisie."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 39,
+        "testId": 166,
+        "text": "J'ai la naïveté de penser qu'un peu d'imagination n'est pas totalement absurde lorsqu'on écrit des romans. Or, à mon sens, l'imagination est le but de deux choses fondamentales : l'ennui, à qui on donne trop souvent un mauvais rôle, et l'observation, qui n'est pas seulement un terme médical. Il s'avère que le téléphone intelligent, ce charmant objet, si nécessaire, si vital, fait peu à peu disparaître ces deux activités de fainéants du cerveau humain que sont l'ennui et l'observation. Pourquoi s'ennuyer quand on peut regarder des vidéos de chaton ou des notifications Facebook de la plus haute importance dans une salle d'attente? En somme, grâce à ce téléphone intelligent, vous pouvez regarder en permanence le résultat de l'imagination brillante des autres (au détriment de la vôtre).",
+        "query": "Quelle est l'attitude de l'auteur vis-à-vis du téléphone intelligent ?",
+        "options": [
+            "Il reconnaît ses aspects pratiques.",
+            "Il remet en cause ses bienfaits.",
+            "Il s'inquiète de son usage abusif.",
+            "Il s'émerveille de sa technologie."
+        ],
+        "answer": 2
+    }
+]
