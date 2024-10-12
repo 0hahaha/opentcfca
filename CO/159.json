@@ -1,0 +1,511 @@
+[
+    {
+        "id": 1,
+        "testId": 159,
+        "text": "A. J'aimerais ouvrir ce colis. C'est un cadeau.\n\nB. Je n'arrive pas à écrire le courrier pour le directeur.\n\nC. Je voudrais envoyer cette lettre, s'il vous plaît.\n\nD. Le facteur est passé. Tu vas chercher le courrier?",
+        "audio": "/mp3/159/1.mp3",
+        "img": "/mp3/159/1.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 2,
+        "testId": 159,
+        "text": "A. Ah, les petits boissons.\n\nB. Regarde, je nage.\n\nC. Il pleut, vite.\n\nD. C'est mon papa.",
+        "audio": "/mp3/159/2.mp3",
+        "img": "/mp3/159/2.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 3,
+        "testId": 159,
+        "text": "Comment tu trouves les photos de sarah?\n\nA. Bravo.\n\nB. Enchanté.\n\nC. Félicitations.\n\nD. Magnifique.",
+        "audio": "/mp3/159/3.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 4,
+        "testId": 159,
+        "text": "Sophia, est-ce que tu pars en vacances cet été?\n\nA. Oui, je peux te conseiller un hôtel.\n\nB. Oui, je préfère prendre le train.\n\nC. Oui, je retourne au Maroc.\n\nD. Oui, je vais rester chez moi.",
+        "audio": "/mp3/159/4.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 5,
+        "testId": 159,
+        "text": "— Il est 19 heures. Si on veut arriver au cinéma avant le début du film et trouver une place dans la salle, il faut partir maintenant.\n\n— Partir maintenant? Mais regarde, il pleut!\n\nA. Oui, mais la salle est sombre.\n\nB. Oui, mais le cinéma est près d'ici.\n\nC. Oui, mais le film se passe en plein air.\n\nD. Oui, mais les places sont chères.",
+        "audio": "/mp3/159/5.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 6,
+        "testId": 159,
+        "text": "J'ai trouvé un nouveau restaurant. On réserve une table pour deux à midi? Tu es d'accord?\n\nA. Désolé, je mange avec mes collègues.\n\nB. Désolé, je ne peux pas t'aider.\n\nC. Désolé, je préfère le menu à 18 euros.\n\nD. Désolé, je te réponds dans la soirée.",
+        "audio": "/mp3/159/6.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 7,
+        "testId": 159,
+        "text": "Quand êtes-vous arrivé en France ?\n\nA. Chaque jour.\n\nB. Il y a trois mois.\n\nC. Pendant tout l'été.\n\nD. Pour quelques semaines.",
+        "audio": "/mp3/159/7.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 8,
+        "testId": 159,
+        "text": "Je m'appelle Albert, j'ai 36 ans, je viens de Versailles, et je suis traducteur en anglais et chinois. Et toi, qu'est-ce que tu viens étudier à Montréal?\n\nA. J'ai choisi les cours de littérature.\n\nB. J'ai habité à Bruxelles et à Paris.\n\nC. J'ai trouvé une chambre d'étudiants.\n\nD. J'ai voyagé pendant deux ans.",
+        "audio": "/mp3/159/8.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 9,
+        "testId": 159,
+        "text": "Ma nièce Camille va avoir 10 ans vendredi prochain. J'aimerais l'emmener au cirque. Tu en penses quoi ?\n\nA. Bien sûr, je déteste les animaux.\n\nB. D'accord, le spectacle est complet.\n\nC. Non, la réservation est obligatoire.\n\nD. Pourquoi pas, c'est un beau cadeau.",
+        "audio": "/mp3/159/9.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 10,
+        "testId": 159,
+        "text": "À 20h50, sur notre chaîne, participez à notre émission. Composez le 01-40-00-01-01 pour choisir la meilleure chanson francophone de l'année. Que doit-on faire pour participer ?",
+        "audio": "/mp3/159/10.mp3",
+        "options": [
+            "Écrire.",
+            "Téléphoner.",
+            "Lire.",
+            "Écouter."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 11,
+        "testId": 159,
+        "text": "— Salut Ayat ! Waouh ! Il est beau ton manteau !\n\n— Merci ! Il est parfait pour l'automne et le froid qui arrive.\n\n— Oui, moi j'adore cette époque. Les couleurs des arbres sont magnifiques. C'est super pour se promener en forêt. Et on peut sortir son beau manteau, comme toi.\n\n— Mais moi en fait, je préfère l'été. Les vêtements légers, être dehors...\n\n— Eh bien, on n'a pas les mêmes goûts. Mais bon, c'est vrai qu'il fait un peu froid dehors. On va boire un café ?\n\nSur quoi est-ce que ces deux personnes ont des goûts différents ?",
+        "audio": "/mp3/159/11.mp3",
+        "options": [
+            "La mode.",
+            "La nature.",
+            "Les saisons.",
+            "Les vacances."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 12,
+        "testId": 159,
+        "text": "— Est-ce que tu veux participer au cadeau pour Daniel ?\n\n— Un cadeau ? Pourquoi ?\n\n— Il part à la retraite à la fin du mois.\n\n— Il part déjà ? Le service semblera vide sans lui. Et comment va faire le chef sans son secrétaire ?\n\n— Ha, ça ! Il essaie de trouver quelqu'un pour le remplacer, mais je crois qu'il va avoir du mal à trouver un aussi bon employé que lui.\n\n— Si le remplaçant doit plaire au chef, aux collègues et aux clients, c'est sûr, ça va être dur.\n\nPour ces personnes, qui est Daniel ?",
+        "audio": "/mp3/159/12.mp3",
+        "options": [
+            "Leur client.",
+            "Leur collègue.",
+            "Leur directeur.",
+            "Leur professeur."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 13,
+        "testId": 159,
+        "text": "— Votre association, Génération Médiateur, réunit en cette fin de semaine près de 150 jeunes médiateurs à la Grande Arche de la Défense. Ils sont collégiens, lycéens ou étudiants, mais qu'est-ce qu'un médiateur ? À quoi sert-il dans un collège-lycée ?\n\n— C'est un jeune qui a suivi une formation particulière. Il est ensuite au service de ses camarades dans son établissement. Il peut intervenir si ses camarades le lui demandent, ou bien il propose lui-même son aide quand il y a des copains qui sont en conflit, qui connaissent une rivalité. Souvent, le médiateur va pouvoir intervenir avant que le conflit ne se mette à dégénérer et à se transformer en violence.\n\nQuel est le sujet de cette interview ?",
+        "audio": "/mp3/159/13.mp3",
+        "options": [
+            "La création d’un réseau de médiateurs.",
+            "Le financement nécessaire aux médiateurs.",
+            "Le partage d’expériences entre médiateurs.",
+            "Le rôle des médiateurs en milieu scolaire."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 14,
+        "testId": 159,
+        "text": "— Puis-je déposer mon manteau ?\n\n— Certainement madame, c'est à votre gauche. Cette année, c'est gratuit pour les abonnés au théâtre.\n\n— Oh, voilà une bonne nouvelle pour débuter la saison !\n\n— Je vous souhaite une agréable soirée.\n\nQue souhaite faire la femme ?",
+        "audio": "/mp3/159/14.mp3",
+        "options": [
+            "Féliciter les acteurs dans leur loge.",
+            "Remettre un vêtement au vestiaire.",
+            "Retourner à la salle de spectacle.",
+            "S'informer sur la programmation."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 15,
+        "testId": 159,
+        "text": "— Rafika de Buffalo, bienvenue dans La Terre est Belle.\n\n— Bonjour Mark.\n\n— Alors, nous sommes ravis de vous avoir à l'antenne parce qu'on n'a jamais eu personne de Buffalo. Vous allez nous apprendre des choses. Ça se trouve, vous déjà ?\n\n— Totalement à l'ouest de l'état de New York. C'est limitrophe du Canada.\n\n— C'est drôle comme nom. Il n'y a pas spécialement de buffles ou de choses comme ça ?\n\n— Non. D'après la légende, ça vient de Beau-fleuve, un nom donné par les explorateurs français. Enfin, c'est l'histoire qu'on raconte.\n\nPour quelle raison Rafika intervient-elle?",
+        "audio": "/mp3/159/15.mp3",
+        "options": [
+            "Pour conseiller un livre.",
+            "Pour discuter d’écologie.",
+            "Pour parler de sa ville.",
+            "Pour raconter un voyage."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 16,
+        "testId": 159,
+        "text": "— Pourquoi en si peu de temps, on est venu à 7 milliards sur Terre ?\n\n— Parce que la mortalité a diminué, notamment la mortalité des enfants, grâce au progrès de l'hygiène, de la médecine, au progrès économique. Résultat, les décès sont devenus moins nombreux et est apparu un excédent des naissances sur les décès qui a entraîné une augmentation de la population.\n\nQu'explique cet homme ?",
+        "audio": "/mp3/159/16.mp3",
+        "options": [
+            "La crise de l’économie mondiale.",
+            "L’accroissement de la population.",
+            "Les nouvelles règles d’hygiène.",
+            "Les récentes découvertes médicales."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 17,
+        "testId": 159,
+        "text": "— Pouvez-vous envoyer un courriel pour la réunion de cet après-midi, mademoiselle ?\n\n— Oui, bien sûr. Mais n'oubliez pas votre rendez-vous de 16h avec M. Demers.\n\n— Ah oui, c'est vrai. Mais il faudra le faire patienter. Je ne pense pas que la réunion sera terminée à 16h. Je le verrai plus tard.\n\n— Très bien, monsieur. Il vaut mieux que je l'appelle pour le prévenir.\n\nPourquoi la secrétaire doit-elle appeler M. Demers ?",
+        "audio": "/mp3/159/17.mp3",
+        "options": [
+            "Pour annuler une réunion.",
+            "Pour convoquer un collègue.",
+            "Pour changer un rendez-vous.",
+            "Pour annoncer un retard."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 18,
+        "testId": 159,
+        "text": "— Est-ce que tu achètes des vêtements sur Internet?\n\n— Oui, souvent. Les prix sont vraiment intéressants.\n\n— Moi, j'ai eu une mauvaise expérience l'autre jour. J'ai commandé un pantalon, mais ils ont fait une erreur. Et ils m'ont envoyé un modèle complètement différent. J'ai réussi à le rendre, mais c'était compliqué. Finalement, je préfère les boutiques. Au moins, on sait ce qu'on achète.\n\n— Tu n'as pas eu de chance.\n\nQu'est-ce qui déplaît à la jeune femme dans les achats en ligne?",
+        "audio": "/mp3/159/18.mp3",
+        "options": [
+            "Le prix élevé des produits.",
+            "Les délais pour être livrée.",
+            "Les difficultés en cas d’échange.",
+            "Les tailles de vêtements différentes."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 19,
+        "testId": 159,
+        "text": "— Tout le monde rêve de faire de la proximité, d'être proche des auditeurs, alors quand on est une radio associative, locale, on a plus de facilité. Vous, chaque vendredi, vous ouvrez le local à 13h, on peut venir avec son panier et on partage en commun le repas.\n\n— Tout à fait, et là pour la fin de l'année, on a donc lancé une invitation à tous ceux qui voudraient pour venir manger avec nous et réaliser une émission collective de fin d'année, un petit peu festive.\n\nQue propose chaque semaine cette radio à ses auditeurs ?",
+        "audio": "/mp3/159/19.mp3",
+        "options": [
+            "De déjeuner ensemble.",
+            "De faire une soirée.",
+            "De participer à un jeu.",
+            "De rencontrer un invité."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 20,
+        "testId": 159,
+        "text": "— Bonjour, monsieur. Vous voulez bien accrocher cette affiche dans votre magasin? Mon école organise une collecte de jouets pour financer notre voyage en Europe. On organisera ensuite une tombola. Les billets seront vendus à deux euros.\n\n— C'est une très bonne idée. Je vais la mettre sur la porte. Où est-ce que les gens doivent déposer les jeux qu'ils veulent donner?\n\n— Dans un coin de votre boutique, si ça ne vous dérange pas. Je peux vous laisser ce carton?\n\n— J'ai pas tellement de place. Pour le carton, demandez à la pharmacie juste à côté.\n\nQu'est-ce que le commerçant accepte de prendre?",
+        "audio": "/mp3/159/20.mp3",
+        "options": [
+            "L'affiche.",
+            "Le carton.",
+            "Les billets.",
+            "Les jouets."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 21,
+        "testId": 159,
+        "text": "— Salut, ça va ?\n\n— Ça va, mais mon petit ami est parti pour trois mois pour réaliser un documentaire sur la Gaspésie, une région assez sauvage du Québec.\n\n— Ah oui, je connais. Quelle chance ! J'adorerais y retourner. Et tu vas y aller aussi ?\n\n— J'aimerais bien, mais j'ai des missions prévues prochainement. Mais bon, je vois mon patron demain, je lui demanderai si je peux prendre des vacances.\n\n— Bonne chance. Tu m'écriras pour me raconter ton expérience là-bas. Et préviens-moi quand le film sortira.\n\nDe quoi parlent ces personnes ?",
+        "audio": "/mp3/159/21.mp3",
+        "options": [
+            "D’un projet de voyage.",
+            "D’un changement de travail.",
+            "D’un futur déménagement.",
+            "D’une sortie au cinéma."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 22,
+        "testId": 159,
+        "text": "— Tiens, c'est le Salon de l'Agriculture la semaine prochaine. Il faut que vous y alliez Françoise. Je suis sûr que vous allez adorer.\n\n— Vous savez, moi, j'y connais rien. C'est pas le genre de salon que je fréquente.\n\n— Vous avez tort. Moi j'y vais tous les ans. Imaginez la plus grande ferme du monde qui s'installe en plein Paris pour dix jours.\n\n— Oui, oui, bien sûr. Mais il y a plein d'autres choses intéressantes à faire à Paris.\n\n— Bien sûr. Mais il faut y aller. Vous allez voir les animaux, par exemple. C'est incroyable. Vous pourrez les caresser et... Je ne vous parle pas des spécialités gastronomiques, un régal.\n\n— Vous savez, moi, les animaux, cependant, vous avez éveillé ma curiosité, mais il faudra venir avec moi.\n\nDans ce dialogue, quelle est l'attention du monsieur?",
+        "audio": "/mp3/159/22.mp3",
+        "options": [
+            "Il fait des compliments.",
+            "Il formule une invitation.",
+            "Il cherche à convaincre.",
+            "Il donne des conseils."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 23,
+        "testId": 159,
+        "text": "— Alors Sarah, comment se passe la vie en colocation?\n\n— Ah écoute, tu sais, une seule douche pour 4, ça n'est vraiment pas commode, surtout le matin. Mais bon, on s'organiser un peu, c'est tout.\n\n— Ah, c'est toujours mieux que la chambre de bonne que tu avais avant, non?\n\n— T'as raison, 9 mètres carrés pour 750 euros, c'est exagéré, même avec une vue sur la tour Eiffel. Au moins maintenant, le loyer est divisé par 4.\n\n— Et pour les courses, vous faites aussi caisse commune?\n\n— Ah non, là c'est chacun pour soi. C'est aussi bien d'ailleurs, sinon le frigo serait toujours vide.\n\nQu'est-ce que Sarah regrette?",
+        "audio": "/mp3/159/23.mp3",
+        "options": [
+            "De disposer d’une petite surface.",
+            "De partager sa salle de bain.",
+            "De payer un loyer excessif.",
+            "De prendre ses repas seule."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 24,
+        "testId": 159,
+        "text": "Aujourd'hui, de plus en plus de Français ont recours à la colocation comme mode d'hébergement. Pourquoi un tel engouement ? Face aux pénuries des petites surfaces et à l'augmentation des loyers, la colocation est la solution idéale. Elle permet d'accéder à de grands appartements sans en payer intégralement le loyer. Les étudiants ont été les premiers à en comprendre les avantages, suivis par les seniors. Pour eux, l'idée tombe à pic. L'espérance de vie ne cesse de s'allonger et les pensions de retraite ne sont parfois plus suffisantes pour vivre décemment. La colocation entre différentes générations commence donc à se développer. Quel phénomène apparaît chez les seniors?",
+        "audio": "/mp3/159/24.mp3",
+        "options": [
+            "Ils choisissent de partager leur habitation avec des jeunes.",
+            "Ils recherchent des appartements aménagés selon leurs besoins.",
+            "Ils refusent de laisser leurs biens à des locataires sans emploi.",
+            "Ils s’organisent pour faire valoir leur droit au logement."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 25,
+        "testId": 159,
+        "text": "— 87% des gamins ne savent pas à quoi ressemble une betterave, un tiers n'ont jamais vu de poireau et un cinquième ne reconnaît pas un abricot. En ce qui concerne les pâtes, 72% ne savent pas ce qu'il y a dedans. Ça nous parle de nous aujourd'hui ?\n\n— Oui, oui, tout à fait. C'est évidemment un des grands problèmes. Il faut redonner des repères sur les aliments, savoir d'où ils viennent, comment ils poussent, à quoi ça sert. Pour ça, il faut emmener les enfants sur les marchés, faire les courses. Il faut leur montrer quand on fait la cuisine les ingrédients que l'on met. Donc, il faut réapprendre la culture alimentaire qui est quand même dans nos traditions en France.\n\nQuel problème évoquent les interlocuteurs à propos des enfants ?",
+        "audio": "/mp3/159/25.mp3",
+        "options": [
+            "Ils abusent de repas très caloriques.",
+            "Ils consomment peu de produits frais.",
+            "Ils ignorent l’origine de leurs plats.",
+            "Ils refusent de manger des légumes."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 26,
+        "testId": 159,
+        "text": "— Je suis allé voir l'exposition que tu m'as conseillée.\n\n— Et qu'en as-tu pensé ?\n\n— C'était sympa, mais il y a beaucoup d'œuvres que je n'ai pas comprises. Et puis, j'y suis allé jeudi en soirée, il y avait du monde.\n\n— Tu aurais dû attendre ce week-end, j'y retourne, et j'aurais pu t'expliquer pas mal de choses.\n\n— C'est vrai que tu es passionné d'art contemporain. La prochaine fois, je te demanderai de m'accompagner.\n\nQue regrette le jeune homme ?",
+        "audio": "/mp3/159/26.mp3",
+        "options": [
+            "D'avoir choisi d’y aller seul.",
+            "D'avoir attendu dans une file.",
+            "D'avoir manqué quelques œuvres.",
+            "D'avoir suivi le conseil de son amie."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 27,
+        "testId": 159,
+        "text": "— Salut Didier ! Tu te souviens qu'on dîne chez Xavier samedi soir ?\n\n— Chez Xavier ? Mais non, je pars en Normandie avec mon frère !\n\n— Oh non, pas de Normandie. On fête l'anniversaire de Martine. Elle serait très déçue que tu ne viennes pas.\n\n— Ah non, c'était même pas sûr.\n\n— Arrête, tu avais promis, tu devais même apporter le dessert. Moi ?\n\n— Mais...\n\n— Tu te débrouilles, on sera douze. Tu choisis un dessert sur lequel on peut mettre 25 bougies. Je m'occupe du cadeau et des bougies.\n\n— Bon, je vais essayer de m'arranger...\n\n— Non, non, non, pas essayer. Tu viens !\n\nD'après son ami, à quoi Didier s'était-il engagé ?",
+        "audio": "/mp3/159/27.mp3",
+        "options": [
+            "À partir en voyage en province.",
+            "À acheter les bougies d’anniversaire.",
+            "À acheter le cadeau pour leur amie.",
+            "À s’occuper du gâteau d’anniversaire."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 28,
+        "testId": 159,
+        "text": "— Quels sont les objectifs de carrière des étudiants ?\n\n— Vous savez, hommes et femmes aspirent à utiliser salaire et promotion, non seulement pour pouvoir utiliser une entreprise comme un nom sur un CV, mais aussi pour obtenir un réel accélérateur de carrière. Plus simplement, ce qui attire hommes et femmes, c'est d'envisager de pouvoir gagner beaucoup plus. Les kilos euros de leur premier salaire ne sauraient donc être un frein à leur entrée dans une société, tant que ces jeunes diplômés peuvent se projeter dans une globalité liant augmentation salariale et promotion interne rapide.\n\nQue désirent les jeunes en commençant leur carrière ?",
+        "audio": "/mp3/159/28.mp3",
+        "options": [
+            "Une ascension professionnelle accompagnée de revenus confortables.",
+            "Une nomination à un premier poste valorisant au sein de l’entreprise.",
+            "Une opportunité de multiplier les contrats dans différentes entreprises.",
+            "Une reconnaissance rapide de leurs supérieurs sur les résultats obtenus."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 29,
+        "testId": 159,
+        "text": "— Bon, je suis prête. J'ai le cadeau pour le petit Romain. Tu as pris la carte et le plan d'Arnaud?\n\n— La carte est dans la voiture, mais c'est toi qui a le plan.\n\n— Mais non, je te l'ai donné avec le faire-part.\n\n— T'es sûre? Je ne sais pas ce que j'en ai fait. Bon ben, ça fait rien, on va bien trouver.\n\n— Oui, j'espère. La maternité est juste derrière le restaurant, près de la rivière. Tu sais, celui où on a fêté l'anniversaire de mariage de mes parents?\n\n— Ah oui, j'y suis retourné avec mes collègues pour fêter ma nomination comme directeur.\n\nQuelle est la raison du déplacement de ce couple?",
+        "audio": "/mp3/159/29.mp3",
+        "options": [
+            "Un mariage.",
+            "Un anniversaire.",
+            "Une naissance.",
+            "Une promotion."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 30,
+        "testId": 159,
+        "text": "La vieille dame de fer dans tous ses états, où, comment les jeunes, sans complexe, se sont mesurés à cette forme unique qu'est la Tour Eiffel. Pour ce concours, organisé par la Fondation Eiffel, adressée aux élèves des écoles d'architecture, la consigne était de rêver. Concevoir un édifice de très grande hauteur sur le champ de Mars à Paris, à distance, à coller ou à la place de la Tour Eiffel. Trois étudiants suppriment donc carrément la Tour. À la place, ils y construisent un aéroport vertical, ou creusent un puits de lumière avec de vastes plateaux. D'autres choisissent de la rendre habitable en comblant ses vides par des baies de couleurs ou la dot d'un jardin suspendu. De quoi traite ce reportage ?",
+        "audio": "/mp3/159/30.mp3",
+        "options": [
+            "D’un appel à projets imaginaires.",
+            "D’un examen de fin d’études.",
+            "D’un nouveau plan d’urbanisme.",
+            "D’une rénovation d’un monument."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 31,
+        "testId": 159,
+        "text": "On fait un petit tour de France, c'est-à-dire qu'on est parti vers le sud, et on s'est arrêté à La Rochelle, parce que nos ancêtres viennent de La Rochelle. Ils sont partis au 17e siècle pour le Québec du port de La Rochelle, donc on est venu voir le port et essayer de trouver une trace de nos ancêtres. Ce qu'on a commencé par trouver, c'est que c'était plutôt compliqué d'avoir des traces écrites, surtout quand notre ancêtre n'était pas un capitaine de bateau ou quelque chose comme ça. De quoi parle cet interveant?",
+        "audio": "/mp3/159/31.mp3",
+        "options": [
+            "D’une compétition sportive.",
+            "D’une croisière maritime.",
+            "D’une histoire familiale.",
+            "D’une rencontre amoureuse."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 32,
+        "testId": 159,
+        "text": "En fait, comme on habite tous le 19e arrondissement de Paris, le canal de Lourdes qui est devenu notre espace de baignade quotidienne. Après une journée de travail, généralement on se retrouve au bord du canal, tous ensemble, et on se baigne. Aujourd'hui on est entre 15 et 20 à se baigner régulièrement dans le canal de Lourdes. On est des jeunes étudiants fauchés, qu'on a envie de s'amuser, qu'on a pas forcément les moyens aussi de partir de Paris. Que font les jeunes parisiens dont parle ce reportage ?",
+        "audio": "/mp3/159/32.mp3",
+        "options": [
+            "Ils nagent en plein air dans la capitale.",
+            "Ils s’amusent dans un parc d’attractions.",
+            "Ils se retrouvent à la piscine municipale.",
+            "Ils sont en vacances au bord de la mer."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 33,
+        "testId": 159,
+        "text": "— Jean-Philippe, la Coalition pour l'avenir du Québec veut aussi réduire la dette.\n\n— Ce que propose François Legault, c'est d'investir 100% des redevances tirées des ressources naturelles pour rembourser la dette. On pourrait la chercher environ 200 millions de dollars par année. Mais pour Simon Tremblay-Pépin, de l'Institut de recherche et d'information socio-économique, ce n'est pas du tout une bonne idée.\n\n— Au lieu d'investir dans des services publics qui, évidemment, sont dynamiques, qui aident à favoriser la croissance de l'économie et donc à réduire son rapport avec la dette, eh bien, là, on décide de le retirer du secteur de l'économie. Donc, ça me semble tout à fait une très, très mauvaise idée de se tenter là-dedans.\n\nSur quoi s'opposent François Legault et Simon Tremblay-Pépin?",
+        "audio": "/mp3/159/33.mp3",
+        "options": [
+            "Sur l'amplitude de l’effet de la dette sur la croissance.",
+            "Sur l'utilisation des recettes fiscales pour régler la dette.",
+            "Sur l'acquittement de la dette par la vente du patrimoine de l'État.",
+            "Sur le montant de la dette contractée par la province québécoise."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 34,
+        "testId": 159,
+        "text": "J'aime bien cet aspect du travail qui est le travail en équipe. C'est plus agréable que le travail en atelier où on est tout seul sur ses plans et qui a un côté plus calme, plus cérébral. Là, ça bouge partout, il y a du monde partout. Souvent on travaille la nuit, ça a des côtés sympas mais ça peut être franchement fatigant. Et puis dans ce métier, les perspectives d'évolution sont diverses. On peut entrer dans une carrière type star system où on va devenir très connu et gagner beaucoup d'argent. Moi, ça n'est pas trop mon cas. C'est vraiment la possibilité d'être dans une recherche artistique qui me motive. Qu'est-ce qui intéresse le plus cette femme dans son métier?",
+        "audio": "/mp3/159/34.mp3",
+        "options": [
+            "Avoir un bon salaire en fabriquant de beaux objets.",
+            "Exercer une activité intellectuellement enrichissante.",
+            "Rencontrer des célébrités et travailler avec elles.",
+            "Travailler avec ses collègues et développer ses projets."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 35,
+        "testId": 159,
+        "text": "Faut-il se méfier de l'aspartame, cette édulcorant utilisée à la place du sucre? Oui, crie le Réseau Environnement Santé, Non, estime l'EFSA, l'Autorité Européenne de Sécurité des Aliments, dans un rapport préliminaire publié début janvier. Sa conclusion? L'édulcorant ne présente aucun danger pour la santé. C'est faux, estime l'ONG française qui conteste la méthode d'expertise de Valérie Barbin. Et les reproches sont nombreux. Pour le Réseau Environnement Santé, l'Agence Européenne n'a pas tenu compte des études scientifiques récentes, alors que ces études montrent toutes un lien entre l'aspartame et un risque accru de cancer, de naissance prématurée et de pathologies comme le diabète. Que reproche l'ONG française à l'Agence Européenne?",
+        "audio": "/mp3/159/35.mp3",
+        "options": [
+            "De contester les bienfaits des aliments naturels.",
+            "De protéger les fabricants de produits de synthèse.",
+            "De rejeter les résultats des dernières recherches.",
+            "De valoriser les qualités nutritionnelles du sucre."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 36,
+        "testId": 159,
+        "text": "En fait, les algorithmes ne sont pas drôles, ils ne comprennent ni les jeux de mots, ni les sarcasmes, ni le deuxième degré. L'humour est un domaine qui leur échappe complètement, et sans doute encore pour longtemps. Est-ce que vous saviez qu'il y a tout un champ de la recherche en intelligence artificielle qui essaye de trouver la formule mathématique de l'humour? Et pour l'instant, ce que montrent ces recherches est surtout leur échec. c'est que l'humour est un phénomène extrêmement complexe, plein de références culturelles, hautement relatifs. L'humour se traduit mal. Il fait appel à toutes sortes de ressorts psychologiques inconscients. Bref, l'humour c'est l'ultime frontière pour les algorithmes et peut-être le dernier refuge pour l'humanité. Qu'apprend-on sur l'humour?",
+        "audio": "/mp3/159/36.mp3",
+        "options": [
+            "Il est commun à toutes les cultures.",
+            "Il est le propre des êtres humains.",
+            "Il est lié à une grande intelligence.",
+            "Il est reproductible artificiellement."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 37,
+        "testId": 159,
+        "text": "Voilà, la question principale c'est de savoir si on va médicaliser la crise d'adolescence ou pas, sachant qu'aujourd'hui le symptôme principal de la crise d'adolescence chez le garçon, c'est le jeu vidéo excessif ou l'internet excessif. Donc si on dit addiction, on le médicalise et ça veut dire tôt ou tard, pas seulement des psychothérapies, mais des chimiothérapies pour tous les adolescents joueurs, alors qu'on sait encore une fois d'expérience que 99% arrêtent de jouer à 17 ou 18 ans parce qu'ils ont fini leur crise d'adolescence, qu'ils ne sont plus en révolte contre les parents qui sont soucieux de s'intégrer à la société et d'avoir une activité professionnelle. Donc l'adolescence, on l'accompagne, voilà, ne la pathologisons pas et je suis bien content que l'Académie de médecine ait pris cette position. Que préconise ce spécialiste face à l'engouement des jeunes pour les jeux vidéo ?",
+        "audio": "/mp3/159/37.mp3",
+        "options": [
+            "De consulter un médecin psychothérapeute.",
+            "D’attendre que le temps ait fait son œuvre.",
+            "De prescrire un traitement médicamenteux.",
+            "D’informer les utilisateurs sur leurs dangers."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 38,
+        "testId": 159,
+        "text": "— Le plan Nord mise aussi sur l'appui des populations locales, notamment celui des Inuits et des Amérindiens, que l'on va former aux nouveaux emplois. Certaines nations, comme celle des Inus, ont des réticences. Ce conseiller juridique milite pour que son peuple et le gouvernement du Québec signent une entente pour sortir les Autochtones de leur dépendance économique.\n\n— De toute évidence, les retombées économiques pour les communautés autochtones des Inus ne seront pas là, tout simplement. Mais je pense que c'est une responsabilité du gouvernement, de l'État québécois également, de s'assurer que les jeunes Inus soient formés et qu'ils aient accès à des jobs valorisants dans le cadre des projets miniers.\n\n— Certains environnementalistes ont des réserves face à ce plan qui va faciliter l'exploitation de zones jusqu'à leur vierge.\n\nComment réagissent les populations indigènes concernées par ce projet?",
+        "audio": "/mp3/159/38.mp3",
+        "options": [
+            "Elles demandent un nouveau statut juridique.",
+            "Elles exigent des garanties réelles et tangibles.",
+            "Elles mettent en doute la viabilité du projet.",
+            "Elles veulent que les terres restent intactes."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 39,
+        "testId": 159,
+        "text": "D'après les chercheurs, plus nous manifestons d'amabilité et plus nous sécrétons de sérotonine, l'hormone de la bonne humeur. De plus, l'altruisme aurait des effets positifs sur le cerveau en activant des connexions qui sont moins vivaces quand la compassion est absente. Les pensées hostiles ou agressives augmentent le rythme cardiaque et la pression artérielle, alors que la gentillesse abaisse le niveau de stress et apaise la tension. On a vu des gens mourir de méchanceté. L'agressivité pratiquée au quotidien augmente les risques cardiaques et conduit à une solitude qui aggrave tous les problèmes. D'après les chercheurs dont parle le journaliste, Qu'est-ce qui est bénéfique pour la santé?",
+        "audio": "/mp3/159/39.mp3",
+        "options": [
+            "Pratiquer des exercices mentaux.",
+            "Exprimer ses sentiments.",
+            "Se montrer chaleureux.",
+            "Se retirer régulièrement au calme."
+        ],
+        "answer": 2
+    }
+]
