@@ -1,0 +1,514 @@
+[
+    {
+        "id": 1,
+        "testId": 181,
+        "text": "A. Il est beau ce danseur.\n\nB. J'adore cette chanson.\n\nC. La radio est trop forte.\n\nD. Tu joues bien du piano.",
+        "audio": "/mp3/181/1.mp3",
+        "img": "/mp3/181/1.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 2,
+        "testId": 181,
+        "text": "A. Madame, c'est libre ici ?\n\nB. Madame, je peux m'asseoir ?\n\nC. Madame, où est votre billet ?\n\nD. Madame, vous voulez ma place ?",
+        "audio": "/mp3/181/2.mp3",
+        "img": "/mp3/181/2.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 3,
+        "testId": 181,
+        "text": "A. Arrête de jouer avec le ballon.\n\nB. Fais attention avant de traverser.\n\nC. Mets ton bonnet tout de suite.\n\nD. Regarde les enfants.",
+        "audio": "/mp3/181/3.mp3",
+        "img": "/mp3/181/3.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 4,
+        "testId": 181,
+        "text": "A. Cette chaleur me fatigue.\n\nB. Il va bientôt faire nuit.\n\nC. Je commence à avoir froid.\n\nD. Le temps est très nuageux.",
+        "audio": "/mp3/181/4.mp3",
+        "img": "/mp3/181/4.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 5,
+        "testId": 181,
+        "text": "A. Il neige encore.\n\nB. J'attends le soleil.\n\nC. Quelle belle journée.\n\nD. Qu'est-ce qu'il pleut.",
+        "audio": "/mp3/181/5.mp3",
+        "img": "/mp3/181/5.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 6,
+        "testId": 181,
+        "text": "Bonjour Monsieur, deux places pour le film « Nîmes », s'il vous plaît. C'est combien pour les enfants?\n\nA. C'est passionnant, ils vont adorer.\n\nB. C'est possible, la séance est à 16 heures.\n\nC. C'est gratuit, jusqu'à 8 ans.\n\nD. C'est la première salle sur votre droite.",
+        "audio": "/mp3/181/6.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 7,
+        "testId": 181,
+        "text": "Salut! On ne se connaît pas. Je m'appelle Bertrand. Je suis à Québec depuis trois mois seulement. Je suis informaticien. Et toi, tu fais quoi?\n\nA. Je joue au tennis le dimanche.\n\nB. Je suis toujours célibataire.\n\nC. Je travaille dans une école.\n\nD. Je vis à Montréal maintenant.",
+        "audio": "/mp3/181/7.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 8,
+        "testId": 181,
+        "text": "— Bonjour, c'est ici pour visiter l'appartement?\n\n— Non, monsieur, ce n'est pas ici.\n\nA. Pardon, j'ai déménagé.\n\nB. Pardon, j'ai fait une erreur.\n\nC. Pardon, j'ai perdu les clés.\n\nD. Pardon, je vais revenir demain.",
+        "audio": "/mp3/181/8.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 9,
+        "testId": 181,
+        "text": "— Garage du centre, bonjour.\n\n— Bonjour, je voudrais remplacer les 4 pneus de ma voiture. Quand est-ce que je pourrais venir ?\n\n— Ah, pas avant mardi prochain, dans l'après-midi à 15h.\n\n— Oui, ce serait parfait. Je suis M. Charpentier.\n\n— Ah, M. Charpentier. Votre voiture n'a pas eu de problème depuis la dernière fois ?\n\n— Non, elle roule très bien, merci.\n\n— Très bien, à mardi alors.\n\n— Oui, au revoir.\n\nQue souhaite ce client ?",
+        "audio": "/mp3/181/9.mp3",
+        "options": [
+            "Acheter un nouveau véhicule.",
+            "Connaître les horaires.",
+            "Obtenir un rendez-vous.",
+            "Se plaindre d’une réparation."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 10,
+        "testId": 181,
+        "text": "— Tu as pris le métro ce matin ?\n\n— Je n'ai pas travaillé aujourd'hui. Je suis allé au cinéma.\n\n— Eh bien, tu as de la chance. La ligne 6 était arrêtée. J'ai dû marcher pendant une heure.\n\nDe quoi parle la femme ?",
+        "audio": "/mp3/181/10.mp3",
+        "options": [
+            "D'un nouveau film à voir.",
+            "D'un souci de transport.",
+            "D'une recherche d'emploi.",
+            "D'une séance de sport."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 11,
+        "testId": 181,
+        "text": "— Tu voudrais aller à l'exposition Matisse au musée d'Orsay demain soir ?\n\n— Quelle bonne idée, mais après le travail je voulais aller en ville pour faire des courses.\n\n— Tu ne peux pas aller faire jeudi ?\n\n— Mais si ! Alors d'accord pour l'exposition, et après on dînera chez moi.\n\nQue vont faire ses amis le mercredi soir ?",
+        "audio": "/mp3/181/11.mp3",
+        "options": [
+            "Dîner au restaurant.",
+            "Faire des courses.",
+            "Travailler tard.",
+            "Voir une exposition."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 12,
+        "testId": 181,
+        "text": "— Tu t'es renseigné sur la formation en informatique?\n\n— Oui, j'ai appelé ce matin.\n\n— Et alors, tu penses t'inscrire?\n\n— Je ne sais pas encore. Le centre de formation ne propose pas de cours le soir. Sinon, les tarifs sont raisonnables.\n\n— D'après ce que Julien m'a dit, le prof est très bien. C'est important.\n\n— Oui. En plus, c'est à côté du bureau. Le test d'entrée a lieu la semaine prochaine. Il faut que je parle avec mon responsable. J'espère qu'il sera d'accord pour que je m'absente 4 heures par semaine.\n\nPour quelles raisons le jeune homme hésite-t-il à s'inscrire?",
+        "audio": "/mp3/181/12.mp3",
+        "options": [
+            "Le test de niveau est difficile.",
+            "L’école est loin de son bureau.",
+            "Les cours ont lieu en journée.",
+            "Les tarifs sont chers pour lui."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 13,
+        "testId": 181,
+        "text": "— Est-ce que tu veux participer au cadeau pour Daniel ?\n\n— Un cadeau ? Pourquoi ?\n\n— Il part à la retraite à la fin du mois.\n\n— Il part déjà ? Le service semblera vide sans lui. Et comment va faire le chef sans son secrétaire ?\n\n— Ah, ça ! Il essaie de trouver quelqu'un pour le remplacer, mais je crois qu'il va avoir du mal à trouver un aussi bon employé que lui.\n\n— Si le remplaçant doit plaire au chef, aux collègues et aux clients, c'est sûr, ça va être dur.\n\nPour ces personnes, qui est Daniel ?",
+        "audio": "/mp3/181/13.mp3",
+        "options": [
+            "Leur client.",
+            "Leur collègue.",
+            "Leur directeur.",
+            "Leur professeur."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 14,
+        "testId": 181,
+        "text": "Le soleil revient. C'est bientôt les vacances. Dans votre magasin Sport Plus, pour l'achat d'un maillot de bain, un tube de crème en cadeau. Rendez-vous au rayon articles de plage jusqu'au 30 juin. Qu'est-ce qu'il faut acheter pour recevoir un cadeau ?",
+        "audio": "/mp3/181/14.mp3",
+        "options": [
+            "Un chapeau de soleil.",
+            "Un maillot de foot.",
+            "Un sac de sport.",
+            "Un vêtement de plage."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 15,
+        "testId": 181,
+        "text": "— Bonjour madame, auriez-vous quelques minutes pour répondre à un sondage ?\n\n— Rapidement, oui.\n\n— Parfait. Suivez-vous l'actualité ?\n\n— Oui, un peu, mais je n'ai pas toujours le temps.\n\n— Vous lisez les journaux ?\n\n— Un peu, dans le métro, mais je regarde plutôt les informations à la télévision.\n\n— Et sur Internet ?\n\n— Oui, parfois des amis postent des actualités sur les réseaux sociaux. J'aime ce qui parle des grands réalisateurs de films, des acteurs, parce que je suis actrice, vous savez.\n\n— Très bien, merci madame. Vos réponses nous seront très utiles.\n\nQuel est le thème du sondage ?",
+        "audio": "/mp3/181/15.mp3",
+        "options": [
+            "L'intérêt pour le cinéma.",
+            "Les activités de loisirs.",
+            "Les habitudes de transport.",
+            "L'utilisation des médias."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 16,
+        "testId": 181,
+        "text": "— Bonjour, je suis étudiant ici à l'Université de Montréal et je voudrais déposer une demande de bourse.\n\n— Avez-vous apporté tous les documents?\n\n— Je crois. Je ne vois pas votre passeport. Il faut une photocopie du passeport pour enregistrer votre demande.\n\nQue souhaite faire l'étudiant?",
+        "audio": "/mp3/181/16.mp3",
+        "options": [
+            "Obtenir une aide financière.",
+            "Récupérer un dossier.",
+            "Remettre un devoir.",
+            "S’inscrire à l’université."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 17,
+        "testId": 181,
+        "text": "— Bonjour Madame, je suis venu hier ouvrir un compte, mais je n'ai pas bien compris quand je recevrai le chéquier commandé par vos soins.\n\n— Pouvez-vous me rappeler votre nom et votre numéro de compte?\n\n— Bien sûr, je m'appelle Cloutier, Pierre Cloutier. Voici mon numéro de compte ouvert hier dans cette agence.\n\n— Très bien. Pour un premier chéquier, comptez au moins une petite semaine. Puis on le commande automatiquement et ça prend 48 heures. Voilà, il sera à votre disposition soit au guichet, soit en voyant l'accusé de réception à votre domicile. Que souhaitez-vous?\n\n— Eh bien, je préfère passer le prendre en fin de semaine. Je serai sûr de l'avoir.\n\n— Très bien. À bientôt, Monsieur.\n\nPourquoi l'homme se rend-il dans une banque?",
+        "audio": "/mp3/181/17.mp3",
+        "options": [
+            "Pour retirer le chéquier arrivé une semaine avant.",
+            "Pour vérifier le renouvellement de son chéquier.",
+            "Pour savoir quand il aura son carnet de chèques.",
+            "Pour corriger l’orthographe de son nom sur son chéquier."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 18,
+        "testId": 181,
+        "text": "Salut Laurent, c'est Martin. Dis, il y a un gymnase qui vient d'ouvrir à côté de chez moi. Il y a plusieurs salles. En ce moment, on peut y essayer tous les sports et c'est gratuit. Ça te dirait de venir faire une partie de basketball avec les copains demain soir ? Réponds-moi vite pour que j'appelle le club pour réserver le terrain. À plus tard ! Que propose Martin à Laurent ?",
+        "audio": "/mp3/181/18.mp3",
+        "options": [
+            "D’assister à une rencontre sportive.",
+            "De fêter leur victoire entre copains.",
+            "De jouer au basket-ball sans payer.",
+            "De s’inscrire dans un nouveau club."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 19,
+        "testId": 181,
+        "text": "— Et ça, qu'est-ce que ça dit de notre société, cette dévalorisation des diplômes?\n\n— C'est un message terrible à une époque où on ne jure que par la société de la connaissance et l'éducation de masse. Notre économie s'est mal adaptée aux nouveaux enjeux. En effet, les opportunités offertes par les entreprises ne sont pas suffisantes pour absorber les nouvelles cuvées de master ou de doctorant. Trop de diplômés, pas assez de jobs, d'envergure. La langueur qui frappe la croissance de notre pays depuis des années se traduit en fin de compte par des emplois perdus, des salaires moins généreux. Résultat, c'est la course à l'échalote. Pour qu'un diplôme ait de la valeur, il faut qu'il soit encore plus prestigieux.\n\nQue déplore cette intervenante?",
+        "audio": "/mp3/181/19.mp3",
+        "options": [
+            "L'inadéquation entre l'université et le monde du travail.",
+            "La baisse de qualité des formations professionnelles.",
+            "La compétition pour entrer dans les grandes écoles.",
+            "Le coût de l'inscription dans l'enseignement supérieur."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 20,
+        "testId": 181,
+        "text": "— Comment réconcilier donc les élèves et les maths ?\n\n— Ah, les maths apparaissent beaucoup trop techniques et déconnectées du monde qui nous entoure alors qu'il faudrait les enseigner comme un outil de réflexion ancré dans le quotidien, affirme Nicolas Pinel. Il suggère de montrer que les maths sont à la portée de tous en revenant à des choses très concrètes justement en mettant les enfants dans des situations de réussite afin qu'ils prennent du plaisir et retrouvent un sentiment de compétence. Les tous petits peuvent par exemple apprendre à rejouer au jeu de la marchande car figurez-vous que beaucoup d'enfants aujourd'hui ne savent plus rendre la monnaie. La place du jeu est essentielle pour combattre l'anxiété qui naît de l'échec et de la mésestime de soi.\n\nQue préconise Nicolas Pinel pour les mathématiques ?",
+        "audio": "/mp3/181/20.mp3",
+        "options": [
+            "De créer des groupes de recherche scientifique.",
+            "De reculer l'âge de début de leur apprentissage.",
+            "De réviser les méthodes pédagogiques actuelles.",
+            "De sélectionner les meilleurs élèves des écoles."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 21,
+        "testId": 181,
+        "text": "— Stéphane, est-ce que Corinne est rentrée de sa mission au Japon ?\n\n— Oui, elle était au bureau hier et aujourd'hui, mais elle est très fatiguée.\n\n— La pauvre. Sa mission a été plus difficile que d'habitude ?\n\n— Oui, elle a eu des réunions dans plusieurs villes. Elle n'a pas arrêté de circuler.\n\n— C'est sympa. Elle a pu découvrir plein de lieux différents.\n\n— Pas du tout. Elle terminait très tard le soir.\n\n— Elle devrait prendre des vacances.\n\n— Impossible. Elle repart pour une conférence au Canada, la semaine prochaine.\n\nQu'apprend-on sur Corinne ?",
+        "audio": "/mp3/181/21.mp3",
+        "options": [
+            "Elle est en congé.",
+            "Elle est tombée malade.",
+            "Elle travaille la nuit.",
+            "Elle voyage souvent."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 22,
+        "testId": 181,
+        "text": "Je crois que les difficultés en matière de lecture ont des causes à la fois individuelles et sociales. Les parents, par exemple, parce qu'ils sont angoissés par l'avenir de leurs enfants, leur présentent souvent la lecture comme une obligation, une démarche indispensable pour réussir. Et c'est une erreur, parce que la lecture est avant tout un plaisir. Un livre, c'est un voyage, une découverte, une aventure, et il faudrait faire découvrir la lecture aux enfants comme on leur fait découvrir la cuisine chinoise ou les jeux dans la neige. Et puis les parents refusent aussi souvent à leurs enfants des lectures qu'ils considèrent comme mineurs. Les bandes dessinées, par exemple, et ça aussi, c'est une erreur. Lire une bande dessinée, c'est lire. Et ça permet souvent d'ailleurs de découvrir ensuite d'autres formes de littérature. Que conseille cette intervenante aux parents ?",
+        "audio": "/mp3/181/22.mp3",
+        "options": [
+            "D'attribuer à la lecture le statut de loisir.",
+            "De favoriser la lecture en autonomie.",
+            "De limiter la lecture d'histoires illustrées.",
+            "De sélectionner des lectures classiques."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 23,
+        "testId": 181,
+        "text": "— Bonjour! Je suis nouveau à Charlebourg. Vous sauriez ce que je dois faire de mon arbre de Noël pour qu'il soit ramassé ?\n\n— Vous n'avez qu'à déneiger devant chez vous, et puis le laisser dans la rue. La collecte a lieu demain matin. Il est grain, votre arbre ?\n\n— Hum. Regardez. Je l'ai mis dans le jardin. Il fait bien trois mètres de haut.\n\n— Alors, il faut le couper en deux. Et puis, aussi, enlever tout ce qui est dessus.\n\nQu'est-ce que cette personne cherche à savoir ?",
+        "audio": "/mp3/181/23.mp3",
+        "options": [
+            "Comment protéger ses végétaux.",
+            "Comment recycler son sapin.",
+            "Comment replanter un arbre.",
+            "Comment scier une branche."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 24,
+        "testId": 181,
+        "text": "— Votre chronique s'adresse aux globetrotteuses. Ce matin, à toutes les femmes qui parcourent le monde en solitaire, une toute nouvelle plateforme vient d'être créée exprès pour elles.\n\n— Et oui, voyager seule a ses avantages, Mathilde, mais peut aussi faire un peu peur quand on est une femme. Du moins, c'est ce qu'a pu constater Christina Boixière, habituée au voyage en solo depuis 17 ans. Son expérience lui a appris que dormir chez l'habitant était la meilleure façon de découvrir la culture d'un pays. Toutefois, cette formule n'est pas forcément de tout repos, pour ne pas dire sans risque? C'est pourquoi elle a eu l'idée de monter une plateforme d'hébergement déservée aux femmes qui hébergent d'autres femmes.\n\nEn quoi cette plateforme est-elle utile aux femmes qui voyagent?",
+        "audio": "/mp3/181/24.mp3",
+        "options": [
+            "Elle fournit une carte de lieux dangereux à éviter.",
+            "Elle leur enseigne des techniques d’autodéfense.",
+            "Elle leur permet de se loger en toute sécurité.",
+            "Elle propose une liste de numéros d’urgence."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 25,
+        "testId": 181,
+        "text": "— Malgré les apparences, vous n'êtes pas dans une salle de danse, mais dans une école, pour le moins innovante et unique, à Marseille. Ici, on enseigne bien sûr les matières essentielles, mais aussi la comédie musicale, la cuisine ou bien l'électricité. Cette école parie surtout depuis 5 ans sur la pédagogie active de re-motivation dans l'intérêt de l'enfant. On écoute la directrice de l'établissement.\n\n— La pédagogie active, c'est une pédagogie qui implique l'élève dans son apprentissage. Il est acteur, c'est-à-dire qu'on va le familiariser tout seul, avec un texte ou avec n'importe quel support d'information. Il s'autonomise tout en prenant plaisir à apprendre.\n\nSelon la directrice de cette école, quel est l'objectif de la pédagogie active ?",
+        "audio": "/mp3/181/25.mp3",
+        "options": [
+            "Amener l'élève à participer à sa propre formation.",
+            "Axer principalement l'apprentissage sur le jeu.",
+            "Initier les élèves à des activités parascolaires.",
+            "Responsabiliser les élèves encore immatures."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 26,
+        "testId": 181,
+        "text": "J'ai toujours été bien intégrée, que ce soit par les clubs, par les dirigeants ou par les joueurs. L'objectif c'était de prendre les bonnes décisions. Donc, une fois qu'on a vu que j'avais les compétences, voila, on est plus venu me voir comme la femme mais bien comme l'arbitre. Les joueurs ne sont pas forcément surpris parce que ce sont des compétiteurs. Ce qu'ils veulent c'est qu'on siffle juste. Après c'est juste peut-être, souvent on m'appelle Monsieur l'arbitre, mais bon, voila, c'est plus dans la boutade. Voila, on rigole après sur le terrain, mais voilà, eux ils veulent qu'on siffle juste, qu'on soit une femme ou un homme. Qu'explique cet arbitre?",
+        "audio": "/mp3/181/26.mp3",
+        "options": [
+            "Elle a décidé d’adopter une attitude agressive.",
+            "Elle a eu des problèmes pour se faire une place.",
+            "Elle est harcelée par des plaisanteries sexistes.",
+            "Elle est respectée pour son professionnalisme."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 27,
+        "testId": 181,
+        "text": "Le débat dans la classe s'organise généralement autour d'un prétexte, généralement une œuvre littéraire, un album en classe de CP, ou un conte, ou une histoire traditionnelle. Et je parle de prétexte parce que en fait faire débattre les élèves de tout entre eux, c'est leur faire parler d'eux, c'est les sortir de leur individualité, c'est les faire échanger entre eux, accepter la différence, accepter la parole de l'autre, accepter le désaccord, et comme je leur dis souvent, l'objectif c'est qu'ils se mettent à se disputer. Mais à se disputer avec les bons. Question 27 D'après ce professeur, qu'est-ce que le débat apporte aux élèves?",
+        "audio": "/mp3/181/27.mp3",
+        "options": [
+            "Ils apprennent à communiquer.",
+            "Ils développent leur créativité.",
+            "Ils s'ouvrent à d'autres cultures.",
+            "Ils sont dynamiques en cours."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 28,
+        "testId": 181,
+        "text": "Manger 5 fruits et légumes par jour, c'est bon pour la santé, on le sait mais on ne le fait pas. Avouez, vous avez essayé mais vous n'y arrivez pas. MiamMiam.fr va vous y aider. Ce site propose des paniers avec des produits frais et de saison, le tout livré gratuitement partout dans le pays, chez vous ou sur votre lieu de travail. Quel est le but de MiamMiam.fr ?",
+        "audio": "/mp3/181/28.mp3",
+        "options": [
+            "Conseiller gratuitement des régimes minceur.",
+            "Faciliter la consommation de produits sains.",
+            "Livrer des spécialités régionales à domicile.",
+            "Proposer une émission de cuisine sur Internet."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 29,
+        "testId": 181,
+        "text": "— Dans votre cabinet de curiosité ce matin, Eric Delvaux, la journée de la jupe.\n\n— Oui, ça concerne cette fois les lycéens et les lycéennes qui sont invités à porter une jupe aujourd'hui. Pourquoi? Pour dénoncer les inégalités entre les hommes et les femmes et les discriminations que subissent les femmes. Cette journée de la jupe, pour les garçons comme pour les filles, c'est une première organisée dans toute la France.\n\nDe quoi parle ce journaliste?",
+        "audio": "/mp3/181/29.mp3",
+        "options": [
+            "D'un ancien événement protestataire.",
+            "D'un nouveau code vestimentaire.",
+            "D'une fête scolaire traditionnelle.",
+            "D'une sensibilisation aux injustices."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 30,
+        "testId": 181,
+        "text": "— Bonjour. Alors, voilà ma question. Je voudrais savoir comment fonctionne le système des pourboires au Québec, car cela varie beaucoup d'un pays à l'autre. Est-ce obligatoire ou non?\n\n— Eh bien, c'est une chose courante chez nous de laisser une somme d'argent à quelqu'un pour le remercier de ses bons services, car le service n'est pas inclus dans le salaire du personnel.\n\n— Et comment calcule-t-on la somme d'argent qu'on doit laisser?\n\n— En général, on doit laisser entre 15 et 20 % de la somme indiquée sur la facture.\n\n— C'est une vraie gymnastique, alors, au moment de payer?\n\n— Non, pas vraiment. Nous autres, Québécois, on est habitués à ce système. Ça se fait presque automatiquement.\n\nDe quoi dépend le montant du pourboire au Québec?",
+        "audio": "/mp3/181/30.mp3",
+        "options": [
+            "De la législation en vigueur.",
+            "De la paye des employés.",
+            "Du bon vouloir du client.",
+            "Du type d’établissement."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 31,
+        "testId": 181,
+        "text": "— Là, on vient, très récemment, de... d'observer pour la première fois un trou noir, Hubert Rives. Quelle a été votre réaction?\n\n— Oui, c'est le moment où on découvre une chose pour la première fois, et surtout le fait que cette idée des trous noirs, qui a été inventée par Einstein dans les années 1910-15, je ne me souviens pas, c'était au départ une théorie de trouver que le comportement de ces trous noirs existe, c'est une confirmation de la valeur de la science en général, qui sont, par exemple, les idées des trous noirs. Ça vous donne confiance dans la science.\n\nSelon Hubert Rives, pourquoi cette première observation d'un trou noir est-elle importante ?",
+        "audio": "/mp3/181/31.mp3",
+        "options": [
+            "Elle annonce de futures découvertes.",
+            "Elle confirme une théorie ancienne.",
+            "Elle illustre les progrès du matériel scientifique.",
+            "Elle permet la poursuite des travaux d’Einstein."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 32,
+        "testId": 181,
+        "text": "Aujourd'hui, à quoi sert le sport pour trouver sa place dans la société ? Foot, basket, lutte, course, il n'y a pas que la compétition. En tout cas, chez cette milliard, on va parler de l'esprit d'équipe, du dépassement de soi, du respect, de l'amitié. La FIFA, l'UNESCO et le Programme Alimentaire Mondial viennent de signer un partenariat pour aider les enfants dans ce sens. Et c'est vrai que l'impact social du sport est encore trop souvent ignoré. On dit toujours que le sport c'est bon pour la santé, mais il n'y a pas que la santé. Une génération bien dans ses baskets, c'est aussi une génération plus ouverte vers les autres. Qu'est-ce qui est mis en avant concernant le sport ?",
+        "audio": "/mp3/181/32.mp3",
+        "options": [
+            "Il développe la volonté de vaincre.",
+            "Il enrichit les relations humaines.",
+            "Il garantit l’équilibre psychologique.",
+            "Il procure des bienfaits physiques."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 33,
+        "testId": 181,
+        "text": "— On a de la difficulté à croire que vous n'ayez pas envie de faire de la politique.\n\n— Hahaha! Vous savez, bon, j'espère qu'on va parler un peu de démocratie. Mais la démocratie, ça ne s'exprime pas exclusivement par la politique électorale. Ça me surprend toujours quand je vous entends dire que vous n'avez pas l'intention de faire de la politique.\n\n— Oui.\n\n— Ce que vous avez à l'esprit de vous présenter.\n\n— Oui, oui, bien sûr, bien sûr.\n\n— En fait, j'en fais de la politique. Je fais de la politique internationale, mais sans mandat. Ce qui d'ailleurs pose ses propres problèmes. Les gens pourraient dire « mais vous êtes qui? En qui vous a donné un mandat? ». Mais je pense qu'on vit maintenant dans un monde où les gens qu'on appelle la société civile, ce sont de plus en plus organisés à l'extérieur des institutions formelles de la démocratie.\n\nDans quelle mesure cette femme fait-elle de la politique?",
+        "audio": "/mp3/181/33.mp3",
+        "options": [
+            "En communiquant dans les médias.",
+            "En critiquant le pouvoir en place.",
+            "En représentant ses électeurs.",
+            "En s’engageant comme citoyenne."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 34,
+        "testId": 181,
+        "text": "— Charline Vanhoenacker, Eric Delvaux, le 5-7 de France Inter.\n\n— L'écho du matin avec vous, Catherine Boulay, bonjour.\n\n— Bonjour.\n\n— Ce matin, le succès de l'économie collaborative. Après Blablacar, le site de covoiturage pour partager la fatigue en voiture et le coût du trajet, eh bien voici, le partage des loisirs et des vacances. Alors Trip & Co, comment ça marche ?\n\n— D'abord, vous montez votre projet ou vous vous inscrivez au projet d'un autre. L'avantage, c'est de pouvoir bénéficier de tarifs de groupe. C'est ça, l'économie collaborative.\n\nSur quel sujet économique la rubrique porte-t-elle ?",
+        "audio": "/mp3/181/34.mp3",
+        "options": [
+            "Le coût de l'entretien d'une voiture.",
+            "Les tendances en matière de loisirs.",
+            "L'évolution des tarifs des transports.",
+            "L'intérêt de partager des services."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 35,
+        "testId": 181,
+        "text": "— C'est donc, Bernard, le grand retour du keynésianisme?\n\n— Mais oui, cela ne se fait ni ne se fera en un jour, pas plus que le libéralisme ne s'était imposé d'un coup, mais le monde change d'époque, redécouvre les vertus de l'État et du grand économiste Keynes qui avait marqué les trois décennies d'après-guerre, parce que la déréglementation libérale a failli, que l'autorégulation des marchés est devenue difficile à prôner, que la puissance publique est redevenue le recours et que les États, enfin, ont besoin d'argent et ne peuvent pas inéluctablement marcher vers une augmentation de la pression fiscale sans y soumettre d'abord les plus fortunés, entreprises ou particuliers.\n\nD'après cet analyste, qu'est-ce qui fait le succès actuel des théories de Keynes?",
+        "audio": "/mp3/181/35.mp3",
+        "options": [
+            "Les contrôles systématiques imposés aux banques.",
+            "Les interventions nécessaires des États dans l’économie.",
+            "Les règles strictes régulant les marche (…).",
+            "Les taxes importantes appliquées aux entreprises."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 36,
+        "testId": 181,
+        "text": "— Est-ce que vous pensez que dans le cosmos, il y a une autre planète sur laquelle nous pourrions habiter?\n\n— Bon! Que nous pourrions habiter, je ne sais pas. Nous ne savons rien de cela. Je sais que mon opinion, mais c'est une opinion, ce n'est pas quelque chose que je peux appuyer par les preuves scientifiques, c'est que dans cet univers, la vie est un phénomène très général. Je pense qu'il y a beaucoup de planètes, d'exoplanètes habitées, mais je ne peux pas l'affirmer parce que je n'ai pas de preuveset j'ai des collègues qui pensent le contraire. Donc c'est un bon sujet de discussion pour les jours où la télévision est en panne.\n\nQue dit le scientifique sur l'existence extraterrestre?",
+        "audio": "/mp3/181/36.mp3",
+        "options": [
+            "C'est un thème controversé.",
+            "C'est une croyance invraisemblable.",
+            "C'est une hypothèse vérifiée.",
+            "C'est une invention de science-fiction."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 37,
+        "testId": 181,
+        "text": "J'accepte l'idée que l'homéopathie n'a pas une efficacité tellement différente que ça d'un placebo, mais en fait, nous avons besoin de médicaments qui sont des placebos, et je suis médecin et je le dis, et le problème c'est qu'aujourd'hui, à la limite, quand un patient guérit grâce à un placebo, on va sous-entendre qu'il a eu le temps de guérir. C'est-à-dire que oui, effectivement, il faut être un peu humble, en médecine on ne comprend pas tout ce qui se passe, et par moment, nous guérissons grâce à une injonction thérapeutique ou à autre chose que l'on ignore, et qu'il faut étudier.  Quel est le propos de ce médecin ?",
+        "audio": "/mp3/181/37.mp3",
+        "options": [
+            "Il admet que les guérisons spontanées sont fréquentes.",
+            "Il considère que la médecine a du mal à tout expliquer.",
+            "Il déconseille l'utilisation de certains médicaments.",
+            "Il est convaincu de l'efficacité des remèdes naturels."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 38,
+        "testId": 181,
+        "text": "— Charles Brassard, la recherche de langue originelle a longtemps occupé les synapses des linguistes. Est-ce une quête toujours pertinente aujourd'hui ?\n\n— Non, hahaha, non, enfin, oui et non, parce que, comme on l'a dit tout à l'heure, il n'y a plus de traces.  À moins 10 000 ans, à peu près, à peu de choses près, à la douche, on n'a plus de traces du tout de ce qui était parlé. Il y a des théories qui disent que toutes les langues du monde viennent d'une seule langue, et il y a autant de théories à côté de... qui disent que non, la langue est née en divers endroits du globe, et qu'il n'y a pas qu'une famille de langues, mais plusieurs. Et en l'état actuel des choses, je doute qu'on puisse, un jour prouver, déterminer qui a tort ou qui a raison.\n\nQu'explique Charles Brassard à propos de la langue originelle ?",
+        "audio": "/mp3/181/38.mp3",
+        "options": [
+            "Le consensus à ce sujet semble impossible.",
+            "Le nombre de données complexifie l’analyse.",
+            "Les études existantes doivent être révisées.",
+            "Les thèses avancées varient selon les pays."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 39,
+        "testId": 181,
+        "text": "— La rénovation urbaine est aujourd'hui plébiscitée par les élus locaux et les habitants des banlieues, mais ce programme a aussi eu des effets pervers selon Renaud Epstein. Il est sociologue spécialiste des politiques urbaines.\n\n— La mobilisation de milliards d'euros pour changer le bâti et changer l'urbanisme, c'est fait au dépens d'autres domaines d'intervention dans ces mêmes quartiers. Parfois on a pu rebâtir des écoles, mais ça ne change pas nécessairement les moyens qui sont mis à disposition de ces écoles pour réaliser leur mission et en même pour les équipements sociaux, culturels dans ces quartiers. Est-ce que l'enjeu ne devrait pas être plutôt d'améliorer la qualité de service dans ces quartiers?\n\nQuelle réserve le sociologue Renaud Epstein émet-il ?",
+        "audio": "/mp3/181/39.mp3",
+        "options": [
+            "Les bâtiments restaurés sont en nombre insuffisant.",
+            "Les cités réaménagées sont surtout résidentielles.",
+            "Les municipalités privilégient les projets coûteux.",
+            "Les réhabilitations ont une portée limitée."
+        ],
+        "answer": 3
+    }
+]
