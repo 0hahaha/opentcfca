@@ -1,0 +1,511 @@
+[
+    {
+        "id": 1,
+        "testId": 186,
+        "text": "A. Ouvre ton livre.\n\nB. Retourne à ta place.\n\nC. Sors tes affaires.\n\nD. Viens répondre.",
+        "audio": "/mp3/186/1.mp3",
+        "img": "/mp3/186/1.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 2,
+        "testId": 186,
+        "text": "À quelle heure arrivez-vous au travail?\n\nA. À droite.\n\nB. À midi.\n\nC. À Paris.\n\nD. À vélo.",
+        "audio": "/mp3/186/2.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 3,
+        "testId": 186,
+        "text": "Patrick, j'ai deux places pour le concert de Céline Dion samedi prochain. Tu veux venir avec moi?\n\nA. D'accord. J'adore cette chanteuse.\n\n B. D'accord. J'apporte le dessert.\n\nC. D'accord. Je lui téléphone demain.\n\nD. D'accord. Je réserve les billets.",
+        "audio": "/mp3/186/3.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 4,
+        "testId": 186,
+        "text": "Tu peux me dire quels moyens de transport je dois prendre pour aller à l'aéroport?\n\nA. Arrive bien en avance.\n\nB. Garde ta valise avec toi.\n\nC. Prends le bus 68.\n\nD. Prépare une bouteille d'eau.",
+        "audio": "/mp3/186/4.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 5,
+        "testId": 186,
+        "text": "Ce film est vraiment ennuyeux. On s'en va?\n\nA. Attends, ça vient juste de commencer.\n\nB. C'est vrai, j'aime bien cette salle.\n\nC. D'accord, approchons-nous de l'écran.\n\nD. Non, les acteurs sont peu connus.",
+        "audio": "/mp3/186/5.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 6,
+        "testId": 186,
+        "text": "Allô ? Julien ? Je t'attends à la sortie du métro, tu es encore loin ?\n\nA. C'est plus tard.\n\nB. Il est 15H.\n\nC. J'arrive bientôt.\n\nD. On se voit demain.",
+        "audio": "/mp3/186/6.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 7,
+        "testId": 186,
+        "text": "Je peux revenir échanger ce pull, si ça ne va pas?\n\nA. Aujourd'hui, tout est à 50%.\n\nB. Bien sûr, mais seulement avec le ticket d'achat.\n\nC. Désolé, je n'ai pas votre taille.\n\nD. Regardez, le rayon homme est juste en face.",
+        "audio": "/mp3/186/7.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 8,
+        "testId": 186,
+        "text": "— Bonjour madame, je voudrais réserver des places pour le spectacle de danse du 18 décembre.\n\n— À cette date, il reste des places à 30 euros.\n\n— Ah, je ne voudrais pas payer plus de 20 euros. Et pour la représentation du 17?\n\n— Désolée, c'est pareil.\n\nPourquoi est-ce que le jeune homme repart sans billet?",
+        "audio": "/mp3/186/8.mp3",
+        "options": [
+            "La représentation est annulée.",
+            "Le spectacle est complet.",
+            "Les places sont trop chères.",
+            "Les réservations sont terminées."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 9,
+        "testId": 186,
+        "text": "— Bonjour monsieur, je suis étudiante, je cherche un logement.\n\n— Bienvenue chez nous. Est-ce que vous savez comment fonctionne notre association ?\n\n— Non, pas très bien.\n\n— Eh bien, vous habitez chez une personne âgée et en échange vous lui rendez quelques petits services, faire les courses, préparer le repas et surtout lui tenir compagnie.\n\n— Et combien ça coûte ?\n\n— Ça dépend du temps passé auprès de la personne et de ce que vous faites. Vous payerez un petit loyer si vous assurez seulement une présence certains soirs.\n\nQue permet cette association ?",
+        "audio": "/mp3/186/9.mp3",
+        "options": [
+            "De faire des rencontres.",
+            "De manger gratuitement.",
+            "De trouver un travail.",
+            "De vivre chez quelqu’un."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 10,
+        "testId": 186,
+        "text": "— Madame, Monsieur, avez-vous choisi?\n\n— Oui, pour moi, une tarte au fromage, et pour Madame, du poulet aux trois épices.\n\n— Excusez-moi, j'ai changé d'avis. Je n'ai pas très faim. Je prendrais une salade de crudité.\n\n— Excellent choix.\n\nPourquoi est-ce que la cliente commande la salade?",
+        "audio": "/mp3/186/10.mp3",
+        "options": [
+            "Elle est pressée.",
+            "Elle est végétarienne.",
+            "Elle fait un régime.",
+            "Elle manque d’appétit."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 11,
+        "testId": 186,
+        "text": "— Bonjour Docteur.\n\n— Bonjour Madame Vera. Qu'est-ce qui vous amène ?\n\n— Je viens faire un petit bilan de santé, pour vérifier que tout va bien.\n\n— Vous avez été malade cet hiver ?\n\n— Non, la cure de vitamine que vous m'aviez prescrite a été efficace.\n\n— Parfait, je vous recevrai une ordonnance l'automne prochain. Tout va bien chez vous ?\n\n— Très bien, merci. Nous venons d'emménager dans un nouvel appartement.\n\n— Ah, très bien. Passez à côté, je vais vous examiner.\n\nPourquoi Madame Vera rend-t-elle visite à son médecin ?",
+        "audio": "/mp3/186/11.mp3",
+        "options": [
+            "Pour changer de médicament.",
+            "Pour demander un conseil.",
+            "Pour faire un contrôle médical.",
+            "Pour renouveler une ordonnance."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 12,
+        "testId": 186,
+        "text": "— Sophie, je ne trouve pas le dossier Sanovi.\n\n— Je l'ai posé sur votre bureau.\n\n— Où sur mon bureau?\n\n— Près de l'écran de votre ordinateur, sur la pile de papiers.\n\n— Ah zut, j'ai jeté tous les papiers qui traînaient.\n\n— Attendez, je vais regarder. Tenez, il n'est pas perdu. La femme de ménage n'est pas encore passée.\n\nOù Sophie trouve-t-elle le dossier Sanovi?",
+        "audio": "/mp3/186/12.mp3",
+        "options": [
+            "Dans la poubelle.",
+            "Aux archives.",
+            "Dans le tiroir.",
+            "Sur le bureau."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 13,
+        "testId": 186,
+        "text": "— Si tu prends le bus de midi pour aller à l'université, tu seras en retard.\n\n— Et que veux-tu que je fasse?\n\n— Marche! Il fait beau! Et si tu passes par le parc, tu pourras t'arrêter au kiosque pour acheter ton déjeuner.\n\nQue conseille la jeune fille à son amie?",
+        "audio": "/mp3/186/13.mp3",
+        "options": [
+            "D'aller à l'université à pied.",
+            "De courir pour être à l’heure.",
+            "De déjeuner avant de partir.",
+            "De prendre le bus de midi."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 14,
+        "testId": 186,
+        "text": "— Bonjour, Pablo ! Tu vas bien ? Installe-toi.\n\n— Merci, Amélie. Ah, dis donc, ce fauteuil rouge et jaune est magnifique.\n\n— Merci. Il est très vieux, mais je l'adore. C'est ma grand-mère qui me l'a donné.\n\nQu'est-ce que Pablo pense de ce fauteuil ?",
+        "audio": "/mp3/186/14.mp3",
+        "options": [
+            "Il est peu coloré.",
+            "Il est très confortable.",
+            "Il est trop ancien.",
+            "Il est vraiment beau."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 15,
+        "testId": 186,
+        "text": "Suite à un accident de voyageurs, le train numéro 8791 en direction de Marseille, départ initial 13h35, est immobilisé en gare de Lyon-Perrache. Les voyageurs sont invités à descendre du train et à se rendre au guichet où de plus amples informations leur seront communiquées. Nous vous remercions de votre compréhension. Qu'est-ce que les voyageurs doivent faire?",
+        "audio": "/mp3/186/15.mp3",
+        "options": [
+            "Prendre un car.",
+            "Rester dans le train.",
+            "Se renseigner au guichet.",
+            "Prendre une correspondance."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 16,
+        "testId": 186,
+        "text": "Bonjour. Le mois prochain, vous allez choisir votre nouveau maire pour 5 ans. Vous ne savez pas pour qui voter ? Pour vous aider, vous pouvez lire les programmes des partis politiques. Vous pouvez aussi aller à des réunions publiques et écouter notre radio. Qu'est-ce que ce journaliste annonce ?",
+        "audio": "/mp3/186/16.mp3",
+        "options": [
+            "Une élection.",
+            "Une émission.",
+            "Une formation.",
+            "Une manifestation."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 17,
+        "testId": 186,
+        "text": "Pour votre sécurité, attention à la marche en descendant du train. Quelle est la fonction de cette annonce publique ?",
+        "audio": "/mp3/186/17.mp3",
+        "options": [
+            "Prévenir d’un danger.",
+            "Signaler le départ d’un train.",
+            "Annoncer l’arrivée d’un train.",
+            "Avertir d’un incident."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 18,
+        "testId": 186,
+        "text": "— Malo, tu veux venir chez moi? On pourrait regarder le championnat du monde de jeux vidéo.\n\n— Oui, je sais que tu es fan, mais je trouve que ce sport n'a rien à voir avec le vrai sport. Les participants ne font pas vraiment d'efforts physiques, ce n'est pas très impressionnant.\n\n— Tu as tort. Certains champions de sport électronique ressemblent aux autres champions. Ils signent un contrat, s'entraînent beaucoup, sont suivis par des médecins pour éviter des douleurs au dos ou à la main.\n\nQue propose l'amie de Malo?",
+        "audio": "/mp3/186/18.mp3",
+        "options": [
+            "De participer à un match.",
+            "De préparer une épreuve sportive.",
+            "De tester un nouveau jeu.",
+            "De voir une compétition mondiale."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 19,
+        "testId": 186,
+        "text": "— Alors, ça t'a plu?\n\n— Oui, j'ai trouvé le scénario original et la fin surprenante, mais je ne suis pas très fan de l'acteur principal. Je trouve qu'ils auraient pu choisir quelqu'un d'autre pour ce rôle. Et la musique était insupportable.\n\nQu'ont fait ces personnes?",
+        "audio": "/mp3/186/19.mp3",
+        "options": [
+            "Elles ont assisté à un concert.",
+            "Elles ont lu le même livre.",
+            "Elles ont rencontré une célébrité.",
+            "Elles ont vu un film au cinéma."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 20,
+        "testId": 186,
+        "text": "— Allô, bonjour. Je suis Madame Leroy. J'ai passé une commande de vêtements par téléphone il y a dix jours avec une livraison à domicile. Et pourtant, rien n'est arrivé pour l'instant.\n\n— Donnez-moi votre numéro client Blanche Maison, s'il vous plaît. Je vais vérifier. En effet, la livraison n'a pas été faite. La neige a interrompu le trafic. Le transporteur ne pourra vous livrer que demain.\n\nPourquoi y a-t-il un retard de livraison?",
+        "audio": "/mp3/186/20.mp3",
+        "options": [
+            "La circulation routière est coupée.",
+            "La commande s’est perdue.",
+            "Le transporteur est en grève.",
+            "Les marchandises ont été volées."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 21,
+        "testId": 186,
+        "text": "Je suis une militante de la cuisine. Non seul... Dans ce plaisir, j'éprouve le besoin de le partager et surtout je considère que cette place dans les familles ne peut pas rester vacante. On est à une époque où on a la chance de bénéficier de l'industrie alimentaire, des livraisons, des... on peut manger indien, thaï, français, voilà. D'accord, sauf malheureusement ceux pour qui c'est beaucoup trop cher et pour qui la cuisine est encore une contrainte. Mais il me semble que cette place doit être occupée par un des membres de la famille, l'homme, la femme, les enfants, peu importe, mais que ce plaisir-là, ce partage-là et ce lien familial et social doit être sauvegardé. D'après cette personne, que permet la cuisine au sein d'une famille?",
+        "audio": "/mp3/186/21.mp3",
+        "options": [
+            "De conforter le rôle de chacun.",
+            "De faire des économies.",
+            "De renforcer les relations.",
+            "De transmettre des savoir-faire."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 22,
+        "testId": 186,
+        "text": "— Bonjour chers auditeurs, aujourd'hui nous rencontrons Marie-Odile, Chez elle, à Saint-Mandé, dans la banlieue parisienne. Elle travaille à son domicile de manière intermittente. Son activité principale est de confectionner des costumes pour différents théâtres. Elle est donc couturière de formation. En outre, elle accepte d'autres menus travaux de couture pour des particuliers. Elle n'a donc pas de revenus fixes tous les mois. Marie-Odile, qu'est-ce qui est le plus difficile dans votre vie d'intermittente?\n\n— C'est souvent difficile de joindre les deux goûts chaque mois, car avec deux enfants à élever et les revenus de mon mari qui est dans la même situation que moi, puisqu'il est décorateur pour le théâtre, nous n'arrivons pas toujours à faire des économies.\n\nPourquoi la situation de Marie-Odile est-elle difficile?",
+        "audio": "/mp3/186/22.mp3",
+        "options": [
+            "Parce que l’éducation des enfants coûte cher.",
+            "Parce que la famille a des revenus irréguliers.",
+            "Parce que le théâtre a cessé de lui passer commande.",
+            "Parce que son mari a perdu son travail récemment."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 23,
+        "testId": 186,
+        "text": "Le sport aurait commencé, d'après les anthropologues, d'après les historiens, d'après les archéologues, quand la chasse est devenue un sport? C'est-à-dire qu'on a cessé de chasser pour se nourrir et chasser pour le loisir, chasser pour le symbolique. Le meilleur chasseur, c'est celui qui va devenir le chef du village. Celui qui rapporte le plus de têtes d'animal, c'est le plus fort physiquement, donc il s'impose symboliquement. Donc, le lien entre la chasse et la guerre est direct, parce que si on fait encore un autre lien, celui qui est un bon chasseur va être un bon guerrier. D'après cet intervenant, à quoi peut prétendre le meilleur chasseur d'une communauté?",
+        "audio": "/mp3/186/23.mp3",
+        "options": [
+            "À un poste de responsabilité du village.",
+            "À un temps de loisir plus étendu.",
+            "À une place spéciale dans l’histoire.",
+            "À une plus grosse part de nourriture."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 24,
+        "testId": 186,
+        "text": "— L'économie circulaire, c'est le réemploi, la réparation, le partage, la location et le recyclage des matériaux lorsque la matière redevient matière, la boucle, le cercle est bouclé.\n\n— Oui, alors, c'est le cas du secteur textile.\n\n— Oui, depuis 30 ans, l'entreprise Le Relais collecte et trie les vêtements que vous ne voulez plus porter et depuis 30 ans, elle fait de l'économie circulaire en fait sans le savoir, car à l'origine, il s'agissait surtout de réinsérer des personnes en difficulté.\n\nQue nous apprend l'intervenante sur l'économie circulaire ?",
+        "audio": "/mp3/186/24.mp3",
+        "options": [
+            "Elle a d’abord une vocation caritative.",
+            "Elle concerne une seule branche d’activité.",
+            "Elle est issue d’une initiative régionale.",
+            "Elle permet la réduction du gaspillage."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 25,
+        "testId": 186,
+        "text": "— Le titre du livre, c'est « Tous les hommes n'habitent pas le monde de la même façon », ça raconte les différentes manières d'être au monde. Quelle est la vôtre?\n\n— J'ai commencé par tâtonner. J'ai ensuite essayé de trouver un chemin où j'ai pas trop peur, où quelque chose serait bienveillant. Je suis allé toujours vers quelque chose qui était compréhensible. Je savais qu'il n'y a pas de combat inutile. Le pouvoir n'est pas un truc qui ne sert absolument à rien si ce n'est à perdre son temps et essayer d'aller vers quelque chose de doux. J'ai une obsession de la douceur. J'adore battre s'il le faut, mais je déteste les conflits.\n\nQu'explique l'auteur?",
+        "audio": "/mp3/186/25.mp3",
+        "options": [
+            "Il cherche à éviter toute forme de violence.",
+            "Il dénonce la stérilité des affrontements.",
+            "Il refuse de prendre parti pour une cause.",
+            "Il voit la solitude comme un mal nécessaire."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 26,
+        "testId": 186,
+        "text": "— Aujourd'hui, le bien manger est devenu la priorité au point de bouleverser nos habitudes de consommation. Notre façon de faire les courses est en même, est en même, est même en pleine révolution dans les rayons des supermarchés. Plus d'un français sur six utilise désormais une application qui permet d'évaluer la qualité nutritionnelle des produits. Bonjour Gauthier Delon-Picard.\n\n— Bonjour Yves et à tous.\n\n— Et bien pour comprendre, je vous emmène tester l'une de ses applications la plus téléchargée. Justine Tonnerre place son smartphone face à sa bouteille de jus de fruit.\n\n— Je sors l'application.\n\n— Tu scannes le code barre.\n\n— Je scanne le code barre, et donc j'ai un score qui apparaît, 59 sur 100 pour le jus de fruit, pommes, poires et pêches. C'est considéré comme bon.\n\nÀ quoi servent ces applications?",
+        "audio": "/mp3/186/26.mp3",
+        "options": [
+            "Comparer les prix selon les marques.",
+            "Donner une note en tant qu’utilisateur.",
+            "Obtenir des réductions sur les achats.",
+            "Vérifier les caractéristiques des aliments."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 27,
+        "testId": 186,
+        "text": "L'écriture inclusive, le langage inclusif est parfois caricaturé, alors qu'en fait, tout simplement, ça revient à dire que quand on parle d'hommes et de femmes dans un texte, quand dans un discours on s'adresse à des hommes et des femmes, on ne peut pas tout accorder systématiquement au masculin et invisibiliser complètement les femmes. On dit souvent aujourd'hui transformer la langue. En fait, il ne s'agit pas de transformer la langue, mais c'est de revenir au fait que les académiciens, les linguistes, progressivement ont effacé la place des femmes dans l'histoire. La règle du masculin l'emporte sur le féminin n'a pas toujours existé, ça a été instauré à partir du XVII<sup>e</sup> siècle. En fait c'est au fil du temps qu'on a invisibilisé les femmes dans la langue et que ça a aussi contribué à ce qu'on invisibilise leur place dans l'histoire. Quel est le point de vue de cette intervenante sur la langue française?",
+        "audio": "/mp3/186/27.mp3",
+        "options": [
+            "Elle encourage des propos stéréotypés en société.",
+            "Elle masque les inégalités de la société.",
+            "Elle perpétue des usages de la société médiévale.",
+            "Elle reflète une vision sexiste de la société."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 28,
+        "testId": 186,
+        "text": "Des menus équilibrés, un bar à salade, une sandwicherie, l'école secondaire de Rochebelle à Sainte-Foy, au Québec, fait tout pour inciter les jeunes à mieux manger. J'aime la nourriture, le choix. Les sandwiches et le bar à salade. Je suis fatiguée de manger gras. Une étude parue l'année dernière sur les habitudes des jeunes menées en collaboration avec l'Université de Laval montre qu'ils sont encore trop nombreux à manger à l'extérieur de l'école et à privilégier la restauration rapide. On aimerait augmenter de 15% la proportion des élèves qui restent à l'école pour déjeuner. Quelle problème soulève l'étude menée par l'Université de Laval?",
+        "audio": "/mp3/186/28.mp3",
+        "options": [
+            "Les élèves manquent de temps pour prendre leur repas.",
+            "Les habitudes alimentaires des élèves sont difficiles à modifier.",
+            "Les menus des cantines scolaires sont mal équilibrés.",
+            "Les restaurants scolaires coûtent cher aux familles."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 29,
+        "testId": 186,
+        "text": "Le rire, c'est une onde. Cette onde, elle se manifeste dans les muscles. Cette onde, elle part du visage, elle part des petits muscles du visage. Elle va ensuite aller aux épaules, aux cuisses et bien sûr aux muscles de l'abdomen. Donc ça les fait travailler, ça fait travailler les muscles. Donc c'est une sorte de gymnastique douce. Et la gymnastique douce, comme chacun sait, s'accompagne d'exercices respiratoires que le rire se charge d'exécuter pour vous. Dans la vie courante, on échange un demi-litre d'air. Quand on rit, on échange facilement deux litres d'air. Donc ça va avoir une fonction détoxicante très claire. Qu'apprend-on sur le rire dans ce document?",
+        "audio": "/mp3/186/29.mp3",
+        "options": [
+            "Il a un effet inattendu sur le cerveau.",
+            "Il allonge notre espérance de vie.",
+            "Il apaise les souffrances psychiques.",
+            "Il s’apparente à un effort physique."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 30,
+        "testId": 186,
+        "text": "Les consommateurs sont de plus en plus conscients de l'impact qu'ils ont sur l'environnement. On souhaitait leur donner une information pertinente pour qu'ils puissent, à travers leurs actes de consommation quotidiens, réduire leur impact carbone. N'oublions pas que l'agriculture cuisinière jusqu'à la moitié du CO2 en tant qu'individu. On va dire que c'est l'ADN de notre entreprise. C'était depuis le départ de pousser à la consommation responsable. Et pour pousser la consommation responsable, c'est non seulement faire une sélection des producteurs les plus engagés, mais aussi donner les moyens aux consommateurs de faire les choix les plus éthiques. C'est à travers ce genre d'informations qu'on va pouvoir non seulement sensibiliser les consommateurs, mais les aider à faire les bons choix. Quel est l'objectif de cette entreprise?",
+        "audio": "/mp3/186/30.mp3",
+        "options": [
+            "Accompagner les clients dans une démarche d’achat responsable.",
+            "Défendre les intérêts économiques des petits producteurs.",
+            "Fournir un débouché aux agriculteurs en reconversion dans le bio.",
+            "Obtenir des engagements politiques en matière d’écologie."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 31,
+        "testId": 186,
+        "text": "Vous savez, aujourd'hui, on parle beaucoup des effets négatifs des écrans pour les enfants et les psychologues s'accordent à dire que des enfants qui sont trop soumis aux écrans ont des troubles de l'apprentissage, de la concentration, voire des difficultés de sommeil. En fait, pour les adultes, c'est exactement la même chose et on voit des salariés aujourd'hui qui ont du mal à se concentrer parce qu'ils sont en permanence dérangés par des notifications, par des mails. Donc, c'est des difficultés de concentration, c'est des difficultés parfois d'apprentissage et il y a beaucoup de salariés qui, aujourd'hui, se plaignent de cette charge mentale. Il y a une étude récente qui citait comme chiffre un tiers des salariés qui se sentent surchargés par l'information sur le lieu de travail. Donc, l'enjeu, c'est de revenir justement à des temps de calme, de sérénité, propices à la concentration, propices à la créativité. Qu'est-ce qui participe à la charge mentale des salariés ?",
+        "audio": "/mp3/186/31.mp3",
+        "options": [
+            "L'inégalité dans la répartition des tâches.",
+            "La surabondance de sollicitations.",
+            "Le manque de fonctionnalité des locaux.",
+            "Les interventions des collègues."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 32,
+        "testId": 186,
+        "text": "C'est au cours de cette réunion internationale qu'un premier accord a été trouvé, in extremis, entre les deux pays, et de nouvelles négociations commencent aujourd'hui, mais sur le fond, rien n'est encore fait. En effet, il aura fallu deux jours de négociations marathons pour parvenir à accoucher de ce document conjoint. Cela marque donc le début d'un processus, mais il faut rester prudent car c'est maintenant que les choses démarrent réellement. Alors, amorce d'un processus de paix ou conférence symbolique? La secrétaire d'État a d'ailleurs précisé hier soir que l'échec n'était pas une option. En fait, on n'est pas encore rentré dans le vif du sujet. Beaucoup de points n'ont pas encore été abordés et n'ont pas été détaillés dans le document conjoint car les deux parties n'ont pas réussi à se mettre d'accord sur la formulation. Pourquoi la journaliste reste-t-elle prudente?",
+        "audio": "/mp3/186/32.mp3",
+        "options": [
+            "La conférence qui a eu lieu est uniquement symbolique.",
+            "La secrétaire d’État a fait part de son pessimisme.",
+            "Les discussions s’annoncent longues et difficiles.",
+            "Tous les points de l’accord ont déjà été traités sans succès."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 33,
+        "testId": 186,
+        "text": "— Bonjour Céline Carat.\n\n— Bonjour.\n\n— Vous êtes donc spécialiste de l'économie sociale et vous constatez que de plus en plus de gardes ont envie de travailler pour des associations, sociétés mutualistes ou autres coopératives, mais la réalité n'est pas toujours rose. Écoutez le témoignage d'une entreprise de Radio France, diplômée d'une grande école de commerce. J'ai opté pour une spécialisation en économie sociale et sociale et j'ai fait le choix d'un métier qui pour moi a du sens. J'aide les porteurs de projets à créer leurs entreprises quand les banques ne veulent pas leur faire confiance. Je suis ravi du poste que j'occupe actuellement. Pourtant, en comparaison avec ceux qui ont subi les mêmes études que moi, je gagne deux fois moins et ça me pose souvent des questions.\n\nQuelle dualité est-il vivante à l'économie sociale et solidaire?",
+        "audio": "/mp3/186/33.mp3",
+        "audioAI": "/mp3/186/ai_33.mp3",
+        "options": [
+            "Elle cherche à recruter des jeunes diplômés néanmoins expérimentés.",
+            "Elle est en pleine expansion, sans offrir suffisamment d’emplois.",
+            "Elle offre des postes épanouissants quoique peu rémunérateurs.",
+            "Elle permet à ses salariés de s’exprimer mais sans résultat concret."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 34,
+        "testId": 186,
+        "text": "— Les jeux vidéo, ce sera le thème aujourd'hui, sont souvent, on le sait, la hantise des parents qui se plaignent qu'ils éloignent leurs enfants de la vie réelle, entre guillemets, et notamment de la scolarité. Or, une expérience qui vise à utiliser ces jeux pour ramener à l'école les décrocheurs scolaires vient de commencer à Bordeaux. Pensez-vous, Claude, que les jeux vidéo puissent être un outil efficace pour réconcilier des décrocheurs scolaires avec la scolarité?\n\n— Le choix des jeux vidéo est une idée intéressante parce qu'elle permet d'inscrire l'école dans l'univers de jeunes qui ont souvent l'impression qu'elles se situent sur une planète à laquelle ils n'ont pas accès. Mais en matière de décrochage scolaire, il n'y a pas de gadget miracle. Et un outil n'est efficace que s'il s'inscrit dans le cadre d'une prise en charge qui prend en compte les causes profondes du décrochage de chaque élève.\n\nQu'est-ce qui ressort de l'interview concernant l'utilisation des jeux vidéo pour les élèves en décrochage?",
+        "audio": "/mp3/186/34.mp3",
+        "options": [
+            "C’est la solution actuellement la plus adaptée à ce problème scolaire.",
+            "Elle permet de faire évoluer le regard des jeunes sur l’école.",
+            "Il faut éviter de mélanger aspects éducatif et ludique à l’école.",
+            "Les nouvelles technologies à l’école sont mal perçues par les familles."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 35,
+        "testId": 186,
+        "text": "— Est-ce que vous pensez que la population s'est réappropriée ces forêts ou a renoué un lien de conscience avec l'industrie forestière?\n\n— Je dirais que le lien n'est pas encore refait à l'heure actuelle. On a beaucoup de travail à faire, puis on met beaucoup d'espoir sur notamment nos associations forestières régionales dans chacune des régions. Mais le gros point, c'est que la moitié de la population est autour de la Couronne de Montréal. Il n'y a même pas d'association forestière ici. Donc, on n'a presque aucun moyen de sensibiliser la population sur les valeurs écologiques, les valeurs économiques du milieu forestier comme tel, puis de vivre aussi dans cette forêt-là.\n\nÀ quelle conclusion arrive ce représentant de l'industrie forestière québécoise?",
+        "audio": "/mp3/186/35.mp3",
+        "options": [
+            "La multiplication des intervenants nuit à l’efficacité de sa communication.",
+            "Les actions d’information ont rouvert le dialogue avec les Québécois.",
+            "Les habitants sont indifférents à l’une des richesses du Québec.",
+            "L’expansion urbaine contrarie l’exploitation industrielle du bois."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 36,
+        "testId": 186,
+        "text": "En fait, les algorithmes ne sont pas drôles, ils ne comprennent ni les jeux de mots, ni les sarcasmes, ni le deuxième degré. L'humour est un domaine qui leur échappe complètement, et sans doute encore pour longtemps. Est-ce que vous saviez qu'il y a tout un champ de la recherche en intelligence artificielle qui essaye de trouver la formule mathématique de l'humour? Et pour l'instant, ce que montrent ces recherches et surtout leur échec, c'est que l'humour est un phénomène extrêmement complexe, plein de références culturelles, hautement relatifs. L'humour se traduit mal. Il fait appel à toutes sortes de ressorts psychologiques inconscients. Bref, l'humour c'est l'ultime frontière pour les algorithmes et peut-être le dernier refuge pour l'humanité. Qu'apprend-on sur l'humour?",
+        "audio": "/mp3/186/36.mp3",
+        "options": [
+            "Il est commun à toutes les cultures.",
+            "Il est le propre des êtres humains.",
+            "Il est lié à une grande intelligence.",
+            "Il est reproductible artificiellement."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 37,
+        "testId": 186,
+        "text": "— Cette cliente achète en moyenne 7 paires de chaussures à l'année. Pour ses nouvelles bottines, elle pourra même changer d'avis d'ici 2 mois. Moyennant un abonnement mensuel de 39 euros, elle a opté pour la location.\n\n— Le but est qu'elle se retrouve diminuée et en consomme plus responsable, plutôt que d'avoir plein de paires que je stocke, et c'est pas bien.\n\n— La formule est testée auprès d'une trentaine de clients de Bocage, la marque moyenne haute gamme du groupe Eram. Le principe, au bout des 2 mois, la paire peut être rachetée 60% moins chère qu'au prix du neuf ou bien restituée en magasin afin d'être portée par une nouvelle personne.\n\nQue propose cette entreprise ?",
+        "audio": "/mp3/186/37.mp3",
+        "options": [
+            "Des articles neufs à prix imbattable.",
+            "Des chaussures en matières recyclées.",
+            "Un mode de consommation durable.",
+            "Un type inédit de magasin associatif."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 38,
+        "testId": 186,
+        "text": "Il arrive très fréquemment qu'un immeuble soit livré dès la réception de l'ouvrage, dès la réception, qu'on change totalement l'intérieur d'un bâtiment parce que ça ne correspond pas aux besoins d'utilisateurs. Et c'est très souvent, très régulièrement, lié à l'acoustique. L'acoustique n'a pas été prise en compte, ne correspond pas à l'usage du bâtiment que voulait en faire l'utilisateur. Et on est obligé de changer tous les plafonds, tous les revêtements. Ça, ça coûte à la société. Si on avait en amont intégré un bureau d'études acoustiques, il aurait pu ajuster, choisir avec plus de précision les matériaux et adhérer les prescriptions en fonction des besoins de l'utilisateur final. Que regrette l'intervenant à propos de la construction des immeubles?",
+        "audio": "/mp3/186/38.mp3",
+        "options": [
+            "La mauvaise qualité des composants employés.",
+            "L’absence de consultation des futurs occupants.",
+            "Le manque d’audace des projets architecturaux.",
+            "Les retards systématiques pris par les chantiers."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 39,
+        "testId": 186,
+        "text": "On voit vraiment que les pratiques culturelles sont clivées et que malheureusement aujourd'hui même au niveau de la jeunesse qui pourrait être fédérée par, par le phénomène générationnel, les pratiques culturelles sont très très séparées. On... Je regrette qu'il n'y ait pas plus de lieux qui permettent aux jeunes de se retrouver sur des terrains festifs. Ça c'est vrai que ce sont, ce sont des moments de se retrouver, de vivre ensemble et sans être dans une posture justement d'affrontement. Et ça, ça manque effectivement il y a les salles de cinéma, même dans les salles de cinéma même dans les multiplexes, on voit que selon les films, les publics ne sont pas les mêmes et que effectivement, cela permet à des gens de se retrouver mais ce sont des gens souvent qui ont des pratiques séparées. Quel jugement cette personne porte-t-elle sur les lieux culturels?",
+        "audio": "/mp3/186/39.mp3",
+        "options": [
+            "Elle déplore le manque de structures pour accueillir et réunir les jeunes.",
+            "Elle désapprouve la disparition d'endroits consacrés aux pratiques culturelles.",
+            "Elle estime insuffisantes les tentatives des cinémas de mélanger les publics.",
+            "Elle regrette le désintérêt des publics pour les espaces et les échanges culturels."
+        ],
+        "answer": 0
+    }
+]
