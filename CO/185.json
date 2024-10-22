@@ -1,0 +1,512 @@
+[
+    {
+        "id": 1,
+        "testId": 185,
+        "text": "A. Attention vous allez vous blesser.\n\nB. Le cours d'anglais commence à 8 heures.\n\nC. Pierre, tu es libre pour le tennis ?\n\nD. Voici le dossier d'inscription à compléter.",
+        "audio": "/mp3/185/1.mp3",
+        "img": "/mp3/185/1.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 2,
+        "testId": 185,
+        "text": "A. C'est un bon marchand de légumes.\n\nB. Demandez un plan de la ville.\n\nC. L'entrée de la préfecture est là-bas.\n\nD. Ma voiture est au parking.",
+        "audio": "/mp3/185/2.mp3",
+        "img": "/mp3/185/2.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 3,
+        "testId": 185,
+        "text": "Je viens d'acheter mes billets d'avion pour Dakar. Je pars le 2 juillet. Et toi, qu'est-ce que tu fais pendant les vacances ?\n\nA. C'est une chouette idée.\n\nB. Je pars avec des amis.\n\nC. Ma mère vit là-bas.\n\nD. On revient dans 3 jours.",
+        "audio": "/mp3/185/3.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 4,
+        "testId": 185,
+        "text": "Où habite ta famille ?\n\nA. À Montpellier.\n\nB. En vacances.\n\nC. Ma grande sœur.\n\nD. Samedi prochain.",
+        "audio": "/mp3/185/4.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 5,
+        "testId": 185,
+        "text": "— J'ai rencontré mon mari quand je travaillais à l'étranger. On prenait des cours dans la même école de langue.\n\n— Ah oui ? Et vous vivez à Toulouse depuis longtemps ?\n\nA. Non, ça fait deux ans.\n\nB. Non, j'ai changé de métier.\n\nC. Non, je parle français.\n\nD. Non, nous voulons déménager.",
+        "audio": "/mp3/185/5.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 6,
+        "testId": 185,
+        "text": "Allô, Fatima? Dis-moi, demain, tu arrives à quelle heure?\n\nA. Dans deux heures, je pense.\n\nB. Vers huit heures, si tout va bien.\n\nC. Pas plus tard que demain.\n\nD. Un peu plus tôt, je crois.",
+        "audio": "/mp3/185/6.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 7,
+        "testId": 185,
+        "text": "Vous avez reçu la commande de Madame Cordier ?\n\nA. Oui, bientôt.\n\nB. Oui, ce matin.\n\nC. Oui, d'accord.\n\nD. Oui, pourquoi pas.",
+        "audio": "/mp3/185/7.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 8,
+        "testId": 185,
+        "text": "— Je dois aller au supermarché avant la fermeture. Qu'est-ce que tu veux manger ce soir ?\n\n— Je ne sais pas. Des pizzas, c'est possible ?\n\n— Oui, mais elles sont meilleures au restaurant italien. Tu peux en acheter une avant de rentrer à la maison ?\n\n— Bien sûr.\n\nDe quoi est-ce que ces deux personnes parlent ?",
+        "audio": "/mp3/185/8.mp3",
+        "options": [
+            "D'un atelier de cuisine.",
+            "D'une recette familiale.",
+            "Des courses pour un repas.",
+            "Des horaires d'un magasin."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 9,
+        "testId": 185,
+        "text": "— Bonjour madame, je voudrais réserver des places pour le spectacle de danse du 18 décembre.\n\n— À cette date, il reste des places à 30 euros.\n\n— Ah, je ne voudrais pas payer plus de 20 euros. Et pour la représentation du 17?\n\n— Désolée, c'est pareil.\n\nPourquoi est-ce que le jeune homme repart sans billet?",
+        "audio": "/mp3/185/9.mp3",
+        "options": [
+            "La représentation est annulée.",
+            "Le spectacle est complet.",
+            "Les places sont trop chères.",
+            "Les réservations sont terminées."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 10,
+        "testId": 185,
+       "text": "— Salut Ayat ! Waouh ! Il est beau ton manteau !\n\n— Merci ! Il est parfait pour l'automne et le froid qui arrive.\n\n— Oui, moi j'adore cette époque. Les couleurs des arbres sont magnifiques. C'est super pour se promener en forêt. Et on peut sortir son beau manteau, comme toi.\n\n— Mais moi en fait, je préfère l'été. Les vêtements légers, être dehors...\n\n— Eh bien, on n'a pas les mêmes goûts. Mais bon, c'est vrai qu'il fait un peu froid dehors. On va boire un café ?\n\nSur quoi est-ce que ces deux personnes ont des goûts différents ?",
+        "audio": "/mp3/185/10.mp3",
+        "options": [
+            "La mode.",
+            "La nature.",
+            "Les saisons.",
+            "Les vacances."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 11,
+        "testId": 185,
+        "text": "— Allô Paul, tu peux m'aider ?\n\n— Qu'est-ce qui t'arrive Lydie ?\n\n— J'ai laissé mes clés de voiture dans la salle de conférence et elle est occupée jusqu'à 20h.\n\n— Je peux te ramener si tu veux ?\n\n— Oh merci, ça m'arrange. Je dois être chez moi à 18h30. Demain je viendrai en transport.\n\nQuel est le problème de Lydie ?",
+        "audio": "/mp3/185/11.mp3",
+        "options": [
+            "Elle a oublié un objet important.",
+            "Elle a raté son bus ce matin.",
+            "Elle doit s’absenter du bureau.",
+            "Elle est en retard à une réunion."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 12,
+        "testId": 185,
+        "text": "— Salut Pauline !\n\n— Salut Clément !\n\n— Ça y est, j'ai lancé mon projet avec mon équipe !\n\n— Ah oui, c'est le boîtier connecté pour trier les déchets ?\n\n— Oui, c'est ça ! On le fixe à côté de ses poubelles et après c'est très simple, on scanne le code des emballages avant de les jeter et le boîtier indique dans quelle poubelle il faut les jeter en fonction des règles de la ville où on réside.\n\n— C'est génial !\n\nDe quoi parlent ces deux personnes ?",
+        "audio": "/mp3/185/12.mp3",
+        "options": [
+            "D'un nouveau produit.",
+            "De collègues de travail.",
+            "De leur d’habitation.",
+            "De leurs derniers achats."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 13,
+        "testId": 185,
+        "text": "Soyez les bienvenus dans notre bus à destination de Paris-Bercy. Nous ferons une pause à midi pour vous permettre de vous restaurer. Je vous rappelle que vous pouvez connecter vos appareils sur notre réseau tout au long du trajet. Un agent passera parmi vous pour vérifier vos billets et votre numéro de siège. Je vous invite à l'informer si vous voulez en changer et à lui poser vos questions. Merci d'avoir choisi notre compagnie et bon voyage! Quelle est la particularité de ce bus?",
+        "audio": "/mp3/185/13.mp3",
+        "options": [
+            "Il y a un service internet.",
+            "Le placement est libre.",
+            "On y propose des repas.",
+            "Son personnel est bilingue."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 14,
+        "testId": 185,
+        "text": "— Alors Rachida, comment s'est passée ta soirée hier ?\n\n— Super ! Avec Bertrand, nous sommes allés dans un bar qui vient d'ouvrir. Il y avait un concert de musique jazz. J'ai adoré ! Le billet d'entrée était un peu cher, mais on a parlé avec des gens très sympas. Ils nous ont proposé d'aller danser en discothèque après le spectacle. Comme on était un peu fatigués, on a refusé. Ce sera pour une prochaine fois.\n\nQu'est-ce qu'on apprend sur la soirée de Rachida ?",
+        "audio": "/mp3/185/14.mp3",
+        "options": [
+            "Elle a rencontré des musiciens.",
+            "Elle a testé un nouveau bar.",
+            "Elle a vu un spectacle gratuit.",
+            "Elle est allée en discothèque."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 15,
+        "testId": 185,
+        "text": "— Allô ?\n\n— Salut, c'est Rachida.\n\n— Salut, petite sœur.\n\n— Je t'appelle pour qu'on s'organise. Tu te souviens qu'on sera déjà parti quand vous arriverez ?\n\n— Ah c'est vrai, j'avais complètement oublié. Comment on fait pour les clés ?\n\n— Je les laisserai chez la voisine d'en face. On vous a préparé des draps, des serviettes, et le frigo est plein. Nous vous avons aussi laissé une liste d'activités à faire ici et des adresses pour sortir dîner.\n\n— Merci beaucoup. Je te dois combien ?\n\n— Ah ben rien, tu plaisantes. C'est normal, tu es mon frère.\n\nPourquoi Rachida appelle-t-elle son frère ?",
+        "audio": "/mp3/185/15.mp3",
+        "options": [
+            "Pour l’inviter au restaurant.",
+            "Pour le remercier de son accueil.",
+            "Pour lui conseiller un logement.",
+            "Pour lui donner des informations."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 16,
+        "testId": 185,
+        "text": "— Pouvez-vous envoyer un courriel pour la réunion de cet après-midi, mademoiselle ?\n\n— Oui, bien sûr. Mais n'oubliez pas votre rendez-vous de 16h avec M. Demers.\n\n— Ah oui, c'est vrai. Mais il faudra le faire patienter. Je ne pense pas que la réunion sera terminée à 16h. Je le verrai plus tard.\n\n— Très bien, monsieur. Il vaut mieux que je l'appelle pour le prévenir.\n\nPourquoi la secrétaire doit-elle appeler M. Demers ?",
+        "audio": "/mp3/185/16.mp3",
+        "options": [
+            "Pour annuler une réunion.",
+            "Pour convoquer un collègue.",
+            "Pour changer un rendez-vous.",
+            "Pour annoncer un retard."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 17,
+        "testId": 185,
+        "text": "Ça fait 3 ans que je vis à Laval. Après avoir habité une chambre en cité universitaire, j'ai voulu vivre dans mon propre appartement. Mais trouver de l'espace pour un loyer modéré, ce n'est pas facile. Finalement, j'ai opté pour la colocation. Nous sommes deux colocataires. Au début, la vie en colocation n'est pas simple, surtout quand on ne se connaît pas. Il faut savoir faire des compromis et s'organiser. Pourquoi cette personne a-t-elle choisi la colocation?",
+        "audio": "/mp3/185/17.mp3",
+        "options": [
+            "Pour avoir un logement plus grand et peu cher.",
+            "Pour louer des chambres à des étudiants.",
+            "Pour partager les tâches ménagères.",
+            "Pour rencontrer de nouvelles personnes."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 18,
+        "testId": 185,
+        "text": "— Madame?\n\n— Bonjour, monsieur. On m'a volé mon sac hier dans le métro à la station Mont-Royal. Quelles sont les démarches à suivre pour obtenir un autre passeport rapidement?\n\n— Eh bien, tout d'abord, nous allons enregistrer votre déclaration, et ensuite, il vous faudra aller à l'ambassade de France de Montréal pour leur signaler. D'accord. Merci, monsieur.\n\nQuel est le problème de cette femme?",
+        "audio": "/mp3/185/18.mp3",
+        "options": [
+            "Elle a été victime d’un vol.",
+            "Elle a oublié son passeport.",
+            "Elle a perdu son sac à main.",
+            "Elle est tombée dans le métro."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 19,
+        "testId": 185,
+        "text": "— Tout le monde rêve de faire de la proximité, d'être proche des auditeurs, alors quand on est une radio-associative locale, on a plus de facilité. Vous, chaque vendredi, vous ouvrez le local à 13h, on peut venir avec son panier et on partage en commun le repas.\n\n— Tout à fait, et là, pour la fin de l'année, on a donc lancé une invitation à tous ceux qui voudraient pour venir manger avec nous et réaliser une émission collective de fin d'année, un petit peu festive.\n\nQue propose chaque semaine cette radio à ses auditeurs ?",
+        "audio": "/mp3/185/19.mp3",
+        "options": [
+            "De déjeuner ensemble.",
+            "De faire une soirée.",
+            "De participer à un jeu.",
+            "De rencontrer un invité."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 20,
+        "testId": 185,
+        "text": "— Bonjour, je voudrais envoyer ce colis en Outre-mer en express.\n\n— D'accord. Alors, ça vous fera 20 euros, s'il vous plaît.\n\n— 20 euros ?\n\n— Oui, mais si vous préférez, nous proposons des boîtes standards qui coûtent moins cher.\n\n— Je pense que je vais refaire le colis chez moi avec une de vos boîtes et reviens demain.\n\n— N'oubliez pas de détailler le contenu du colis pour la boîte.\n\n— Oui, je m'en suis occupée. J'ai également la fiche avec les coordonnées du destinataire.\n\nPourquoi cette dame va-t-elle finalement envoyer son colis le lendemain ?",
+        "audio": "/mp3/185/20.mp3",
+        "audioAI": "/mp3/185/ai_20.mp3",
+        "options": [
+            "Elle a décidé de changer d’emballage.",
+            "Elle a laissé son portefeuille chez elle.",
+            "Elle a mal rempli la fiche de douane.",
+            "Elle a oublié l’adresse du destinataire."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 21,
+        "testId": 185,
+        "text": "— Salut, ça va ?\n\n— Ça va, mais mon petit ami est parti pour trois mois pour réaliser un documentaire sur la Gaspésie, une région assez sauvage du Québec.\n\n— Ah oui, je connais. Quelle chance ! J'adorerais y retourner. Et tu vas y aller aussi ?\n\n— J'aimerais bien, mais j'ai des missions prévues prochainement. Mais bon, je vois mon patron demain, je lui demanderai si je peux prendre des vacances.\n\n— Bonne chance. Tu m'écriras pour me raconter ton expérience là-bas. Et préviens-moi quand le film sortira.\n\nDe quoi parlent ces personnes ?",
+        "audio": "/mp3/185/21.mp3",
+        "options": [
+            "D’un projet de voyage.",
+            "D’un changement de travail.",
+            "D’un futur déménagement.",
+            "D’une sortie au cinéma."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 22,
+        "testId": 185,
+        "text": "Je crois que les difficultés en matière de lecture ont des causes à la fois individuelles et sociales. Les parents, par exemple, parce qu'ils sont angoissés par l'avenir de leurs enfants, leur présentent souvent la lecture comme une obligation, une démarche indispensable pour réussir. Et c'est une erreur, parce que la lecture est avant tout un plaisir. Un livre, c'est un voyage, une découverte, une aventure, et il faudrait faire découvrir la lecture aux enfants comme on leur fait découvrir la cuisine chinoise ou les jeux dans la neige. Et puis les parents refusent aussi souvent à leurs enfants des lectures qu'ils considèrent comme mineurs. Les bandes dessinées, par exemple, et ça aussi, c'est une erreur. Lire une bande dessinée, c'est lire. Et ça permet souvent d'ailleurs de découvrir ensuite d'autres formes de littérature. Que conseille cette intervenante aux parents ?",
+        "audio": "/mp3/181/22.mp3",
+        "options": [
+            "D'attribuer à la lecture le statut de loisir.",
+            "De favoriser la lecture en autonomie.",
+            "De limiter la lecture d'histoires illustrées.",
+            "De sélectionner des lectures classiques."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 23,
+        "testId": 185,
+        "text": "— Chers auditeurs, nous allons aujourd'hui vous présenter Chantal Harvey, une Franco-Québécoise qui travaille au centre de service de Shawinigan et qui, tenez-vous bien, conduit un chasse-neige. Alors Chantal, comment on se sent aux commandes de cette grosse machine?\n\n— Je me sens parfaitement dans mon élément.\n\n— Et votre chef, qu'en pense-t-il? Vous êtes satisfait d'avoir une femme dans votre équipe?\n\n— J'en suis ravi. Elle a assimilé rapidement les manœuvres d'exécution et elle intervient efficacement aux endroits stratégiques. Même si elle s'y connaît peu en déneigement, elle a su tirer son épingle du jeu. C'est une personne courageuse et regardez comme elle est à l'aise aux manettes de cet engin. On jurerait qu'elle a fait ça toute sa vie.\n\nPourquoi son responsable est-il satisfait de Chantal?",
+        "audio": "/mp3/185/23.mp3",
+        "options": [
+            "Elle a beaucoup d’expérience.",
+            "Elle a vite appris son métier.",
+            "Elle aime prendre des risques.",
+            "Elle sait diriger ses collègues."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 24,
+        "testId": 185,
+        "text": "Eh bien, à Amiens, les aspirateurs des agents de la Boirie avalent 500 tonnes de feuilles chaque année. Celles-ci, une fois ramassées, sont d'abord stockées dans plusieurs lieux de la ville, puis elles sont triées dans l'usine de mécanisation Picard, IDEX environnement. Elles ne vont pas toutes subir le même sort. Toutes ne sont pas traitées de la même manière. Les feuilles les plus propres, généralement celles ramassées dans les parcs et jardins, sont transformées en compost. De quoi parle le journaliste ?",
+        "audio": "/mp3/185/24.mp3",
+        "options": [
+            "De conservation des plantes.",
+            "De nettoyage d’espaces verts.",
+            "De procédés de recyclage.",
+            "De techniques de culture."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 25,
+        "testId": 185,
+        "text": "— Et celle-là, qu'est-ce que t'en penses?\n\n— Ouais, pas mal. J'aime bien la forme des branches. Tourne-toi un peu pour voir. Ce sera parfait pour la montagne.\n\n— Bon, j'essaie encore ces trois paires et je me décide.\n\n— Moi, je préfère celle-là. Elles vont très bien avec la couleur de tes cheveux et elles sont très élégantes.\n\n— Bon, ben allez, d'accord, je les prends.\n\nQu'est-ce que la fille achète?",
+        "audio": "/mp3/185/25.mp3",
+        "options": [
+            "Une paire de boucles d’oreille.",
+            "Une paire de chaussures.",
+            "Une paire de lunettes.",
+            "Une paire de skis."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 26,
+        "testId": 185,
+        "text": "Il va faire chaud cette semaine, très chaud, la chaleur va de nouveau être difficile à supporter. Cette situation fait les affaires des professionnels du tourisme de la montagne. Là-bas, pendant la nuit, les températures vont de 12 à 15 degrés, ce qui permet de mieux se reposer. Pendant la journée, il est possible de faire des activités nautiques dans de l'eau bien fraîche, et c'est ce dont tout le monde rêve actuellement. Selon le reportage, que font les touristes pendant les grandes chaleurs ?",
+        "audio": "/mp3/185/26.mp3",
+        "options": [
+            "Ils annulent leurs activités.",
+            "Ils partent à la montagne.",
+            "Ils préfèrent sortir la nuit.",
+            "Ils sortent en train à l’extérieur."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 27,
+        "testId": 185,
+        "text": "Cette initiative nous emmène dans le Var Mathilde où Thierry Gras est coiffeur depuis 30 ans. Installé à Saint-Zacharie à côté d'Aubagne, cela fait des années qu'il stocke les cheveux qu'il coupe. Dans quelques jours, il va envoyer pour la première fois sa collecte dans des centres de réinsertion afin qu'il soit transformé, je cite, en barrière antipollution. La fibre capillaire aurait comme effet de pouvoir retenir certains polluants comme les huiles solaires ou les hydrocarbures, deux importantes causes de pollution marine. Avec un kilo de cheveux, on peut pomper 8 litres de pétrole, annonce le Varroa. Ces boudins, une fois réalisés, seront revendus à des ports ou communautés de communes. Plusieurs d'entre eux se déclarent déjà intéressés. Qu'apprend-on sur Thierry Gras?",
+        "audio": "/mp3/185/27.mp3",
+        "options": [
+            "Il commercialise des filets de pêche fabriqués partir de cheveux.",
+            "Il dénonce la toxicité de certains traitements pour les cheveux.",
+            "Il propose un produit pour protéger les cheveux des particuliers.",
+            "Il récupère les cheveux de ses clients pour nettoyer les océans."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 28,
+        "testId": 185,
+        "text": "Si demain vous viviez dans une oasis, je ne vous parle pas d'un lac avec des petits palmiers au milieu du désert, mais d'une communauté, une petite communauté en France, en ville ou à la campagne, où vos voisins seraient comme vous, décidés à vivre de façon plus écolo. C'est ça les oasis, 500 petits groupes aujourd'hui, des familles, qui vivent côte à côte, mais aussi ensemble. Et c'est peut-être avant-gardiste. Prenez par exemple, en Oréloire, l'éco-hamo du Klessin. 28 familles, soit 60 personnes, qui vivent dans des bâtiments bio-climatiques dont le chauffage, pour faire simple, ne pollue pas. Qui, toutes, ont renoncé à se brancher au tout-à-l'égout. Leurs eaux grises sont traitées dans des bassins plantés de roseaux, qui dépolluent. C'est parfaitement légal, et ça marche. Que recherchent les habitants de ces oasis ?",
+        "audio": "/mp3/185/28.mp3",
+        "options": [
+            "Adopter un mode de vie collectif responsable.",
+            "Construire un réseau d’assainissement des eaux.",
+            "Faire la promotion de logements écologiques.",
+            "Mener une politique d’aménagement des villes."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 29,
+        "testId": 185,
+        "text": "— Alors, quelles informations avez-vous ramené de Berne, Pierre ?\n\n— Notre partenaire suisse n'est pas favorable à l'élargissement de nos activités communes. Il estime que les investissements sont trop élevés par rapport aux tombées économiques possibles.\n\n— C'est également la position de nos collaborateurs anglais. Ils ne veulent pas prendre de risques inutiles étant donné le faible taux de croissance du pouvoir d'achat cette année.\n\n— Ce projet est véritablement compromis. Rome et Berlin avaient déjà montré leur réticence.\n\n— Et bien d'accord. Arrêtons tout dès maintenant et commençons tout de suite à explorer de nouvelles pistes.\n\n— Pourquoi le directeur choisit-il de renoncer à ce projet ?",
+        "audio": "/mp3/185/29.mp3",
+        "options": [
+            "Le directeur nourrit de plus grandes ambitions pour l’entreprise.",
+            "Le groupe a décidé de restreindre son domaine d’intervention.",
+            "Les partenaires européens trouvent le projet hasardeux.",
+            "Les ressources financières de l’entreprise sont en baisse."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 30,
+        "testId": 185,
+        "text": "— Jean-Pierre, pouvez-vous nous parler de votre métier qui est une vraie passion pour vous?\n\n— Oui, eh bien, ce qui me plaît le plus, c'est que je voyage beaucoup. Je dois toujours me déplacer si je veux que les gens soient informés au moment même où les événements se produisent.\n\n— On vous connaît comme un voyageur infatigable qui ne se sépare jamais de son appareil photo, alors que vous ne vous en servez même pas.\n\n— J'ai toujours rêvé d'être reporter-photographe et avoir cet appareil avec moi me donne l'impression que mon rêve est presque réel.\n\n— En réalité, vous mettez en scène les mots et non les images. C'est ce qui caractérise votre métier et vous a rendu célèbre.\n\nQuel est le métier de Jean-Pierre?",
+        "audio": "/mp3/185/30.mp3",
+        "options": [
+            "Metteur en scène.",
+            "Explorateur.",
+            "Photographe.",
+            "Journaliste."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 31,
+        "testId": 185,
+        "text": "— Oui, Fatoumata a 29 ans, elle termine en ce moment son doctorat d'astronomie et a aussi de passer un an au Japon pour se préparer à son futur métier d'astronome. Et Fatoumata veut être astronome, femme de ménage de l'espace.\n\n— Les objets qui sont vraiment retombés sur Terre, au Zimbabwe et en Arabie Saoudite, c'est arrivé. Plusieurs entreprises et agences ont proposé des solutions de nettoyage de l'espace, mais aucune n'a vraiment été testée dans les conditions réelles. Mais tout le monde se prépare à aller dans l'espace, parce que la NASA prévoit qu'à l'horizon 2025, on pourra plus envoyer d'objets dans l'espace, tellement ce sera encombré de débris. Donc en fait, je simule des explosions et des collisions dans l'espace. Par exemple, vous avez deux objets qui rentrent en collision, ça crée 40 000 débris. Regardez comment ces 40 000 débris vont évoluer avec le temps autour de la Terre.\n\n— Voilà...\n\nQuel est l'objectif de l'activité actuelle de Fatoumata ?",
+        "audio": "/mp3/185/31.mp3",
+        "options": [
+            "Comparer les mouvements des galaxies.",
+            "Étudier les trajectoires des déchets cosmiques.",
+            "Prévenir les risques de chute de météorites.",
+            "S'entraîner pour des voyages interplanétaires."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 32,
+        "testId": 185,
+        "text": "Et je me suis rendu compte que nous visions dans un monde où nous ne nous autorisions pas à être nous-mêmes, à nous écouter, à nous respecter. Et c'est surtout cette manière dont nous sommes pris par une forme d'auto-exploitation qui emmène tant de gens jusqu'à l'épuisement, jusqu'au burn-out, qui m'a donné envie de dire juste « sauvez votre peau, devenez narcissique ». Et je crois qu'en fait, être narcissique, c'est pouvoir s'écouter, se rencontrer, se respecter. Et je crois que ça, c'est vraiment aujourd'hui crucial. Que déploie cet homme à propos des individus dans le monde actuel?",
+        "audio": "/mp3/185/32.mp3",
+        "options": [
+            "L’absence de formes d’altruisme.",
+            "La place accordée à l’apparence.",
+            "La superficialité des relations.",
+            "Le manque d’estime de soi."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 33,
+        "testId": 185,
+        "text": "— Luc Julliard, vous êtes spécialiste de ce qu'il ne faut pas appeler l'intelligence artificielle. Donc pourquoi votre livre s'intitule-t-il « L'intelligence artificielle n'existe pas ».\n\n— En fait, c'est un constat que je fais depuis quelques années, je suis un peu fatigué par ce que j'entends, par toutes les bêtises qu'on dit sur l'intelligence artificielle. Donc j'ai juste voulu rétablir un peu la vérité en expliquant qu'on ne sait pas ce que c'est que l'intelligence et donc qu'on ne peut pas construire de l'intelligence artificielle en ne sachant pas ce que c'est. Et du coup, ce qu'on appelle l'intelligence artificielle depuis 1956, et bien en fait ce sont des techniques, qui sont des techniques mathématiques, statistiques, etc. qui n'ont rien à voir avec l'intelligence et on n'aurait pas dû appeler ça l'intelligence artificielle.\n\nQu'explique Luc Julliard à propos de l'intelligence artificielle ?",
+        "audio": "/mp3/185/33.mp3",
+        "options": [
+            "Elle engendre une peur irrationnelle.",
+            "Elle possède un nom inapproprié.",
+            "Son cham d’action est restreint.",
+            "Son développement est imprévisible."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 34,
+        "testId": 185,
+        "text": "Oui, les estimations viennent du maître du diamant, le premier producteur de la planète, l'anglo-américain De Beers. La demande mondiale de ce précieux caillou atteint le record de 82 milliards de dollars et qui en raffole au point de pousser le diamant à battre ce record. Deux catégories de clients mangent les deux tiers du marché, les générations Y et Z, autrement dit une population plutôt jeune, celle née dans les années 80 et dans les années 2000. Le diamant, à en croire le patron de De Beers, ce n'est plus un objet de luxe réservé à une élite aux cheveux gris. Qu'apprend-on sur le diamant ?",
+        "audio": "/mp3/185/34.mp3",
+        "options": [
+            "Sa clientèle s'est diversifiée.",
+            "Sa production s'est accélérée.",
+            "Son estimation s'est complexifiée.",
+            "Son prix en dollar s'est effondré."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 35,
+        "testId": 185,
+        "text": "Fondées en 1909, les Canadiens de Montréal est la plus ancienne équipe de hockey toujours en activité. Les joueurs qui ont composé cette ancestrale franchise ont longtemps été en grande majorité d'origine canadienne, puis nord-américaine. Mais ce qui a marqué longtemps l'histoire de ce fameux club de hockey est que ses héros sur glace ont été francophones. Dans un Québec dont les destinées étaient surtout menées par des compagnies anglaises et où l'étiolement de la communauté minoritaire semblait inexorable, le fait d'avoir des joueurs de hockey francophones héroïques parmi les meilleurs du monde a été pour les Québécois un tremplin extraordinaire et un encouragement à décrocher leur propre succès. Qu'apprend-on sur l'équipe des Canadiens de Montréal?",
+        "audio": "/mp3/185/35.mp3",
+        "options": [
+            "C'est un exemple de réussite par le sport.",
+            "C'est un modèle rare de mixité culturelle.",
+            "C'est un symbole fort de cette province.",
+            "C'est une référence pour son style de jeu."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 36,
+        "testId": 185,
+        "text": "Comme toute technologie pensée pour apprendre, il y a du bon et il y a du mauvais dans les écrans pour apprendre. Il faut sûrement les concevoir selon des principes pédagogiques solides. Et ce sont ces principes pédagogiques qui, au fond, permettent d'apprendre, mettre des récompenses au bon moment, permettre à l'enfant de s'exercer sur du concret, de répéter ses tâches, d'avoir un défi à sa taille, qui s'adapte à ses difficultés. Ce sont des principes pédagogiques qu'en réalité, les jeux vidéo ont importé de façon intelligente pour nous accrocher et nous faire continuer à jouer et nous faire gagner à un certain moment. Donc, au fond, on pourrait dire l'inverse, c'est-à-dire que ce sont les jeux vidéo qui ont appris des bons principes de l'apprentissage. Qu'explique cette chercheuse sur les jeux vidéo récréatifs?",
+        "audio": "/mp3/185/36.mp3",
+        "options": [
+            "Ils favorisent l’esprit de compétition.",
+            "Ils influent sur les motivations des élèves.",
+            "Ils s'appuient sur des théories éducatives.",
+            "Ils sont adoptés par les enseignants."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 37,
+        "testId": 185,
+        "text": "— Qu'est-ce que vous avez en couverture ce mois-ci?\n\n— Ce mois-ci, on se questionne sur la présence de pétrole dans le Golfe Saint-Laurent, dans le sous-sol du Golfe Saint-Laurent. Il y a beaucoup de controverses au sujet de son exploitation, son extraction, sur les dommages potentiels que ça pourrait causer au Golfe, qui est un écosystème assez précieux et assez unique aussi au monde. Mais il y a aussi cette richesse qu'on ne soupçonnait pas il y a une vingtaine, trentaine d'années, ce pétrole dans le sous-sol. Alors ça fait des débats de société assez importants ici.\n\nQu'est-ce qui fait polémique?",
+        "audio": "/mp3/185/37.mp3",
+        "options": [
+            "L’industrialisation galopante des rives.",
+            "La dégradation d’un site naturel rare.",
+            "La pollution des nappes phréatiques.",
+            "La raréfaction des énergies fossiles."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 38,
+        "testId": 185,
+        "text": "— C'est une dame que je ne connaissais pas du tout. Une des deux filles, Irène Némirovsky, une dame qui est décédée maintenant et qui s'appelle Elisabeth Gilles, qui était éditrice chez Julliard, qui un jour m'a appelé en me disant « Voilà, ça fait des années que je vous entends à la télé, ça fait des années que je me dis qu'en fait vous êtes un écrivain qui ne le savez pas ». Et quand je suis arrivé dans son bureau elle m'a expliqué qu'« en fait je n'avais rien à faire à la télé et que ce n'était pas mon métier ».\n\n— Mais vous croyez au hasard de la vie, aux rencontres vous essentiellement?\n\n— À moi ça m'est tout le temps arrivé, ça oui, j'ai beaucoup de chance.\n\nComment s'est révélée la vocation de cet écrivain?",
+        "audio": "/mp3/185/38.mp3",
+        "options": [
+            "À l’occasion d’une entrevue.",
+            "En côtoyant des auteurs connus.",
+            "Grâce à des relations amicales.",
+            "Lors d’une émission de radio."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 39,
+        "testId": 185,
+        "text": "Faisons un tour au supermarché. Comme tous ceux de son espèce, celui de mon quartier a entamé progressivement sa mutation en accordant de plus en plus de place aux produits bio, aux commerces équitables, aux emballages recyclables. C'est encore timide, mais disons qu'il y a le choix. Je peux donc, comme l'explique le professeur Patten, choisir ce qui est bien plutôt que ce qui est mal. Mais je réalise à présent que le mal fait aussi partie du choix, le mal. Autrement dit que des produits issus de l'exploitation des hommes ou de la nature, qui maltraitent les premiers et détruisent la seconde, sont en vente libre à chaque individu, en somme, de se débrouiller avec sa conscience. Que dénonce ce journaliste à propos des supermarchés?",
+        "audio": "/mp3/185/39.mp3",
+        "options": [
+            "L'absence d'éthique de certains produits.",
+            "La qualité relative des aliments labellisés bio.",
+            "L'influence de la publicité sur le choix du client.",
+            "L'utilisation systématique d'emballage."
+        ],
+        "answer": 0
+    }
+]
