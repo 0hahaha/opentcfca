@@ -1,0 +1,522 @@
+[
+    {
+        "id": 1,
+        "testId": 177,
+        "text": "A. Éteignez votre téléphone, Madame.\n\nB. Mettez votre manteau, il fait froid ici.\n\nC. Restez couché, j'appelle un médecin.\n\nD. Je vais regarder votre bras.",
+        "audio": "/mp3/177/1.mp3",
+        "img": "/mp3/177/1.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 2,
+        "testId": 177,
+        "text": "A. Bravo aux cuisiniers, c'est délicieux.\n\nB. Je voudrais une table près de la fenêtre.\n\nC. Un autre café, s'il vous plaît.\n\nD. Vous pouvez garder la monnaie.",
+        "audio": "/mp3/177/2.mp3",
+        "img": "/mp3/177/2.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 3,
+        "testId": 177,
+        "text": "À quelle heure arrivez-vous au travail?\n\nA. À droite.\n\nB. À midi.\n\nC. À Paris.\n\nD. À vélo.",
+        "audio": "/mp3/177/3.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 4,
+        "testId": 177,
+        "text": "Allô, Anne, je suis libre demain, nous déjeunons ensemble?\n\nA. Avec plaisir.\n\nB. Ça va, merci.\n\nC. Je t'en prie.\n\nD. Pas de quoi.",
+        "audio": "/mp3/177/4.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 5,
+        "testId": 177,
+        "text": "— Bonjour Madame, je peux vous aider?\n\n— Bonjour, je cherche une jupe longue.\n\n— Oui, comme celle-ci.\n\nA. Ces bottes sont parfaites.\n\nB. Je peux t'en faire les soldes.\n\nC. J'aimerais essayer la verte.\n\nD. C'est ouvert le lundi?",
+        "audio": "/mp3/177/5.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 6,
+        "testId": 177,
+        "text": "Excusez-moi, est-ce que ce bus va au centre commercial ?\n\nA. Oui, c'est le dernier arrêt.\n\nB. Oui, il y a de bonnes promotions.\n\nC. Oui, je préfère cette petite boutique.\n\nD. Oui, nous voulons offrir une robe",
+        "audio": "/mp3/177/6.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 7,
+        "testId": 177,
+        "text": "Salut Philippe, je serai chez toi dans une demi-heure, est-ce que j'apporte quelque chose à manger ?\n\nA. Non, j'ai déjà préparé un bon repas.\n\nB. Non, j'ai vraiment très faim.\n\nC. Oui, j'ai fait les courses hier.\n\nD. Oui, on pourra aller au restaurant.",
+        "audio": "/mp3/177/7.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 8,
+        "testId": 177,
+        "text": "Simon, au concert de Zaz au Francophonie de Montréal, qu'est-ce que tu penses de cet artiste?\n\nA. J'aime beaucoup ses chansons.\n\nB. Je préfère les petites desserts.\n\nC. Je sais jouer de la guitare.\n\nD. Je te remercie de l'invitation.",
+        "audio": "/mp3/177/8.mp3",
+        "audioAI": "/mp3/177/ai_8.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 9,
+        "testId": 177,
+        "text": "Pourquoi étiez-vous absent hier après-midi?\n\nA. J'avais rendez-vous chez le médecin.\n\nB. Moi non plus, je ne suis pas venu.\n\nC. Je ne sais pas, je n'étais pas là.\n\nD. Si, mais je n'ai pas eu le temps.",
+        "audio": "/mp3/177/9.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 10,
+        "testId": 177,
+        "text": "Je vais aussi à l'anniversaire de l'homme de ce soir. Qu'est-ce que tu peux offrir?\n\nA. C'est pour ses 18 ans.\n\nB. Des chapeaux en laine.\n\nC. C'est un homme sympa.\n\nD. Il va en voiture.",
+        "audio": "/mp3/177/10.mp3",
+        "audioAI": "/mp3/177/ai_10.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 11,
+        "testId": 177,
+        "text": "— Alors Catherine, c'était bien ces deux jours de congés?\n\n— Mais enfin Loïc, ce n'était pas des vacances! C'était une formation en premier secours que je te conseille vraiment de faire aussi. Elle est très intéressante et surtout, elle est toujours utile, au travail, mais aussi dans la vie de tous les jours. Tenez, Loïc, vas-y!\n\n— Tu as raison, j'ai toujours voulu la faire, cette fois je m'y mets.\n\nQue va faire Loïc?",
+        "audio": "/mp3/177/11.mp3",
+        "audioAI": "/mp3/177/ai_11.mp3",
+        "options": [
+            "Demander de l'aide.",
+            "Participer à une formation.",
+            "Partir en vacances.",
+            "Travailler avec sa collègue."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 12,
+        "testId": 177,
+        "text": "— Maintenant que les examens universitaires sont finis, qu'est-ce que tu vas faire ?\n\n— Je voudrais faire un stage de langue espagnole pendant un mois.\n\n— Bonne idée ! J'en ai fait un l'année dernière en Argentine. C'était super !\n\n— Je ne veux pas aller si loin. Je pense plutôt à l'Espagne.\n\n— Tu devrais aller dans le sud, à Séville. C'est une ville magnifique !\n\n— Pourquoi pas ? Mais j'ai un petit budget. Je dois voir si je peux trouver un logement pas trop cher.\n\nDe quoi parle ces deux personnes ?",
+        "audio": "/mp3/177/12.mp3",
+        "options": [
+            "De leur voyage en Argentine.",
+            "Des résultats des examens.",
+            "Du coût de la vie en ville.",
+            "D'un séjour linguistique."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 13,
+        "testId": 177,
+        "text": "— Si tu prends le bus de midi pour aller à l'université, tu seras en retard.\n\n— Et que veux-tu que je fasse?\n\n— Marche! Il fait beau! Et si tu passes par le parc, tu pourras t'arrêter au kiosque pour acheter ton déjeuner.\n\nQue conseille la jeune fille à son amie?",
+        "audio": "/mp3/177/13.mp3",
+        "options": [
+            "D'aller à l'université à pied.",
+            "De courir pour être à l’heure.",
+            "De déjeuner avant de partir.",
+            "De prendre le bus de midi."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 14,
+        "testId": 177,
+        "text": "— Et, Carole, tu vas accepter cette mission de deux mois en Asie?\n\n— Je ne sais pas. J'avais prévu de passer l'été avec ma sœur. Elle a déjà tout organisé. Je ne veux pas la décevoir.\n\n— Je comprends. Mais c'est un projet que tu ne peux pas refuser. Et dans quelques mois, il sera trop tard pour dire à ton responsable que tu veux partir. Ta sœur va comprendre.\n\n— Tu as raison. C'est décidé et en plus, grâce à cette expérience, je pourrai changer de poste à mon retour. Je vais l'appeler ce soir pour le lui dire.\n\nPourquoi Carole a-t-elle appelé sa sœur?",
+        "audio": "/mp3/177/14.mp3",
+        "audioAI": "/mp3/177/ai_14.mp3",
+        "options": [
+            "Pour annoncer sa démission.",
+            "Pour annuler leurs vacances.",
+            "Pour demander des conseils.",
+            "Pour parler de son dernier voyage."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 15,
+        "testId": 177,
+        "text": "— Alors, finalement, tu as vu l'exposition Mathis ?\n\n— Oui, j'y suis allée pendant les vacances. Il y avait deux heures d'attente avant de pouvoir entrer. Heureusement que j'avais un bon livre.\n\n— Ah oui, c'est souvent comme ça. Mais après, tu as vu ? La disposition des tableaux, l'organisation de l'espace, la lumière... C'est vraiment superbe.\n\n— Oui, il y a un très bel éclairage, qui met bien les étoiles en valeur. Mais dans cette foule, il faut se battre pour les voir. Très sincèrement, j'aurais été plus tranquille chez moi à feuilleter une revue d'art contemporain.\n\nPourquoi l'un des interlocuteurs n'a-t-il pas apprécié l'exposition ?",
+        "audio": "/mp3/177/15.mp3",
+        "options": [
+            "Il n'aime pas l'œuvre de ce peintre.",
+            "La présentation des tableaux lui a déplu.",
+            "Il a trouvé qu'il y avait trop de visiteurs.",
+            "Il s'est ennuyé en faisant la queue."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 16,
+        "testId": 177,
+        "text": "— Tu sais que le départ en retraite de Nathalie approche, on pourrait fêter ça. Qu'est-ce que tu en penses?\n\n— Une bonne idée. Il faudrait préparer quelque chose avec l'équipe et... lui faire un petit cadeau, ce serait sympa.\n\n— Et si on proposait aux collègues de retourner dans ce restaurant italien, où nous avions fêté la promotion de Julien?\n\n— Pourquoi pas? Je leur en parle cet après-midi.\n\nQue veulent organiser ces deux personnes?",
+        "audio": "/mp3/177/16.mp3",
+        "audioAI": "/mp3/177/ai_16.mp3",
+        "options": [
+            "Un repas entre collègues.",
+            "Un voyage en Italie.",
+            "Une fête d’anniversaire.",
+            "Une formation d’équipe."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 17,
+        "testId": 177,
+        "text": "— Bonjour, je vous apporte ce lecteur MP3. C'est un bruit bizarre.\n\n— Oui, vous avez la facture et le certificat de garantie? Voilà. Merci. Votre lecteur sera prêt dans dix jours. Ah, vous avez vu que la garantie a expiré il y a une semaine?\n\n— Vraiment?\n\n— Oui, donc les réparations seront à vos frais.\n\n— Quoi? À une semaine près, vous ne pouvez rien faire?\n\n— Je regrette monsieur, c'est la même chose pour tout le monde.\n\n— C'est incroyable! Je vais vous faire une mauvaise publicité sur Internet, croyez-moi!\n\nPourquoi ce client est-il mécontent?",
+        "audio": "/mp3/177/17.mp3",
+        "options": [
+            "La commande est arrivée en retard.",
+            "L'attente en caisse est longue.",
+            "Le service après-vente est payant.",
+            "Les techniciens sont incompétents."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 18,
+        "testId": 177,
+        "text": "— Centre d'affaires de la Cité, bonjour.\n\n— Bonjour Madame. Je voudrais louer une salle de conférence. Quels sont vos tarifs et les services proposés?\n\n— C'est ma collègue, Madame Martineau, qui s'occupe de la réservation des salles. Je vous la passe, ne quittez pas.\n\n— Merci Madame. Au revoir.\n\nPourquoi cet homme appel-t-il?",
+        "audio": "/mp3/177/18.mp3",
+        "options": [
+            "Il veut obtenir des renseignements.",
+            "Il cherche à joindre la directrice.",
+            "ll désire visiter les locaux disponibles.",
+            "II souhaite participer à un congrès."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 19,
+        "testId": 177,
+        "text": "— Allô, bonjour Madame Tremblay. Je suis désolé, il y a eu un problème informatique la-bas. Je ne peux pas retirer d'argent, ou bien j'aurai mon loyer dans deux ou trois jours, ou bien je vous apporte un chèque demain si vous préférez.\n\n— Non, ce n'est pas la peine. Deux ou trois jours, ce n'est pas question.\n\n— Ok, merci beaucoup. \n\nQue va faire la propriété?",
+        "audio": "/mp3/177/19.mp3",
+        "audioAI": "/mp3/177/ai_19.mp3",
+        "options": [
+            "Elle va appeler le locataire.",
+            "Elle va attendre un petit peu.",
+            "Elle va refuser le paiement.",
+            "Elle va revenir une autre fois."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 20,
+        "testId": 177,
+        "text": "— Le Grand Angle nous emmène ce matin à bord d'un bus transformé en salon de beauté. Il sillonne actuellement les communes rurales et les quartiers défavorisés de l'Île-de-France et de l'Oise. Il offre des soins gratuits aux femmes isolées ou en situation de précarité. Reportage de Yann Gallic à la Ferté-Soujouard en Seine-et-Marne.\n\n— Femme de ménage et mère de cinq enfants, Brigitte n'est pas une habituée des salons de beauté, faute de temps et de moyens. Mais aujourd'hui, elle va pouvoir prendre soin d'elle pendant une heure, confortablement installée devant un grand miroir entouré de lumières tamisées.\n\n— On a appris à se masser au niveau du visage, à le nettoyer, à faire un gommage, juste à prendre soin de notre peau. À vrai dire, c'est la première fois que je m'occupe de moi parce qu'entre le ménage et les enfants, on n'a pas trop le temps.\n\nDe quoi traite le reportage de Yann Gallic ?",
+        "audio": "/mp3/177/20.mp3",
+        "options": [
+            "D'un projet de recrutement.",
+            "D'une campagne d'action sociale.",
+            "D'une formation professionnelle.",
+            "D'une opération publicitaire."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 21,
+        "testId": 177,
+        "text": "— Bonjour, Madame Léveille. Qu'est-ce qui vous amène aujourd'hui?\n\n— Eh bien, ma voiture a un problème au démarrage depuis hier. Elle démarre assez bien, puis elle s'arrête brusquement au bout de dix minutes. Vous pouvez voir ce qu'il se passe?\n\n— Là, maintenant? C'est pas possible. Demain, peut-être.\n\n— Ah, c'est dommage. J'en ai vraiment besoin dès demain, Monsieur Lavoie.\n\n— Hum, attendez. Je regarde mon agenda. Bon, écoutez. Laissez-la moi toute l'après-midi et vous la reprendrez ce soir. Elle sera prête.\n\n— C'est vraiment très gentil de votre part. Alors, à ce soir. Merci.\n\nQue va faire la cliente?",
+        "audio": "/mp3/177/21.mp3",
+        "options": [
+            "Elle va repartir avec sa voiture.",
+            "Elle va revenir dans dix minutes.",
+            "Elle va revenir le lendemain.",
+            "Elle va repartir sans sa voiture."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 22,
+        "testId": 177,
+        "text": "— Et dans la famille des héroïnes ordinaires, vous voulez nous présenter la grand-mère, Laure.\n\n— Et oui, je ne vous l'apprends pas, dans les sociétés occidentales modernes, l'archétype de la grand-mère est de moins en moins la manie gâteau, garante de la transmission des recettes autant que de l'histoire de la famille. Mais la grand-mère voyageuse, engagée, dynamique, dont l'espérance de vie est de 125 ans, pas toujours dispo pour garder les petits-enfants, car trop occupée à refaire sa vie, et même quand elle porte des robes en nylon et qu'elle a l'air d'une mémé, et bien elle s'éclate à faire des blagues graveleuses.\n\nQue dit le journaliste des grand-mères modernes?",
+        "audio": "/mp3/177/22.mp3",
+        "options": [
+            "Elles assument leurs désirs malgré leur âge.",
+            "Elles participent au maintien des traditions.",
+            "Elles s’impliquent dans l’éducation des enfants.",
+            "Elles sont à la pointe des tendances de la mode."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 23,
+        "testId": 177,
+        "text": "— Bonjour Gérard, nous écoutons votre témoignage.\n\n— Eh bien, moi j'ai passé la plus grande partie de ma vie à travailler. J'ai placé ma vie sous le signe de cette phrase d'un philosophe, on existe parce que l'on fait. Mais aujourd'hui, à 62 ans, je me dis que le bilan n'est peut-être pas aussi positif que ça. J'ai une jolie maison, un train de vie plutôt élevé, je n'ai jamais été marié, je n'ai jamais eu d'enfant, et ma vie amoureuse fut un parfait désastre. On existe parce que l'on fait, certes, mais... Le prix n'est-il pas trop élevé?\n\nQu'est-ce que Gérard aurait aimé faire?",
+        "audio": "/mp3/177/23.mp3",
+        "options": [
+            "Acquérir son logement.",
+            "Épargner de l’argent.",
+            "Exercer un autre métier.",
+            "Fonder un foyer."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 24,
+        "testId": 177,
+        "text": "C'est l'une des richesses de notre pays, la France, possède la deuxième façade maritime du monde derrière les Etats-Unis. C'est une chance économique de première importance alors que plus de 80% du trafic mondial de marchandises passe par la mer. Mais aujourd'hui, les plus gros navires peuvent transporter 13 000 conteneurs, les superpétroliers 1,5 million de mètres cubes de boute, et les accidents se transforment donc en catastrophes. Le sable breton se souvient encore des naufrages de l'Amokoganis et de l'Erika. Le gigantisme a aussi gagné depuis longtemps le transport des passagers et le drapeau du Costa Concordia vient de nous le rappeler. Qu'apprend-on sur le transport maritime?",
+        "audio": "/mp3/177/24.mp3",
+        "audioAI": "/mp3/177/ai_24.mp3",
+        "options": [
+            "Les accidents peuvent être très graves.",
+            "Les navires sont inadaptés aux besoins.",
+            "Les passagers se sentent en insécurité.",
+            "Les profils économiques sont en baisse."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 25,
+        "testId": 177,
+        "text": "— Christelle Nolot, directrice d'une salle de cinéma, nous parle du festival « Le Printemps du Cinéma ».\n\n— Je décide moi-même des films que nous présentons. Le but est de proposer le maximum de diversité, qu'il y en ait pour tous les goûts. C'est l'occasion de mettre en avant des films qui ont bien marché, mais qui n'ont pas assez été exploités. Pour les amateurs de cinéma d'auteur, il y a aussi une sélection de 15 films art et essai déjà récompensés.\n\nQu'est-ce qui est important pour Christelle Nolot ?",
+        "audio": "/mp3/177/25.mp3",
+        "options": [
+            "L’organisation d’ateliers vidéo.",
+            "La présence de réalisateurs étrangers.",
+            "La projection de documentaires.",
+            "La variété de la programmation."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 26,
+        "testId": 177,
+        "text": "— Je suis allé voir l'exposition que tu m'as conseillée.\n\n— Et qu'en as-tu pensé ?\n\n— C'était sympa, mais il y a beaucoup d'œuvres que je n'ai pas comprises. Et puis, j'y suis allé jeudi en soirée, il y avait du monde.\n\n— Tu aurais dû attendre ce week-end, j'y retourne, et j'aurais pu t'expliquer pas mal de choses.\n\n— C'est vrai que tu es passionné d'art contemporain. La prochaine fois, je te demanderai de m'accompagner.\n\nQue regrette le jeune homme ?",
+        "audio": "/mp3/177/26.mp3",
+        "options": [
+            "D'avoir choisi d’y aller seul.",
+            "D'avoir attendu dans une file.",
+            "D'avoir manqué quelques œuvres.",
+            "D'avoir suivi le conseil de son amie."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 27,
+        "testId": 177,
+        "text": "— Oui, il y a un fait révélée par le Wall Street Journal et fait beaucoup de bruit dans la presse anglo-saxonne. Désormais, chez Facebook, on ne peut proposer à un ou une collègue de sortir boire un verre ou de dîner. Vous savez, les Américains parlent de dates qu'une seule fois, s'ils ou elles refusent. Alors, on ne peut pas l'inviter une seconde fois.\n\n— Ça presque vous paye.\n\n— Et ça figure désormais dans le code de conduite de l'entreprise. Aller plus loin peut s'exposer à des sanctions disciplinaires. La direction de Facebook est entrée dans les détails. Un non n'a pas à être totalement explicite. Si vous vous entendez répondre « Je suis occupé ce soir » ou « Je ne suis pas disponible », eh bien, cela suffit. Vous n'aurez pas le droit de réitérer votre invitation. Passer cette limite, On pourrait entrer dans un possible harcèlement.\n\nPourquoi l'entreprise Facebook a-t-elle modifié son code de conduite ?",
+        "audio": "/mp3/177/27.mp3",
+        "options": [
+            "Pour améliorer la cohésion des équipes.",
+            "Pour empêcher la diffusion de rumeurs.",
+            "Pour éviter les sollicitations abusives.",
+            "Pour limiter les distractions au travail."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 28,
+        "testId": 177,
+        "text": "Léonard reçoit une éducation relativement libre, comme l'étaient celles de la plupart des villageois de son âge. On imagine Léonard aujourd'hui comme un puits de science, une sorte de grand sage qui, très jeune, aurait été formé à la culture humaniste traditionnelle. Évidemment, ça n'est pas le cas. C'est un enfant qui s'est mis, en quelque sorte, à l'école de la nature, qui scrute, qui observe tout. Il est passionné par tout ce qui l'entoure et il s'aperçoit vite que le sens de l'observation est peut-être le meilleur des enseignements. Qu'est-ce que Léonard a de particulier?",
+        "audio": "/mp3/177/28.mp3",
+        "options": [
+            "Sa mémoire exceptionnelle.",
+            "Ses aptitudes au jardinage.",
+            "Ses origines sociales modestes.",
+            "Son parcours d'apprentissage."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 29,
+        "testId": 177,
+        "text": "— Bon, je suis prête. J'ai le cadeau pour le petit Romain. Tu as pris la carte et le plan d'Arnaud?\n\n— La carte est dans la voiture, mais c'est toi qui a le plan.\n\n— Mais non, je te l'ai donné avec le faire-part.\n\n— T'es sûre? Je ne sais pas ce que j'en ai fait. Bon ben, ça fait rien, on va bien trouver.\n\n— Oui, j'espère. La maternité est juste derrière le restaurant, près de la rivière. Tu sais, celui où on a fêté l'anniversaire de mariage de mes parents?\n\n— Ah oui, j'y suis retourné avec mes collègues pour fêter ma nomination comme directeur.\n\nQuelle est la raison du déplacement de ce couple?",
+        "audio": "/mp3/177/29.mp3",
+        "options": [
+            "Un mariage.",
+            "Un anniversaire.",
+            "Une naissance.",
+            "Une promotion."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 30,
+        "testId": 177,
+        "text": "— L'Association des urbanités vous invite à pique-niquer en ville. C'est une tendance et surtout une manière différente et festive de vivre la ville. Marcel est un inconditionnel des pique-niques urbains. Comment organisez-vous ce genre de manifestation?\n\n— Oh oh oh! Sur la semaine, oui, on a une petite pause. Allez!\n\n— Ici, on est près d'une gare. On pourrait imaginer un pique-nique sur les rails?\n\n— Ah, c'est un peu comme si on était en direct. Exactement, sur l'été, avec plaisir. L'idée c'est de faire quelque chose dans un endroit qui n'est pas fait pour.\n\nQue veut cette association ?",
+        "audio": "/mp3/177/30.mp3",
+        "audioAI": "/mp3/177/ai_30.mp3",
+        "options": [
+            "D'équiper des bris pour pique-niquer les zones urbaines.",
+            "De partager un déjeuner avec des personnes sans ressources.",
+            "De proposer aux cheminots de participer à une manifestation culturelle.",
+            "D'organiser des repas collectifs dans un lieu inhabituel."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 31,
+        "testId": 177,
+        "text": "— Oui, Fatoumata a 29 ans, elle termine en ce moment son doctorat d'astronomie et a aussi de passer un an au Japon pour se préparer à son futur métier d'astronome. Et Fatoumata veut être astronome, femme de ménage de l'espace.\n\n— Les objets qui sont vraiment retombés sur Terre, au Zimbabwe et en Arabie Saoudite, c'est arrivé. Plusieurs entreprises et agences ont proposé des solutions de nettoyage de l'espace, mais aucune n'a vraiment été testée dans les conditions réelles. Mais tout le monde se prépare à aller dans l'espace, parce que la NASA prévoit qu'à l'horizon 2025, on pourra plus envoyer d'objets dans l'espace, tellement ce sera encombré de débris. Donc en fait, je simule des explosions et des collisions dans l'espace. Par exemple, vous avez deux objets qui rentrent en collision, ça crée 40 000 débris. Regardez comment ces 40 000 débris vont évoluer avec le temps autour de la Terre.\n\n— Voilà...\n\nQuel est l'objectif de l'activité actuelle de Fatoumata ?",
+        "audio": "/mp3/177/31.mp3",
+        "options": [
+            "Comparer les mouvements des galaxies.",
+            "Étudier les trajectoires des déchets cosmiques.",
+            "Prévenir les risques de chute de météorites.",
+            "S'entraîner pour des voyages interplanétaires."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 32,
+        "testId": 177,
+        "text": "— Vous êtes d'un côté un champion de la francophonie et d'un autre côté vous êtes partisan du plurilinguisme et vous trouvez qu'il est très bon de pratiquer deux langues dès la petite enfance si on le peut.\n\n— C'est non contradictoire de promouvoir le français d'une part et en même temps d'autre part, et de prôner la diversité, car le fait même que son adhérent à la francophonie, à certain nombre de pays extrêmement divers qui représentent autant de langues, montre que ceux qui se regroupent autour de la francophonie se regroupent en fait au nom de la diversité. Le français étant certes un point commun de ralliement entre eux, mais le français n'ayant plus le moyen d'être une langue qui est imposée aux gens comme autrefois. Et bien il est devenu paradoxalement le symbole de la diversité, c'est pourquoi je ne peux pas vivre comme une contradiction de prôner à la fois les deux.\n\nQuel est développé par cet intervenant?",
+        "audio": "/mp3/177/32.mp3",
+        "audioAI": "/mp3/177/ai_32.mp3",
+        "options": [
+            "L’essor de langues internationales appauvrit la variété des langues.",
+            "L’initiation à plusieurs langues étrangères est indispensable.",
+            "La francophonie doit s’élargir à de nouvelles nations pour perdurer.",
+            "Le français a trouvé sa place au carrefour du pluralisme linguistique."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 33,
+        "testId": 177,
+        "text": "Bonjour et bienvenue à France-Québec TV. On va commencer par les opportunités au Québec. Figurez-vous que l'on recherche plus de 300 vétérinaires pour faire face à une certaine pénurie. Chaque année, sur 90 diplômés, seulement 10 à 15 se consacrent aux soins des animaux de ferme. C'est que la pratique auprès des animaux d'élevage est particulièrement exigeante. Le travail demande beaucoup de déplacements, une bonne forme physique et une disponibilité 24h sur 24 et 7 jours sur 7. Pour ces raisons, peu de jeunes diplômés sont attirés par le travail à la campagne et les vétérinaires d'un certain âge continuent souvent parce qu'ils n'ont personne pour les remplacer. Quel est le problème exposé?",
+        "audio": "/mp3/177/33.mp3",
+        "options": [
+            "Les jeunes diplômés privilégient le travail en milieu urbain.",
+            "Les lauréats aux concours vétérinaires sont trop peu nombreux.",
+            "Les soins aux animaux de ferme demandent une spécialisation.",
+            "Les vétérinaires en activité refusent de former les nouveaux."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 34,
+        "testId": 177,
+        "text": "— Depuis quelques années, des vignerons ont investi des sommes importantes au Québec pour se lancer dans une nouvelle culture, comme Daniel Desmoulins qui a ouvert le vignoble L'Ange-Gardien en face du fleuve Saint-Laurent.\n\n— Faire du vin au Québec, c'est un challenge. Je serais peut-être pas parti là-dessus il y a 20 ans, mais je trouvais que les produits étaient de mieux en mieux et c'est pour ça qu'il y a 10 ans, avec ma femme, on a dit « on va se lancer ». Dans le vin, je pense que l'on a des produits extrêmement intéressants parce qu'il y a un petit peu d'acidité. Puis, il y a toujours le vin de glace, on a la température pour ça. On cueille le raisin fin décembre, début janvier.\n\nQu'est-ce qui a décidé Daniel Desmoulins à démarrer son activité?",
+        "audio": "/mp3/177/34.mp3",
+        "options": [
+            "La qualité croissante des résultats.",
+            "Les aménagements hydrauliques.",
+            "L’expérience de ses collègues.",
+            "L’importation de pieds de vigne."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 35,
+        "testId": 177,
+        "text": "— Les arômes dans la cuisine, ce n'est pas vraiment une nouveauté.\n\n— Non, ce n'est pas une chose nouvelle puisque la cuisine a toujours été aromatisée. Avant, on mettait de la fleur d'oranger, encore maintenant, d'ailleurs, du persil, du gingembre. Même dans l'Antiquité, on savait déjà extraire des arômes naturels.\n\n— Des plantes. \n\n— Des plantes, voila, des plantes, des hibiscus, etc. Donc, ce n'est pas une chose nouvelle. Ce qui est nouveau, en revanche, c'est l'industrie qui maintenant crée des milliers d'arômes pour répondre aux besoins de l'industrie agroalimentaire, qui va donc aromatiser tous les produits que vous trouvez dans vos rayons.\n\nQue constatent ces journalistes culinaires?",
+        "audio": "/mp3/177/35.mp3",
+        "audioAI": "/mp3/177/ai_35.mp3",
+        "options": [
+            "La gastronomie moderne reprend d’anciennes recettes.",
+            "De nouvelles herbes sont commercialisées.",
+            "Il y’a un réel manque d’originalité chez les chefs actuels.",
+            "On multiplie l’utilisation de parfums artificiels."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 36,
+        "testId": 177,
+        "text": "Dire que les écrans sont un poison pour les enfants, c'est vraiment excessif. On ne peut vraiment pas signifier les choses de cette façon-là, il faut être un peu plus nuancé. Évidemment un usage excessif, ça n'est absolument pas constructif pour l'enfant, mais un usage pondéré et accompagné par les parents, là, ça peut vraiment être intéressant. Il y a un impact des écrans sur les enfants, c'est-à-dire qu'ils peuvent apprendre des choses avec les écrans, ils peuvent jouer, donc ça c'est l'impact positif. Et puis l'impact négatif, c'est effectivement quand il y a trop d'écrans, quand on se ferme aux interactions, quand on ne fait plus que ça, quand on réfléchit plus et qu'on est passif à recevoir l'information, ça c'est plutôt négatif. Qu'affirme cette spécialiste au sujet des écrans dans la vie des enfants ?",
+        "audio": "/mp3/177/36.mp3",
+        "options": [
+            "Ils favorisent les interactions avec les adultes.",
+            "Ils permettent d’apprendre de façon ludique.",
+            "Ils peuvent compenser les absences des parents.",
+            "Ils sont utiles pour l’accompagnement scolaire."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 37,
+        "testId": 177,
+        "text": "Dans mon cabinet de recrutement, Internet est devenu un outil indispensable, non seulement pour repérer des candidats potentiels sur la toile, mais également pour la phase d'entretien. Grâce au logiciel de visioconférence, les cadres ne doivent plus se déplacer et parfois faire des centaines de kilomètres pour s'entendre dire après dix minutes d'entretien qu'ils n'ont pas le profil. De plus, l'utilisation de tel logiciel offre un autre avantage considérable: Il réduit les discriminations. Comme l'entretien peut être enregistré aussi bien par le candidat que par le recruteur, cela évite les questions déplacées. Enfin, les enregistrements peuvent être visionnés autant de fois qu'on le souhaite ou encore être transmis à nos clients pour plus de transparence et de professionnalisme. Selon cette personne, qu'est-ce que l'utilisation d'Internet apporte au processus de recrutement?",
+        "audio": "/mp3/177/37.mp3",
+        "options": [
+            "Une diminution de la longueur des entretiens.",
+            "Une meilleure diffusion des offres d’emploi.",
+            "Une plus grande équité entre les candidats.",
+            "Une protection accrue des données personnelles."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 38,
+        "testId": 177,
+        "text": "À mes yeux, les méthodes de lecture n'ont rien à voir avec la désinfection du livre par les adolescents, mais tout à voir, je pense, avec un univers qui est désormais saturé de bruit. Or, on peut écouter de la musique ensemble, mais on ne peut pas lire ensemble. On peut lire côte à côte. C'est même un très grand plaisir quand on a découvert la personne avec laquelle on peut lire côte à côte, mais c'est une activité quand même solitaire. Donc la solitude et le silence sont désormais des biens luxueux. Dans le monde agité, il suffit d'une autre, il est normal que la lecture pâlisse au profit d'autres loisirs ou d'autres occupations.  Selon cette analyse, qu'est-ce qui nuit à la lecture dans le monde contemporain?",
+        "audio": "/mp3/177/38.mp3",
+        "audioAI": "/mp3/177/ai_38.mp3",
+        "options": [
+            "L’effervescence continuelle.",
+            "La vie de couple fusionnelle.",
+            "Le coté désuet des livres.",
+            "Le manque de temps."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 39,
+        "testId": 177,
+        "text": "— Le plan Nord mise aussi sur l'appui des populations locales, notamment celui des Inuits et des Amérindiens, que l'on va former aux nouveaux emplois. Certaines nations, comme celle des Inus, ont des réticences. Ce conseiller juridique milite pour que son peuple et le gouvernement du Québec signent une entente pour sortir les Autochtones de leur dépendance économique.\n\n— De toute évidence, les retombées économiques pour les communautés autochtones des Inus ne seront pas là, tout simplement. Mais je pense que c'est une responsabilité du gouvernement, de l'État québécois également, de s'assurer que les jeunes Inus soient formés et qu'ils aient accès à des jobs valorisants dans le cadre des projets miniers.\n\n— Certains environnementalistes ont des réserves face à ce plan qui va faciliter l'exploitation de zones jusqu'alors vierge.\n\nComment réagissent les populations indigènes concernées par ce projet?",
+        "audio": "/mp3/177/39.mp3",
+        "options": [
+            "Elles demandent un nouveau statut juridique.",
+            "Elles exigent des garanties réelles et tangibles.",
+            "Elles mettent en doute la viabilité du projet.",
+            "Elles veulent que les terres restent intactes."
+        ],
+        "answer": 1
+    }
+]
