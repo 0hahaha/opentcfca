@@ -1,0 +1,519 @@
+[
+    {
+        "id": 1,
+        "testId": 31,
+        "text": "A. Regarde, c'est fermé ce soir.\n\nB. Regarde, il manque un document.\n\nC. Regarde, il s'est cassé la jambe.\n\nD. Regarde, la fumée vient de là.",
+        "audio": "/mp3/31/1.mp3",
+        "img": "/mp3/31/1.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 2,
+        "testId": 31,
+        "text": "A. Dépêche-toi, le train va bientôt partir.\n\nB. Fais un beau sourire pour la photo.\n\nC. Passe une bonne journée et travaille bien.\n\nD. Prends ton parapluie, il va bientôt pleuvoir.",
+        "audio": "/mp3/31/2.mp3",
+        "img": "/mp3/31/2.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 3,
+        "testId": 31,
+        "text": "A. Circulation tout à fait normale sur l'autoroute 440.\n\nB. Aucune circulation dans les deux sens sur l'autoroute.\n\nC. Un terrible accident sur la route des vacances.\n\nD. Attention au gros embouteillages sur l'autoroute 440.",
+        "audio": "/mp3/31/3.mp3",
+        "img": "/mp3/31/3.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 4,
+        "testId": 31,
+        "text": "Excusez-moi, Madame, je cherche le restaurant Les Quatre Saisons. Est-ce que vous savez où il se trouve?\n\nA. C'est la formule avec le plat du jour.\n\nB. C'est mieux de réserver avant.\n\nC. C'est tout droit, après la pharmacie.\n\nD. C'est un menu à 25 euros.",
+        "audio": "/mp3/31/4.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 5,
+        "testId": 31,
+        "text": "Bonjour Monsieur, ce matin je me suis brûlé la main quand je cuisinais. J'ai vraiment mal. Quels médicaments est-ce que vous me conseillez?\n\nA. Des antibiotiques contre la fièvre.\n\nB. Des comprimés contre la grippe.\n\nC. Un sirop contre la toux.\n\nD. Le crème contre la douleur.",
+        "audio": "/mp3/31/5.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 6,
+        "testId": 31,
+        "text": "Qu'est-ce qu'on mange?\n\nA. Au restaurant, chez Pierrot.\n\nB. C'est prêt dans une minute.\n\nC. Comme tu veux, tu choisis.\n\nD. Prends des assiettes en plastique.",
+        "audio": "/mp3/31/6.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 7,
+        "testId": 31,
+        "text": "J'ai envie de me baigner. On se retrouve à la piscine?\n\nA. Oui, mais tu ne viens pas.\n\nB. Non, moi j'aime bien nager.\n\nC. Non, j'ai envie de nager.\n\nD. Oui, pourquoi pas!",
+        "audio": "/mp3/31/7.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 8,
+        "testId": 31,
+        "text": "Je vais aussi à l'anniversaire de Tom ce soir. Qu'est-ce qu'on peut lui offrir?\n\nA. C'est pour ses 18 ans.\n\nB. Il veut une écharpe en laine.\n\nC. Je le trouve sympa.\n\nD. On y va en voiture.",
+        "audio": "/mp3/31/8.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 9,
+        "testId": 31,
+        "text": "— Hey, ça va Jeanne?\n\n— Non Kamel, j'ai un problème avec ma nouvelle voiture.\n\n— Oh, elle est en panne?\n\n— Non, elle roule mais avec un bruit bizarre, c'est le moteur je crois.\n\n— Tu dois vite appeler le mécanicien du garage, il va la réparer.\n\n— Ah oui, tu as raison.\n\nQuel est le problème de la voiture de Jeanne?",
+        "audio": "/mp3/31/9.mp3",
+        "options": [
+            "Elle coûte très cher à réparer.",
+            "Elle est restée au garage.",
+            "Elle fait un bruit anormal.",
+            "Elle vient de tomber en panne."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 10,
+        "testId": 31,
+        "text": "— Bonjour, docteur.\n\n— Ah, bonjour, Madame Chabert. Qu'est-ce qui vous amène?\n\n— J'ai encore mal au genou et je me sens de plus en plus fatiguée. C'est peut-être à compte de l'hiver.\n\n— Vous m'avez pourtant l'air en pleine forme. Pour la fatigue, je vais vous prescrire des vitamines. Et pensez à varier vos repas. Pour votre genou, nous allons regarder cela de plus près. Suivez-moi.\n\nQue conseille le médecin à Madame Chabert?",
+        "audio": "/mp3/31/10.mp3",
+        "options": [
+            "Dormir plus longtemps.",
+            "Faire un bilan de santé.",
+            "Manger équilibré.",
+            "Pratiquer un sport."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 11,
+        "testId": 31,
+        "text": "— Mathieu, regarde ce pull, il est parfait pour Johanna, tu ne trouves pas?\n\n— Mais enfin, elle n'aime pas le rose. Je préfère lui prendre autre chose, un livre ou un film. Elle adore les histoires d'amour.\n\n— C'est vrai, elle lit toujours en mangeant des pâtisseries.\n\nQuel cadeau est-ce que Mathieu va choisir?",
+        "audio": "/mp3/31/11.mp3",
+        "options": [
+            "Un bouquet.",
+            "Un gâteau.",
+            "Un roman.",
+            "Un vêtement."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 12,
+        "testId": 31,
+        "text": "— Alors, comment s'est passée cette première journée dans la vie active ?\n\n— Plutôt bien. Les collègues ont été très accueillants.\n\n— Et avec ton chef ? Tu m'avais dit qu'il était un peu froid.\n\n— Ben, en fait, il a été très sympa. Il m'a présenté à toute l'équipe, fait visiter les locaux et montré mon bureau, qui est très grand. Je n'en revenais pas.\n\n— Bienvenue dans le monde professionnel, Alex. Tu n'es pas au bout de tes découvertes.\n\nQuel bilan Alex tire-t-il de sa première journée de travail ?",
+        "audio": "/mp3/31/12.mp3",
+        "options": [
+            "Il a été très agréablement surpris.",
+            "Il préfère attendre pour se prononcer.",
+            "Il aurait aimé se mettre déjà au travail.",
+            "Il a trouvé son supérieur peu disponible."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 13,
+        "testId": 31,
+        "text": "Le soleil revient. C'est bientôt les vacances. Dans votre magasin Sport Plus, pour l'achat d'un maillot de bain, un tube de crème en cadeau. Rendez-vous au rayon articles de plage jusqu'au 30 juin. Qu'est-ce qu'il faut acheter pour recevoir un cadeau ?",
+        "audio": "/mp3/31/13.mp3",
+        "options": [
+            "Un chapeau de soleil.",
+            "Un maillot de foot.",
+            "Un sac de sport.",
+            "Un vêtement de plage."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 14,
+        "testId": 31,
+        "text": "— Assistance mondiale, bonjour.\n\n— Bonjour, monsieur. Je suis M. André Berton. Je vous appelle d'Adelaide, en Australie. Je ne retrouve plus ma carte bancaire. Qu'est-ce que je dois faire?\n\n— Vous téléphonez tout de suite à votre banque en France et vous faites opposition. Vous nous faxez la déclaration de perte et nous allons vous envoyer $1 000 en chèque de voyage à Adelaide en poste restant. Vous les retirerez avec votre identité.\n\n Que doit faire Monsieur Berton?",
+        "audio": "/mp3/31/14.mp3",
+        "options": [
+            "Rentrer en France.",
+            "Remplir un dossier.",
+            "Se rendre à l’ambassade.",
+            "Prendre contact avec sa banque."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 15,
+        "testId": 31,
+        "text": "— Bonjour, monsieur. Je cherche la pharmacie Bollet. C'est dans le coin, je crois.\n\n— Oh, mon garçon, ça fait longtemps que c'est plus une pharmacie. C'est une laverie automatique, maintenant. Monsieur Bollet, il est mort il y a cinq ans.\n\n— Ah bon ? Mais c'est ma mère qui me l'a indiqué. Vous êtes sûr qu'elle n'est plus là ?\n\n— Bien sûr. Ça fait vingt ans que j'habite le quartier, alors je le connais, une pharmacie. Il y en a une autre, mais dans deux rues, à droite. C'est pas loin.\n\nPourquoi le jeune homme ne trouve-t-il pas la pharmacie Bollet ?",
+        "audio": "/mp3/31/15.mp3",
+        "options": [
+            "Elle n’existe plus depuis un moment.",
+            "Il n’est pas dans la bonne rue.",
+            "Il s’est trompé d’adresse et de nom.",
+            "Le passant ignore où elle se trouve."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 16,
+        "testId": 31,
+        "text": "— Donc le première marche que vous posez sur le sol ici, qu'est-ce qui avez, qu'est-ce qui s'est passé dans votre tête? Quel est votre esprit?\n\n— Quand je suis arrivé, je me demandais où... où j'allais. Au Canada, j'avais étudié ça... à la cours lycée, mais... tout ce que je... je savais, que j'étudiais du Canada, c'est que le Canada... a des... hivers lents et froids, oui, et des étés... des étés courts et chauds.\n\n— C'est tout ce que vous saviez?\n\n— C'est tout ce que je savais du Canada.\n\n— Vous saviez rien des gens?\n\n— Non.\n\nQu'explique cet homme sur son arrivée au Canada?",
+        "audio": "/mp3/31/16.mp3",
+        "audioAI": "/mp3/31/ai_16.mp3",
+        "options": [
+            "Il a détesté le mauvais temps.",
+            "Il a dû changer ses habitudes.",
+            "Il avait du mal à s’intégrer.",
+            "Il connaissait peu le pays."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 17,
+        "testId": 31,
+        "text": "Salut Mina, c'est Jérémy. Demain je vais au bureau en voiture. Je peux passer te chercher vers 8h30? Je dois passer à la pharmacie en bas de chez toi. Je peux m'attendre devant. Si ça t'intéresse, rappelle-moi ce soir. Qu'est-ce que Jérémy propose?",
+        "audio": "/mp3/31/17.mp3",
+        "options": [
+            "D’acheter des médicaments.",
+            "D’aller au travail ensemble.",
+            "De faire une promenade.",
+            "De manger au restaurant."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 18,
+        "testId": 31,
+        "text": "— Trouver des places pour son rapport préféré, c'était presque inespéré pour Yoann. Alors il s'est laissé embarquer par le premier site trouvé sur son moteur de recherche.\n\n— On vous dit attention, ce sont les derniers billets disponibles. Ils en avaient pour deux places pour à peu près 350 euros. J'ai appris après que finalement c'était 70 euros à la place.\n\n— Impossible d'annuler son achat, il s'estime arnaqué et réussit finalement à se faire rembourser par sa banque.\n\nQu'explique ce jeune homme?",
+        "audio": "/mp3/31/18.mp3",
+        "options": [
+            "Il a été déçu par le concert de rap.",
+            "Il a payé ses billets trop cher.",
+            "La banque a refusé son règlement.",
+            "Le spectacle a été annulé."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 19,
+        "testId": 31,
+        "text": "— Linda Poupin, bonjour. Merci de participer à notre émission. Linda, vous êtes une artiste reconnue aujourd'hui. Les gens vous aiment. Quel est votre secret?\n\n— C'est simple. Vous savez, je n'ai jamais pris de cours de ma vie. Je chante simplement avec mon cœur. Je dis souvent à mes élèves que la musique doit être leur sang et qu'il faut qu'ils chantent avec toutes les parties de leur corps et leurs yeux. Ils sont partagés avec les musiciens, avec le public.\n\nQuel est le secret de la réussite de cette chanteuse?",
+        "audio": "/mp3/31/19.mp3",
+        "options": [
+            "C’est une interprète sincère.",
+            "Des danseurs l’accompagnent.",
+            "Elle répète très régulièrement.",
+            "Son répertoire est romantique."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 20,
+        "testId": 31,
+        "text": "— Allô Marie? Qu'est-ce que vous faites? On vous attend pour commencer le repas.\n\n— Ah, Benjamin. Excuse-moi, j'ai oublié de t'appeler. On sort juste de l'hôpital. Mathieu a fait une chute de vélo et s'est cassé le bras. On l'a conduit aux urgences et il a été plâtré. On va rester à la maison ce soir car il n'a pas le moral. Il avait sa finale de rugby demain et il ne pourra pas jouer.\n\n— Ah mince. Ne t'inquiète pas, nous nous verrons un autre jour. Souhaite lui un bon rétablissement de notre patron.\n\nQu'explique Marie à Benjamin?",
+        "audio": "/mp3/31/20.mp3",
+        "options": [
+            "Elle va assister à un match de rugby.",
+            "Elle va faire une promenade à vélo.",
+            "Elle va passer la soirée à la maison.",
+            "Elle va voir un ami malade à l’hôpital."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 21,
+        "testId": 31,
+        "text": "— Alors Frédéric, ce voyage en Inde?\n\n— Très intéressant, mais c'était dur. J'ai traversé des paysages magnifiques et des régions très pittoresques, mais par 40 degrés à l'ombre, je ne recommencerai pas. Et puis, ce n'est pas vraiment prévu pour un voyage à vélo. Beaucoup de circulation sur les routes et pratiquement pas de voies cyclables. Par contre, l'accueil des gens a été partout très chaleureux, même s'ils avaient du mal à comprendre pourquoi je voulais traverser leur pays à vélo, et seul en plus.\n\nQu'est-ce que Frédéric a trouvé difficile pendant son voyage?",
+        "audio": "/mp3/31/21.mp3",
+        "options": [
+            "Le comportement des habitants.",
+            "Le sentiment de solitude.",
+            "Les conditions météorologiques.",
+            "Les obstacles linguistiques."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 22,
+        "testId": 31,
+        "text": "— Tiens, c'est le Salon de l'Agriculture la semaine prochaine. Il faut que vous y alliez Françoise. Je suis sûr que vous allez adorer.\n\n— Vous savez, moi, j'y connais rien. C'est pas le genre de salon que je fréquente.\n\n— Vous avez tort. Moi j'y vais tous les ans. Imaginez la plus grande ferme du monde qui s'installe en plein Paris pour dix jours.\n\n— Oui, oui, bien sûr. Mais il y a plein d'autres choses intéressantes à faire à Paris.\n\n— Bien sûr. Mais il faut y aller. Vous allez voir les animaux, par exemple. C'est incroyable. Vous pourrez les caresser et... Je ne vous parle pas des spécialités gastronomiques, un régal.\n\n— Vous savez, moi, les animaux, cependant, vous avez éveillé ma curiosité, mais il faudra venir avec moi.\n\nDans ce dialogue, quelle est l'attention du monsieur?",
+        "audio": "/mp3/31/22.mp3",
+        "options": [
+            "Il fait des compliments.",
+            "Il formule une invitation.",
+            "Il cherche à convaincre.",
+            "Il donne des conseils."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 23,
+        "testId": 31,
+        "text": "— Bonjour Gérard, nous écoutons votre témoignage.\n\n— Eh bien, moi j'ai passé la plus grande partie de ma vie à travailler. J'ai placé ma vie sous le signe de cette phrase d'un philosophe, on existe parce que l'on fait. Mais aujourd'hui, à 62 ans, je me dis que le bilan n'est peut-être pas aussi positif que ça. J'ai une jolie maison, un train de vie plutôt élevé, je n'ai jamais été marié, je n'ai jamais eu d'enfant, et ma vie amoureuse fut un parfait désastre. On existe parce que l'on fait, certes, mais... Le prix n'est-il pas trop élevé?\n\nQu'est-ce que Gérard aurait aimé faire?",
+        "audio": "/mp3/31/23.mp3",
+        "options": [
+            "Acquérir son logement.",
+            "Épargner de l’argent.",
+            "Exercer un autre métier.",
+            "Fonder un foyer."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 24,
+        "testId": 31,
+        "text": "— Quel but poursuivez-vous en organisant le prix des lycéens autrichiens auprès des élèves qui apprennent le français comme langue étrangère?\n\n— Bien entendu, nous cherchons d'abord à promouvoir la langue française en Autriche, mais nous avons surtout l'objectif d'introduire plus fortement la littérature de jeunesse française, que nous considérons comme étant très riche, dans la classe de français, pour prouver que c'est un bon outil d'apprentissage du français. En effet, c'est un excellent moyen de s'entraîner à la lecture suivie, ce qui n'est pas toujours facile dans l'apprentissage du français.\n\nQuelle est l'ambition du prix des lycéens autrichiens?",
+        "audio": "/mp3/31/24.mp3",
+        "options": [
+            "Développer le marché du livre de jeunesse en Autriche.",
+            "Faire découvrir aux élèves la culture française.",
+            "Favoriser la création artistique en classe de langue.",
+            "Utiliser la littérature comme un support pédagogique."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 25,
+        "testId": 31,
+        "text": "— CDV Formation, bonjour.\n\n— Bonjour. Je suis intéressé par votre formation en vente.\n\n— Oui ? Quel est votre parcours ?\n\n— Je suis déménageur depuis 4 ans. Je voudrais me réorienter.\n\n— Malheureusement, notre formation s'adresse à des personnes déjà expérimentées en vente.\n\n— Je vois. Mais j'y pense. J'ai travaillé deux étés comme caissier en supermarché. C'est suffisant ?\n\n— Envoyez-nous un CV et une lettre de motivation. Nous étudierons votre candidature.\n\n— Je m'en occupe. Merci. Au revoir.\n\n— Au revoir.\n\nPour quelle raison la jeune femme accepte-t-elle de recevoir la candidature de ce monsieur ?",
+        "audio": ["/mp3/31/25v2.mp3", "/mp3/31/25.mp3"],
+        "options": [
+            "Il a quatre ans d’expérience.",
+            "Il a travaillé dans un commerce.",
+            "Il accepte de travailler l’été.",
+            "Il est très motivé par la formation."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 26,
+        "testId": 31,
+        "text": "— Eh monsieur, vous voyez bien qu'il y a une barrière? Vous pouvez pas aller voir ces tableaux-là. En plus, il y a une alarme qui peut se mettre à sonner.\n\n— Euh, oui, mais je voulais rien voler, hein. Excusez-moi. Habituellement, on peut visiter cette salle. Vous êtes en train de la refaire?\n\n— Non, non, mais aujourd'hui, nous ne sommes pas assez nombreux pour ouvrir toutes les salles. Y a une épidémie de grippe.\n\n— Ah, très bien, je comprends mieux. Ben, au moins, il n'y aura pas besoin d'y faire le ménage aujourd'hui.\n\nPourquoi le visiteur ne peut-il pas accéder à cette salle du musée?",
+        "audio": "/mp3/31/26.mp3",
+        "options": [
+            "Parce que la salle est en travaux aujourd’hui.",
+            "Parce qu’un vol a eu lieu dans cette salle.",
+            "Parce que le personnel procède au nettoyage.",
+            "Parce qu’il manque du personnel aujourd’hui."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 27,
+        "testId": 31,
+        "text": "— À peine a-t-on le temps de s'habituer à être parent, que l'on doit préparer nos enfants à devenir autonome, puis à partir. Ce moment où le jeune adulte quitte la maison est difficile, effectivement ?\n\n— Ce moment est difficile tant pour le parent que pour l'enfant. Les adolescents qui ont attendu parfois très longtemps ce temps de liberté, eux-mêmes peuvent se retrouver démunis au moment de franchir la porte de la maison.\n\n— Aujourd'hui, les jeunes adultes vivent de plus en plus longtemps chez leurs parents.\n\n— Tout à fait, on invoque des raisons économiques pour rester à la maison plus longtemps. Ceci est parfois lié aussi à une question d'immaturité. On est bien à la maison, maman et papa prennent soin de tout.\n\n— Pratique quand même, « nourri, logé, blanchi »\n\n— Exactement.\n\nSelon la personne interrogée, qu'est-ce qui retient les jeunes adultes chez leurs parents ?",
+        "audio": "/mp3/31/27.mp3",
+        "options": [
+            "La peur de faire de la peine à leur entourage familial.",
+            "Le confort que leur procure leur structure familiale.",
+            "Le plaisir de voir leur famille comme ils le souhaitent.",
+            "L’obligation de soutenir financièrement leur famille."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 28,
+        "testId": 31,
+        "text": "— Ces sites internet ont tout changé et pour tout le monde.\n\n— Oui, grâce à eux, fini les longues minutes d'attente au bout du fil sur un air de musique classique, fini aussi les secrétariats médicaux injoignables. Désormais, il est possible de prendre rendez-vous en un clic à n'importe quelle heure du jour et de la nuit chez son dentiste, son ostéopathe et même à l'hôpital. La révolution est en marche et tout le monde semble y gagner.\n\nQue permettent les sites internet dont parle le document ?",
+        "audio": "/mp3/31/28.mp3",
+        "options": [
+            "D'établir un diagnostic en ligne.",
+            "D'éviter des pertes de temps.",
+            "De réduire les frais de santé.",
+            "De vérifier la qualité des soins."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 29,
+        "testId": 31,
+        "text": "— Le coup de projecteur maintenant sur la biffe, c'est un phénomène qui s'étend ici surtout à Paris, c'est par la précarité. Des hommes et des femmes qui ne sont pas brocanteurs font de la récup, leur métier, revendent en fait tout ce qui peut l'être. Alors le dialogue avec les autorités n'est pas toujours simple, mais une association se mobilise pour leur permettre de poursuivre leur activité.\n\n— Pour les acteurs du marché au plus, c'est que ce dynamisme économique est nécessaire en ville pour lutter contre la pauvreté, pour réduire les déchets, pour créer une économie circulaire populaire et pour évidemment protéger aussi les ressources de la planète. En premier lieu, pour les familles des biffins et les biffins, c'est nécessaire d'avoir un peu d'argent en vendant sa récup, c'est un travail et il devrait être connu comme tel.\n\nQue souhaite l'association dont il est question?",
+        "audio": "/mp3/31/29.mp3",
+        "audioAI": "/mp3/31/ai_29.mp3",
+        "options": [
+            "Accroître la mixité sociale dans les grandes villes.",
+            "Décrocher des financements pour ses activités.",
+            "Modifier le fonctionnement des marchés aux puces.",
+            "Obtenir un statut professionnel officiel pour les biffins."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 30,
+        "testId": 31,
+        "text": "— Dis, comment tu fais pour réviser ton anglais, toi ? Surtout l'oral. J'ai beau apprendre à des centaines de mots, faire des exercices, j'avance pas.\n\n— Moi j'ai un truc. Pour l'oral, pas de livres, pas de cassettes. Le garçon qui a la chambre à côté de la mienne est anglais. Alors on s'invite pour le café deux soirs par semaine, et on parle moitié en anglais, moitié en français.\n\n— Ah mais c'est bien ça ! Et je pourrais venir aussi ?\n\n— D'accord, mais tu viens avec une copine. À quatre, c'est plus amusant.\n\nComment s'y prend l'étudiant pour réviser l'anglais ?",
+        "audio": "/mp3/31/30.mp3",
+        "options": [
+            "Il parle toujours anglais avec ses amis anglais.",
+            "Il bavarde régulièrement avec son voisin anglais.",
+            "Il va souvent au café avec un groupe d'amis anglais.",
+            "Il fait beaucoup d’exercices avec un ami anglais."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 31,
+        "testId": 31,
+        "text": "Vous savez, aujourd'hui, on parle beaucoup des effets négatifs des écrans pour les enfants et les psychologues s'accordent à dire que des enfants qui sont trop soumis aux écrans ont des troubles de l'apprentissage, de la concentration, voire des difficultés de sommeil. En fait, pour les adultes, c'est exactement la même chose et on voit des salariés aujourd'hui qui ont du mal à se concentrer parce qu'ils sont en permanence dérangés par des notifications, par des mails. Donc, c'est des difficultés de concentration, c'est des difficultés parfois d'apprentissage et il y a beaucoup de salariés qui, aujourd'hui, se plaignent de cette charge mentale. Il y a une étude récente qui citait comme chiffre un tiers des salariés qui se sentent surchargés par l'information sur le lieu de travail. Donc, l'enjeu, c'est de revenir justement à des temps de calme, de sérénité, propices à la concentration, propices à la créativité. Qu'est-ce qui participe à la charge mentale des salariés ?",
+        "audio": "/mp3/31/31.mp3",
+        "options": [
+            "L'inégalité dans la répartition des tâches.",
+            "La surabondance de sollicitations.",
+            "Le manque de fonctionnalité des locaux.",
+            "Les interventions des collègues."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 32,
+        "testId": 31,
+        "text": "— Qui n'a pas rêvé de se plisser dans le sac d'un explorateur? 18 lycéens toulousains ont la chance de réaliser ce rêve en participant au projet Capito. L'explorateur Stéphane Levin a décidé de sensibiliser les jeunes aux problèmes de réchauffement climatique en les impliquant dans des expéditions sur le terrain.\n\n— Pour moi c'est leur permettre de vivre une aventure extraordinaire. Concrètement, sur place, ils voient comment on subsiste les limites en Arctique par exemple.\n\n— Au total, neuf partenaires industriels spécialistes en recherche technologique soutiennent le projet.\n\n— Oui, leur objectif est de tester en milieu extrême du matériel qui pourra servir lors de missions humanitaires. Bien entendu, ces lycéens ont subi un entraînement physique pour mener à bien les protocoles.\n\nQue propose le projet Capito aux lycéens toulousains ?", 
+        "audio": "/mp3/31/32.mp3",
+        "audioAI": "/mp3/31/ai_32.mp3",
+        "options": [
+            "D’envisager des formations dans des secteurs de pointe.",
+            "D’initier des programmes humanitaires.",
+            "De concevoir des équipements technologiques.",
+            "De prendre part à des expéditions scientifiques."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 33,
+        "testId": 31,
+        "text": "— On recrute souvent parmi les meilleurs ventes de livres, les carnets de voyage. Mais qui sont réellement ces auteurs, artistes, voyageurs? Écoutons les impressions de Luc Château.\n\n— Pendant mes séjours à l'étranger, quand je dessine, je veux créer des liens avec les gens, instaurer un dialogue avec la personne que je dessine et apprendre son mode de vie. En même temps, j'intègre des petits textes avec des croquis. Ça ressemble un peu à un journal de gore. C'est spontané, mais il arrive que je le retravaille à mon retour.\n\n— Ces parcours d'artistes n'inspirent pas seulement les éditeurs, mais aussi les voyagistes, qui proposent des formules intitulées « Randonnées et carnet de voyage ».\n\nPourquoi Luc Chateau est dessine-t-il au cours de ses voyages?",
+        "audio": "/mp3/31/33.mp3",
+        "audioAI": "/mp3/31/ai_33.mp3",
+        "options": [
+            "Pour illustrer des brochures touristiques.",
+            "Pour s’imprégner des rencontres effectuées.",
+            "Pour s’occuper pendant la durée des trajets.",
+            "Pour repérer des itinéraires de promenade."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 34,
+        "testId": 31,
+        "text": "J'aime bien cet aspect du travail qui est le travail en équipe. C'est plus agréable que le travail en atelier où on est tout seul sur ses plans et qui a un côté plus calme, plus cérébral. Là, ça bouge partout, il y a du monde partout. Souvent on travaille la nuit, ça a des côtés sympas mais ça peut être franchement fatigant. Et puis dans ce métier, les perspectives d'évolution sont diverses. On peut entrer dans une carrière type star system où on va devenir très connu et gagner beaucoup d'argent. Moi, ça n'est pas trop mon cas. C'est vraiment la possibilité d'être dans une recherche artistique qui me motive. Qu'est-ce qui intéresse le plus cette femme dans son métier?",
+        "audio": ["/mp3/31/34v2.mp3", "/mp3/31/34.mp3"],
+        "options": [
+            "Avoir un bon salaire en fabriquant de beaux objets.",
+            "Exercer une activité intellectuellement enrichissante.",
+            "Rencontrer des célébrités et travailler avec elles.",
+            "Travailler avec ses collègues et développer ses projets."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 35,
+        "testId": 31,
+        "text": "Quel lieu sur scene, c'est un lieu sacré. Moi j'ai toujours dit ça, c'est-à-dire qu'elle vous donne beaucoup et elle autorise beaucoup parce que vous avez le droit, sur scène, de débuter. Vous avez le droit d'apprendre, vous avez le droit d'être maladroit, de chercher vostre mal être, parce que même si vous faites pas ça par un bien, pardonne pas, c'est vous soignez pas toujours au meilleur de vous-même. Voila, les gens vont le sentir, c'est pas du blabla, c'est très très concret, voyez c'est très concret parce que le truc qui en pense si on ne peut pas faire sauver tout l'artiste même par le devoir. On ne peut pas s'obliger à installer la routine de la situation. Moi, je me suis toujours battu contre ça, mais c'est facile pour moi parce que j'ai toujours le même plaisir, voila de chanter sur scène. Question 35. D'après cette interview, qu'attend le public d'un artiste?",
+        "audio": "/mp3/31/35.mp3",
+        "audioAI": "/mp3/31/ai_35.mp3",
+        "options": [
+            "Un festival d’improvisations.",
+            "Un récital de nouveautés.",
+            "Une interprétation sincère.",
+            "Une performance impeccable."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 36,
+        "testId": 31,
+        "text": "— Et on est rendu à notre chronique littéraire avec Aude Rimenez. Alors tout d'abord, autostop Daniel Bélanger.\n\n— Alors on a affaire évidemment à un musicien, guitariste aguerri, mais Daniel Bélanger c'est d'abord un compositeur, c'est l'auteur de ses chansons et c'est ce pan de son travail qu'on retrouve ici. Pour la forme du récit, on a d'ailleurs cette présentation là qu'on trouve dans les jaquettes des CD, là vous savez, le texte qui est centré au milieu de la page, donc on a des renvois à la ligne à chaque nouvelle strophe, ici c'est la même chose.\n\n— C'est la partition que j'aimerais voir ! Ce format quoi, c'est une nouveauté chez les allusifs.\n\n— Voilà, on connaît cette maison d'édition pour ses parutions souvent étrangères, aussi poétiques, mais les allusifs, là ils sortent une nouvelle collection de petits livres qu'ils appellent « Les Peurs », avec comme adage « un auteur, une peur, un livre ».\n\nQuelle est la particularité de l'œuvre présentée ?",
+        "audio": "/mp3/31/36.mp3",
+        "options": [
+            "Des partitions musicales ponctuent les chapitres.",
+            "Elle réunit des textes de musiciens sur le thème de la peur.",
+            "L’éditeur a choisi d’accompagner le livre d’un DVD.",
+            "Sa mise en page est comparable à celle du livret d’un disque."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 37,
+        "testId": 31,
+        "text": "— Renaud Capuçon, ce que je me demande, c'est comment vous, en tant que violoniste, vous arrivez à vous accorder si bien avec les autres instruments ?\n\n— C'est le grand bonheur de la musique de chambre. C'est justement ce plaisir d'essayer, non pas de tirer la couverture à soi ou de jouer solo, mais de parvenir à une symbiose. Je trouve que cela remet vraiment les bands d'ailleurs. Parfois, on joue peu avec un orchestre, ou bien on passe d'un orchestre à un autre. On travaille avec des orchestres que l'on voit très peu, puisqu'on répète une demi-heure et qu'on joue ensuite un concerto. À contrario, la musique de chambre permet d'aller au fond des choses. On ne peut pas tricher. Sur scène, le dialogue est absolument sans limite.\n\nQue permet la musique de chambre, selon Renaud Capuçon ?",
+        "audio": "/mp3/31/37.mp3",
+        "audioAI": "/mp3/31/ai_37.mp3",
+        "options": [
+            "D’affiner l’écoute entre musiciens.",
+            "D’exprimer l’originalité d’une interprétation.",
+            "De faire varier le répertoire des concerts.",
+            "De perfectionner la technique du violoniste."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 38,
+        "testId": 31,
+        "text": "On voit vraiment que les pratiques culturelles sont clivées et que malheureusement aujourd'hui même au niveau de la jeunesse qui pourrait être fédérée par, par le phénomène générationnel, les pratiques culturelles sont très très séparées. On... Je regrette qu'il n'y ait pas plus de lieux qui permettent aux jeunes de se retrouver sur des terrains festifs. Ça c'est vrai que ce sont, ce sont des moments de se retrouver, de vivre ensemble et sans être dans une posture justement d'affrontement. Et ça, ça manque effectivement il y a les salles de cinéma, même dans les salles de cinéma même dans les multiplexes, on voit que selon les films, les publics ne sont pas les mêmes et que effectivement, cela permet à des gens de se retrouver mais ce sont des gens souvent qui ont des pratiques séparées. Quel jugement cette personne porte-t-elle sur les lieux culturels?",
+        "audio": "/mp3/31/38.mp3",
+        "options": [
+            "Elle déplore le manque de structures pour accueillir et réunir les jeunes.",
+            "Elle désapprouve la disparition d'endroits consacrés aux pratiques culturelles.",
+            "Elle estime insuffisantes les tentatives des cinémas de mélanger les publics.",
+            "Elle regrette le désintérêt des publics pour les espaces et les échanges culturels."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 39,
+        "testId": 31,
+        "text": "— En 2015, le film Demain de Cyril Dion et Mélanie Laurent propulsa l'idée de transition auprès du grand public.\n\n— Et aujourd'hui, où en est le mouvement?\n\n— Ça marche bien, il existe dans plus de 50 pays avec des milliers de communautés qui ont imaginé des initiatives qui vont de l'autosuffisance alimentaire au principe du tirage au sort des citoyens pour prendre des décisions. Ce mouvement se veut une réponse au manque d'imagination justement des élus. Rob Hopkins déclare d'ailleurs que les pouvoirs publics ne soutiennent pas cet activisme local comme ils soutiennent les grands groupes industriels. Ils souhaitent maintenant créer un bureau de l'imagination citoyenne et même une loi sur l'imagination nationale.\n\nD'après cet extrait, quelle est l'origine du mouvement de transition?",
+        "audio": "/mp3/31/39.mp3",
+        "audioAI": "/mp3/31/ai_39.mp3",
+        "options": [
+            "Un désir de changement face à l’immobilisme des élus.",
+            "Un questionnement des pratiques du secteur industriel.",
+            "Une convention écologique internationale.",
+            "Une volonté d’aider les citoyens démunis."
+        ],
+        "answer": 0
+    }
+]
