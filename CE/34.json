@@ -1,0 +1,509 @@
+[
+    {
+        "id": 1,
+        "testId": 34,
+        "text": "# RENCONTRES\n\n# INTERCULTURELLES\n\n### <p style=\"color: grey;\">ASSOCIATION DEUX RIVES</p>\n\n#### 🠲🠲🠲 27-28 novembre\n\n<p style=\"color: grey;\">Faites connaissance avec des gens <br/> du monde entier et découvrez d'autres cultures !</p>\n\n**Au programme : musique, repas, expositions...**\n\n<br/>*<p style=\"color: grey;\">15€ - 10€ (moins de 25 ans) <br/> Inscrivez-vous avant le 15 novembre</p>*\n\n#### Venez nombreux !",
+        "query": "Que propose cette association ?",
+        "options": [
+            "D'apprendre une nouvelle langue.",
+            "De participer à un concours.",
+            "De prendre des cours de cuisine.",
+            "De rencontrer des étrangers."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 2,
+        "testId": 34,
+        "text": "<svg viewBox=\"0 0 500 150\"><path id=\"curve\" fill=\"transparent\" d=\"M50,100 C130,20 370,20 450,100\" /><text width=\"500\" fill=\"#000000\" style=\"font-size: large;\"><textPath xlink:href=\"#curve\">Apprenez une langue étrangère sans aller en classe !</textPath></text></svg>\n\n<p style=\"text-align: center; font-size: 30pt; margin-top: -80px;\">👩🏻‍💻📓✍🏻💡</p>\n\n<br/><p style=\"text-align: center; font-size: large; line-height: 150%;\">L'école <b>Lingua Mobile</b> vous offre plusieurs <br/> solutions modernes : vous pouvez suivre <br/> vos cours par Internet, depuis chez vous <br/> ou de votre bureau.</p>",
+        "query": "Quelle est la spécialité de Lingua Mobile ?",
+        "options": [
+            "Ses leçons à distance.",
+            "Ses professeurs expérimentés.",
+            "Ses salles neuves connectées.",
+            "Ses tarifs bon marché."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 3,
+        "testId": 34,
+        "text": "### <p style=\"background: #e0e0e0; padding: 5px; \">Nouveau message</p>\n\nMonsieur,\n\nLe docteur Perez vous attend jeudi à 9 h. Merci d'arriver 15 minutes avant avec la liste des médicaments que vous prenez. Si vous ne pouvez pas venir, merci de prendre contact avec nous.\n\nLe secrétariat médical.",
+        "query": "Quel est le but de ce message ?",
+        "options": [
+            "Demander de téléphoner.",
+            "Prendre des nouvelles.",
+            "Présenter des produits.",
+            "Rappeler un rendez-vous."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 4,
+        "testId": 34,
+        "text": "Bonjour Sophie,\n\n<br/>Je ne pourrais pas venir à notre soirée cinéma. Ma fille est malade, je dois rester à la maison. Si tu veux, Kevin est disponible. Je peux lui donner ma place.\n\n<br/>Martine",
+        "query": "Pourquoi est-ce que Martine envoie un message à Sophie ?",
+        "options": [
+            "Pour annuler un dîner.",
+            "Pour expliquer un problème.",
+            "Pour l’inviter chez elle.",
+            "Pour lui proposer de sortir."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 5,
+        "testId": 34,
+        "text": "Sophie et ses parents sont très heureux de vous annoncer la naissance d'Adrien, le ***7 mai*** dernier.",
+        "query": "Qui écrit ce message ?",
+        "options": [
+            "Les amis d'Adrien.",
+            "La famille d'Adrien.",
+            "Les médecins d'Adrien.",
+            "Les voisins d'Adrien."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 6,
+        "testId": 34,
+        "text": "<p style=\"font-size: x-large; text-align: center; line-height: 150%;\">Couleurs d'automne <br/> Vous avez des idées pour proposer <br/> des plats originaux en choisissant <br/> des produits de saison, une <br/> décoration et des couleurs qui <br/> rappellent l'automne. <br/> Inscrivez-vous au Parcours des chefs <br/> en remplissant le formulaire joint.</p>",
+        "query": "Qu'est-ce qui est organisé ?",
+        "options": [
+            "Un atelier de peinture.",
+            "Un concours de cuisine.",
+            "Un salon des plantes.",
+            "Une course en forêt."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 7,
+        "testId": 34,
+        "text": "## <p style=\"text-align: center;\">Vous avez peur en avion ?</p>\n\nVous n'êtes pas le seul ! Les statistiques montrent qu'un quart des passagers sont inquiets quand ils prennent l'avion ! L'avion n'est pas un jeu ! Des stages peuvent vous aider à monter dans un avion sans avoir peur ! Pour en savoir plus, contactez **Airplus** au 09 48 36 22 11.",
+        "query": "Que propose la société Airplus ?",
+        "options": [
+            "Des avions.",
+            "Des jeux.",
+            "Des stages.",
+            "Des statistiques."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 8,
+        "testId": 34,
+        "text": "### Martine\n\nJe ne connaissais pas www.lamode.com mais sur un forum, j'ai lu des avis positifs. Alors, je suis allée sur le site et j'ai trouvé une jolie robe pas chère du tout. Je l'ai commandée et je la portais 5 jours après. Je suis ravie !",
+        "query": "Qu'explique cette personne ?",
+        "options": [
+            "Comment elle a acheté un article en ligne.",
+            "Où elle a cherché un cadeau bon marché.",
+            "Pourquoi elle a eu un chèque de réduction.",
+            "Quand elle a échangé un vêtement soldé."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 9,
+        "testId": 34,
+        "text": "# <p style=\"text-align: center;\">Noël Approche !</p>\n\n<p style=\"font-size: x-large; text-align: center; line-height: 150%;\">Pour que vos colis arrivent avant les fêtes, <br/> nous vous proposons de les transporter en <br/> mode express.<br/><br/>Renseignez-vous auprès de nos conseillers <br/> ou rendez-vous directement au guichet.</p>",
+        "query": "À quoi sert ce service ?",
+        "options": [
+            "À acheter des cadeaux.",
+            "À envoyer des paquets.",
+            "À louer des camions.",
+            "À réserver des billets."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 10,
+        "testId": 34,
+        "text": "L'Union européenne va offrir une « Carte Jeunes » aux étudiants du continent qui ont vingt ans cette année. Pendant un mois maximum, les jeunes pourront prendre le train gratuitement pour visiter plus de quinze pays.",
+        "query": "Qu'est-ce qui est proposé aux jeunes Européens ?",
+        "options": [
+            "Des visites de musées.",
+            "Des voyages en Europe.",
+            "Un mois de vacances.",
+            "Un semestre d’études."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 11,
+        "testId": 34,
+        "text": "### <p style=\"background: #e0e0e0; padding: 5px; \">Message</p>\n\nDaniel,\n\nMonsieur Dubois a appelé pendant votre déjeuner. Il ne peut pas venir au rendez-vous vendredi. Il préfère vous voir la semaine prochaine pour discuter du dossier. Vous devez lui envoyer un courriel demain avant **17 h 00** pour confirmer.\n\nSarah.",
+        "query": "Que doit faire Daniel demain ?",
+        "options": [
+            "Aller déjeuner avec monsieur Dubois.",
+            "Ecrire un message à monsieur Dubois.",
+            "Envoyer un dossier à monsieur Dubois.",
+            "Rendre visite à monsieur Dubois."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 12,
+        "testId": 34,
+        "text": "Un salon automobile est un lieu de rêve, mais pas le salon de cette année. Voici mon classement des modèles les plus laids :\n\n1. **La V210** : un aspirateur sur quatre roues.\n2. **La Tata Aria** : pas chère, mais pas belle non plus.\n3. **Le cabriolet Aurus** : plus large que haut.\n\nVivement l'année prochaine !",
+        "query": "Quel est le problème de ces voitures ?",
+        "options": [
+            "Leur couleur.",
+            "Leur forme.",
+            "Leur prix.",
+            "Leur taille."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 13,
+        "testId": 34,
+        "text": "Qu'ils soient étudiants ou salariés, de nombreux jeunes sont confrontés à des problèmes de logement. Pendant ce temps, des retraités vivent dans une maison devenue trop grande pour eux, souvent seuls. Faire se rencontrer ces générations, c'est l'objectif de l'association Lien qui recherche des retraités qui ont chez eux une chambre pour accueillir un jeune entre 18 et 25 ans. En contrepartie, le jeune peut effectuer …",
+        "query": "Quel est l'objectif de l'association Lien ?",
+        "options": [
+            "Centraliser les demandes de location des retraités.",
+            "Favoriser la cohabitation entre les générations.",
+            "Loger des jeunes en difficulté dans un studio.",
+            "Offrir une assistance médicale aux personnes âgées."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 14,
+        "testId": 34,
+        "text": "Plusieurs types de cours de natation sont proposés dans les piscines de la ville pour enfants et adultes toute l'année sauf pendant les vacances scolaires. Il n'y a pas besoin de réserver. Les tarifs dépendent des activités mais ils comprennent systématiquement le coût de l'entrée à la piscine et au sauna. Après les cours, vous pourrez nager librement.",
+        "query": "Qu'est-ce que l'on apprend sur les cours de natation proposés ?",
+        "options": [
+            "Ils doivent être réservés à l'avance.",
+            "Ils donnent accès au sauna.",
+            "Ils ont lieu pendant les vacances.",
+            "Ils sont gratuits pour les enfants."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 15,
+        "testId": 34,
+        "text": "Parce que c'est important de rendre curieux et de faire rire, le théâtre Aktéon met en place toute l'année des séances scolaires sur demande.\n\nAu jour et à l'heure que vous souhaitez, vous pouvez assister avec votre classe à un spectacle privé dans votre établissement ! De nombreux collégiens et lycéens en ont profité l'an dernier.\n\nAprès le spectacle, l'équipe artistique propose d'échanger sur la pièce avec les élèves. Des rencontres toujours … parfois drôles !\n\n<br/>*Source : brochure.*",
+        "query": "Que propose cette annonce ?",
+        "options": [
+            "Accueillir le théâtre à l’école.",
+            "Apprendre l’histoire du théâtre.",
+            "Connaître les métiers du théâtre.",
+            "Suivre des cours de théâtre."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 16,
+        "testId": 34,
+        "text": "Chère Sarah,\n\n<br/>Je suis de retour à la montagne. Les vacances étaient géniales : cette année, nous avons pris le train jusqu'à La Rochelle, puis nous avons pris un bateau jusqu'à l'île de Ré. Nous y avons passé toute la semaine. On s'est déplacé à vélo, on a pêché et ramassé des coquillages. C'était magnifique.\n\n<br/>Je t'embrasse.\n\nPamela.",
+        "query": "Où est-ce que Pamela a passé ses vacances ?",
+        "options": [
+            "À la montagne.",
+            "À La Rochelle.",
+            "Sur un bateau.",
+            "Sur une île."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 17,
+        "testId": 34,
+        "text": "Internet est entré dans les habitudes de consommation, et aucun secteur ne semble pouvoir échapper à cette pratique sauf peut-être le milieu pharmaceutique. Aujourd'hui, les trois quarts des Français déclarent ne pas être prêts à acheter un médicament sur Internet. Car le médicament n'est pas une simple marchandise, et la personne qui entre dans une pharmacie n'y cherche pas seulement un remède, mais un accompagnement et une assurance à la fois de sécurité et de santé.",
+        "query": "Qu'apprend-on sur l'achat de médicaments en ligne ?",
+        "options": [
+            "C'est une pratique courante.",
+            "Les pharmaciens s'y opposent.",
+            "Leur paiement est sécurisé.",
+            "On s'en méfie en France."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 18,
+        "testId": 34,
+        "text": "L'expérience « cours le matin, sport l'après-midi », qui a commencé à la rentrée, concerne 7000 élèves, dans 120 lycées. Les parents affirment que « la santé de leur enfant a peu varié par rapport à l'an dernier ». Ils semblent avoir meilleur appétit et « ils parlent plus de leurs activités avec leurs parents ». Cependant, il n'y a pas « d'influence sur la ponctualité, la concentration ou les résultats scolaires ».",
+        "query": "Quels sont les effets de cette expérience ?",
+        "options": [
+            "Les échanges en famille saméliorent.",
+            "L'attention en classe est en hausse.",
+            "Les adolescents sont plus en forme.",
+            "La réussite aux examens augmente."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 19,
+        "testId": 34,
+        "text": "**Recherche de partenaire pour un projet collaboratif par Internet.**\n\nPour inscrire votre classe à ce projet, communiquez directement avec la personne responsable ou suivez la consigne indiquée, selon le cas.\n\n<br/>**Titre**: Comparaison des constellations entre les hémisphères nord et sud\n\n**Personne responsable**: Sandrine Grun\n\n**Adresse électronique**: sandrine.grun@collegerenoir.fr\n\n**Pays d'origine**: France\n\n**Domaine concerné**: astronomie/sciences de l'espace\n\n**Description**: Un groupe d'élèves participant à un atelier d'astronomie avec leur professeur de sciences physiques souhaiterait comparer les constellations des hémisphères nord et sud et étudier leurs histoires. Ces élèves recherchent un groupe d'élèves situé dans l'hémisphère sud, parlant français. Ils voudraient commencer le projet entre élèves à la rentrée de septembre. Mais le travail entre professeurs pourrait commencer avant.\n\n**Source**: http://prof-inet.cslaval.qc.ca/",
+        "query": "En quoi consiste le projet décrit dans cette annonce ?",
+        "options": [
+            "Participer à un concours international d'astronomie.",
+            "Réaliser une étude d'observation des astres.",
+            "Se joindre à une formation d'enseignants en sciences.",
+            "Suivre un cours de rattrapage en sciences physiques."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 20,
+        "testId": 34,
+        "text": "<p style=\"font-size: large; text-align: center; line-height: 150%;\">Situé au cœur d'un jardin tropical et en bordure d'une <br/> grande plage de sable fin, le Coralia est un hôtel-club de <br/> dernière génération, confortable et convivial. <br/> Complet et bien équipé, il satisfera les familles comme les <br/> sportifs. Vous pourrez pratiquer tous les sports nautiques et <br/> vous détendre dans nos salles de musculation et de <br/> fitness. <br/> Son magnifique restaurant vous accueillera jusque très tard <br/> dans la nuit. <br/> L'un des rares hôtels de la région à proposer une animation <br/> <i>100 % francophone</i>.</p>",
+        "query": "Que propose cet hôtel ?",
+        "options": [
+            "Un club pour les jeunes enfants.",
+            "Un espace de remise en forme.",
+            "Une formule en pension complète.",
+            "Une offre de restauration vannée."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 21,
+        "testId": 34,
+        "text": "Ralentissement du traitement de l'information, baisse de l'attention et de notre mémorisation à court terme... Avec l'âge, le vieillissement du cerveau semble inévitable. Pourtant, notre santé cognitive dépend aussi de notre mode de vie. Il est ainsi primordial, après la soixantaine, de conserver une vie active, physiquement par une pratique sportive régulière et aussi intellectuellement en sollicitant nos fonctions mentales par un apprentissage permanent. Pour cela, il est essentiel de garder une vie sociale riche d'interactions avec les autres et également de cultiver des activités, associatives ou sportives, par exemple.",
+        "query": "Quel est l'objectif des conseils donnés dans cet article ?",
+        "options": [
+            "Améliorer les capacités physiques.",
+            "Découvrir de nouveaux types de sports.",
+            "Développer le cercle de ses relations sociales.",
+            "Maintenir les performances de la mémoire."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 22,
+        "testId": 34,
+        "text": "En Belgique, un studio de technologie créative propose au public de se livrer à une expérience artistique d'un genre inédit : coiffés d'un casque spécial, les participants doivent se remémorer une histoire personnelle durant trente à soixante secondes. Des données ressortent alors sous forme d'algorithmes et sont analysées par un système de mesure émotionnelle, ce qui permet de leur donner forme et couleur. Ainsi, des peintures virtuelles sont créées à partir des émotions de chacun. Et comme chaque histoire est unique, chaque œuvre l'est aussi !",
+        "query": "Quel est le rôle des participants à cette expérience ?",
+        "options": [
+            "Effectuer un calcul.",
+            "Évoquer un fait divers.",
+            "Fournir un support.",
+            "Sélectionner un souvenir."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 23,
+        "testId": 34,
+        "text": "Hier soir, lors du dernier concert du Festival de jazz organisé par la ville de Nancy, une chanteuse lorraine, Mell, a enthousiasmé le public lors de la première partie.\n\nÀ tel point que le groupe prévu ensuite a dû décaler son horaire. En effet, lorsque la chanteuse a quitté la scène, la salle, noire de monde, s'est mise à hurler afin de l'empêcher de partir.",
+        "query": "Comment le public a-t-il réagi lors du concert de Mell ?",
+        "options": [
+            "Il a acclamé de toutes ses forces la chanteuse.",
+            "Il a demandé l'annulation du concert.",
+            "Il a invité le groupe suivant à partir.",
+            "Il l'a retenue prisonnière toute la nuit."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 24,
+        "testId": 34,
+        "text": "### La crèche Tanger a rouvert ses portes\n\nAprès un an de travaux, la crèche municipale Tanger accueille à nouveau depuis mai dernier des enfants de 3 mois à 3 ans. Elle a été complètement réaménagée et ses capacités d'accueil augmentées. Elle reçoit à présent 52 enfants. Un passage permet aux « grands » d'accéder directement au jardin dont le revêtement au sol a été changé. Les enfants ont à leur disposition un nouveau toboggan et un double banc en forme de crocodile.",
+        "query": "Pourquoi la crèche était-elle en travaux ?",
+        "options": [
+            "Pour accueillir des enfants plus âgés.",
+            "Pour améliorer la sécurité du bâtiment.",
+            "Pour multiplier les activités artistiques.",
+            "Pour proposer davantage de places."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 25,
+        "testId": 34,
+        "text": "Le problème des grandes associations caritatives, c'est qu'elles n'ont pas de relation de proximité avec le public. Le Comité de la Charte rétablit ce lien et redonne confiance aux donateurs grâce à une charte de déontologie et à la nomination d'un censeur auprès de chaque organisation membre. Le système fonctionne comme un label: il faut se soumettre à ses contraintes. Pour redonner confiance, il faut effectuer un travail pédagogique à destination de donateurs et leur donner des informations sur les moyens dont disposent les associations: elles fonctionnent, bien entendu. Avec des bénévoles, mais également avec des salariés et ceux-ci doivent être correctement rémunérés pour fournir un travail de qualité.",
+        "query": "Quel est l'objectif du Comité de la Charte ?",
+        "options": [
+            "Rationaliser la gestion des associations.",
+            "Élargir le recrutement à de nouveaux bénévoles.",
+            "Former les responsables des associations.",
+            "Mieux communiquer sur l'utilisation des fonds."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 26,
+        "testId": 34,
+        "text": "Dans les familles, il y a des conflits entre les parents, tout simplement parce que chacun a son style éducatif, ses valeurs, son expérience et sa culture familiale. Chacun a ses idées sur le rôle d'un père, d'une mère, la place d'un enfant... Et quand chacun veut les mettre en application, il se heurte à celles de l'autre et ça crée des disputes dans le couple. C'est inévitable, tout à fait normal et il n'y a pas à s'en inquiéter. On peut parfaitement éduquer son enfant sans être d'accord sur tout, à une condition : que les parents s'entendent sur les valeurs fondamentales qu'ils veulent lui donner et qu'ils respectent les méthodes éducatives de l'autre même s'ils ne les approuvent pas.",
+        "query": "Selon cet article, que doivent faire les parents en matière d'éducation ?",
+        "options": [
+            "Dialoguer avec leurs enfants.",
+            "Prendre appui sur leur expérience.",
+            "S'affranchir de leur héritage familial.",
+            "Trouver des valeurs communes."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 27,
+        "testId": 34,
+        "text": "La ville de Montreuil impose de nouvelles règles aux projets immobiliers du centre-ville pour promouvoir l'installation de commerces et d'ateliers d'artistes sur les axes centraux de la ville. Cette solution favorise la mixité des usages. En effet, la construction de logements est plus rentable que celle de locaux commerciaux ou artistiques, ce qui incite les promoteurs à ne construire que ce type de biens. Refusant de créer une ville-dortoir et décidée à préserver l'identité artistique de la ville, la municipalité entend soutenir l'installation de ces activités en rez-de-chaussée.",
+        "query": "Quel est l'objectif de la politique urbaine de Montreuil ?",
+        "options": [
+            "Développer la mixité sociale dans les quartiers.",
+            "Diversifier les activités en centre-ville.",
+            "Encourager la croissance du secteur immobilier.",
+            "Stabiliser le nombre de logements."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 28,
+        "testId": 34,
+        "text": "La désillusion de la jeunesse française d'aujourd'hui est un fait préoccupant. Elle est surtout due à la crise internationale, qui réduit les offres d'emploi, fait pression sur les salaires et raréfie les possibilités de promotion. Mais on peut également l'attribuer à un conflit de génération larvé : il oppose la classe d'âge des «baby-boomers», devenus aujourd'hui «papy-boomers» triomphants tout au long de leurs parcours, à celle de leurs enfants et maintenant de leurs petits-enfants.",
+        "query": "D'où vient la désillusion des jeunes en France ?",
+        "options": [
+            "De la concurrence des autres générations.",
+            "De la course à la compétitivité.",
+            "De la situation économique tendue.",
+            "Des critiques émanant de leurs parents."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 29,
+        "testId": 34,
+        "text": "Deux mondes s'affrontent : ceux de l'ancienne agriculture et de la nouvelle. Le productivisme soutenu par la chimie a fait progresser comme jamais les rendements agricoles, nourri la planète et abaissé le prix des denrées. Mais il a fait son temps. Les tenants du passé, dont on peut comprendre les motivations, tant les agriculteurs travaillent sous la pression éreintante de la compétitivité, soutiennent qu'il n'existe pas d'autre solution. Notre enquête montre le contraire : l'alliance de la technologie et de l'écologie pour remplacer des substances nocives par une panoplie de techniques inédites offre une alternative originale, crédible et soutenable à la dispersion incontrôlée de composants chimiques nuisibles à tous. C'est la voie de la sagesse autant que de la modernité.\n\n<br/><p style=\"text-align: right;\">D'après <i>Libération.fr</p>",
+        "query": "Que défend le journaliste ?",
+        "options": [
+            "L'accès universel à des aliments bon marché.",
+            "L'innovation des procédés de production.",
+            "Le développement du commerce équitable.",
+            "Le partage d'expériences traditionnelles."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 30,
+        "testId": 34,
+        "text": "Chaque année, le 10 août, les cordons bleus de l'île de la Guadeloupe se retrouvent à Pointe-à-Pitre pour célébrer saint Laurent, leur patron. Après une grande messe donnée à l'église de Saint-Pierre-et-Saint-Paul, une procession de cuisinières vêtues de leurs plus beaux madras sillonne la ville avant de convier la population à un grand festin composé des meilleurs plats créoles. Située dans le village du Gosier, à proximité de Pointe-à-Pitre, l'Auberge de la Vieille Tour, construite autour d'un moulin à vent du XVIII<sup>e</sup> siècle, sera un lieu de séjour idéal pour assister à cette manifestation haute en couleur et pour goûter au vrai parfum des Antilles.",
+        "query": "La fête de saint Laurent à Pointe-à-Pitre :",
+        "options": [
+            "consiste en un grand événement religieux.",
+            "permet de découvrir les saveurs antillaises.",
+            "se réduit à une manifestation pour touristes.",
+            "se déroule dans un ancien monument restauré."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 31,
+        "testId": 34,
+        "text": "Il ne viendrait à personne l'idée d'entrer dans un cinéma ou un théâtre sans payer sa place, ni à ces industries de ne pas rémunérer leurs auteurs. De nombreux festivals ou lieux dédiés à la photographie se targuent pourtant de la gratuité de leurs expositions. D'autant plus que, dans la majorité des cas, il est admis qu'aucun budget ni aucun droit d'auteur ne soient prévus pour le photographe. Même si le motif initial de rendre la photographie accessible à tous est plus que légitime, ce qui choquerait pour tout autre secteur ou corps de métier n'offusque personne dès lors qu'il s'agit du photographe, pourtant producteur de la matière première de ces activités.",
+        "query": "Que constate l'auteur de l'article ?",
+        "options": [
+            "C'est la photographie qui est la forme d’art la moins valorisée.",
+            "Il y a peu d'événements culturels consacrés à la photographie.",
+            "Les photographies sont commercialisées à bas prix.",
+            "N'importe qui peut s’improviser photographe."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 32,
+        "testId": 34,
+        "text": "Le numérique bouleverse profondément l'enseignement mais, d'après le philosophe Marcel Gauchet, on aura plus que jamais besoin de professeurs et d'écoles. Excellent moyen de stimuler la curiosité, le numérique pousse à chercher, à creuser encore. Surtout, il enseigne une chose essentielle : personne ne sait et, nulle part, il n'existe de détenteur ultime du savoir. Ainsi, les élèves sont de plus en plus en contact avec des sources hétéroclites et cela constitue un changement majeur en termes pédagogiques. L'enseignant est alors celui qui va expliquer qu'il existe plusieurs versions d'une même chose et que savoir, c'est se confronter à l'incertitude et non réciter bêtement des connaissances.",
+        "query": "Selon Marcel Gauchet, quel va être le rôle de l'enseignant auprès des élèves ?",
+        "options": [
+            "Développer leur esprit critique.",
+            "Encourager les débats entre eux.",
+            "Enrichir leur capacité mémorielle.",
+            "Évaluer régulièrement leurs acquis."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 33,
+        "testId": 34,
+        "text": "En France, entre 200 000 et 500 000 cas de troubles psychiques sont liés au monde du travail. L'apparition de nouvelles méthodes de travail, plus intenses et contraignantes, serait à l'origine de l'augmentation des cas de syndrome d'épuisement professionnel : c'est le mal du siècle et pourtant, il n'est pas encore reconnu. Les salariés, prisonniers de l'idéologie ambiante, s'imaginent trop souvent, quand ils craquent, qu'un collègue plus solide qu'eux aurait été capable de résister. Mais cela s'avère faux la plupart du temps. Une reconnaissance de la maladie obligerait les entreprises à réfléchir à leur fonctionnement et représenterait une réelle mesure d'utilité publique.\n\n<br/><p style=\"text-align: right;\">D'après <i>capital.fr</i></p>",
+        "query": "Quel constat est dressé à propos de ce syndrome ?",
+        "options": [
+            "Il inquiète les patrons de sociétés.",
+            "Il touche les employés les plus faibles.",
+            "Son existence doit être officialisée.",
+            "Son traitement est peu efficace."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 34,
+        "testId": 34,
+        "text": "Je ne connais pas son prénom, mais il y a dans les Alpes, une personne à la verve savoureuse. Elle émaille la visite des gravures rupestres, dont les plus anciennes datent du Néolithique, de remises en perspective sur les prémices préhistoriques du capitalisme et de la domination masculine. Elle chantera peut-être, à condition que vous ne l'applaudissiez pas, pour vous permettre de ressentir l'acoustique d'un cirque rocheux. Elle vous proposera aussi de vous allonger et de fermer les yeux pour percevoir les vibrations du sol, riche en uranium. Bref, elle guidera les êtres minuscules que vous êtes à travers les plis grandioses de l'écorce terrestre.",
+        "query": "Où exerce la personne décrite ?",
+        "options": [
+            "Dans un centre de relaxation.",
+            "Dans un laboratoire.",
+            "Dans un musée archéologique.",
+            "Dans un parc naturel."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 35,
+        "testId": 34,
+        "text": "Un cabinet de conseil en énergie annonce que des coupures de courant sont à prévoir cet hiver dans l'Hexagone. En effet, l'Allemagne, qui approvisionne la France en électricité, ne sera plus capable de faire face à la demande en raison de la fermeture de certains de ses réacteurs nucléaires. Le gouvernement pourrait appeler au « civisme » des Français, leur demandant de modérer la consommation électrique des foyers, qui atteint des pics quotidiens autour de 19 h. Pourtant, la France possède l'un des plus grands parcs nucléaires du monde, mais elle exporte la quasi totalité de l'énergie produite.\n\n<br/>D'après <i>www.geo.fr</i>",
+        "query": "Pourquoi y a-t-il des risques de coupures de courant ?",
+        "options": [
+            "Parce que des tests sur les réacteurs nucléaires sont en cours.",
+            "Parce que l'approvisionnement en électricité est compromis.",
+            "Parce que la production française couvre à peine les besoins nationaux.",
+            "Parce que la régulation de la consommation d'énergie est inefficace."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 36,
+        "testId": 34,
+        "text": "Dans l'intérêt de leurs peuples, les gouvernements doivent répondre à la fois à des enjeux de court et de long terme. Cet exercice est si difficile que l'on peut comprendre qu'une certaine cacophonie règne au niveau politique. Pourtant, face aux périls, le mot « ensemble » est une arme souvent victorieuse. Les stratégies de développement durable des pays ont ainsi plus de chance de succès si elles s'harmonisent. Pour commencer, cherchons à nous rapprocher entre Européens, pour mener de front transition économique et transition environnementale, afin de mettre un bémol au dérèglement climatique et à la perte de biodiversité.\n\n<br/>Hubert Reeves",
+        "query": "Quel point de vue défend l'auteur ?",
+        "options": [
+            "L'écologie est avant tout une affaire d'État.",
+            "La concertation est la clé d’une action réussie.",
+            "Les mesures protectionnistes sont dépassées.",
+            "L'influence des lobbies est à prendre en compte."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 37,
+        "testId": 34,
+        "text": "Maintenant elles étaient là. Non plus en éveil, en méfiance, et rassemblées sous l'influence de la crainte par troupes, hardes, files et bandes, selon la race, la tribu, la famille, mais confondues et mêlées au sein d'une sécurité ineffable dans la trêve de l'eau, en paix avec la brousse, elles-mêmes et l'aurore. À la distance où je me trouvais, il n'était pas possible de distinguer l'inflexion des mouvements, ou l'harmonie des couleurs, mais cette distance ne m'empêchait pas de voir que les bêtes se comptaient par centaines et centaines, que toutes les espèces voisinaient, et que cet instant de leur vie ne connaissait pas la peur ou la hâte. Gazelles, antilopes, girafes, gnous, zèbres, rhinocéros, buffles, éléphants - les animaux s'arrêtaient ou se déplaçaient au pas du loisir, au gré de la soif, au goût du hasard.\n\n<br/><p style=\"text-align: right;\">Joseph Kessel, <i>Le lion</i>, éd. Gallimard 1958</p>",
+        "query": "Quelle phrase résume exactement cet extrait de roman ?",
+        "options": [
+            "Je ressentais pleinement l'anxiété des bêtes.",
+            "Je percevais parfaitement la quiétude de cet instant.",
+            "Je découvrais inopinément un spectacle effrayant et inquiétant.",
+            "J'éprouvais un sentiment de crainte face à ces troupeaux d'animaux sauvages."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 38,
+        "testId": 34,
+        "text": "À Julien, qui nous interroge sur l'emploi du franglais dans notre magazine, nous pouvons assurer que nous cherchons à éviter les anglicismes, sans toutefois pouvoir les éradiquer. Les réactions de nos lecteurs nous confortent dans notre vigilance, mais nous considérons aussi qu'il est important de s'exprimer dans un langage commun. Or, dans ce langage commun, des mots étrangers ont trouvé leur place.\n\nPour être compris de tous, il est parfois plus logique parler de check-list que d’une liste d'actions à cocher. Et, en comparaison à bien d'autres publications, la présence de si peu d'anglicismes dans nos colonnes devrait réjouir ???",
+        "query": "Quel est le point de vue de l'équipe de rédaction du magazine ?",
+        "options": [
+            "Il faut accepter l'évolution d'une langue.",
+            "Il faut bannir les termes anglais.",
+            "Il faut plaire à l'ensemble des lecteurs.",
+            "Il faut utiliser des mots basiques."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 39,
+        "testId": 34,
+        "text": "Aujourd'hui, de nombreux enfants cumulent les activités en dehors des cours. Selon une étude, l'origine de cette tendance serait liée aux mutations sociales contemporaines. Ainsi, recourir à de telles activités serait un moyen pour les parents de pallier l'absence des mères- de plus en plus souvent actives- et de développer les compétences des enfants pour les armer face à la compétitivité du marché du travail. Cependant, coûteuses en temps et en énergie, ces activités empiètent sur le quotidien de la maison et épuisent les enfants. Elles n'en apparaissent pas moins aux parents comme des marqueurs de leur bonne parentalité. Un phénomène qui s'entretient par l'expansion constante de l'offre ainsi que par la surenchère qui s'instaure entre les foyers.",
+        "query": "Que veulent faire les parents ?",
+        "options": [
+            "Améliorer les résultats scolaires.",
+            "Avoir plus de temps pour eux.",
+            "Resserrer les liens familiaux.",
+            "Se donner bonne conscience."
+        ],
+        "answer": 3
+    }
+]
