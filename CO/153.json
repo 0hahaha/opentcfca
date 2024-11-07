@@ -1,0 +1,525 @@
+[
+    {
+        "id": 1,
+        "testId": 153,
+        "text": "A. Attention, votre valise est ouverte.\n\nB. Ce modèle de valise coûte 69 euros.\n\nC. Posez votre valise ici, s'il vous plaît.\n\nD. Voilà, votre valise est prête.",
+        "audio": "/mp3/153/1.mp3",
+        "img": "/mp3/153/1.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 2,
+        "testId": 153,
+        "text": "A. Bonjour, un steak frites, s'il vous plaît.\n\nB. Bonsoir, une table pour 4 personnes.\n\nC. Monsieur, un kilo de tomates, je vous prie.\n\nD. Tenez, vous pouvez garder la monnaie.",
+        "audio": "/mp3/153/2.mp3",
+        "img": "/mp3/153/2.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 3,
+        "testId": 153,
+        "text": "A. Quel modèle vous voulez?\n\nB. Quel coût vous préférez?\n\nC. Quelle est votre pointure?\n\nD. Quelle taille vous faites?",
+        "audio": "/mp3/153/3.mp3",
+        "img": "/mp3/153/3.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 4,
+        "testId": 153,
+        "text": "A. Attention, elle est très lourde.\n\nB. Je voudrais un billet pour Strasbourg.\n\nC. Le plein de diesel, s'il vous plaît.\n\nD. Mettez votre ceinture, Monsieur.",
+        "audio": "/mp3/153/4.mp3",
+        "img": "/mp3/153/4.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 5,
+        "testId": 153,
+        "text": "Sophia, est-ce que tu pars en vacances cet été?\n\nA. Oui, je peux te conseiller un hôtel.\n\nB. Oui, je préfère prendre le train.\n\nC. Oui, je retourne au Maroc.\n\nD. Oui, je vais rester chez moi.",
+        "audio": "/mp3/153/5.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 6,
+        "testId": 153,
+        "text": "Allô? Bonjour. Est-ce que je pourrais parler à Madame Girard, s'il vous plaît?\n\nA. Oui, c'est à quelle adresse?\n\nB. Oui, c'est de la part de qui?\n\nC. Oui, elle arrive à quelle heure?\n\nD. Oui, vous avez réservé?",
+        "audio": "/mp3/153/6.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 7,
+        "testId": 153,
+        "text": "— Bonjour, c'est ici pour visiter l'appartement?\n\n— Non, monsieur, ce n'est pas ici.\n\nA. Pardon, j'ai déménagé.\n\nB. Pardon, j'ai fait une erreur.\n\nC. Pardon, j'ai perdu les clés.\n\nD. Pardon, je vais revenir demain.",
+        "audio": "/mp3/153/7.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 8,
+        "testId": 153,
+        "text": "Mon neveu vient d'avoir 5 ans, quels cadeaux est-ce que je peux lui offrir?\n\nA. Ce jouet est beaucoup trop cher.\n\nB. C'est un très joli prénom.\n\nC. Pose la question à ses parents.\n\nD. Pourquoi pas, c'est une bonne idée.",
+        "audio": "/mp3/153/8.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 9,
+        "testId": 153,
+        "text": "Dimanche, il fera beau. J'aimerais bien faire un peu de sport. Tu veux faire du vélo avec moi?\n\nA. Attends, je prends mes lunettes de soleil.\n\nB. Bonne idée, on pourra aller en forêt.\n\nC. C'est d'accord, j'arrive tout de suite.\n\nD. Quel dommage, demain c'est fermé.",
+        "audio": "/mp3/153/9.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 10,
+        "testId": 153,
+        "text": "— Salut Yann, je fais une fête samedi, tu viens?\n\n— Ouais super, avec plaisir! Comment on fait pour aller chez toi?\n\nA. Tu apportes quelque chose à boire.\n\nB. Tu arrives vers 20h30.\n\nC. Tu descends au dernier arrêt du bus 78.\n\nD. Tu peux venir avec ta sœur si tu veux.",
+        "audio": "/mp3/153/10.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 11,
+        "testId": 153,
+        "text": "— Allô, Pierre?\n\n— Oui!\n\n— Bonjour, c'est Jacqueline. Pierre, peux-tu me donner l'adresse de ton docteur? Celui dont tu m'as parlé l'été dernier.\n\n— Ah, mais il a déménagé.\n\n— Quel dommage.\n\n— Mais il y a un cabinet qui est ouvert entre le garage et le salon de coiffure. Tu pourrais essayer?\n\n— Ah oui? Bonne idée, je vais essayer. Merci, Pierre.\n\n— De rien. À bientôt.\n\nQue cherche Jacqueline ?",
+        "audio": "/mp3/153/11.mp3",
+        "options": [
+            "Un coiffeur.",
+            "Un déménageur.",
+            "Un garagiste.",
+            "Un médecin."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 12,
+        "testId": 153,
+        "text": "— Tu as pris tes congés?\n\n— Oui, pour une fois je pars la première quinzaine d'août. Et toi?\n\n— Moi j'attends le mois de septembre. Avec mon mari nous partons à Rome. Les billets sont moins chers à cette période de l'année.\n\n— Rome? Quelle chance! Moi, comme tous les ans, je pars en Bretagne, dans la maison de ma mère.\n\nDe quoi parlent ces deux femmes?",
+        "audio": "/mp3/153/12.mp3",
+        "options": [
+            "De leurs derniers voyages.",
+            "De leurs destinations préférées.",
+            "De leurs prochaines vacances.",
+            "De leurs traditions familiales."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 13,
+        "testId": 153,
+        "text": "— J'ai adoré cet expo. C'était fantastique, non?\n\n— Oui, sauf que comme tu n'avais pas acheté les billets en avance, on a dû faire la queue pendant trois heures pour entrer.\n\n— Ça en valait la peine.\n\n— Bof, il y avait tellement de monde, je ne voyais pas les œuvres. Je n'ai pas profité de la visite.\n\n— Tu as pris le catalogue au moins?\n\n— Euh, non, je ne l'ai pas trouvé.\n\nQue critique cet homme?",
+        "audio": "/mp3/153/13.mp3",
+        "options": [
+            "La qualité du catalogue.",
+            "Le prix des entrées.",
+            "Les conditions de visite.",
+            "Les œuvres présentées."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 14,
+        "testId": 153,
+        "text": "— Assistance mondiale, bonjour.\n\n— Bonjour, monsieur. Je suis M. André Berton. Je vous appelle d'Adelaide, en Australie. Je ne retrouve plus ma carte bancaire. Qu'est-ce que je dois faire?\n\n— Vous téléphonez tout de suite à votre banque en France et vous faites opposition. Vous nous faxez la déclaration de perte et nous allons vous envoyer $1 000 en chèque de voyage à Adelaide en poste restant. Vous les retirerez avec votre identité.\n\n Que doit faire Monsieur Berton?",
+        "audio": "/mp3/153/14.mp3",
+        "options": [
+            "Rentrer en France.",
+            "Remplir un dossier.",
+            "Se rendre à l’ambassade.",
+            "Prendre contact avec sa banque."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 15,
+        "testId": 153,
+        "text": "— Qu'est-ce qui t'arrive ? Tu as l'air triste.\n\n— David ne m'a pas téléphoné pour mon anniversaire. J'ai attendu son appel toute la journée.\n\n— Oh, il va peut-être le faire ce soir. Ne t'inquiète pas.\n\nQu'arrive-t-il à la femme?",
+        "audio": "/mp3/153/15.mp3",
+        "options": [
+            "Elle a cassé son téléphone.",
+            "Elle a raté un appel important.",
+            "Elle n’a pas été invitée à un anniversaire.",
+            "Elle n’a pas eu l’appel espéré."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 16,
+        "testId": 153,
+        "text": "— Audrey, nous allons grimper samedi prochain sur le site du Vert, vous venez?\n\n— Ah non, je n'ai jamais fait d'escalade et j'ai peur du vide.\n\n— Rassurez-vous, tout est sécurisé, il n'y a vraiment aucun risque. En plus, je serai là pour vous guider.\n\n— D'accord, mais si j'ai peur, vous me ferez descendre.\n\n— Entendu.\n\nPourquoi Audrey accepte-t-elle de faire de l'escalade?",
+        "audio": "/mp3/153/16.mp3",
+        "options": [
+            "Elle aime être en altitude.",
+            "Elle désire accompagner un ami.",
+            "Elle fait confiance à son guide.",
+            "Elle veut prendre des risques."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 17,
+        "testId": 153,
+        "text": "— Ça y est, j'ai trouvé un stage pour cet été, dans une société de transports. C'est assez loin de chez moi, mais je suis super contente !\n\n— Tu seras payée ?\n\n— Pas beaucoup, mais ce sera une bonne expérience.\n\n— Et tu vas faire quoi ?\n\n— Des statistiques sur la circulation des bus.\n\n— Toi qui adores les chiffres, c'est super ! Comment tu as trouvé ce stage ?\n\n— C'est un ami de mon père, il travaille là-bas.\n\nPourquoi ce stage intéresse-t-il la jeune femme ?",
+        "audio": "/mp3/153/17.mp3",
+        "audioAI": "/mp3/153/ai_17.mp3",
+        "options": [
+            "Il correspond à ses attentes.",
+            "Il dure six mois au total.",
+            "Il est proche de son domicile.",
+            "Il offre un très bon salaire."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 18,
+        "testId": 153,
+        "text": "Lorsque nous nous sommes installés loin de chez nos parents, nous nous sommes aperçus que le magasin le plus proche de chez nous, pour laver nos vêtements, était à plus de deux kilomètres. On s'est dit que ce serait vraiment sympa si notre voisine pouvait nous prêter sa machine à laver. Nous avons donc créé un site internet. Il met en relation ceux qui ont une machine à laver et leurs voisins qui n'en ont pas contre quelques euros. Que propose le site internet présenté ?",
+        "audio": "/mp3/153/18.mp3",
+        "options": [
+            "De créer un réseau étudiant pour échanger des services.",
+            "De mettre en contact des personnes pour partager du matériel.",
+            "De trouver une voiture pour transporter des affaires lourdes.",
+            "D’employer des jeunes pour réparer de vieux objets."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 19,
+        "testId": 153,
+        "text": "— La rencontre avec les représentants du personnel est bien prévue aujourd'hui?\n\n— Oui, monsieur. À 15h dans la salle du rez-de-chaussée.\n\n— Et il faut les prévenir que je ne serai pas à l'heure. J'attends un appel très important d'un de nos importateurs.\n\n— D'accord mais je croyais que vous lui aviez parlé hier.\n\n— Non, il n'a pas pu téléphoner.\n\nQue demande le collecteur?",
+        "audio": "/mp3/153/19.mp3",
+        "options": [
+            "D’annuler une réunion.",
+            "D’informer de son retard.",
+            "De recevoir un client.",
+            "De reporter un entretien."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 20,
+        "testId": 153,
+        "text": "Mon rôle à moi ? Je suis agent de recrutement. En fait, je suis chargé du projet de démarchage en francisation. Ce projet vise à contacter les immigrants qui sont installés ici au Québec depuis trois ans ou plus et qui ont besoin de connaître la langue pour faciliter leur vie quotidienne. Des programmes de cours de français existent déjà, mais nous, notre rôle c'est de contacter les personnes isolées. Par exemple, les femmes qui, à cause des charges familiales, une grossesse ou les enfants à garder, n'ont pas eu l'occasion d'apprendre le français dès leur arrivée. Quel est l'objectif de ce programme ?",
+        "audio": "/mp3/153/20.mp3",
+        "options": [
+            "Encourager la mobilité des étudiants.",
+            "Favoriser l'intégration des étrangers.",
+            "Mettre en relation des francophones.",
+            "Offrir des emplois aux mères de famille."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 21,
+        "testId": 153,
+        "text": "— Allô, bonjour.\n\n— Oui, bonjour M. le directeur. Je veux juste vous rappeler que les fiches de paie des professeurs doivent être prêtes pour demain.\n\n— Oui, j'ai contrôlé les heures de tous les professeurs. J'attends deux confirmations ce matin et je vais vous tous apporter cet après-midi.\n\n— Bon, très bien. Je compte sur vous pour respecter les délais imposés par le service comptabilité alors.\n\n— Oui, vous pouvez compter sur moi.\n\nQue demande le directeur?",
+        "audio": "/mp3/153/21.mp3",
+        "options": [
+            "De fixer les horaires de travail du comptable.",
+            "De prendre rendez-vous avec le comptable.",
+            "De préparer des documents pour le comptable.",
+            "De remplir la fiche de salaire du comptable."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 22,
+        "testId": 153,
+        "text": "— Bonjour, je suis bien au service après-vente de meubles modernes.\n\n— Oui, bonjour, que puis-je faire pour vous?\n\n— C'est au sujet de la bibliothèque que j'ai achetée chez vous. Depuis deux jours, j'essaie de la monter mais hélas, je n'ai pas dû comprendre comment emboîter les parties vitrées sur les panneaux en bois. Il me semble qu'il n'y en a pas assez.\n\n— Écoutez, je ne gère pas le côté technique. Je vais donc vous mettre en communication avec le service compétent qui vous expliquera comment réaliser l'assemblage.\n\nQue demande le client?",
+        "audio": "/mp3/153/22.mp3",
+        "options": [
+            "La visite d’un technicien.",
+            "L’échange d’un article abîmé.",
+            "Le conseil d’un professionnel.",
+            "Le remboursement d’un produit."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 23,
+        "testId": 153,
+        "text": "Bienvenue à tous. Ce colloque est intitulé « Travail et modernité » car nous devons changer notre manière d'appréhender le travail au sein d'une société en pleine mutation. Nous entrons en effet dans l'ère de la communication interplanétaire. Nul ne peut se contenter d'évoluer à l'intérieur des frontières de son pays. Il faut étudier, voyager, communiquer et surtout savoir changer de métier, de pays avec souplesse. Quelle est la qualité dont le travailleur moderne doit faire preuve ?",
+        "audio": "/mp3/153/23.mp3",
+        "options": [
+            "La créativité.",
+            "La disponibilité.",
+            "La mobilité.",
+            "La persuasion."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 24,
+        "testId": 153,
+        "text": "— Dis-moi, Paul, c'est quoi la pêche blanche au Québec?\n\n— On l'appelle blanche parce qu'on pêche l'hiver à la ligne en creusant des trous dans la glace des lacs et des rivières gelées.\n\n— Mais vous, vous devez geler et attendre le poisson sans bouger.\n\n— Non, car chaque pêcheur se protège du froid en installant une cabane en bois au-dessus des trous.\n\n— C'est une pêche d'intérieur?\n\n— En quelque sorte. En tout cas, le poisson est bien frais.\n\nPourquoi les pêcheurs utilisent-ils une cabane?",
+        "audio": "/mp3/153/24.mp3",
+        "options": [
+            "Pour conserver le poisson.",
+            "Pour ranger leur matériel.",
+            "Pour se réchauffer.",
+            "Pour se reposer."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 25,
+        "testId": 153,
+        "text": "— Autoriser les magasins à ouvrir le dimanche en France serait-ce la solution pour développer la croissance et l'emploi ? Le directeur de la revue 60 millions de consommateurs s'explique au micro d'Emmanuel Kessler.\n\n— Le secrétaire d'État à la consommation relevait en visitant un dimanche un centre commercial de la région parisienne, que les boutiques y réalisent sur ce seul jour plus du tiers du chiffre d'affaires de toute la semaine. Oui mais voilà, ce qu'on achète le dimanche, on ne l'achète pas les autres jours et vice versa. Attention aux illusions d'optique. Les consommateurs dépensent d'abord en fonction de leurs revenus et non en fonction des jours d'ouverture des magasins. C'est simplement une autre répartition du temps d'achat. Donc, quel impact pour la croissance et l'emploi en général ? Je crains que ça ne change pratiquement rien.\n\nD'après le directeur de la revue, pourquoi l'ouverture des magasins le dimanche aurait-elle peu d'influence sur l'économie française ?",
+        "audio": "/mp3/153/25.mp3",
+        "options": [
+            "Parce que la consommation dépend avant tout du pouvoir d’achat.",
+            "Parce que la création d’emploi restera rare dans ce secteur d’activité.",
+            "Parce que les commerces font des bénéfices sur les ventes en semaine.",
+            "Parce que les Français ne sont pas habitués à consommer le dimanche."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 26,
+        "testId": 153,
+        "text": "— Tu te rends compte? Il m'a convoqué dans son bureau dès que je suis arrivé.\n\n— Et pourquoi?\n\n— Tiens-toi bien! Il m'a dit « Monsieur Boudot, ce mois-ci, vous n'avez pas réalisé votre objectif. Vous devez atteindre les 150 000 euros et vous en êtes loin. Il va falloir être plus performant. »\n\n— Et alors? Tu lui as répondu quoi?\n\n— D'abord que, depuis que je travaille ici, j'ai rarement pris de congés. En plus, comme j'essaie de réduire les frais de déplacement, je fais un peu moins de ventes mais plus de bénéfices.\n\n— Après ça, il t'a laissé tranquille?\n\n— Oui, il m'a affirmé qu'il ne fallait pas le prendre mal, qu'il faisait comme ça avec tous les employés.\n\n— On verra bien le mois prochain.\n\nQue reproche l'employeur à Monsieur Boudot?",
+        "audio": "/mp3/153/26.mp3",
+        "options": [
+            "Sa mauvaise gestion du temps.",
+            "Ses dépenses excessives.",
+            "Ses absences répétées.",
+            "Ses résultats insuffisants."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 27,
+        "testId": 153,
+        "text": "— Les entreprises québécoises ont fait beaucoup pour l'intégration des immigrés, mais elles doivent faire davantage.\n\n— Je pense qu'on peut toujours faire mieux, mais on a encore besoin d'être sensibilisés, d'être ouverts. Donc je pense que c'est un défi de tous les jours. Si on ne le fait pas, on y perd parce qu'il y a tellement de gains en immigration. On a qu'à parler de s'ouvrir vers d'autres cultures, on y gagne. On apprend sur l'un autre. On apprend sur les autres. Et pour le milieu du travail également, toute la richesse, la diversité que d'autres cultures peuvent nous apporter. Quand on parle d'un contexte de globalisation, on travaille à l'échelle de la planète. Il faut avoir un regard beaucoup plus large.\n\nSelon la personne interrogée, pour quelles raisons les entreprises québécoises doivent-elles continuer leurs efforts pour l'intégration des immigrés?",
+        "audio": "/mp3/153/27.mp3",
+        "options": [
+            "Parce qu'elles ont beaucoup à apprendre d'eux.",
+            "Parce qu'elles s’implanteront mieux ensuite à l’étranger.",
+            "Parce qu'elles sont en manque de main-d'œuvre.",
+            "Parce qu'elles y sont contraintes par la mondialisation."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 28,
+        "testId": 153,
+        "text": "— Delphine Manseau, en tant que directrice de l'Institut pour l'innovation et la compétitivité, pensez-vous que tout le monde peut être innovant ?\n\n— On croit souvent que l'innovation survient par hasard et qu'il s'agit d'un don individuel. Mais être innovant et créatif, ça s'apprend.\n\n— Alors, comment rend-t-on un étudiant innovant, par exemple ?\n\n— Il faut différencier l'innovation individuelle et la capacité à être innovant collectivement. Nous avons donc mis en place des programmes pour apprendre aux jeunes à conduire des projets innovants dans le cadre d'équipes diversifiées.\n\nComment favorise-t-on l'innovation chez les jeunes dans cet institut ?",
+        "audio": "/mp3/153/28.mp3",
+        "options": [
+            "En les incitant à travailler de manière collaborative.",
+            "En les poussant à prendre des risques importants.",
+            "En leur offrant des formations personnalisées.",
+            "En leur proposant de participer à des compétitions."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 29,
+        "testId": 153,
+        "text": "On ne peut pas nous laisser faire ce qu'on veut faire et il est indispensable pour réussir les challenges, concours et autres défis de la vie, justement le bac. Notre société passe son temps en valeur à tout prix de convaincre. Voila, c'est évident qu'un mix de stress a un rôle d'un contrôle de productivité et de frustration, mais à titre d'autre, le stress est une source de motivation et c'est la condition pour devenir meilleur: le bac, première rendez-vous à nouveau, entretien d'embauche, à chaque situation de séjour comme ça. Et si le stress est vécu comme un défi à surmonter, il devient plus sensiblement. Les sportifs de haut niveau d'ailleurs le savent parce qu'ils réussissent leur performance grâce à ce stress qu'ils arrivent à exploiter de façon positive. Le stress peut devenir parfois grosse mollesse, manque de motivation, l'absence d'intérêt pour le groupe. Pour quelles raisons le stress peut-il être bénéfique?",
+        "audio": "/mp3/153/29.mp3",
+        "audioAI": [
+            "/mp3/153/ai_29.mp3",
+            "/mp3/153/ai_29v2.mp3"
+        ],
+        "options": [
+            "Il améliore significativement la condition physique.",
+            "Il donne de l’énergie pour faire face aux épreuves.",
+            "Il fait naître un fort sentiment de confiance en soi.",
+            "Il renforce les compétences professionnelles."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 30,
+        "testId": 153,
+        "text": "J'ai pas cherché la célébrité forte honnêtement, et c'est une théorie qui survivent encore, qui sont encore de ce temps-là, le sable, le sable a été vu comme un truc bizarre, auquel je ne tenais pas spécialement. J'étais ravi en ce temps-là, d'être un éditeur obscure, servant de plus grands que moi, j'ai interviewé à l'époque Roland Barthes, Michel Foucault, Noah Rook, Thorens, pour une grande époque de manière qui était payée, plutôt de niveau absolu inférieur. J'ai été très content de ça, non, non, non, la célébrité n'a jamais pour moi été un but, à l'époque, ça n'est toujours pas. Voilà, c'est là, c'est comme ça. Quel regard porte cet homme sur sa célébrité?",
+        "audio": "/mp3/153/30.mp3",
+        "audioAI": "/mp3/153/ai_30.mp3",
+        "options": [
+            "Elle l’a beaucoup fasciné à ses débuts.",
+            "Elle l’a conduit à la tête d’un grand magazine.",
+            "Elle l’a laissé complètement indifférent.",
+            "Elle l’a mis en danger pendant sa carrière."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 31,
+        "testId": 153,
+        "text": "On fait un petit tour de France, c'est-à-dire qu'on est parti vers le sud, et on s'est arrêté à La Rochelle, parce que nos ancêtres viennent de La Rochelle. Ils sont partis au 17e siècle pour le Québec du port de La Rochelle, donc on est venu voir le port et essayer de trouver une trace de nos ancêtres. Ce qu'on a commencé par trouver, c'est que c'était plutôt compliqué d'avoir des traces écrites, surtout quand notre ancêtre n'était pas un capitaine de bateau ou quelque chose comme ça. De quoi parle cet interveant?",
+        "audio": "/mp3/153/31.mp3",
+        "options": [
+            "D'une compétition sportive.",
+            "D'une croisière maritime.",
+            "D'une histoire familiale.",
+            "D'une rencontre amoureuse."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 32,
+        "testId": 153,
+        "text": "— Alors Philippe, est-ce que vous pouvez nous en apprendre plus sur votre établissement?\n\n— Quand j'ai récupéré l'endroit, il s'agissait d'un lieu qui était ancien à Montréal, début 19e siècle. J'ai donc gardé ce qui était d'époque et j'ai rajouté une touche moderne, design, pour créer un espace particulier où les styles se mélangent. Comme je suis un passionné de meubles design, j'ai acheté des pièces qui me plaisent. Et en plus d'y manger, on peut assister à des soirées musicales, on a un DJ très connu internationalement dans le domaine de la musique électronique. Enfin, étant donné qu'on est dans un lieu très haut de plafond, j'ai accroché des tableaux, des œuvres contemporaines, mais on organise aussi des expos temporaires. Toutes les formes d'expression nous intéressent.\n\nQuelle est la particularité de l'établissement de Philippe?",
+        "audio": "/mp3/153/32.mp3",
+        "options": [
+            "C'est la reproduction d'un café du siècle dernier.",
+            "Il contient un dépôt-vente de meubles design.",
+            "C'est à la fois un restaurant et une galerie d'art.",
+            "Il y organise un festival de musique électronique."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 33,
+        "testId": 153,
+        "text": "Alors, donc en France, je préparais mon meeting et je regardais quelle était la proposition du produit. C'était marqué le plan de marché naturel, qui va regarder un petit peu. Et là, j'ai remarqué une petite mention sur les niveaux en aliments. Je parlais de femmes enceintes. J'ai cherché en français. Ça fait un peu de confiance, mais c'est mentionné. Là, moi, je me suis surpris. Il y a tellement de petites choses en français, même en regardant sur les aspects du paquet. En fait, moi j'ai compris que ça voulaient dire, je voulais vraiment pas qu'ils m'indiquent que le produit est comme un autre produit, qu'ils vont pas bien entendu sur cet aspect-là. Pourquoi cette jeune femme a-t-elle été surprise?",
+        "audio": "/mp3/153/33.mp3",
+        "audioAI": "/mp3/153/ai_33.mp3",
+        "options": [
+            "La notice était impossible à lire.",
+            "La traduction était partielle.",
+            "L’emballage était défectueux.",
+            "Les céréales étaient périmées."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 34,
+        "testId": 153,
+        "text": "— Alors Jean, c'était ce journal. Qu'est-ce que ça a donné ?\n\n— C'était passionnant et puissant parce que l'on ne compte pas ses heures. Il y a énormément de déplacements, ça c'est un côté agréable mais qu'il faut gérer intelligemment par rapport à la vie de famille.\n\n— C'est un travail très valorisant, non ?\n\n— C'est vrai, on bénéficie d'une considération exceptionnelle, mais ça aussi il faut le gérer.\n\n— Le hic, c'est que la rédaction garde un droit de regard sur les papiers. Je crains que le travail avec eux soit trop orienté. Ils ont des accointances fortes avec certains élus, même s'ils le nient, et ça dépasse en conséquence.\n\n— Le salaire pourra peut-être te faire oublier tes réticences ?\n\n— La déontologie et toi, ça fait deux.\n\nQue redoute Jean à propos de cet emploi?",
+        "audio": "/mp3/153/34.mp3",
+        "options": [
+            "La perte de sa liberté intellectuelle.",
+            "Les nombreux voyages à l’étranger.",
+            "Un manque de reconnaissance.",
+            "Une rémunération insuffisante."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 35,
+        "testId": 153,
+        "text": "Cousin du poivron, le piment d'Espelette a été rapporté d'Amérique du Sud par Christophe Colomb. Aujourd'hui, il est la seule épice française disposant d'une appellation d'origine contrôlée et sa notoriété a largement dépassé les frontières du Pays Basque dont il est la mascotte. Mais comment les piments sont-ils récoltés? Comment passe-t-on du piment frais à la poudre? Et comment l'utiliser au quotidien? Pour le savoir, direction Espelette, le village d'où le piment tient son nom dans les Pyrénées-Atlantiques. Chez Gilles, la récolte a commencé fin août et s'achèvera fin novembre. Et attention, pour avoir droit à la prestigieuse appellation « Piment d'Espelette », les fruits doivent être récoltés à un stade très précis. Question 35 Quelle est la particularité du piment d'Espelette?",
+        "audio": [
+            "/mp3/153/35.mp3",
+            "/mp3/153/35v2.mp3"
+        ],
+        "options": [
+            "Il a été découvert en Amérique avant d’être introduit en France.",
+            "Il est cueilli uniquement en été pour être conforme aux normes.",
+            "Il est utilisé dans de nombreux plats de la cuisine basque.",
+            "Son exportation à l’étranger est fortement contrôlée."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 36,
+        "testId": 153,
+        "text": "La folie dont on parle se situe peut-être... Enfin, je constate ce qui rend un compositeur, à mon sens, intéressant, c'est que, il y a un moyen ou pas, il y a des sous harmoniques qui peuvent démarrer comme des sous harmoniques connues, toutes les connues, s'échapper d'altitude sur un titre à ailleurs, c'est ce qui fait le sens de les fills. L'intérêt des compositeurs à partir de là-bas, peut-être que j'ai ça au niveau, en tout cas cette phobie-là je l'ai peut-être. Elle ne se voit pas beaucoup quand on voit dans la vie. Je pense que quand je suis dans mon piano, je me rends plus heureux. Selon cet artiste, comment s'explique la folie d'un compositeur?",
+        "audio": "/mp3/153/36.mp3",
+        "audioAI": "/mp3/153/ai_36.mp3",
+        "options": [
+            "Par l'originalité dont est marquée sa personnalité.",
+            "Par la modernité avec laquelle il joue des airs célèbres.",
+            "Par la place que la musique occupe dans son quotidien.",
+            "Par le côté imprévisible des mélodies qu’il invente."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 37,
+        "testId": 153,
+        "text": "— À cette époque-là, en fait, on connaissait pas grand-chose, des grands singes.\n\n— Qu'est-ce que vous avez vu dans ce clip, dans le regard de ce grand singe?\n\n— C'est surtout la manière dont on le regardait. La que, d'un seul coup, il y a eu cet effet réversif. Sur un autre moment, ce qui est notre concentrisme, on regarde les autres du haut de nos positions, de nous, ce que nous croyons, et d'un seul coup, ça nous permet d'aller à me dire « Qu'est-ce qui te permet de te mettre sur le pénis-là? » Et ça, à partir de là, ça a toujours été une interrogation sur le propre de l'homme. C'est-à-dire qu'on a longtemps dit que la capacité d'interroger sur ce que nous sommes n'était que du ressort de l'humain. Je ne pense pas que les autres aussi l'ont interrogé comme cela.\n\nSur quoi porte la réflexion de ce scientifique?",
+        "audio": "/mp3/153/37.mp3",
+        "audioAI": "/mp3/153/ai_37.mp3",
+        "options": [
+            "La communication entre les animaux.",
+            "La place de l’être humain dans la nature.",
+            "Le progrès des sciences naturelles.",
+            "L’évolution de l’espèce humaine."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 38,
+        "testId": 153,
+        "text": "Dans les relations d'amitié virtuelle, bien souvent, les liens se créent d'un clic, se défont d'un clic. Il y a une précarité de la relation humaine dans ces réseaux-là. Et puis même aussi dans les rencontres, on est appelé à faire sur le mode de l'instantanéité, dans le speed dating ou toutes les formes de speed meeting, qui fait qu'on s'aide à l'affect du moment pour décider si on maintient une relation ou pas. Et donc tout le caractère durable et vertueux des amitiés à l'échelle d'une vie, on peut se poser la question de leur existence à l'avenir. Que regrette l'intervenant dans ce type de relation?",
+        "audio": "/mp3/153/38.mp3",
+        "options": [
+            "La fragilité de l’engagement.",
+            "La multiplicité des contacts.",
+            "La pauvreté des échanges.",
+            "L’absence du face à face."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 39,
+        "testId": 153,
+        "text": "— Tes recherches sur les algues, ça avance ?\n\n— Oui, pas mal.\n\n— Mais, tu étudies quoi au juste ?\n\n— Leur système de reproduction. Dans un milieu aquatique, le vent ou les insectes ne jouent évidemment aucun rôle. En fait, ce sont des petites boules au bout des tiges qui se fondent et attirent les cellules mâles pour les féconder.\n\n— Et à quoi te serviront ces découvertes ?\n\n— Par la suite, on pourra multiplier ces algues et les utiliser dans la composition des produits pharmaceutiques.\n\nQue cherche à étudier cette personne à propos des algues ?",
+        "audio": "/mp3/153/39.mp3",
+        "options": [
+            "Le processus d’attractivité des cellules femelles.",
+            "Les différences avec la reproduction des plantes terrestres.",
+            "La constitution de certains organismes aquatiques.",
+            "L’influence de la météorologie sur leur fécondation."
+        ],
+        "answer": 0
+    }
+]
