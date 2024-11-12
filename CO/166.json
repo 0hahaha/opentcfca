@@ -2,7 +2,7 @@
     {
         "id": 1,
         "testId": 166,
-        "text": "A. Je peux m'asseoir ici?\n\nB. Mon chien peut venir avec moi?\n\nC. Quand passe le prochain bus?\n\nD. Vous me donnez un ticket?",
+        "text": "A. J'aimerais ouvrir ce colis. C'est un cadeau.\n\nB. Je n'arrive pas à écrire le courrier pour le directeur.\n\nC. Je voudrais envoyer cette lettre, s'il vous plaît.\n\nD. Le facteur est passé. Tu vas chercher le courrier?",
         "audio": "/mp3/166/1.mp3",
         "img": "/mp3/166/1.jpg",
         "options": [
@@ -11,12 +11,12 @@
             "Proposition C.",
             "Proposition D."
         ],
-        "answer": 0
+        "answer": 2
     },
     {
         "id": 2,
         "testId": 166,
-        "text": "A. Bravo aux cuisiniers, c'est délicieux.\n\nB. Je voudrais une table près de la fenêtre.\n\nC. Un autre café, s'il vous plaît.\n\nD. Vous pouvez garder la monnaie.",
+        "text": "A. Madame, c'est libre ici ?\n\nB. Madame, je peux m'asseoir ?\n\nC. Madame, où est votre billet ?\n\nD. Madame, vous voulez ma place ?",
         "audio": "/mp3/166/2.mp3",
         "img": "/mp3/166/2.jpg",
         "options": [
@@ -25,13 +25,16 @@
             "Proposition C.",
             "Proposition D."
         ],
-        "answer": 1
+        "answer": 3
     },
     {
         "id": 3,
         "testId": 166,
-        "text": "Vous pouvez fermer la porte, s'il vous plaît?\n\nA. Bien sûr.\n\nB. C'est vrai.\n\nC. Très souvent.\n\nD. Merci bien.",
-        "audio": "/mp3/166/3.mp3",
+        "text": "Vous pouvez fermer la porte, s'il vous plaît?\n\nA. Bien sûr.\n\nB. C'est vrai.\n\nC. Très souvent.\n\nD. Merci bien.\n\n<br>The first audio is from CO 150 Q 3. The second audio is from the original test, missing image here.\n\n<br/>A. Je vais rendre mon livre. Attends-moi.\n\nB. J'ai besoin d'un nouveau pull. Entrons ici.\n\nC. Le restaurant est encore ouvert. Viens avec moi.\n\nD. C'est vraiment trop lourd. Appelle un taxi!",
+        "audio": [
+            "/mp3/166/3.mp3",
+            "/mp3/166/3_orig.mp3"
+        ],
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -43,20 +46,21 @@
     {
         "id": 4,
         "testId": 166,
-        "text": "Excusez-moi, je suis perdue. Je veux aller à la mairie.\n\nA. Oui, allez-y. C'est ouvert maintenant.\n\nB. Oui, attendez. Elle va bientôt arriver.\n\nC. Oui, cherchez dans la bibliothèque.\n\nD. Oui, prenez la première rue à droite.",
+        "text": "A. Il est interdit de courir.\n\nB. Le toboggan est fermé.\n\nC. Mettez votre bonnet de bain.\n\nD. Vous devez sortir de l'eau.",
         "audio": "/mp3/166/4.mp3",
+        "img": "/mp3/166/4.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
             "Proposition C.",
             "Proposition D."
         ],
-        "answer": 3
+        "answer": 0
     },
     {
         "id": 5,
         "testId": 166,
-        "text": "Bonjour, Docteur. Bonjour, M. Moulin. Asseyez-vous. Quel est le problème?\n\nA. Il fait très chaud.\n\nB. J'ai mal au ventre.\n\nC. Je cherche mes clés.\n\nD. Mon téléphone est cassé.",
+        "text": "Est-ce que tu peux me prêter ce livre, s'il te plaît?\n\nA. Bien sûr, ça t'intéresse?\n\nB. Oui, tu aimes cette musique?\n\nC. Pas de problème, qui vient?\n\nD. Tu vas à la bibliothèque?",
         "audio": "/mp3/166/5.mp3",
         "options": [
             "Proposition A.",
@@ -64,12 +68,12 @@
             "Proposition C.",
             "Proposition D."
         ],
-        "answer": 1
+        "answer": 0
     },
     {
         "id": 6,
         "testId": 166,
-        "text": "Tu viens au cinéma avec moi ?\n\nA. Bonne journée, à ce soir.\n\nB. C'est une bonne idée.\n\nC. Merci de ta visite.\n\nD. Oui, ça va bien.",
+        "text": "Sophia, est-ce que tu pars en vacances cet été?\n\nA. Oui, je peux te conseiller un hôtel.\n\nB. Oui, je préfère prendre le train.\n\nC. Oui, je retourne au Maroc.\n\nD. Oui, je vais rester chez moi.",
         "audio": "/mp3/166/6.mp3",
         "options": [
             "Proposition A.",
@@ -77,12 +81,12 @@
             "Proposition C.",
             "Proposition D."
         ],
-        "answer": 1
+        "answer": 2
     },
     {
         "id": 7,
         "testId": 166,
-        "text": "Bonjour, je fais une enquête sur les Français et leur temps libre. Pourriez-vous me parler de vos loisirs préférés?\n\nA. J'adore jouer au tennis de table.\n\nB. Je préfère faire les courses en semaine.\n\nC. Je souhaite travailler en équipe.\n\nD. Je voudrais acheter une maison.",
+        "text": "Je vais au concert de jazz aux Francophonies de Montréal. Qu'est-ce que tu penses de cet artiste?\n\nA. J'aime beaucoup ses chansons.\n\nB. Je préfère les petites salles.\n\nC. Je sais jouer de la guitare.\n\nD. Le te remercie de l'invitation.",
         "audio": "/mp3/166/7.mp3",
         "options": [
             "Proposition A.",
@@ -95,106 +99,106 @@
     {
         "id": 8,
         "testId": 166,
-        "text": "— On pourrait aller voir un film cet après-midi. Ça te dit ?\n\n— Tu sais, je dois faire des courses. Le frigidaire est vide. Et je dois chercher un paquet et des timbres. Et puis, je préférerais aller nager.\n\n— Pourquoi pas ? Je prépare les maillots et les serviettes et on se retrouve à 16 heures.\n\nOù est-ce que ces personnes vont se retrouver à 16h?",
+        "text": "Cheri, où a lieu la fête d'anniversaire d'Ahmed?\n\nA. Chez ses parents.\n\nB. Il a 23 ans.\n\nC. Il y a 30 personnes.\n\nD. Le 12 janvier.",
         "audio": "/mp3/166/8.mp3",
         "options": [
-            "À la piscine.",
-            "À la poste.",
-            "Au cinéma.",
-            "Au marché."
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
         ],
         "answer": 0
     },
     {
         "id": 9,
         "testId": 166,
-        "text": "— Bonjour, madame. J'habite à Québec depuis deux mois. Je cherche une activité sportive à faire dans le quartier Montcalm. Pouvez-vous m'aider?\n\n— Certainement, monsieur. Voici un catalogue avec de nombreuses informations utiles.\n\nQu'est-ce que cet homme veut faire?",
+        "text": "Qui s'occupe d'acheter les fleurs pour l'anniversaire de Marino?\n\nA. Eh bien, je crois que c'est vous.\n\nB. Non, occupe-toi des invités plutôt.\n\nC. Non, pas maintenant, j'ai pas eu le temps.\n\nD. Très bien, ça c'est une très bonne idée.",
         "audio": "/mp3/166/9.mp3",
         "options": [
-            "Acheter un magazine.",
-            "Choisir un sport.",
-            "Trouver un logement.",
-            "Visiter un quartier."
-        ],
-        "answer": 1
-    },
-    {
-        "id": 10,
-        "testId": 166,
-        "text": "— Eh Nicolas, tu as des projets pour ce week-end ?\n\n— Non, pas vraiment, et toi ?\n\n— Ben oui, j'ai bien envie d'aller à la piscine samedi après-midi. Ça te dit de venir avec moi ?\n\n— Pourquoi pas, j'ai besoin de me détendre après mes examens.\n\n— On se retrouve devant l'université avant, et on fait le trajet ensemble. On dit quatorze heures ?\n\n— Oui, d'accord.\n\nQue fait Nicolas ?",
-        "audio": "/mp3/166/10.mp3",
-        "options": [
-            "Il accepte la proposition de son ami.",
-            "Il offre son aide à son ami.",
-            "Il propose une sortie à son ami.",
-            "Il refuse l’invitation de son ami."
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
         ],
         "answer": 0
     },
     {
-        "id": 11,
+        "id": 10,
         "testId": 166,
-        "text": "— Alors, que pensez-vous de la maison ?\n\n— Elle me plaît. Elle correspond à ce que je recherche. Un lieu de vie clair et spacieux.\n\n— Vous pourrez refaire la peinture, si vous voulez. Elle est un peu vieille.\n\n— Oui, peut-être. Pour l'instant, je préférerais changer les fenêtres. On entend beaucoup les voitures dehors.\n\n— En effet, il y a un supermarché à l'angle de la rue.\n\n— C'est embêtant. Je rêvais d'un endroit calme.\n\n— Prenez le temps de réfléchir.\n\nPour quelles raisons la femme hésite-t-elle à louer la maison ?",
-        "audio": "/mp3/166/11.mp3",
+        "text": "— Allô, bonjour. Je voudrais parier à Mme Faget, s'il vous plaît?\n\n— Je suis désolé, Mme Faget est absente toute la matinée.\n\n— Ah, dites, c'est embêtant.\n\nA. Parlez après le bip sonore.\n\nB. Patientez un instant.\n\nC. À rappeler après 14 heures.\n\nD. Vous revenez demain.",
+        "audio": "/mp3/166/10.mp3",
         "options": [
-            "Elle a besoin de réparations urgentes.",
-            "Elle est localisée loin des commerces.",
-            "Elle est située dans une rue bruyante.",
-            "Elle possède un garage trop étroit."
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
         ],
         "answer": 2
     },
     {
-        "id": 12,
+        "id": 11,
         "testId": 166,
-        "text": "— Je suis Tunisien, et je viens d'arriver au Canada. Et toi?\n\n— Moi, je suis Québécoise.\n\n— Alors, tu pourras peut-être me renseigner sur les démarches à suivre pour ma demande d'admission à l'université.\n\n— Il vaut mieux que tu t'adresses au secrétariat de l'université. En tant qu'étudiant étranger, il y a des modalités particulières.\n\n— Je ne peux pas faire de demande par courrier ou en ligne, et est-ce qu'il y a des équivalences avec mes diplômes tunisiens?\n\n— Je l'ignore. Téléphone plutôt au secrétariat.\n\nQuels conseils cette étudiante donne-t-elle au jeune homme?",
-        "audio": "/mp3/166/12.mp3",
+        "text": "— Alors Carine, c'était bien ton voyage?\n\n— Oui, c'était génial! J'ai rencontré des gens très sympas, je me suis promenée dans des paysages magnifiques, j'ai mangé des spécialités étonnantes, mais surtout, j'ai réalisé reportage étonnant à un très bon marché au Pérou. C'était la première fois! Je suis fière d'avoir été si créative. Et d'ailleurs, je vais bientôt faire une exposition. Tu viendras?\n\n— Avec plaisir!\n\nPour Carine, qu'est-ce qui a été le plus important dans son voyage?\n\n<br>**Options generated by chatgpt.**",
+        "audio": "/mp3/166/11.mp3",
         "options": [
-            "Constituer son dossier par voie électronique.",
-            "Consulter la section « Étudiant étranger » sur internet.",
-            "Obtenir une reconnaissance de son diplôme tunisien.",
-            "Se mettre directement en contact avec l’université."
-        ],
-        "answer": 3
-    },
-    {
-        "id": 13,
-        "testId": 166,
-        "text": "Cette fête de la gastronomie est l'occasion d'évoquer un plaisir que l'on peut partager très tôt en famille, le plaisir de cuisiner à quatre mains, parents et enfants réunis autour d'une même recette. Cuisiner avec son enfant, c'est une activité à la fois ludique, créative, enrichissante pour un enfant puisqu'elle fait appel à tous ses sens et c'est bien entendu un bon moment à passer ensemble. Selon cette personne, que permet la fête de la gastronomie ?",
-        "audio": "/mp3/166/13.mp3",
-        "options": [
-            "Conseiller les parents en matière d’alimentation.",
-            "Créer l’occasion de se retrouver en famille.",
-            "Découvrir des recettes de grand-mère.",
-            "Rassembler des enfants du monde entier."
+            "Avoir l'occasion de goûter des plats locaux.",
+            "Réaliser un reportage dans un marché au Pérou.",
+            "Rencontrer des personnes amicales et accueillantes.",
+            "Découvrir des paysages incroyables."
         ],
         "answer": 1
     },
     {
-        "id": 14,
+        "id": 12,
         "testId": 166,
-        "text": "— François, souvenez-vous que l'informaticien passera cet après-midi au service comptabilité?\n\n— Oui, je sais. Pour les deux ordinateurs en panne.\n\n— Oui. Appelez la comptable pour vérifier qu'elle a bien noté le rendez-vous. Elle est en formation jusqu'à la fin de la semaine. Sur le nouveau logiciel de comptabilité, justement. Elle revient lundi.\n\n— Demandez à notre stagiaire d'être présent, alors.\n\n— Je m'en occupe tout de suite.\n\nPourquoi l'informaticien vient-il ?",
-        "audio": "/mp3/166/14.mp3",
+        "text": "La première qualité pour être un bon guide interprète, je dirais que c'est la curiosité. La deuxième qualité, c'est de savoir écouter son public. Mais le plus important, c'est qu'il faut aimer les gens. J'ai de très bons souvenirs de personnes, par exemple, de Canadiens à l'Opéra de Paris, qui sont revenus le lendemain pour me faire la surprise et m'offrir du sirop d'érable. J'ai trouvé ça très gentil. Selon cette interprète, qu'est-ce qui est essentiel pour être un bon guide interprète?\n\n<br>**Options generated by chatgpt.**",
+        "audio": "/mp3/166/12.mp3",
         "options": [
-            "Pour contrôler l’état des machines en service.",
-            "Pour donner une formation aux employés.",
-            "Pour mettre à jour toutes les applications.",
-            "Pour réparer des équipements informatiques."
+            "Avoir une bonne connaissance de l'histoire et de la culture.",
+            "Être curieux, savoir écouter et aimer les gens.",
+            "Savoir raconter des histoires captivantes.",
+            "Avoir une voix agréable et claire."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 13,
+        "testId": 166,
+        "text": "— Maintenant que les examens universitaires sont finis, qu'est-ce que tu vas faire ?\n\n— Je voudrais faire un stage de langue espagnole pendant un mois.\n\n— Bonne idée ! J'en ai fait un l'année dernière en Argentine. C'était super !\n\n— Je ne veux pas aller si loin. Je pense plutôt à l'Espagne.\n\n— Tu devrais aller dans le sud, à Séville. C'est une ville magnifique !\n\n— Pourquoi pas ? Mais j'ai un petit budget. Je dois voir si je peux trouver un logement pas trop cher.\n\nDe quoi parlent ces deux personnes ?",
+        "audio": "/mp3/166/13.mp3",
+        "options": [
+            "De leur voyage en Argentine.",
+            "Des résultats des examens.",
+            "Du coût de la vie en ville.",
+            "D'un séjour linguistique."
         ],
         "answer": 3
     },
     {
+        "id": 14,
+        "testId": 166,
+        "text": "— Oh maman, tu m'achètes des bonbons? Ce sont mes préférés!\n\n— Non, il y en a encore à la maison.\n\n— Ah bon? Les Lesquels?\n\n— Ceux que ta grand-mère t'a donnés.\n\n— Ah oui, c'est vrai! Mais ils ne sont pas aussi bons, et ceux-là sont trop sucs!\n\nPourquoi la mère refuse-t-elle d'acheter des bonbons?\n\n<br>**Options generated by chatgpt.**",
+        "audio": "/mp3/166/14.mp3",
+        "options": [
+            "Parce qu'elle n'a pas assez d'argent.",
+            "Parce qu'il reste des bonbons à la maison.",
+            "Parce qu'elle n'aime pas les bonbons.",
+            "Parce qu'ils sont trop sucrés."
+        ],
+        "answer": 1
+    },
+    {
         "id": 15,
         "testId": 166,
-        "text": "— Excusez-moi, je cherche le bureau de Mme Fournier, s'il vous plaît.\n\n— Oui, c'est juste au-dessus. Prenez l'escalier sur votre gauche et, en haut, poussez la porte. C'est le bureau 123.\n\nQue doit faire cette personne?",
+        "text": "— Votre association, Génération Médiateur, réunit en cette fin de semaine près de 150 jeunes médiateurs à la Grande Arche de la Défense. Ils sont collégiens, lycéens ou étudiants, mais qu'est-ce qu'un médiateur ? À quoi sert-il dans un collège-lycée ?\n\n— C'est un jeune qui a suivi une formation particulière. Il est ensuite au service de ses camarades dans son établissement. Il peut intervenir si ses camarades le lui demandent, ou bien il propose lui-même son aide quand il y a des copains qui sont en conflit, qui connaissent une rivalité. Souvent, le médiateur va pouvoir intervenir avant que le conflit ne se mette à dégénérer et à se transformer en violence.\n\nQuel est le sujet de cette interview ?",
         "audio": "/mp3/166/15.mp3",
         "options": [
-            "Continuer jusqu’au hall.",
-            "Descendre avec l’ascenseur.",
-            "Monter d’un étage.",
-            "Prendre le couloir à droite."
+            "La création d’un réseau de médiateurs.",
+            "Le financement nécessaire aux médiateurs.",
+            "Le partage d’expériences entre médiateurs.",
+            "Le rôle des médiateurs en milieu scolaire."
         ],
-        "answer": 2
+        "answer": 3
     },
     {
         "id": 16,
@@ -213,7 +217,7 @@
     {
         "id": 17,
         "testId": 166,
-        "text": "Amis auditeurs, voici une idée de lecture originale. Les éditions Parigram ont publié un ouvrage intitulé « Paris et ses alentours au temps de Napoléon » histoire de nous faire découvrir les lieux qui ont compté au cours de cette période, mais aussi les principaux travaux, les constructions, les plus emblématiques et les transformations les plus remarquables, voulues par Napoléon. Car quand il n'est pas à la guerre, il nourrit de grands dessins pour la capitale. L'âme de Triomphe, la colonne Vendôme... Quel est le sujet du livre?",
+        "text": "Amis auditeurs, voici une idée de lecture originale. Les éditions Parigram ont publié un ouvrage intitulé « Paris et ses alentours au temps de Napoléon » histoire de nous faire découvrir les lieux qui ont compté au cours de cette période, mais aussi les principaux travaux, les constructions, les plus emblématiques et les transformations les plus remarquables, voulues par Napoléon. Car quand il n'est pas à la guerre, il nourrit de grands dessins pour la capitale. L'arc de Triomphe, la colonne Vendôme... Quel est le sujet du livre?",
         "audio": "/mp3/166/17.mp3",
         "options": [
             "La découverte des palais de l’empereur.",
@@ -265,28 +269,28 @@
     {
         "id": 21,
         "testId": 166,
-        "text": "— Quel froid ce matin!\n\n— Oui, mais au moins, il y a du soleil.\n\n— C'est sûr, à côté d'hier, la pluie toute la journée, c'était l'horreur.\n\n— Ah oui, j'aime mieux ce froid sec.\n\nQuel temps fait-il aujourd'hui?",
+        "text": "— Régis Solivérès, bonjour.\n\n— Bonjour, bonjour Philippe.\n\n— Régis, vous lancez une aventure afin vos lycéens dans une aventure assez incroyable qui est de participer à la réalisation d'un film, un film avec un réalisateur professionnel, avec des professionnels du cinéma, il s'appelle François Chailloux.\n\n— Oui, à l'occasion du festival de Lufon, j'ai rencontré François, je lui ai dit que je voulais faire un film.\n\nQuel est le projet de Régis Solivérès et de ses élèves ?",
         "audio": "/mp3/166/21.mp3",
         "options": [
-            "Il fait plus beau qu’hier.",
-            "Il fait plus mauvais qu’hier.",
-            "Il pleut plus qu’hier.",
-            "Il y a moins de soleil qu’hier."
+            "Interviewer un réalisateur.",
+            "Participer à un festival.",
+            "Tourner un film.",
+            "Visiter des studios de cinéma."
         ],
-        "answer": 0
+        "answer": 2
     },
     {
         "id": 22,
         "testId": 166,
-        "text": "Quand j'étais adolescent, j'avais écrit un long poème à Georges Brassens. J'avais fini de le recopier, enfin, c'était une espèce de chanson que j'avais fini de recopier dans le bistrot en face de l'impasse Florimont où il habitait, et j'étais allé lui porter. Sauf qu'il n'habitait plus là depuis des années et que j'étais assez rassuré qu'il n'habite plus là parce que je ne sais pas ce que je lui aurais raconté. Mais je l'avais écrite, et je me dis que si un jour j'avais reçu un petit mot de Brassens me disant « j'ai lu vos chansons et j'aimerais bien vous en parler », ça m'aurait intéressé. Qu'aurait souhaité cette personne en allant chez Georges Brassens?",
+        "text": "— Monsieur Morales, vous êtes donc secrétaire de la Fédération Syndicale des Travailleurs de l'Alimentation, de l'Agro-Industrie et Industries Similaires. Comment jugez-vous les rapports entre votre organisation syndicale et les patrons ?\n\n— Dans le cadre des discussions avec les partenaires sociaux, l'organisation patronale nous a récemment proposé, à titre expérimental, un système de résolution alternative des conflits. Ce système prévoit la formation, par le patronat, de médiateurs soi-disant indépendants et permettrait, je cite leur représentante, « d'intervenir en amont des conflits sociaux pour éviter le recours lent et coûteux aux inspections du travail et aux tribunaux ». Quelle belle initiative ! Mais une question me taraude. Comment peut-on prétendre être à la fois juge et parti ?\n\nComment cet individu reçoit-il la proposition patronale ?",
         "audio": "/mp3/166/22.mp3",
         "options": [
-            "Lui apporter un livre.",
-            "Lui demander conseil.",
-            "Lui présenter son travail.",
-            "Lui proposer une interview."
+            "Il est ironique.",
+            "Il est favorable.",
+            "Il est plein d’espoir.",
+            "Il est méprisant."
         ],
-        "answer": 2
+        "answer": 0
     },
     {
         "id": 23,
@@ -304,28 +308,29 @@
     {
         "id": 24,
         "testId": 166,
-        "text": "— Bonjour monsieur, puis-je vous renseigner ?\n\n— Bonjour, je souhaiterais visiter le sud de la France avec mon épouse.\n\n— Eh bien, nous pouvons vous proposer un séjour sur la côte d'Azur. Vous pourriez acheter un forfait qui comprend le transport aller-retour, ainsi que les nuits d'hôtel et les trajets de bus entre les villes. Voici la brochure du séjour.\n\n— Je vais en parler à ma femme et je reviendrai demain. Merci.\n\nQuelle est l'intention de cette personne ?",
+        "text": "— Dis-moi, Paul, c'est quoi la pêche blanche au Québec?\n\n— On l'appelle blanche parce qu'on pêche l'hiver à la ligne en creusant des trous dans la glace des lacs et des rivières gelées.\n\n— Mais vous, vous devez geler et attendre le poisson sans bouger.\n\n— Non, car chaque pêcheur se protège du froid en installant une cabane en bois au-dessus des trous.\n\n— C'est une pêche d'intérieur?\n\n— En quelque sorte. En tout cas, le poisson est bien frais.\n\nPourquoi les pêcheurs utilisent-ils une cabane?",
         "audio": "/mp3/166/24.mp3",
         "options": [
-            "Découvrir une région de France.",
-            "Partir vivre sur la Côte d’Azur.",
-            "Rejoindre son épouse dans le Sud.",
-            "Rendre visite à un ami français."
+            "Pour conserver le poisson.",
+            "Pour ranger leur matériel.",
+            "Pour se réchauffer.",
+            "Pour se reposer."
         ],
-        "answer": 0
+        "answer": 2
     },
     {
         "id": 25,
         "testId": 166,
-        "text": "— Les agronomes travaillent beaucoup sur l'agro-écologie. Notre modèle est très dépendant du pétrole et du gaz pour les engrais, le transport des denrées, l'énergie pour l'irrigation. Et avec un pétrole qui devient plus rare et plus cher, il s'agit donc de trouver des techniques moins gourmandes, comme l'explique Olivier Descuteurs, rapporteur spécial des Nations Unies pour l'alimentation.\n\n— Dans beaucoup de zones qui ne sont pas encore développées selon les méthodes agro-industrielles de production, il faut effectivement mettre l'accent sur des pratiques agro-écologiques qui, par exemple, permettent de recycler les déchets dans le champ pour fertiliser le champ ou qui permettent de combiner l'agro-foresterie avec des cultures alimentaires pour économiser les engrais chimiques grâce à la fertilisation des sols par les arbres.\n\nQuelle piste est envisagée pour améliorer la production agricole ?",
+        "text": "La commission de Bruxelles a décidé de poursuivre la France devant la Cour Européenne de Justice pour n'avoir pas débarrassé les eaux de Brotonne des nitrates qui les pollue. Le montant de l'amende est réclamée et déjà fixée, max 28 millions d'euros. Reste le citoyen consommateur, il sera peut-être l'acteur du dénouement de ce drame arcturien. Accepterait-il encore longtemps, à l'heure du consensus autour du pacte écologique, de subventionner l'agriculture industrielle une fois, de payer une deuxième fois pour éliminer les pollutions qu'elle mène dans ses sillons, et de passer à la caisse une troisième fois pour acheter plus cher des produits aussi vitaux que l'eau du robinet parce qu'elle n'est pas buvable sans traitement massif. Que dénonce ce journaliste ?\n\n<br>**Options generated by chatgpt.**\n\n<br/>Le texte met l’accent sur la manière dont les citoyens finissent par être les principaux perdants du système actuel : ils paient non seulement pour les subventions de l’agriculture industrielle, mais aussi pour la pollution qu'elle génère et le traitement coûteux de l'eau.",
         "audio": "/mp3/166/25.mp3",
+        "audioAI": "/mp3/166/ai_25.mp3",
         "options": [
-            "Augmenter les espaces se terres cultivables.",
-            "Moderniser les machines de production agricole.",
-            "Privilégier une agriculture sans produit chimique.",
-            "Utiliser des semences génétiquement modifiées."
+            "La faiblesse des politiques environnementales européennes.",
+            "L'impact financier de la pollution agricole sur les citoyens.",
+            "La mauvaise qualité de l'eau dans les zones rurales.",
+            "La nécessité de subventions pour l'agriculture industrielle."
         ],
-        "answer": 2
+        "answer": 0
     },
     {
         "id": 26,
@@ -357,119 +362,122 @@
     {
         "id": 28,
         "testId": 166,
-        "text": "Léonard reçoit une éducation relativement libre, comme l'étaient celles de la plupart des villageois de son âge. On imagine Léonard aujourd'hui comme un puits de science, une sorte de grand sage qui, très jeune, aurait été formé à la culture humaniste traditionnelle. Évidemment, ça n'est pas le cas. C'est un enfant qui s'est mis, en quelque sorte, à l'école de la nature, qui scrute, qui observe tout. Il est passionné par tout ce qui l'entoure et il s'aperçoit vite que le sens de l'observation est peut-être le meilleur des enseignements. Qu'est-ce que Léonard a de particulier ?",
+        "text": "— Je pense que le chef de département a raison. Il faudrait modifier la façon dont nous fonctionnons et redéfinir clairement les missions de chacun.\n\n— Oui, je suis d'accord. D'autant que nous avons eu des incompréhensions entre nous ces derniers temps. D'après moi, elles sont directement liées au fait que personne ne sait précisément où commence son rôle et surtout où il s'arrête dans le projet.\n\n— Tout à fait d'accord. Moi-même, je suis un peu perdu. Si tout le monde essaie de tout faire, on ne sera jamais d'accord au sein de ce service, sans compter que ça ne nous fait pas gagner de temps.\n\n— Bien, alors mettons ça à l'ordre de la réunion d'équipe de demain.\n\nQuel est l'objet de la discussion?",
         "audio": "/mp3/166/28.mp3",
         "options": [
-            "Sa mémoire exceptionnelle.",
-            "Ses aptitudes au jardinage.",
-            "Ses origines sociales modestes.",
-            "Son parcours d’apprentissage."
+            "La répartition des tâches dans le service.",
+            "Le manque d’expérience de l’équipe.",
+            "Le retard pris dans la réalisation d’un projet.",
+            "Les désaccords entre employeur et employés."
         ],
-        "answer": 3
+        "answer": 0
     },
     {
         "id": 29,
         "testId": 166,
-        "text": "— Vous avez vu le premier film de Robert Feuillade hier ?\n\n— Non, ce n'est pas le genre de film que j'aime.\n\n— Moi, je regarde tous les films. J'adore le cinéma depuis toujours. Sans doute parce que mon père m'emmenait au cinéma alors que j'étais encore au biberon. Je me souviens encore de mon premier western. Dans la petite ville où on habitait, tous les samedis, il y avait le cinéma en plein air gratuit.\n\n— Moi, ce que je préférais quand j'allais au cinéma avec mon père, c'était la glace à la vanille qu'il m'achetait.\n\nSelon cette femme, qu'est-ce qui explique son amour inconditionnel du cinéma ?",
+        "text": "Nous informons nos auditeurs qu'en raison d'un arrêt de travail observé par certaines catégories de personnels, l'ensemble de nos journaux et de nos émissions de la journée sera remplacé par un programme musical continu. Deux bulletins d'information assurés par des personnels non grévistes seront diffusés à 13h et à 20h. Nous prions nos auditeurs de nous excuser de cette situation. C'était un communiqué de la direction de la station. Quel est le but de ce communiqué ?",
         "audio": "/mp3/166/29.mp3",
         "options": [
-            "L’absence de distractions dans le village où elle habitait.",
-            "L’influence autoritaire que son père a exercée sur elle.",
-            "Le choc du tout premier film qu’elle a vu dans sa vie.",
-            "Sa fréquentation des salles dès son plus jeune âge."
-        ],
-        "answer": 3
-    },
-    {
-        "id": 30,
-        "testId": 166,
-        "text": "[colis.com](), toujours à votre service. Nous acheminons chaque jour plus de 75 millions de plis. Si, malgré tous nos efforts, un envoi n'est pas parvenu à son destinataire, des professionnels sont à votre disposition pour réaliser les recherches nécessaires et s'engagent à vous tenir informés dans les plus brefs délais. Pour ce faire, connectez-vous à notre site [www.colis.com]() ou appelez le 08-67-35-35-35. Nous serons toujours à votre écoute. À quel type d'entreprise appartient ce service? Sous-titrage Société Radio-Canada",
-        "audio": "/mp3/166/30.mp3",
-        "options": [
-            "Un groupe de centres d’appels téléphoniques.",
-            "Un service de livraison express du courrier.",
-            "Un spécialiste de la création de sites Internet.",
-            "Un fournisseur pour la restauration à domicile."
-        ],
-        "answer": 1
-    },
-    {
-        "id": 31,
-        "testId": 166,
-        "text": "— Donc sans aller jusqu'au licenciement, Philippe, quelles sont les conséquences d'un mauvais niveau d'orthographe ?\n\n— Alors les responsables des ressources humaines, interrogés par Opinion Web pour Becherel, reconnaissent à 52% que ça a déjà pu jouer dans la mise à l'écart d'un candidat au moment du recrutement, et ils sont 15% à estimer que ça peut freiner la promotion d'un salarié, s'il n'est pas après tout énorme pour l'ensemble de la population, mais ça prend de toutes autres proportions si on s'intéresse aux plus jeunes, aux moins de 30 ans. Ce sont eux qui disent avoir le plus de mal avec l'orthographe. Quand on leur demande si leur faute ont suscité des reproches de la part de leurs collègues, de leur hiérarchie, de leurs clients, ils sont deux fois plus nombreux que le reste de la population à dire oui.\n\nQu'apprend-on sur le niveau d'orthographe dans le monde du travail ?",
-        "audio": "/mp3/166/31.mp3",
-        "options": [
-            "C’est un détail négligeable pour les recruteurs.",
-            "Il est indépendant de la promotion professionnelle.",
-            "Il est prévu de tester celui des futurs salariés.",
-            "La question est préoccupante pour les plus jeunes."
-        ],
-        "answer": 3
-    },
-    {
-        "id": 32,
-        "testId": 166,
-        "text": "Longtemps, la copie illégale de produits ne concernait que le domaine du luxe. Aujourd'hui, tous les secteurs de l'économie sont atteints par ce phénomène. Pièces automobiles, prêts à porter, jouets ou encore médicaments. La douane française a saisi plus de 5 millions d'articles, soit deux fois plus que l'année dernière, et on estime que cette contrefaçon contribue à supprimer 30 000 emplois en France chaque année. Quels constats la journaliste fait-elle sur la contrefaçon ?",
-        "audio": "/mp3/166/32.mp3",
-        "options": [
-            "Elle concerne de moins en moins d’articles.",
-            "Elle est maîtrisée grâce aux contrôles.",
-            "Elle met en danger le marché du travail.",
-            "Elle se concentre sur des objets précieux."
+            "Annoncer la diffusion exceptionnelle, en direct, d’un festival de musique.",
+            "Dire pourquoi des journalistes et des techniciens ont cessé le travail.",
+            "Expliquer pourquoi on entend de la musique au lieu des programmes habituels.",
+            "Rappeler les changements de programmes dus à la nouvelle grille horaire."
         ],
         "answer": 2
     },
     {
-        "id": 33,
+        "id": 30,
         "testId": 166,
-        "text": "C'est l'une des plus grandes chansons qui a été faite dans toute l'histoire de la chanson francophone. C'est on a accès à, c'est un court métrage, en fait  c'est même un long métrage en quelques minutes. Et d'arriver à dépeindre tout un univers où on comprend la complexité du personnage, où on peut le mettre dans un contexte social, où on peut, on a même presque des parfums, on a tout dans cette chanson-là. Donc c'est, c'est oui, c'est un, c'est pour moi, c'est comme si j'avais chanté un grand maître. Si j'étais en classique, j'aurais joué Bach. Ben, là, j'ai chanté Aznavour, j'ai chanté cette chanson-là d'Aznavour. De quoi parle cet artiste?",
-        "audio": "/mp3/166/33.mp3",
+        "text": "— Avoir un beau sourire est un atout majeur de notre bien-être et un élément important dans notre relation avec les autres. Nous en parlons avec le docteur Franck Amoyel. Bonjour.\n\n— Bonjour.\n\n— Comment d'abord définiriez-vous le sourire ?\n\n— C'est un atout extraordinaire qui produit une grande confiance, qui attire le regard des autres. En plus, il participe à nos relations sociales. Vous savez, un sourire heureux nous rend heureux, un sourire triste nous rend triste. Et toutes ces expressions de visage, finalement, pénètrent notre inconscient et c'est notre cerveau qui les décode. Ce qu'il faut savoir aussi, c'est que le sourire, il est inné. Il est déterminé génétiquement.\n\nQuel est le rôle du sourire d'après ce docteur ?",
+        "audio": "/mp3/166/30.mp3",
         "options": [
-            "De la particularité de sa voix.",
-            "De la reprise d’une œuvre.",
-            "De sa nouvelle tournée.",
-            "De son dernier rôle au cinéma."
-        ],
-        "answer": 1
-    },
-    {
-        "id": 34,
-        "testId": 166,
-        "text": "Les plus de 60 ans, ils sont près d'un milliard sur la planète, 15 millions en France et ce nombre a vocation à grossir. Aujourd'hui les seniors c'est 23% de la population française, bientôt ce sera 30% des seniors qui voyagent, qui consomment, qui s'équipent. Des seniors dont la santé vacille aussi et qui entrent dans la dépendance. Un marché juteux pour les entreprises et un formidable gisement de croissance et d'emploi qui n'a pas échappé à Michel Delonney, la ministre déléguée aux personnes âgées. Dans le secteur de l'aide à domicile, on considère qu'il faut 220 000 emplois de plus d'ici 2020. Incroyable, aucun autre ministère ne peut proposer autant de champs de croissance. Dans ce reportage, qu'apprend-on sur les seniors ? Sous-titres réalisés par la communauté d'Amara.org",
-        "audio": "/mp3/166/34.mp3",
-        "options": [
-            "Ils consomment plus que la jeune génération.",
-            "Ils dépensent beaucoup pour leur santé.",
-            "Ils profitent peu des effets de la croissance.",
-            "Ils sont à l’origine de créations d’emplois."
+            "Il aide à lutter efficacement contre la tristesse.",
+            "Il est indispensable pour l’activité de notre cerveau.",
+            "Il montre les progrès dans l’apprentissage des émotions.",
+            "Il permet d’entrer en relation avec les autres."
         ],
         "answer": 3
     },
     {
+        "id": 31,
+        "testId": 166,
+        "text": "Inutile d'aller chercher plus loin pour entendre parler, télévision, internet, radio, magazine sont envahis de messages prenant les bienfaits du développement durable. Des émissions d'informations ou messages publicitaires des entreprises qui avaient écouté sont toutes devenues indispensables. Le développement durable est, selon la définition proposée en 1987 par la Commission mondiale sur l'environnement et le développement, un développement qui répond aux besoins des générations du présent sans compromettre la capacité des générations du future à répondre aux leurs. Le développement durable repose sur trois piliers : environnemental, social et économique, qui devraient être étroitement liés. Or, bien souvent, ça, la dimension écologique est évoquée, au détriment de l'aspect social-économique. Selon ce journaliste, qu'est-ce qui pose problème dans la façon dont le développement durable est présenté ?\n\n<br>**Options generated by chatgpt.**\n\n<br/>Le journaliste critique le fait que l'accent est souvent mis uniquement sur l'écologie, laissant de côté les dimensions sociale et économique du développement durable.",
+        "audio": "/mp3/166/31.mp3",
+        "audioAI": "/mp3/166/ai_31.mp3",
+        "options": [
+            "Le développement durable ne tient pas compte des besoins des générations futures.",
+            "Seule la dimension écologique est mise en avant, au détriment des aspects sociaux et économiques.",
+            "Les médias ignorent totalement les bienfaits du développement durable.",
+            "La définition du développement durable est trop compliquée pour être comprise du grand public."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 32,
+        "testId": 166,
+        "text": "Et je me suis rendu compte que nous visions dans un monde où nous ne nous autorisions pas à être nous-mêmes, à nous écouter, à nous respecter. Et c'est surtout cette manière dont nous sommes pris par une forme d'auto-exploitation qui emmène tant de gens jusqu'à l'épuisement, jusqu'au burn-out, qui m'a donné envie de dire juste « sauvez votre peau, devenez narcissique ». Et je crois qu'en fait, être narcissique, c'est pouvoir s'écouter, se rencontrer, se respecter. Et je crois que ça, c'est vraiment aujourd'hui crucial. Que déploie cet homme à propos des individus dans le monde actuel?",
+        "audio": "/mp3/166/32.mp3",
+        "options": [
+            "L’absence de formes d’altruisme.",
+            "La place accordée à l’apparence.",
+            "La superficialité des relations.",
+            "Le manque d’estime de soi."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 33,
+        "testId": 166,
+        "text": "— Quand vous revenez de Chicago, vous fondez d'abord Héritage Montréal. Pourquoi?\n\n— Vous savez, quand je suis revenue de Chicago, j'étais là pendant quelques années à prendre des photographies des bâtiments Pierre Grise.\n\n— À Montréal?\n\n— Oui, parce que je trouvais ça formidable et ça délimitait. C'était une façon de marquer chaque quartier de Montréal. Alors, je faisais ça avec un photographe, très bien. Et puis, quand nous étions dans, par exemple, un des couvents, on nous a dit, « Mais pourquoi est-ce que vous faites dans ce bâtiment? C'est vétuste. On va le démolir. » C'était comme ça partout. Alors, finalement, on a compris qu'il fallait vraiment s'occuper de ça. Surtout, quand je venais de Chicago, et puis toutes les villes autour de Troyes, Cincinnati, un peu partout, il y avait peut-être un bâtiment qui restait debout, un bâtiment victorien, et puis tout était aplatit. C'était la période Ferrance.\n\nDans quel but a été fait ce reportage photo?",
+        "audio": "/mp3/166/33.mp3",
+        "options": [
+            "Pour accélérer la rénovation d’anciennes constructions.",
+            "Pour comparer les styles des maisons nord-américaines.",
+            "Pour conserver la trace du patrimoine architectural.",
+            "Pour dénoncer la dégradation des logements urbains."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 34,
+        "testId": 166,
+        "text": "Plus cher, plus fragile, un meilleur en goût les produits bio? Oui, parfois. Mais la malbouffe abîme l'environnement et la santé. Il faut savoir ce que l'on veut, continuer vers le chaos ou sauver l'espoir. Quelle patience il faut avoir pour suivre en longueur de temps les inepties de médias? Chaque fois que l'étude scientifique révèle que les aliments bio ne sont pas meilleurs que les aliments non-bio, la presse se jette dessus. Comme si un tabou tombait, comme si une vérité fracassante venait enfin dénoncer une intox induisant le consommateur en erreur. L'info se trouve à la une des journaux. Ça y est, on les tient, le bio, c'est du champ. Que dénonce cette personne?\n\n<br>**Options generated by chatgpt.**\n\n<br/>Cette personne dénonce la façon dont les médias ignorent les véritables problèmes environnementaux et de santé tout en critiquant de manière injustifiée les études sur les produits bio pour tromper le consommateur.",
+        "audio": "/mp3/166/34.mp3",
+        "audioAI": "/mp3/166/ai_34.mp3",
+        "options": [
+            "Les médias cachent les véritables problèmes environnementaux pour promouvoir les produits bio.",
+            "Les médias critiquent de manière injustifiée les études sur les produits bio pour manipuler l'opinion publique.",
+            "Les médias ignorent les risques pour la santé liés aux produits bio.",
+            "Les médias encouragent la consommation de malbouffe au détriment des produits bio."
+        ],
+        "answer": 1
+    },
+    {
         "id": 35,
         "testId": 166,
-        "text": "— Alors Jean, c'était ce journal. Qu'est-ce que ça a donné ?\n\n— C'était passionnant et puissant parce que l'on ne compte pas ses heures. Il y a énormément de déplacements, ça c'est un côté agréable mais qu'il faut gérer intelligemment par rapport à la vie de famille.\n\n— C'est un travail très valorisant, non ?\n\n— C'est vrai, on bénéficie d'une considération exceptionnelle, mais ça aussi il faut le gérer.\n\n— Le hic, c'est que la rédaction garde un droit de regard sur les papiers. Je crains que le travail avec eux soit trop orienté. Ils ont des accointances fortes avec certains élus, même s'ils le nient, et ça dépasse en conséquence.\n\n— Le salaire pourra peut-être te faire oublier tes réticences ?\n\n— La déontologie et toi, ça fait deux.\n\nQue redoute Jean à propos de cet emploi?",
+        "text": "— Dans les années 60, il y avait 200 000 bars en France. Aujourd'hui, il ne sont plus que 36 000. Les secteurs de la réunion emploient 230 000 personnes à Paris. Pour Denis Baledec, directeur de la Fédération Nationale des Cafés Culture, l'enjeu est donc total.\n\n— Ce bassin d'emplois qui est en train de disparaître en France, ce sont des emplois dont est localisable et destiné à la public locale. C'est une véritable économie liée à l'intérêt de la restauration de la vieille art, au poisson, mais aussi au secteur culturel. Ce produit est aussi un pouvoir artistique. Il faudrait lier l'enjeu économique, régulation de l'espace public, mais aussi pouvoir faire droit à la fête.\n\nQue dénonce Denis Baledec?\n\n<br>**Options generated by chatgpt.**\n\n<br/>Denis Baledec souligne l'importance des bars pour l'emploi local, l'économie et le secteur culturel, qui jouent un rôle important dans le dynamisme de l'espace public. Donc, la disparition des bars en France menace l'emploi local, l'économie culturelle.",
         "audio": "/mp3/166/35.mp3",
+        "audioAI": "/mp3/166/ai_35.mp3",
         "options": [
-            "La perte de sa liberté intellectuelle.",
-            "Les nombreux voyages à l’étranger.",
-            "Un manque de reconnaissance.",
-            "Une rémunération insuffisante."
+            "La disparition des bars menace l'emploi local et la culture.",
+            "La baisse de fréquentation des bars est causée par des prix trop élevés.",
+            "Les bars en France ne respectent plus l’espace public.",
+            "La qualité de l'art culinaire diminue à cause des bars."
         ],
         "answer": 0
     },
     {
         "id": 36,
         "testId": 166,
-        "text": "— Les nouveaux outils aujourd'hui que nous utilisons au quotidien, est-ce qu'ils ont stimulé de nouvelles intelligences ou est-ce qu'ils ont amoindri d'autres capacités ?\n\n— Alors, on peut considérer qu'en effet, les nouveaux outils numériques, par exemple ordinateurs, robots, font qu'on va déléguer aux machines certaines tâches asservissantes pour l'homme. \n\n— On voit pour la mémoire, par exemple, le calcul mental.\n\n— C'est un autre aspect, la mémoire. La mémoire, c'est le second, c'est que la mémoire est devenue plutôt externe. La mémoire étant externe et finalement, les tâches qui nécessitaient beaucoup de temps, de concentration, de labeur plus automatique, peuvent être déléguées aux machines. Donc, il y a là un espace de nouveauté.\n\nQu'explique l'intervenant à propos des nouveaux outils numériques ?",
+        "text": "— Recruter grâce aux réseaux sociaux, ce n'est plus une tendance émergente, mais bien un mouvement de fond selon l'INSEE et ça annonce, Philippe, de nouvelles façons d'embaucher.\n\n— Oui, en quatre ans, la part des entreprises qui utilisent les médias sociaux a plus que doublé. Les entreprises sont donc de plus en plus présentes sur la toile, et celles qui y sont, et bien s'en servent de plus en plus pour recruter. C'est le cas de 44% d'entre elles.\n\nDans quel but les entreprises utilisent-elles les nouveaux médias ?",
         "audio": "/mp3/166/36.mp3",
         "options": [
-            "Ils améliorent les facultés d’attention.",
-            "Ils entravent la liberté de penser.",
-            "Ils assurent les travaux fastidieux.",
-            "Ils diminuent les aptitudes cognitives."
+            "Pour faire connaître leurs services.",
+            "Pour rechercher des collaborateurs.",
+            "Pour s’informer sur la concurrence.",
+            "Pour vendre leurs produits en ligne."
         ],
-        "answer": 2
+        "answer": 1
     },
     {
         "id": 37,
@@ -487,7 +495,7 @@
     {
         "id": 38,
         "testId": 166,
-        "text": "— Alors, aussi bien dans le public que dans le privé, cette... ce mal-être au travail résulte, selon vous, d'une mutation sociale profonde et structurelle du marché du travail, de notre rapport au travail?\n\n— Ce que l'on constate, c'est que, pour essayer de résumer ça, le travail est issu, étymologiquement, du « tripalium », le poteau de torture. tu gagneras ta vie à la sueur de ton front, etc. c'est-à-dire la pénibilité physique. Or, on constate, c'est le paradoxe, qu'en fait, le temps de travail dans la vie a plutôt diminué et la pénibilité physique a considérablement diminué dans la plupart des métiers. Mais ça a été compensé par ou transformé par une charge psychique, une mobilisation psychique et une pénibilité subjectives et donc le malaise est placé.\n\nQu'explique l'intervenant à propos de la pénibilité au travail?",
+        "text": "— Alors, aussi bien dans le public que dans le privé, cette... ce mal-être au travail résulte, selon vous, d'une mutation sociale profonde et structurelle du marché du travail, de notre rapport au travail?\n\n— Ce que l'on constate, c'est que, pour essayer de résumer ça, le travail est issu, étymologiquement, du « tripalium », le poteau de torture. tu gagneras ta vie à la sueur de ton front, etc. c'est-à-dire la pénibilité physique. Or, on constate, c'est le paradoxe, qu'en fait, le temps de travail dans la vie a plutôt diminué et la pénibilité physique a considérablement diminué dans la plupart des métiers. Mais ça a été compensé par ou transformé par une charge psychique, une mobilisation psychique et une pénibilité subjectives et donc le malaise est placé.\n\nQu'explique l'intervenant à propos de la pénibilité au travail?\n\n<br/>**Note**: The text is discussing how, although physical labor and the associated difficulties (like \"tripalium,\" the torture device) have decreased, the modern workplace is now facing **psychic or emotional strain**. This \"subjective hardship\" has replaced physical labor.\n\n<br/>The key phrase in the text is about **the transformation of the physical difficulty into a psychological one — malaise** (discomfort or unease) resulting from this shift.\n\n<br/>Thus, the correct answer should reflect this shift, and **D** is not the right choice at all, but is close, as \"des objets précieux\" is refer to mental health. A better option could be **Elle se concentre sur des aspects psychologiques.**\n\n<br>Série 169 Q 38 updated new options, which perfectly align with the text.",
         "audio": "/mp3/166/38.mp3",
         "options": [
             "Elle concerne de moins en moins d’articles.",
@@ -495,7 +503,7 @@
             "Elle met en danger le marché du travail.",
             "Elle se concentre sur des objets précieux."
         ],
-        "answer": 2
+        "answer": 3
     },
     {
         "id": 39,
