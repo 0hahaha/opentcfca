@@ -1,0 +1,512 @@
+[
+    {
+        "id": 1,
+        "testId": 168,
+        "text": "A. Bonjour! Un aller-retour pour Paris, s'il vous plaît.\n\nB. Bonjour! Un pain au chocolat, s'il vous plaît.\n\nC. Bonjour! Une boîte d'aspirine, s'il vous plaît.\n\nD. Bonjour! Une enveloppe avec un timbre, s'il vous plaît.",
+        "audio": "/mp3/168/1.mp3",
+        "img": "/mp3/168/1_ai.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 2,
+        "testId": 168,
+        "text": "A. Éteignez votre téléphone, Madame.\n\nB. Mettez votre manteau, il fait froid ici.\n\nC. Restez couché, j'appelle un médecin.\n\nD. Tenez, je vais regarder votre bras.",
+        "audio": "/mp3/168/2.mp3",
+        "img": "/mp3/168/2_ai.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 3,
+        "testId": 168,
+        "text": "A. Cette chaleur me fatigue.\n\nB. Il va bientôt faire nuit.\n\nC. Je commence à avoir froid.\n\nD. Le temps est très nuageux.",
+        "audio": "/mp3/168/3.mp3",
+        "img": "/mp3/168/3.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 4,
+        "testId": 168,
+        "text": "Hey Monique, tu sais s'il va faire beau dimanche?\n\nA. Oui, il va beaucoup pleuvoir.\n\nB. Oui, il va peut-être neiger.\n\nC. Oui, il va y avoir de l'orage.\n\nD. Oui, il va y avoir du soleil.",
+        "audio": "/mp3/168/4.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 5,
+        "testId": 168,
+        "text": "Hey Sophie, dis-moi pourquoi tu es toujours aussi en forme?\n\nA. Je fais souvent de l'exercice.\n\nB. Je lis des histoires drôles.\n\nC. Je regarde le sport à la télé.\n\nD. Je vais au cinéma.",
+        "audio": "/mp3/168/5.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 6,
+        "testId": 168,
+        "text": "Je ne suis pas en forme, j'ai souvent mal au dos. Tu penses que je vais aller mieux si je fais du sport ?\n\nA. Oui, ce serait bien que tu manges mieux.\n\nB. Oui, il faut que tu te reposes plus.\n\nC. Oui, prends un rendez-vous chez le médecin.\n\nD. Oui, tu devrais t'inscrire à la piscine.",
+        "audio": "/mp3/168/6.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 7,
+        "testId": 168,
+        "text": "— Ça ne va pas? Tu es malade?\n\n— Non, mais mon mari vient de réserver un appartement à la montagne pour 15 jours. Au programme, randonnée, vélo et escalade.\n\n— C'est génial!\n\n— C'est affreux, tu veux dire. Moi, je rêvais de deux semaines de repos et de lecture.\n\nDe quoi discutent les deux femmes?",
+        "audio": "/mp3/168/7.mp3",
+        "options": [
+            "D'un prochain déménagement.",
+            "De sport pour le week-end.",
+            "De vacances en famille.",
+            "D'un problème de santé."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 8,
+        "testId": 168,
+        "text": "— Jean, as-tu terminé ton travail?\n\n— Pas encore maman, cet exercice de français est très difficile.\n\n— Tu veux que je t'aide?\n\n— Non, ça va, je réfléchis encore un peu. Tu m'appelles quand le dîner est prêt?\n\n— D'accord!\n\nQue veut Jean?",
+        "audio": "/mp3/168/8.mp3",
+        "options": [
+            "Il veut de l’aide.",
+            "Il veut travailler seul.",
+            "Il veut manger.",
+            "Il veut reporter son travail."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 9,
+        "testId": 168,
+        "text": "Pour les pandas, il y a un niveau diplomatique très haut, ça veut dire que ce sont les présidents de la république qui décident de l'arrivée des pandas. En fait, parce qu'en Chine, le panda est un animal bélisé par la population et par les Chinois. C'est le trésor national chinois. Le président doit lui-même donner son accord pour que les pandas puissent sortir de Chine, parce que pour eux, c'est un animal extrêmement important. Que dit-on des pandas chinois dans ce reportage ?",
+        "audio": "/mp3/168/9.mp3",
+        "options": [
+            "Ils coûtent cher au pays.",
+            "Ils ont une santé fragile.",
+            "Ils sont difficiles à nourrir.",
+            "Ils sont protégés par l'État."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 10,
+        "testId": 168,
+        "text": "— Salut Pierre, désolée pour le retard.\n\n— Salut Marie. Alors tu n'as pas entendu le réveil?\n\n— Il y avait une grève des bus ce matin, et je n'ai pas de voiture, donc je suis venue à pied et j'ai mis une heure.\n\n— La prochaine fois, appelle un taxi.\n\n— Oui, si tu me le payes.\n\nPourquoi est-ce que Marie est en retard?",
+        "audio": "/mp3/168/10.mp3",
+        "options": [
+            "Elle a raté le réveil.",
+            "Elle a raté le bus.",
+            "Elle n'a pas trouvé de taxi.",
+            "Elle n'a pas de voiture."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 11,
+        "testId": 168,
+        "text": "— Alors Carine, c'était bien ton voyage?\n\n— Oui, c'était génial! J'ai rencontré des gens très sympas, je me suis promenée dans des paysages magnifiques, j'ai mangé des spécialités étonnantes, mais surtout, j'ai réalisé un reportage photo dans un très beau marché au Pérou. C'était la première fois! Je suis fière d'avoir été si créative! Et d'ailleurs, je vais bientôt faire une exposition. Tu viens voir?\n\n— Avec plaisir!\n\nPour Carine, qu'est-ce qui a été le plus important dans son voyage?\n\n<br>**Possible options generated by chatgpt:**\n\n<br/>A. Avoir l'occasion de goûter des plats locaux.\n\n**B. Réaliser un reportage dans un marché au Pérou.**\n\nC. Rencontrer des personnes amicales et accueillantes.\n\nD. Découvrir des paysages incroyables.",
+        "audio": "/mp3/168/11.mp3",
+        "options": [
+            "Les spécialités culinaires qu’elle a dégustées.",
+            "Les paysages qu’elle a explorés.",
+            "Les personnes qu’elle a rencontrées.",
+            "Son projet artistique."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 12,
+        "testId": 168,
+        "text": "— Tu t'es renseigné sur la formation en informatique?\n\n— Oui, j'ai appelé ce matin.\n\n— Et alors, tu penses t'inscrire?\n\n— Je ne sais pas encore. Le centre de formation ne propose pas de cours le soir. Sinon, les tarifs sont raisonnables.\n\n— D'après ce que Julien m'a dit, le prof est très bien. C'est important.\n\n— Oui. En plus, c'est à côté du bureau. Le test d'entrée a lieu la semaine prochaine. Il faut que je parle avec mon responsable. J'espère qu'il sera d'accord pour que je m'absente 4 heures par semaine.\n\nPour quelles raisons le jeune homme hésite-t-il à s'inscrire?",
+        "audio": "/mp3/168/12.mp3",
+        "options": [
+            "Les cours ne sont pas proposés le soir.",
+            "Il doit parler avec son responsable.",
+            "Le coût des cours est trop élevé.",
+            "Le professeur n’est pas compétent."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 13,
+        "testId": 168,
+        "text": "— Votre association, Génération Médiateur, réunit en cette fin de semaine près de 150 jeunes médiateurs à la Grande Arche de la Défense. Ils sont collégiens, lycéens ou étudiants, mais qu'est-ce qu'un médiateur ? À quoi sert-il dans un collège-lycée ?\n\n— C'est un jeune qui a suivi une formation particulière. Il est ensuite au service de ses camarades dans son établissement. Il peut intervenir si ses camarades le lui demandent, ou bien il propose lui-même son aide quand il y a des copains qui sont en conflit, qui connaissent une rivalité. Souvent, le médiateur va pouvoir intervenir avant que le conflit ne se mette à dégénérer et à se transformer en violence.\n\nQuel est le sujet de cette interview ?",
+        "audio": "/mp3/168/13.mp3",
+        "options": [
+            "La création d’un réseau de médiateurs.",
+            "Le financement nécessaire aux médiateurs.",
+            "Le partage d’expériences entre médiateurs.",
+            "Le rôle des médiateurs en milieu scolaire."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 14,
+        "testId": 168,
+        "text": "— Puis-je déposer mon manteau ?\n\n— Certainement madame, c'est à votre gauche. Cette année, c'est gratuit pour les abonnés au théâtre.\n\n— Oh, voilà une bonne nouvelle pour débuter la saison !\n\n— Je vous souhaite une agréable soirée.\n\nQue souhaite faire la femme ?",
+        "audio": "/mp3/168/14.mp3",
+        "options": [
+            "Féliciter les acteurs dans leur loge.",
+            "Remettre un vêtement au vestiaire.",
+            "Retourner à la salle de spectacle.",
+            "S'informer sur la programmation."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 15,
+        "testId": 168,
+        "text": "— Vous désirez ? Est-ce que cette veste existe en noir ?\n\n— Je ne l'ai plus. Mais nous avons ce modèle-là, plus classique. Passez-la?\n\n— Oh, elle est trop serrée.\n\n— Non, je vous assure. C'est la tendance cette année de porter les vestes cintrées.\n\n— Je ne pourrais pas mettre de gilet en dessous ?\n\n— Oh, vous n'en avez pas besoin. C'est de la pure laine, ça tient chaud.\n\n— Bon, je la prends.\n\nQue propose la vendeuse à la cliente ?",
+        "audio": "/mp3/168/15.mp3",
+        "options": [
+            "D’essayer un vêtement près du corps.",
+            "De changer la taille de l’article choisi.",
+            "De choisir une tenue multicolore.",
+            "De compléter son achat avec un pull."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 16,
+        "testId": 168,
+        "text": "— Pourquoi en si peu de temps, on est venu à 7 milliards sur Terre ?\n\n— Parce que la mortalité a diminué, notamment la mortalité des enfants, grâce au progrès de l'hygiène, de la médecine, au progrès économique. Résultat, les décès sont devenus moins nombreux et est apparu un excédent des naissances sur les décès qui a entraîné une augmentation de la population.\n\nQu'explique cet homme ?",
+        "audio": "/mp3/168/16.mp3",
+        "options": [
+            "La crise de l’économie mondiale.",
+            "L’accroissement de la population.",
+            "Les nouvelles règles d’hygiène.",
+            "Les récentes découvertes médicales."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 17,
+        "testId": 168,
+        "text": "— Est-ce que vous pouvez nous rappeler en quelques mots la situation?\n\n— Oui, c'est un fait divers heureusement très rare. Un étudiant de l'Université d'Ottawa, originaire du Niger, souhaite que sa femme vienne vivre avec lui, et il se bat avec l'administration pour qu'elle puisse entrer dans le pays.\n\n— Mais où vit sa femme?\n\n— Au Niger. Le couple est actuellement séparé en raison d'erreurs administratives.\n\nQu'espère cet étudiant?\n\n<br>**Possible options generated by chatgpt.**\n\n<br/>Cet étudiant espère que sa femme puisse entrer au Canada pour vivre avec lui.\n\n**A. Il espère que sa femme puisse entrer au Canada.**\n\nB. Il espère que sa femme puisse étudier à Ottawa.\n\nC. Il espère obtenir une bourse pour ses études.\n\nD. Il espère pouvoir retourner vivre au Niger.",
+        "audio": "/mp3/168/17.mp3",
+        "options": [
+            "Il espère obtenir une bourse d’études.",
+            "Il espère que sa femme pourra venir au Canada.",
+            "Il espère déménager au Niger.",
+            "Il espère que sa femme pourra étudier au Canada."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 18,
+        "testId": 168,
+        "text": "— Centre d'affaires de la Cité, bonjour.\n\n— Bonjour Madame. Je voudrais louer une salle de conférence. Quels sont vos tarifs et les services proposés?\n\n— C'est ma collègue, Madame Martineau, qui s'occupe de la réservation des salles. Je vous la passe, ne quittez pas.\n\n— Merci Madame. Au revoir.\n\nPourquoi cet homme appel-t-il?",
+        "audio": "/mp3/168/18.mp3",
+        "options": [
+            "Il veut obtenir des renseignements.",
+            "Il cherche à joindre la directrice.",
+            "ll désire visiter les locaux disponibles.",
+            "II souhaite participer à un congrès."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 19,
+        "testId": 168,
+        "text": "— La rencontre avec les représentants du personnel est bien prévue aujourd'hui?\n\n— Oui, monsieur. À 15h dans la salle du rez-de-chaussée.\n\n— Et il faut les prévenir que je ne serai pas à l'heure. J'attends un appel très important d'un de nos importateurs.\n\n— D'accord, mais je croyais que vous lui aviez parlé hier.\n\n— Non, il n'a pas pu me téléphoner.\n\nQue demande le directeur?",
+        "audio": "/mp3/168/19.mp3",
+        "options": [
+            "D’annuler une réunion.",
+            "D’informer de son retard.",
+            "De recevoir un client.",
+            "De reporter un entretien."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 20,
+        "testId": 168,
+        "text": "— Allô, bonjour Madame Tremblay. Je suis désolé, il y a eu un problème informatique maintenant. Je ne peux pas retirer l'argent, ou bien j'aurai mon loyer dans deux ou trois jours, ou bien je vous apporte un chèque demain si vous préférez.\n\n— Non, ce n'est pas la peine. Deux ou trois jours, ce n'est si long.\n\n— Ok, merci beaucoup. \n\nQue va faire la propriété?",
+        "audio": "/mp3/168/20.mp3",
+        "options": [
+            "Elle va appeler le locataire.",
+            "Elle va attendre un petit peu.",
+            "Elle va refuser le paiement.",
+            "Elle va revenir une autre fois."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 21,
+        "testId": 168,
+        "text": "— Salut, ça va ?\n\n— Ça va, mais mon petit ami est parti pour trois mois pour réaliser un documentaire sur la Gaspésie, une région assez sauvage du Québec.\n\n— Ah oui, je connais. Quelle chance ! J'adorerais y retourner. Et tu vas y aller aussi ?\n\n— J'aimerais bien, mais j'ai des missions prévues prochainement. Mais bon, je vois mon patron demain, je lui demanderai si je peux prendre des vacances.\n\n— Bonne chance. Tu m'écriras pour me raconter ton expérience là-bas. Et préviens-moi quand le film sortira.\n\nDe quoi parlent ces personnes ?",
+        "audio": "/mp3/168/21.mp3",
+        "options": [
+            "D’un projet de voyage.",
+            "D’un changement de travail.",
+            "D’un futur déménagement.",
+            "D’une sortie au cinéma."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 22,
+        "testId": 168,
+        "text": "Je crois que les difficultés en matière de lecture ont des causes à la fois individuelles et sociales. Les parents, par exemple, parce qu'ils sont angoissés par l'avenir de leurs enfants, leur présentent souvent la lecture comme une obligation, une démarche indispensable pour réussir. Et c'est une erreur, parce que la lecture est avant tout un plaisir. Un livre, c'est un voyage, une découverte, une aventure, et il faudrait faire découvrir la lecture aux enfants comme on leur fait découvrir la cuisine chinoise ou les jeux dans la neige. Et puis les parents refusent aussi souvent à leurs enfants des lectures qu'ils considèrent comme mineurs. Les bandes dessinées, par exemple, et ça aussi, c'est une erreur. Lire une bande dessinée, c'est lire. Et ça permet souvent d'ailleurs de découvrir ensuite d'autres formes de littérature. Que conseille cette intervenante aux parents ?",
+        "audio": "/mp3/168/22.mp3",
+        "options": [
+            "D'attribuer à la lecture le statut de loisir.",
+            "De favoriser la lecture en autonomie.",
+            "De limiter la lecture d'histoires illustrées.",
+            "De sélectionner des lectures classiques."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 23,
+        "testId": 168,
+        "text": "Pourquoi accumulons-nous des objets ? Avant tout, l'objet en fait nous signale. L'objet, c'est un peu nous. Je suis ce que j'ai, je suis ce que je porte, je suis ce que je possède. Et en fait, l'objet, via le regard d'autrui sur notre objet, nous permet de nous construire une identité, qui on est, notre intérêt. Tout ça passe effectivement par la médiation des objets, que ce soit les vêtements, que ce soit une voiture, que ce soit un lieu de résidence, des chaussures ou je ne sais quoi. Donc l'objet est très important. Selon l'intervenante, pourquoi accumulons-nous des objets ? ",
+        "audio": "/mp3/168/23.mp3",
+        "options": [
+            "Pour afficher notre niveau de vie.",
+            "Pour affirmer notre personnalité.",
+            "Pour améliorer notre quotidien.",
+            "Pour imiter notre entourage."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 24,
+        "testId": 168,
+        "text": "— Bonjour, monsieur. J'ai vu votre annonce. Vous cherchez toujours une vendeuse?\n\n— Oui. Cela vous intéresse? Vous avez de l'expérience?\n\n— J'ai été vendeuse 15 ans à Québec, mais mon petit ami a été muté à Montréal, alors, j'ai dû démissionner.\n\n— Vous habitez encore là-bas?\n\n— Non, nous sommes chez mes parents en attendant de trouver un logement.\n\n— Vous parlez anglais?\n\n— Bien sûr.\n\n— Bien. Vous pouvez revenir demain pour un essai?\n\n— Avec plaisir.\n\nPourquoi la personne cherche-t-elle du travail à Montréal ?",
+        "audio": "/mp3/168/24.mp3",
+        "options": [
+            "Pour changer de profession.",
+            "Pour découvrir de nouveaux lieux.",
+            "Pour se rapprocher de sa famille.",
+            "Pour suivre son compagnon."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 25,
+        "testId": 168,
+        "text": "— Autoriser les magasins à ouvrir le dimanche en France serait-ce la solution pour développer la croissance et l'emploi ? Le directeur de la revue 60 millions de consommateurs s'explique au micro d'Emmanuel Kessler.\n\n— Le secrétaire d'État à la consommation relevait en visitant un dimanche un centre commercial de la région parisienne, que les boutiques y réalisent sur ce seul jour plus du tiers du chiffre d'affaires de toute la semaine. Oui mais voilà, ce qu'on achète le dimanche, on ne l'achète pas les autres jours et vice versa. Attention aux illusions d'optique. Les consommateurs dépensent d'abord en fonction de leurs revenus et non en fonction des jours d'ouverture des magasins. C'est simplement une autre répartition du temps d'achat. Donc, quel impact pour la croissance et l'emploi en général ? Je crains que ça ne change pratiquement rien.\n\nD'après le directeur de la revue, pourquoi l'ouverture des magasins le dimanche aurait-elle peu d'influence sur l'économie française ?",
+        "audio": "/mp3/168/25.mp3",
+        "options": [
+            "Parce que la consommation dépend avant tout du pouvoir d’achat.",
+            "Parce que la création d’emploi restera rare dans ce secteur d’activité.",
+            "Parce que les commerces font des bénéfices sur les ventes en semaine.",
+            "Parce que les Français ne sont pas habitués à consommer le dimanche."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 26,
+        "testId": 168,
+        "text": "— Je suis allé voir l'exposition que tu m'as conseillée.\n\n— Et qu'en as-tu pensé ?\n\n— C'était sympa, mais il y a beaucoup d'œuvres que je n'ai pas comprises. Et puis, j'y suis allé jeudi en soirée, il y avait du monde.\n\n— Tu aurais dû attendre ce week-end, j'y retourne, et j'aurais pu t'expliquer pas mal de choses.\n\n— C'est vrai que tu es passionné d'art contemporain. La prochaine fois, je te demanderai de m'accompagner.\n\nQue regrette le jeune homme ?",
+        "audio": "/mp3/168/26.mp3",
+        "options": [
+            "D'avoir choisi d’y aller seul.",
+            "D'avoir attendu dans une file.",
+            "D'avoir manqué quelques œuvres.",
+            "D'avoir suivi le conseil de son amie."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 27,
+        "testId": 168,
+        "text": "— Delphine Manseau, en tant que directrice de l'Institut pour l'innovation et la compétitivité, pensez-vous que tout le monde peut être innovant ?\n\n— On croit souvent que l'innovation survient par hasard et qu'il s'agit d'un don individuel. Mais être innovant et créatif, ça s'apprend.\n\n— Alors, comment rend-t-on un étudiant innovant, par exemple ?\n\n— Il faut différencier l'innovation individuelle et la capacité à être innovant collectivement. Nous avons donc mis en place des programmes pour apprendre aux jeunes à conduire des projets innovants dans le cadre d'équipes diversifiées.\n\nComment favorise-t-on l'innovation chez les jeunes dans cet institut ?",
+        "audio": "/mp3/168/27.mp3",
+        "options": [
+            "En les incitant à travailler de manière collaborative.",
+            "En les poussant à prendre des risques importants.",
+            "En leur offrant des formations personnalisées.",
+            "En leur proposant de participer à des compétitions."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 28,
+        "testId": 168,
+        "text": "— Tiens Alex, que fais-tu ici? On ne te voit pas souvent dans ce département.\n\n— Figure-toi que j'ai décidé de te faire des lettres.\n\n— Mais ça veut dire que tu as arrêté ton cours d'histoire?\n\n— Non, pas pour le moment. Comme cela, je pourrais quand même valider ma licence sans perdre mon annu.\n\n— À ce qu'il paraît, le master de lettres est plus dur que celui d'histoire.\n\n— Ma décision est prise de toute façon. J'aurai bien plus de débouchés professionnels.\n\nQuel choix a-t-il fait?",
+        "audio": "/mp3/168/28.mp3",
+        "options": [
+            "Il a décidé d’arrêter ses études d’histoire.",
+            "Il a choisi de poursuivre uniquement des études de lettres.",
+            "Il a décidé à étudier dans deux différents domaines.",
+            "Il a décidé de changer d’université."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 29,
+        "testId": 168,
+        "text": "— Alors Karine, vous répondez à la question de Vincent. En fait, ce berger dit être victime des gendarmes venus saisir son étalon pour mauvais traitement animale. Il affirme être victime d'une dénonciation calumnieuse.\n\n— Oui, en effet, le procureur aurait été saisi de plainte concernant le cheval de Vincent, qui était très maigre. Vincent nous dit que c'est depuis le vol en août dernier de son autre cheval, suitant que l'étalon saisi par les gendarmes s'est laissé aller et ne voulait plus s'alimenter. Vincent n'a pas été entendu pour se défendre et il n'y a eu aucun contrôle vétérinaire.\n\nQue reproche-t-on au berger?\n\n<br/>**Options generated by chatgpt.**\n\n<br/>**Explanation**: The accusation against the shepherd (Vincent) involves animal mistreatment, as the prosecutor was informed about the very poor condition of Vincent's horse (\"concernant le cheval de Vincent, qui était très maigre\"). This suggests a case of alleged mistreatment, which is why the authorities intervened.\n\n<br/>**L'article du France-Info**: https://www.francetvinfo.fr/replay-radio/le-droit-d-info/saisie-d-un-animal-par-les-gendarmes_1725893.html\n\n### Flèche est berger, il nous dit que des gendarmes sont venus chez lui pour saisir son étalon sur ordre d’un procureur.\n\nCe procureur aurait été saiside plaintes concernant le cheval de Flèche qui était très maigre. Flèche nous dit que c’est depuis le vol en août dernier de son autre cheval que l’étalon, saisi par les gendarmes, s’est laissé aller et ne voulait plus s’alimenter. Il n’a pas été entendu pour se défendre et il n’y a eu aucun contrôle vétérinaire.\n\nCe sont de simples dénonciations qui on amené les forces de l’ordre à saisir le cheval quin’était pas maltraité, mais tout simplement déprimé. Il nous demande s’il est légal de saisir un animal sans même avoir l’avis des services vétérinaires et comment faire pour récupérer son cheval ?\n\n<br/>Si la question est \"Que reproche-t-on au procureur?\",\n\n<br/>A. D'avoir saisi un cheval sans preuve suffisante.\n\nB. De ne pas avoir écouté la version de Vincent.\n\n**C. De ne pas avoir demandé un contrôle vétérinaire.**\n\nD. De ne pas avoir agi après le vol du cheval.",
+        "audio": "/mp3/168/29.mp3",
+        "options": [
+            "De ne pas avoir signalé le vol de son cheval.",
+            "De maltraiter son cheval.",
+            "De ne pas avoir nourri son cheval correctement.",
+            "De ne pas avoir consulté de vétérinaire."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 30,
+        "testId": 168,
+        "text": "— Avoir un beau sourire est un atout majeur de notre bien-être et un élément important dans notre relation avec les autres. Nous en parlons avec le docteur Franck Amoyel. Bonjour.\n\n— Bonjour.\n\n— Comment d'abord définiriez-vous le sourire ?\n\n— C'est un atout extraordinaire qui produit une grande confiance, qui attire le regard des autres. En plus, il participe à nos relations sociales. Vous savez, un sourire heureux nous rend heureux, un sourire triste nous rend triste. Et toutes ces expressions de visage, finalement, pénètrent notre inconscient et c'est notre cerveau qui les décode. Ce qu'il faut savoir aussi, c'est que le sourire, il est inné. Il est déterminé génétiquement.\n\nQuel est le rôle du sourire d'après ce docteur ?",
+        "audio": "/mp3/168/30.mp3",
+        "options": [
+            "Il aide à lutter efficacement contre la tristesse.",
+            "Il est indispensable pour l’activité de notre cerveau.",
+            "Il montre les progrès dans l’apprentissage des émotions.",
+            "Il permet d’entrer en relation avec les autres."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 31,
+        "testId": 168,
+        "text": "— Bonjour à tous, bienvenue dans ce premier podcast «Qécbec Vous Prés», c'est une nouvelle expérience de mon tour. Il y a quelques personnes qui sont autour de moi et qui sont se présenter les unes après les autres. Gilles Hossen, bonjour.\n\n— Bonjour à tous, alors moi c'est Gilles Hossen, je suis l'un des fondateurs et webmaster historique du site et au quotidien, je me charge de la majorité des chroniques de romans ainsi que les brèves d'actualité.\n\nQu'apprend-on sur ce podcast?",
+        "audio": "/mp3/168/31.mp3",
+        "options": [
+            "Gilles Hossen a inclus des questions des auditeurs.",
+            "Les auditeurs ont envoyé des commentaires en direct.",
+            "Les auditeurs ont participé à l’émission.",
+            "Il y a eu un vote des auditeurs sur les sujets."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 32,
+        "testId": 168,
+        "text": "— «Le poète veut rentrer au paradis, au cœur même de l'offert. Je ne possède pas ce pouvoir magique. Je ne serai jamais un poète, je ne compte pas être romancier. C'est-à-dire un poète raté.» C'est ce que vous dites à Catherine Lalanne, Yasmin Akadra, est-ce que romancier au raté, vous nous expliquer?\n\n— Oui, bien sûr, parce que un poète, il paraît être en tête, il peut expliquer le monde, il explique des sons. Pour moi, ce sont des petits vers de rien, des petits points de ré, qui m'ont accompagné toute ma vie. Parce que tout simplement, il prenait un appât à découvrir certaines vérités que le romancier n'était pas dépassé à essayer d'expliquer sans vraiment les expliquer.\n\nD'après Yacine Akadra, qu'est-ce qui caractérise le poète?",
+        "audio": "/mp3/168/32.mp3",
+        "options": [
+            "La capacité à vivre au paradis.",
+            "Le pouvoir magique de la poésie.",
+            "La capacité à révéler une certaine vérité.",
+            "Le fait d’être un romancier raté."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 33,
+        "testId": 168,
+        "text": "— Des commentaires sur la gastronomie de Toronto?\n\n— On y mange très bien, mais c'est impossible d'y manger la même chose 4 ans plus tard. Comme à Québec, la gastronomie est très tendance. Qu'est-ce qui se passe aujourd'hui? Qu'est-ce qui se passera demain? Mais qu'est-ce qui s'est passé hier? On ne veut plus rien savoir. Qu'est-ce qu'un restaurateur doit faire si sa cuisine n'est pas tendance mais tout aussi bonne? À Toronto, il doit la changer. C'est différent à Québec. J'ai l'impression qu'à Toronto, la capitale des affaires, on gère tous aux dépens des valeurs sûres.\n\nQue constate ce journaliste sur la gastronomie à Toronto?",
+        "audio": "/mp3/168/33.mp3",
+        "options": [
+            "Elle est dans l’innovation constante.",
+            "Elle est tournée vers l’exotisme.",
+            "Elle fait la part belle à la tradition.",
+            "Elle nécessite un service très rapide."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 34,
+        "testId": 168,
+        "text": "On trouve de tout dans le paysage audiovisuel français, choisir ses rosiers, comparer des voitures, repeindre sa maison, apprendre à cuisiner ou se marier avec un agriculteur, mais on ne trouve rien ou presque sur l'éducation pour les 12 millions de jeunes fréquentant les établissements scolaires. Il est donc temps que le service public de télévision s'empare de ce domaine pour proposer des émissions ou pourquoi pas une chaîne dédiée sur tous les sujets qui préoccupe parents et éducateurs afin de leur offrir des pistes de réflexion et des réponses à leurs questions et à leurs difficultés. D'après cette journaliste, que manque-t-il à la télévision française?",
+        "audio": "/mp3/168/34.mp3",
+        "options": [
+            "Un programme sur l’agriculture.",
+            "Un programme d’éducation pour les jeunes.",
+            "Plus de divertissement pour les familles.",
+            "Des émissions sur la rénovation de maison."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 35,
+        "testId": 168,
+        "text": "Selon ce comité d'experts, c'est une stratégie qui ne fait que davantage mettre en opposition les pays en voie de développement et les pays développés. Ils estiment que la consommation de poissons d'élevage dans les pays riches ne fait qu'aggraver la situation dans les autres pays puisqu'il faut avoir recours aux réserves de poissons des pays en développement pour produire les ressources qu'on consacre à l'élevage industriel. L'aquaculture, qui nous donne donc des saumons et autres choses, est une grande consommatrice de farine de poissons. Or, la farine de poissons est obtenue en broyant des poissons tout à fait consommables, des harins, des maquereaux, des anchois et ainsi de suite. On détruit du poisson consommable, du poisson bon marché, pour en faire du poisson cher qui est vendu dans les pays occidentaux. Selon l'intervenant, pourquoi l'aquaculture pose-t-elle problème?",
+        "audio": "/mp3/168/35.mp3",
+        "options": [
+            "L’alimentation fournie aux élevages est de mauvaise qualité.",
+            "L’existence d’industries piscicoles nuit à la variété des espèces.",
+            "La filière aquacole fragilise l’équilibre alimentaire mondial.",
+            "Les pêcheurs pillent les fonds marins pour soutenir la concurrence."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 36,
+        "testId": 168,
+        "text": "Parce que la bande dessinée est un exercice qui demande une telle rigueur, une telle discipline. La pratique de la bande dessinée nous impose une grammaire, une grammaire tellement étroite, déjà le dessin est enfermé dans des cases la plupart du temps. Donc, tout est là pour que le dessin, sans qu'il ose, se redisse, se redisse, s'amidonne. Tous les éléments sont là pour que notre dessin se dessèche. Donc, à l'intérieur de cet exercice domestiqué qu'est la bande dessinée, essayer de rendre un dessin vivant ou simplement plaisant à exécuter, c'est pas, c'est pas gagnant en fait. Qu'explique l'interlocuteur à propos de la bande dessinée?",
+        "audio": "/mp3/168/36.mp3",
+        "options": [
+            "Elle aborde des sujets de fonds.",
+            "Elle créé de la concurrence entre auteurs.",
+            "Elle est encadrée par des normes strictes.",
+            "Elle s’adresse à un public averti."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 37,
+        "testId": 168,
+        "text": "Ça dure 2 heures et donc c'est toujours bien détenu. Alors, la série, ça dure des centaines d'heures, mises au point. Ça développe sur plusieurs années. Donc ça permet d'être beaucoup plus réaliste, d'être beaucoup plus proche de la vie des gens. Et ça permet davantage d'identification et de construire les personnages de manière beaucoup plus attentive. Les séries, c'est un cinéma développé qui permet d'aller bien plus loin et du coup, c'est beaucoup davantage de grandir. On vieillit avec les personnages et dans cette proximité, il y a un réalisme qui fait que la littérature peut en parler bien davantage que le cinéma. Qu'explique-t-on sur la série télévisée?\n\n<br>**Options generated by chatgpt.**\n\n<br/>On explique que la série télévisée offre une immersion plus réaliste et une meilleure identification grâce à son format long et son développement approfondi des personnages.\n\n<br/>La personne qui a participé à l'examen a suggéré de **Concurrence avec les grands écrans**.\n\n<br/>Ce n'est pas directement en lien avec le contenu du texte. Voici **la réponse du ChatGPT**:\n\n>Le texte met en avant les atouts spécifiques des séries télévisées, comme leur durée, leur capacité à approfondir les personnages, et leur réalisme qui rapproche les spectateurs de la vie quotidienne. Il ne mentionne pas explicitement une comparaison ou une concurrence entre les séries télévisées et les films de cinéma (grands écrans).\n\n>Ainsi, \"Concurrence avec les grands écrans\" ne reflète pas fidèlement les points abordés dans le texte.\n\n<br/>**Les autres choix du ChatGPT.**\n\n<br/>A. Elle offre un format plus court et captivant.\n\n**B. Elle permet une identification et un réalisme plus profonds.**\n\nC. Elle ne peut pas rivaliser avec le cinéma en termes de créativité.\n\nD. Elle est moins développée que le cinéma.",
+        "audio": "/mp3/168/37.mp3",
+        "options": [
+            "Elle offre un format plus long permettant une exploration approfondie des personnages.",
+            "Elle est plus divertissante que le cinéma en raison de sa durée.",
+            "Elle remplace la littérature grâce à son réalisme unique.",
+            "Elle est moins immersive que les films traditionnels."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 38,
+        "testId": 168,
+        "text": "— Pour faciliter l'installation des compagnies minières, il faut bâtir des routes, mais aussi des logements. Le nombre de citoyens à Fermont, une ville en plein boom minier, va doubler, comme l'explique sa mairesse.\n\n— Il y a des secteurs de rue qui vont ouvrir d'ici les prochaines semaines, d'ici le prochain mois. Pourquoi ? Pour répondre aux besoins de construire des logements, des habitations, des bungalows, des appartements aussi pour les gens. C'est tout un défi qu'on a à relever.\n\nSelon cet élu, en quoi consiste le défi à relever ?",
+        "audio": "/mp3/168/38.mp3",
+        "options": [
+            "Mettre en place toutes les infrastructures d’accueil.",
+            "Prendre en compte les aspects financiers du projet.",
+            "Réussir l’intégration de la main-d’œuvre étrangère.",
+            "Susciter l’adhésion de tous les habitants concernés."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 39,
+        "testId": 168,
+        "text": "On a voulu faire une salle qui s'appelle « Monet, peintre des impressions » pour vraiment mettre en valeur l'aspect très original de Monet parmi les impressionnistes. Dans la salle précédente, on a mis ses premiers paysages qui sont les paysages d'Argenteuil. On y voit donc les paysages les plus classiques du peintre qui va devenir le chef de file de l'impressionnisme. Mais dans la salle « Monet, peintre des impressions », on voulait vraiment mettre en valeur ce qu'était que peindre des impressions. Donc évidemment, on a « Impression soleil levant » qui a le titre qu'il porte et qui met en valeur le côté impressionniste du paysage. C'est une vue du Havre, mais on ne peut presque plus reconnaître le Havre tant ce paysage montre ce qu'est une atmosphère lumineuse finalement. Cette atmosphère de crépuscule qui est mise en valeur par ces nouvelles couleurs et ces nouvelles petites touches de peinture. Comment l'exposition sur Monet a-t-elle été conçu?",
+        "audio": "/mp3/168/39.mp3",
+        "options": [
+            "En regroupant les œuvres selon un ordre chronologique.",
+            "En regroupant les tableaux dans une même salle.",
+            "En regroupant les toiles autour d’un même sujet.",
+            "En regroupant ses créations avec celles d’autres artistes."
+        ],
+        "answer": 2
+    }
+]
