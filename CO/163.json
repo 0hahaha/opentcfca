@@ -128,7 +128,7 @@
     {
         "id": 10,
         "testId": 163,
-        "text": "Bonjour Mademoiselle Duflo, ici, le service des inscriptions de l'université. Je viens de regarder votre dossier de candidature et il manque la photocopie de votre passeport. Merci de nous l'apporter au plus vite au bureau 300 B. Que doit faire Mademoiselle Duflo ?",
+        "text": "Bonjour Mademoiselle Duflo, ici, le service des inscriptions de l'université. Je viens de regarder votre dossier de candidature et il manque la photocopie de votre passeport. Merci de nous l'apporter au plus vite au bureau 308. Que doit faire Mademoiselle Duflo ?",
         "audio": "/mp3/163/10.mp3",
         "audioAI": "/mp3/163/ai_10.mp3",
         "options": [
@@ -181,13 +181,13 @@
     {
         "id": 14,
         "testId": 163,
-        "text": "— Alors, finalement, tu as vu l'exposition Mathis ?\n\n— Oui, j'y suis allée pendant les vacances. Il y avait deux heures d'attente avant de pouvoir entrer. Heureusement que j'avais un bon livre.\n\n— Ah oui, c'est souvent comme ça. Mais après, tu as vu ? La disposition du tableau, l'organisation de l'espace, la lumière... C'est vraiment superbe.\n\n— Oui, il y a un très bel éclairage, qui met bien les étoiles en valeur. Mais dans cette foule, il faut se battre pour les voir. Très sincèrement, j'aurais été plus tranquille chez moi à feuilleter une revue d'art contemporain.\n\nPourquoi l’un des interlocuteurs n’a-t-il pas apprécié l’exposition ?",
+        "text": "— Alors, finalement, tu as vu l'exposition Mathis ?\n\n— Oui, j'y suis allée pendant les vacances. Il y avait deux heures d'attente avant de pouvoir entrer. Heureusement que j'avais un bon livre.\n\n— Ah oui, c'est souvent comme ça. Mais après, tu as vu ? La disposition des tableaux, l'organisation de l'espace, la lumière... C'est vraiment superbe.\n\n— Oui, il y a un très bel éclairage, qui met bien les étoiles en valeur. Mais dans cette foule, il faut se battre pour les voir. Très sincèrement, j'aurais été plus tranquille chez moi à feuilleter une revue d'art contemporain.\n\nPourquoi l'un des interlocuteurs n'a-t-il pas apprécié l'exposition ?",
         "audio": "/mp3/163/14.mp3",
         "options": [
-            "Il n’aime pas l’œuvre de ce peintre.",
+            "Il n'aime pas l'œuvre de ce peintre.",
             "La présentation des tableaux lui a déplu.",
-            "Il a trouvé qu’il y avait trop de visiteurs.",
-            "Il s’est ennuyé en faisant la queue."
+            "Il a trouvé qu'il y avait trop de visiteurs.",
+            "Il s'est ennuyé en faisant la queue."
         ],
         "answer": 2
     },
@@ -250,7 +250,7 @@
     {
         "id": 19,
         "testId": 163,
-        "text": "— Allô, bonjour Madame Tremblay. Je suis désolé, il y a eu un problème informatique la-bas. Je ne peux pas retirer l'argent, ou bien j'aurai mon loyer dans deux ou trois jours, ou bien je vous apporte un chèque demain si vous préférez.\n\n— Non, ce n'est pas la peine. Deux ou trois jours, ce n'est pas question.\n\n— Ok, merci beaucoup. \n\nQue va faire la propriété?",
+        "text": "— Allô, bonjour Madame Tremblay. Je suis désolé, il y a eu un problème informatique maintenant. Je ne peux pas retirer l'argent, ou bien j'aurai mon loyer dans deux ou trois jours, ou bien je vous apporte un chèque demain si vous préférez.\n\n— Non, ce n'est pas la peine. Deux ou trois jours, ce n'est si long.\n\n— Ok, merci beaucoup. \n\nQue va faire la propriété?",
         "audio": "/mp3/163/19.mp3",
         "audioAI": "/mp3/163/ai_19.mp3",
         "options": [
@@ -277,7 +277,7 @@
     {
         "id": 21,
         "testId": 163,
-        "text": "— Bonjour, Madame Léveille. Qu'est-ce qui vous amène aujourd'hui?\n\n— Eh bien, ma voiture a un problème au démarrage depuis hier. Elle démarre assez bien, puis elle s'arrête brusquement au bout de dix minutes. Vous pouvez voir ce qu'il se passe?\n\n— Là, maintenant? C'est pas possible. Demain, peut-être.\n\n— Ah, c'est dommage. J'en ai vraiment besoin dès demain, M. Lavoie.\n\n— Hum, attendez. Je regarde mon agenda. Bon, écoutez. Laissez-la moi toute l'après-midi et vous la reprendrez ce soir. Elle sera prête.\n\n— C'est vraiment très gentil de votre part. Alors, à ce soir. Merci.\n\nQue va faire la cliente?",
+        "text": "— Bonjour, Madame Léveille. Qu'est-ce qui vous amène aujourd'hui?\n\n— Eh bien, ma voiture a un problème au démarrage depuis hier. Elle démarre assez bien, puis elle s'arrête brusquement au bout de dix minutes. Vous pouvez voir ce qu'il se passe?\n\n— Là, maintenant? C'est pas possible. Demain, peut-être.\n\n— Ah, c'est dommage. J'en ai vraiment besoin dès demain, Monsieur Lavoie.\n\n— Hum, attendez. Je regarde mon agenda. Bon, écoutez. Laissez-la moi toute l'après-midi et vous la reprendrez ce soir. Elle sera prête.\n\n— C'est vraiment très gentil de votre part. Alors, à ce soir. Merci.\n\nQue va faire la cliente?",
         "audio": "/mp3/163/21.mp3",
         "options": [
             "Elle va repartir avec sa voiture.",
@@ -331,11 +331,11 @@
     {
         "id": 25,
         "testId": 163,
-        "text": "— Malgré les apparences, vous n'êtes pas dans une salle de danse, mais dans une école, pour le moins innovante et unique, à Marseille. Ici, on enseigne bien sûr les matières essentielles, mais aussi la comédie musicale, la cuisine ou bien l'électricité. Cette école parie surtout depuis 5 ans sur la pédagogie active de remotivation dans l'intérêt de l'enfant. On écoute la directrice de l'établissement.\n\n— La pédagogie active, c'est une pédagogie qui implique l'élève dans son apprentissage. Il est acteur, c'est-à-dire qu'on va le familiariser tout seul, avec un texte ou avec n'importe quel support d'information. Il s'autonomise tout en prenant plaisir à apprendre.\n\nSelon la directrice de cette école, quel est l'objectif de la pédagogie active ?",
+        "text": "— Malgré les apparences, vous n'êtes pas dans une salle de danse, mais dans une école, pour le moins innovante et unique, à Marseille. Ici, on enseigne bien sûr les matières essentielles, mais aussi la comédie musicale, la cuisine ou bien l'électricité. Cette école parie surtout depuis 5 ans sur la pédagogie active de re-motivation dans l'intérêt de l'enfant. On écoute la directrice de l'établissement.\n\n— La pédagogie active, c'est une pédagogie qui implique l'élève dans son apprentissage. Il est acteur, c'est-à-dire qu'on va le familiariser tout seul, avec un texte ou avec n'importe quel support d'information. Il s'autonomise tout en prenant plaisir à apprendre.\n\nSelon la directrice de cette école, quel est l'objectif de la pédagogie active ?",
         "audio": "/mp3/163/25.mp3",
         "options": [
-            "Amener l’élève à participer à sa propre formation.",
-            "Axer principalement l’apprentissage sur le jeu.",
+            "Amener l'élève à participer à sa propre formation.",
+            "Axer principalement l'apprentissage sur le jeu.",
             "Initier les élèves à des activités parascolaires.",
             "Responsabiliser les élèves encore immatures."
         ],
@@ -451,28 +451,28 @@
     {
         "id": 34,
         "testId": 163,
-        "text": "— Les plus de 60 ans, ils sont près d'un milliard sur la planète, 15 millions en France et ce nombre a vocation à grossir. Aujourd'hui les seniors c'est 23% de la population française, bientôt ce sera 30% des seniors qui voyagent, qui consomment, qui s'équipent. Des seniors dont la santé vacille aussi et qui entrent dans la dépendance. Un marché juteux pour les entreprises et un formidable gisement de croissance et d'emploi qui n'a pas échappé à Michel Delonney, la ministre déléguée aux personnes âgées.\n\n— Dans le secteur de l'aide à domicile, on considère qu'il faut 220 000 emplois de plus d'ici 2020. Incroyable, aucun autre ministère ne peut proposer autant de champs de croissance.\n\nDans ce reportage, qu'apprend-on sur les seniors ?",
+        "text": "5 heures du matin au palais royal, on entend le chant du coq. Sur les pavés? Du gazon et de la paille. Comme par magie, c'est le monde rural qui arrive en ville. Bruxelles, Champêtre fait le bonheur des citadins en manque de nature. Cette année, l'événement a réuni 70 000 personnes de 30 pays pour le plaisir de déguster ensemble de bons produits fermiers dans un univers Champêtre. Quel est l'objectif de Bruxelles-Champêtre?",
         "audio": "/mp3/163/34.mp3",
         "options": [
-            "Ils consomment plus que la jeune génération.",
-            "Ils dépensent beaucoup pour leur santé.",
-            "Ils profitent peu des effets de la croissance.",
-            "Ils sont à l’origine de créations d’emplois."
+            "Faire découvrir des spécialités gastronomiques du terroir.",
+            "Présenter aux visiteurs des spécimens d’animaux d’élevage.",
+            "Promouvoir la campagne comme destination touristique.",
+            "Sensibiliser le public à la protection de l’environnement."
         ],
-        "answer": 3
+        "answer": 0
     },
     {
         "id": 35,
         "testId": 163,
-        "text": "20% du bassin arctique canadien est devenu corrosif pour certains de ses habitants. On s'inquiète beaucoup ainsi de l'élargissement de ces fameuses zones mortes dans les océans, là où l'oxygène et la vie se sont retirées. Elles sont particulièrement nombreuses le long de la troisième côte océanique canadienne, donc le long de la province de la Colombie-Britannique. Denis Gilbert est chercheur scientifique au ministère canadien de pêche et océans Canada. Selon lui, il faut savoir dépasser les simples manchettes alarmistes des journaux, basées souvent sur les cris d'alarme des environnementalistes. Le phénomène des zones mortes ou de l'hypoxie n'est pas nouveau, et ce n'est pas obligatoirement une mauvaise chose. La preuve, en tout cas, reste à faire. Quelle est la position du chercheur Denis Gilbert?",
+        "text": "— Dans une émission consacrée au bon usage des médicaments, il y a une question inévitable, Docteur Amiel, c'est comment bien lire une notice de médicament, comment la décrypter?\n\n— D'abord, il faut savoir que ce qui figure sur une notice relève de l'obligation légale. Ça, c'est pour le fond. Sur le plan de la forme, il faut que les mots soient compréhensibles et qu'ils soient écrits suffisamment gros pour qu'on puisse les lire. Et depuis peu, la législation impose de faire des tests de lisibilité des notices, à la fois sur la taille des lettres et sur la compréhension du texte. La relecture des notices est faite par une commission et par des associations de patients avant que le feu vert soit donné pour leur diffusion.\n\nQuelles précautions sont prises pour assurer une bonne compréhension des notices?",
         "audio": "/mp3/163/35.mp3",
         "options": [
-            "Il considère que le phénomène doit être analysé.",
-            "Il conteste les méthodes de collecte des données.",
-            "Il partage la vision catastrophiste des écologistes.",
-            "Il s’oppose aux décisions du gouvernement."
+            "Des enquêtes sondent la population sur la compréhensibilité des textes.",
+            "Des juristes contrôlent la rédaction qui a été assurée par des médecins.",
+            "Des professionnels de santé et des utilisateurs vérifient les notices.",
+            "Des programmes informatiques garantissent la lisibilité des textes."
         ],
-        "answer": 1
+        "answer": 2
     },
     {
         "id": 36,
@@ -505,7 +505,7 @@
         "id": 38,
         "testId": 163,
         "text": "— Bonjour, Monsieur le Secrétaire Général. Le réseau Alliances françaises, présent dans 136 pays du monde, existe depuis plus de 130 ans. Comment expliquez-vous une telle vitalité?\n\n— Tout d'abord, cela tient à son mode de fonctionnement original. Parmi « à faire vivre » ceux qui y travaillent, elle n'a pas de but de faire de bénéfice. D'autre part, son principe n'est que pari potentieux de ses fondateurs est assez singulier. Le personnel des Alliances est principalement composé d'étrangers. Des détachés et des expatriés nous rejoignent, certes, grâce à l'appui et au soutien du ministère des Affaires étrangères. Néanmoins, il n'existe aucune alliance française strictement française. Dans chaque pays, il y a un conseil d'administration à caractère local, parfaitement responsable, en contact avec la Fondation, mais dans une grande autonomie, pour autant que les principes mêmes de l'alliance française dans le monde soient respectés.\n\nD'après la personne interrogée, sur quoi repose la longévité des alliances françaises?",
-        "audio": "/mp3/163/38.mp3",
+        "audio": ["/mp3/163/38.mp3", "/mp3/163/38v2.mp3", "/mp3/163/38v3.mp3"],
         "audioAI": "/mp3/163/ai_38.mp3",
         "options": [
             "Sur l’étroite collaboration avec les équipes locales.",

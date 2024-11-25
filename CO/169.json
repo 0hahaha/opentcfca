@@ -4,7 +4,7 @@
         "testId": 169,
         "text": "A. Donne-moi un verre de lait.\n\nB. Elle est belle, votre viande.\n\nC. Je voudrais un kilo de tomates.\n\nD. Pardon, je cherche le marché.",
         "audio": "/mp3/169/1.mp3",
-        "img": "/mp3/169/1.jpg",
+        "img": "/mp3/169/1_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -147,7 +147,7 @@
     {
         "id": 12,
         "testId": 169,
-        "text": "— Maintenant que les examens universitaires sont finis, qu'est-ce que tu vas faire ?\n\n— Je voudrais faire un stage de langue espagnole pendant un mois.\n\n— Bonne idée ! J'en ai fait un l'année dernière en Argentine. C'était super !\n\n— Je ne veux pas aller si loin. Je pense plutôt à l'Espagne.\n\n— Tu devrais aller dans le sud, à Séville. C'est une ville magnifique !\n\n— Pourquoi pas ? Mais j'ai un petit budget. Je dois voir si je peux trouver un logement pas trop cher.\n\nDe quoi parle ces deux personnes ?",
+        "text": "— Maintenant que les examens universitaires sont finis, qu'est-ce que tu vas faire ?\n\n— Je voudrais faire un stage de langue espagnole pendant un mois.\n\n— Bonne idée ! J'en ai fait un l'année dernière en Argentine. C'était super !\n\n— Je ne veux pas aller si loin. Je pense plutôt à l'Espagne.\n\n— Tu devrais aller dans le sud, à Séville. C'est une ville magnifique !\n\n— Pourquoi pas ? Mais j'ai un petit budget. Je dois voir si je peux trouver un logement pas trop cher.\n\nDe quoi parlent ces deux personnes ?",
         "audio": "/mp3/169/12.mp3",
         "options": [
             "De leur voyage en Argentine.",
@@ -160,7 +160,7 @@
     {
         "id": 13,
         "testId": 169,
-        "text": "Alors, comment s'est passée cette première journée dans la vie active ? Plutôt bien. Les collègues ont été très accueillants. Et avec ton chef ? Tu m'avais dit qu'il était un peu froid. Ben, en fait, il a été très sympa. Il m'a présenté à toute l'équipe, fait visiter les locaux et montré mon bureau, qui est très grand. Je n'en revenais pas. Bienvenue dans le monde professionnel, Alex. Tu n'es pas au bout de tes découvertes. Quel bilan Alex tire-t-il de sa première journée de travail ?",
+        "text": "— Alors, comment s'est passée cette première journée dans la vie active ?\n\n— Plutôt bien. Les collègues ont été très accueillants.\n\n— Et avec ton chef ? Tu m'avais dit qu'il était un peu froid.\n\n— Ben, en fait, il a été très sympa. Il m'a présenté à toute l'équipe, fait visiter les locaux et montré mon bureau, qui est très grand. Je n'en revenais pas.\n\n— Bienvenue dans le monde professionnel, Alex. Tu n'es pas au bout de tes découvertes.\n\nQuel bilan Alex tire-t-il de sa première journée de travail ?",
         "audio": "/mp3/169/13.mp3",
         "options": [
             "Il a été très agréablement surpris.",
@@ -459,7 +459,7 @@
     {
         "id": 36,
         "testId": 169,
-        "text": "Petit dicton au rayon du bon sens près de chez nous, quand on a un problème, et bien dormons dessus. Rien de tel qu'une bonne nuit de sommeil pour y voir clair. Et bien cette vérité, sachez-le, les chercheurs américains de l'Université de Californie l'ont démontré scientifiquement. Le sommeil permet de résoudre des problèmes sans que vous fassiez quoi que ce soit. Quand on dort, vous le savez, on alterne les périodes de sommeil profond et de sommeil paradoxal. Et bien cette phase paradoxale, riche en rêves, jouerait un rôle essentiel dans l'inventivité et dans la résolution des problèmes. Vous avez donc compris le message, il faut dormir. Qu'a-t-on découvert sur le sommeil ?",
+        "text": "Petit dicton au rayon du bon sens près de chez nous, quand on a un problème, et bien dormons dessus. Rien de tel qu'une bonne nuit de sommeil pour y voir plus clair. Et bien cette vérité, sachez-le, les chercheurs américains de l'Université de Californie l'ont démontré scientifiquement. Le sommeil permet de résoudre des problèmes sans que vous fassiez quoi que ce soit. Quand on dort, vous le savez, on alterne les périodes de sommeil profond et de sommeil paradoxal. Et bien cette phase paradoxale, riche en rêves, jouerait un rôle essentiel dans l'inventivité et dans la résolution des problèmes. Vous avez donc compris le message, il faut dormir. Qu'a-t-on découvert sur le sommeil ?",
         "audio": "/mp3/169/36.mp3",
         "options": [
             "Il conditionne l’humeur.",
