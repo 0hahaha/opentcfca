@@ -84,7 +84,7 @@
     {
         "id": 7,
         "testId": 154,
-        "text": "Je peux revenir échanger ce pull, si ça ne va pas?\n\nA. Aujourd'hui, tout est à 50%.\n\nB. Bien sûr, mais seulement avec le ticket d'achat.\n\nC. Désolée, je n'ai pas votre table.\n\nD. Regardez, le rayon or est juste en face.",
+        "text": "Je peux revenir échanger ce pull, si ça ne va pas?\n\nA. Aujourd'hui, tout est à 50%.\n\nB. Bien sûr, mais seulement avec le ticket d'achat.\n\nC. Désolée, je n'ai pas votre table.\n\nD. Regardez, le rayon homme est juste en face.",
         "audio": "/mp3/154/7.mp3",
         "options": [
             "Proposition A.",
@@ -215,11 +215,11 @@
     {
         "id": 17,
         "testId": 154,
-        "text": "Amis auditeurs, voici une idée de lecture originale. Les éditions Parigram ont publié un ouvrage intitulé « Paris et ses alentours au temps de Napoléon » histoire de nous faire découvrir les lieux qui ont compté au cours de cette période, mais aussi les principaux travaux, les constructions les plus emblématiques et les transformations les plus remarquables, voulu par Napoléon, car quand il n'est pas à la guerre, il nourrit de grands dessins pour la capitale. L'âme de Triomphe, la colonne Vendôme... Quel est le sujet du livre?",
+        "text": "Amis auditeurs, voici une idée de lecture originale. Les éditions Parigram ont publié un ouvrage intitulé « Paris et ses alentours au temps de Napoléon » histoire de nous faire découvrir les lieux qui ont compté au cours de cette période, mais aussi les principaux travaux, les constructions, les plus emblématiques et les transformations les plus remarquables, voulues par Napoléon. Car quand il n'est pas à la guerre, il nourrit de grands dessins pour la capitale. L'arc de Triomphe, la colonne Vendôme... Quel est le sujet du livre?",
         "audio": "/mp3/154/17.mp3",
         "options": [
             "La découverte des palais de l’empereur.",
-            "L’élargissement de Paris à ses environs.",
+            "L'élargissement de Paris à ses environs.",
             "Les lieux qui ont changé sous Napoléon.",
             "Les traces des batailles napoléoniennes."
         ],
@@ -358,13 +358,13 @@
     {
         "id": 28,
         "testId": 154,
-        "text": "— Mesdames, Messieurs, bienvenue sur le bateau de la Société Saphine au service de notre clientèle Oganian. Nous allons découvrir ensemble Paris au gré de la Seine.\n\n— C'est quand même mieux qu'à pied ou en autocar.\n\n— Voici votre programme. De 10h à 12h, nous allons longer les quais et passer sous de nombreux ponts. Nous nous arrêterons devant Notre-Dame de Paris, les musées du Louvre et d'Orsay. Enfin, nous arrivons au Trocadéro. Pour vous remettre de toutes ses émotions, un déjeuner est prévu ici-même à 12h30. Un bus viendra vous reprendre à 13h30 pour vous conduire à votre hôtel. Passez un très agréable moment en notre compagnie.\n\nQue propose la guide au touriste ?",
+        "text": "Mesdames, Messieurs, bienvenue sur le bateau de la Société Saphine au service de notre clientèle Oganian. Nous allons découvrir ensemble Paris au gré de la Seine. C'est quand même mieux qu'à pied ou en autocar. Voici votre programme. De 10h à 12h, nous allons longer les quais et passer sous de nombreux ponts. Nous nous arrêterons devant Notre-Dame de Paris, les musées du Louvre et d'Orsay. Enfin, nous arrivons au Trocadéro. Pour vous remettre de toutes ses émotions, un déjeuner est prévu ici-même à 12h30. Un bus viendra vous reprendre à 13h30 pour vous conduire à votre hôtel. Passez un très agréable moment en notre compagnie.\n\nQue propose la guide au touriste ?",
         "audio": "/mp3/154/28.mp3",
         "audioAI": "/mp3/154/ai_28.mp3",
         "options": [
             "Un tour de la capitale en bus découvert.",
             "Un parcours à pied le long des quais.",
-            "Une visite guidée du Musée du Louvre.",
+            "Une visite guidée du musée du Louvre.",
             "Une croisière-promenade sur la Seine."
         ],
         "answer": 3
@@ -372,7 +372,7 @@
     {
         "id": 29,
         "testId": 154,
-        "text": "Mesdames, Messieurs, suite à un incident technique, notre train arrive en gare de Valence TGV avec un retard de 45 minutes. Nous invitons tous les voyageurs qui descendent à se rapprocher du personnel de gare. Il vous remettra une enveloppe et un document à remplir et à retourner à l'adresse indiquée pour que la SNCF puisse vous virer la somme correspondant au prix de votre billet de train, à titre de dédommagement. Nous vous prions de bien vouloir vous excuser pour la gêne occasionnée. Assurez-vous de n'avoir rien oublié à vos places. Bonne fin de journée. Quelle information le chef de train donne-t-il aux voyageurs ?",
+        "text": "Mesdames, Messieurs, suite à un incident technique, notre train arrive en gare de Valence TGV avec un retard de 45 minutes. Nous invitons tous les voyageurs qui descendent à se rapprocher du personnel de gare. Il vous remettra une enveloppe et un document à remplir et à retourner à l'adresse indiquée pour que la SNCF puisse vous virer la somme correspondant au prix de votre billet de train, à titre de dédommagement. Nous vous prions de bien vouloir nous excuser pour la gêne occasionnée. Assurez-vous de n'avoir rien oublié à vos places. Bonne fin de journée. Quelle information le chef de train donne-t-il aux voyageurs ?",
         "audio": "/mp3/154/29.mp3",
         "options": [
             "Ils devront demander le remboursement de leur billet par écrit.",
@@ -508,7 +508,7 @@
     {
         "id": 39,
         "testId": 154,
-        "text": "D'après les chercheurs, plus nous manifestons d'amabilité et plus nous sécrétons de sérotonine leur manque d'humeur. De plus, l'altruisme enrête des effets positifs sur le cerveau en activant des connexions qui sont moins vivaces quand la compassion est absente. Les pensées hostiles ou agressives augmentent le rythme cardiaque et la pression artérielle, alors que la gentillesse abaisse le niveau de stress et abaisse la tension. On a vu des gens mourir de méchanceté. L'agressivité pratiquée au quotidien augmente les risques cardiaques et conduit à une solitude qui aggrave tous les problèmes. D'après les chercheurs dont parle le journaliste, qu'est-ce qui est bénéfique pour la santé?",
+        "text": "D'après les chercheurs, plus nous manifestons d'amabilité et plus nous sécrétons de sérotonine, l'hormone de la bonne humeur. De plus, l'altruisme aurait des effets positifs sur le cerveau en activant des connexions qui sont moins vivaces quand la compassion est absente. Les pensées hostiles ou agressives augmentent le rythme cardiaque et la pression artérielle, alors que la gentillesse abaisse le niveau de stress et apaise la tension. On a vu des gens mourir de méchanceté. L'agressivité pratiquée au quotidien augmente les risques cardiaques et conduit à une solitude qui aggrave tous les problèmes. D'après les chercheurs dont parle le journaliste, Qu'est-ce qui est bénéfique pour la santé?",
         "audio": "/mp3/154/39.mp3",
         "options": [
             "Pratiquer des exercices mentaux.",

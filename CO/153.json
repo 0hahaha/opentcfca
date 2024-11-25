@@ -241,7 +241,7 @@
     {
         "id": 19,
         "testId": 153,
-        "text": "— La rencontre avec les représentants du personnel est bien prévue aujourd'hui?\n\n— Oui, monsieur. À 15h dans la salle du rez-de-chaussée.\n\n— Et il faut les prévenir que je ne serai pas à l'heure. J'attends un appel très important d'un de nos importateurs.\n\n— D'accord mais je croyais que vous lui aviez parlé hier.\n\n— Non, il n'a pas pu téléphoner.\n\nQue demande le collecteur?",
+        "text": "— La rencontre avec les représentants du personnel est bien prévue aujourd'hui?\n\n— Oui, monsieur. À 15h dans la salle du rez-de-chaussée.\n\n— Et il faut les prévenir que je ne serai pas à l'heure. J'attends un appel très important d'un de nos importateurs.\n\n— D'accord, mais je croyais que vous lui aviez parlé hier.\n\n— Non, il n'a pas pu me téléphoner.\n\nQue demande le directeur?",
         "audio": "/mp3/153/19.mp3",
         "options": [
             "D’annuler une réunion.",
