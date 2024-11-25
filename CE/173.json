@@ -1,0 +1,509 @@
+[
+    {
+        "id": 1,
+        "testId": 173,
+        "text": "Marion,\n\nTu veux passer à la maison ce soir pour boire un verre?\n\nOn peut aussi dîner ensemble et regarder un film.\n\nBisous, Stéphane",
+        "query": "Où Marion est-elle invitée ?",
+        "options": [
+            "AU cinéma.",
+            "Au restaurant.",
+            "Chez son ami.",
+            "Dans un bar."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 2,
+        "testId": 173,
+        "text": "**De**: standard@entreprise.fr\n\n**À**: duvaljulie@entreprise.fr\n\n**Objet**: message urgent\n\n## <p style=\"text-align: center; padding: 20px; border: 2px solid black;\">Rappelez monsieur Durand au 01 47 38 91 88</p>",
+        "query": "Que doit faire la destinataire de ce message?",
+        "options": [
+            "Téléphoner au numéro donné.",
+            "Écrire un courriel de réponse.",
+            "Écouter le répondeur.",
+            "Contacter le standard."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 3,
+        "testId": 173,
+        "text": "<p style=\"text-align: center; padding: 20px; border: 2px solid black; font-size: large; margin: 0 170px;\">Cours de cuisine au <br/> restaurant Chez nous! <br/> Ouverts aux petits et <br/> grands. Pour réserver, <br/> appelez le 04 25 69 35 <br/> 14. Rendez-vous tous <br/> les mercredis de 16h30 <br/> à 18h, au 25 rue de la <br/> Grange, Bagneux.</p>",
+        "query": "Comment est-ce qu'on peut s'inscrire à cette activité?",
+        "options": [
+            "Par courrier.",
+            "Par téléphone.",
+            "Sur Internet.",
+            "Sur place."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 4,
+        "testId": 173,
+        "text": "Des élèves français ont envoyé un message sur internet afin de recevoir des cartes postales du monde entier. Ils ont reçu 8000 réponses. L'instituteur explique : « En classe, Les élèves cherchent d'où viennent les cartes et ils découvrent des capitales et des pays. »",
+        "query": "Qu'est-ce que ces élèves font avec les cartes postales?",
+        "options": [
+            "Ils apprennent la géographie.",
+            "Ils invitent des amis à l’école.",
+            "Ils pratiquent des langues étrangères.",
+            "Ils préparent un voyage de classe."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 5,
+        "testId": 173,
+        "text": "## <p style=\"text-align: center;\">VISITE DU CHÂTEAU</p>\n\n*<p style=\"text-align: center;\">Gratuit pour les moins de 12 ans</p>*",
+        "query": "Quelle est l'information affichée sur ce panneau ?",
+        "options": [
+            "Une adresse.",
+            "Une date.",
+            "Un horaire.",
+            "Un tarif."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 6,
+        "testId": 173,
+        "text": "Le 21 mars prochain, l'événement Goût de France sera organisé dans des restaurants du monde entier. 2000 chefs préparent un dîner avec les meilleures spécialités de la cuisine française.\n\n**Choisissez vite votre table sur:**\n\n**http://france.fr/fr/gout-france-good-france**",
+        "query": "Qu'est-ce qui est proposé aux lecteurs de cette annonce?",
+        "options": [
+            "De cuisiner avec des professionnels.",
+            "De faire une réservation par Internet.",
+            "De gagner un repas gratuit pour deux.",
+            "De recevoir des recettes typiques."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 7,
+        "testId": 173,
+        "text": "Je propose un 3 pièces en colocation à partir du ler septembre. Proche de la gare Montparnasse, chauffage au gaz, un salon et 2 chambres. Je recherche une personne sérieuse, de préférence en école de commerce pour préparer les examens ensemble. **Si vous êtes intéressé(e), appelez Rémi au 01.56.84.92.37.**",
+        "query": "À qui s'adresse cette annonce ?",
+        "options": [
+            "À un commerçant.",
+            "À un étudiant.",
+            "À un professeur.",
+            "À un propriétaire."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 8,
+        "testId": 173,
+        "text": "Chers étudiants,\n\n<br/>Nous avons le plaisir de vous informer que notre centre vous offre moins 10% sur le prix de ses cours de français.\n\nVous pouvez bénéficier de cette offre spéciale pour un stage d'une ou plusieurs semaines de juin à septembre.\n\n<br/>Vous trouverez le calendrier et le programme des formations sur notre site : www.coursdefrançais.org\n\n<br/>Cordialement,\n\n<br/>La responsable des cours",
+        "query": "Dans ce message, que propose-t-on aux étudiants ?",
+        "options": [
+            "Une formation adaptée pendant les vacances.",
+            "Une grande variété de cours intensifs.",
+            "Une promotion spéciale pour un voyage.",
+            "Une réduction sur des stages pendant l'été."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 9,
+        "testId": 173,
+        "text": "# <p style=\"text-align: center;\">Studio Céline</p>\n\n<p style=\"text-align: center;\">L'école de danse « Studio Céline » ouvre ses <br/> portes au public le 16 septembre.</p>\n\n<br/><p style=\"text-align: center;\"><b>C'EST GRATUIT</b> : venez essayer nos cours toute la journée. <br/> Au programme : salsa, tango, danse <br/> moderne et un goûter (boissons et gâteaux) !</p>",
+        "query": "Qu'est-ce que cette école de danse propose ?",
+        "options": [
+            "De participer à un concours.",
+            "De s'inscrire à un stage.",
+            "De tester des activités.",
+            "De voir un spectacle."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 10,
+        "testId": 173,
+        "text": "L'Union européenne va offrir une « Carte Jeunes » aux étudiants du continent qui ont vingt ans cette année. Pendant un mois maximum, les jeunes pourront prendre le train gratuitement pour visiter plus de quinze pays.",
+        "query": "Qu'est-ce qui est proposé aux jeunes Européens ?",
+        "options": [
+            "Des visites de musées.",
+            "Des voyages en Europe.",
+            "Un mois de vacances.",
+            "Un semestre d’études."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 11,
+        "testId": 173,
+        "text": "Vous souhaitez vivre une expérience qui sort de l'ordinaire ? Réservez une nuit dans l'une de nos maisons dans les arbres ! Intérieur confortable, sensation d'aventure, réveil aux bruits de la nature, tout est prévu pour un séjour inoubliable !",
+        "query": "Qu'est-ce que cette annonce propose ?",
+        "options": [
+            "De dormir au milieu de la nature.",
+            "De faire un parcours dans les arbres.",
+            "De participer à une aventure sportive.",
+            "De passer une nuit sous la tente."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 12,
+        "testId": 173,
+        "text": "Selon les résultats d'un sondage, 7 Français sur 10 déclarent acheter régulièrement des produits bio. Avec, par ordre de préférence, les fruits et légumes, le lait et les produits laitiers, les œufs, l'épicerie puis la viande. Pour les deux tiers des personnes interrogées, la santé est l'argument prioritaire, devant les considérations écologiques.\n\nCe bond de la vente des produits bio doit beaucoup à l'intérêt des grandes surfaces pour ce marché qui rapporte, mais aussi au développement des enseignes spécialisées.\n\nCet appétit des Français a de quoi rassurer tous ceux qui pouvaient s'inquiéter des débouchés de la filière bio, suite aux nombreuses reconversions agricoles.",
+        "query": "D'après ce texte, pourquoi les Français consomment-ils des produits bio ?",
+        "options": [
+            "Pour éviter de tomber malades.",
+            "Pour profiter de tarifs avantageux.",
+            "Pour protéger l’environnement.",
+            "Pour soutenir les paysans locaux."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 13,
+        "testId": 173,
+        "text": "Vous travaillez à la mairie de Rouen, vous êtes musicien et vous jouez d'un instrument depuis plusieurs années ? Rejoignez l'orchestre des agents de la ville de Rouen !\n\nLes répétitions reprennent en septembre (à la fin des congés d'été) et ont lieu les jeudis entre 12 h et 13 h 30 au conservatoire de la ville.",
+        "query": "Qu'est-ce qui est proposé aux agents de la mairie ?",
+        "options": [
+            "D'assister à un concert à Rouen.",
+            "De devenir membre de l'orchestre municipal.",
+            "De suivre des cours de musique à la rentrée.",
+            "De visiter le conservatoire."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 14,
+        "testId": 173,
+        "text": "# Scène+\n\nLa nouvelle carte Scène+\n\nAprès les cartes de cinéma illimitées, la carte Scène+ ! Paris est la première ville à tester cette formule : des places à tarifs réduits à utiliser quand on veut, dans quarante théâtres environ, pour aller voir plus de 150 pièces. On achète la carte, valable un mois ou un semestre et on peut aller dans les petites scènes de théâtre parisiennes qui accueillent surtout des comédies populaires plutôt que des pièces classiques.\n\n<br/><p style=\"text-align: right;\">D'après <i>Télérama</i></p>",
+        "query": "Que peut-on faire avec la carte Scène+ ?",
+        "options": [
+            "Assister à des spectacles.",
+            "Obtenir de meilleures places.",
+            "Rencontrer des comédiens.",
+            "Suivre des visites guidées."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 15,
+        "testId": 173,
+        "text": "**Vous voulez aller à la montagne en hiver mais vous n'aimez pas skier?** Ce n'est pas un problème: il y a d'autres possibilités ! Venez chez nous à Seillac: paysages magnifiques, marches dans la neige, piscine et installations sportives disponibles.",
+        "query": "Qu'est-ce que cette publicité propose?",
+        "options": [
+            "Des activités de loisir.",
+            "Des vacances à la campagne.",
+            "Un cours de natation.",
+            "Une promenade avec un guide."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 16,
+        "testId": 173,
+        "text": "Amélie,\n\n<br/>Pour le concert ce soir, on se retrouve à 19h30 devant le bar rue Daunou. Il y a un grand restaurant à côté, tout près du théâtre de l'Odéon. Le concert commence à 20 h 30.\n\n<br/>Sarah",
+        "query": "Que vont faire les deux femmes ce soir ?",
+        "options": [
+            "Aller dans un bar.",
+            "Assister à un spectacle.",
+            "Dîner au restaurant.",
+            "Voir une pièce de théâtre."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 17,
+        "testId": 173,
+        "text": "En hiver et à l'extérieur, pour piloter n'importe quel appareil à écran tactile, il faut enlever ses gants, au risque d'attraper des engelures par les temps de grand froid. Plus de risque de se geler les mains désormais avec ce modèle de gants en chevreau doublé de soie. Les perforations au niveau de l'index permettent un meilleur contact avec l'écran tactile. On pourra être à la pointe de la technologie et de la mode. Mais être à la page a un prix, la paire de gants est plus chère que l'appareil à écran tactile : 370 euros.\n\n<br/>D'après <i>Le Monde 2</i>",
+        "query": "Quelle est la particularité de ces gants ?",
+        "options": [
+            "Ils évitent de rayer les appareils à écran tactile.",
+            "Ils permettent un contact direct avec un écran tactile.",
+            "Ils sont équipés de capteurs reliés à un écran tactile.",
+            "Ils sont offerts lors de l’achat d’un écran tactile."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 18,
+        "testId": 173,
+        "text": "La question de l'orientation est fondamentale et se pose inévitablement au moment de commencer des études universitaires. Comment faire le bon choix ? Sur quelles bases ? Quel parcours sera le mieux adapté à la personnalité scolaire et psychologique, aux capacités de l'étudiant ? Un livre, édité par le magazine *L'Étudiant*, propose une démarche progressive qui aide à définir un projet en fonction des goûts et d'un objectif professionnel.",
+        "query": "Que peut-on trouver dans ce livre ?",
+        "options": [
+            "Des idées de stages en entreprise.",
+            "Un guide des démarches d'inscription.",
+            "Une méthode pour choisir une formation.",
+            "Une sélection des meilleures universités."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 19,
+        "testId": 173,
+        "text": "Des études de marché récentes montrent que les frites signent leur grand retour. Leur cote de popularité ne se dément pas mais elles doivent être préparées dans les règles de l'art : pour des frites dorées, moelleuses dedans, croquantes dehors, il faut les cuire, puis les frire en deux temps.\n\nSi la Belgique et la France s'en disputent la paternité, on n'en a toujours pas trouvé l'origine. Avec le bond spectaculaire du burger dont elles sont l'accompagnement idéal, les frites sont fortement consommées au restaurant.",
+        "query": "Que révèle cet article sur les frites ?",
+        "options": [
+            "L'origine historique de la recette.",
+            "Le secret d'une bonne préparation.",
+            "Les adresses où les consommer.",
+            "Les raisons de leur popularité."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 20,
+        "testId": 173,
+        "text": "Les jours rallongent, la température monte, les arbres sont en fleurs, bref... l'été approche, et les grandes vacances aussi. Mais savez-vous déjà comment vos enfants vont passer ces deux mois ? Ils ont un besoin vital de se détendre et ils sont curieux de tout. De votre côté, vous cherchez des solutions pratiques et des vacances intelligentes et sûres. Nous vous proposons des ateliers scientifiques passionnants dans des centres de vacances rigoureusement sélectionnés. Alors, appelez-nous vite !",
+        "query": "Qu'offrent ces centres de vacances ?",
+        "options": [
+            "Des cours de rattrapage scolaires en sciences.",
+            "Des activités de découverte de la nature.",
+            "Des stages de travail en laboratoire.",
+            "Des séjours alliant détente et découvertes."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 21,
+        "testId": 173,
+        "text": "Les bons vieux bancs verts sur les trottoirs parisiens ont de la concurrence. Depuis le mois de décembre, sur certains boulevards, un nouveau mobilier urbain a fait son apparition, avec 12 modèles de banquettes, chaises et tabourets. Pour la première fois, la Ville de Paris recueille l'avis des usagers et des riverains.\n\nLe traditionnel banc en fonte et bois a-t-il encore de l'avenir au milieu de ce mobilier futuriste ?",
+        "query": "Quelle est l'originalité de ce projet ?",
+        "options": [
+            "La priorité donnée à l'aspect écologique.",
+            "La prise en compte de l'opinion publique.",
+            "Le caractère provisoire de l'installation.",
+            "Le choix des matériaux de fabrication."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 22,
+        "testId": 173,
+        "text": "Pendant un an, la journaliste allemande Greta Taubert a décidé de quitter la société de consommation sans quitter son appartement berlinois. Pendant cette expérience, elle a bu, mangé, s'est habillée sans payer : elle a échangé jupes et pantalons avec ses voisines, planté des légumes dans un jardin collectif. Pour ses vacances, elle est allée chez des amis en faisant de l'auto-stop. « Aujourd'hui, je suis contente de ne plus vivre aussi radicalement, c'était difficile mais je cherche à intégrer dans mon quotidien ce que j'ai appris », explique-t-elle.\n\n<br/><p style=\"text-align: right;\">D'après <i>linternaute.com</i></p>",
+        "query": "Quel est le constat de Greta Taubert après cette expérience ?",
+        "options": [
+            "C'est possible à la campagne.",
+            "C'est possible avec du temps.",
+            "C'est possible mais pénible.",
+            "C'est possible pour tous."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 23,
+        "testId": 173,
+        "text": "Un salarié qui avale un sandwich devant l'écran en guise de pause déjeuner offre à son employeur 128 heures de travail non rémunéré, soit seize jours pleins, ont calculé des chercheurs britanniques.\n\nInterrogés sur leurs motivations, ces salariés expliquent se sentir trop coupables de s'arrêter de travailler. En ces temps de compétition exacerbée entre les salariés, ce serait interprété comme un manque d'efficacité. Un médecin rappelle pourtant que « faire des pauses régulières, se lever et marcher aide à s'aérer l'esprit » pendant sa journée de travail. « Prendre une pause déjeuner préparé à une après-midi productive », poursuit-il.\n\n<br/><p style=\"text-align: right;\">D'après <i>lexpress.fr</i></p>",
+        "query": "D'après cet article, pourquoi certains salariés travaillent-ils pendant la pause déjeuner?",
+        "options": [
+            "Pour améliorer leur situation financière.",
+            "Pour donner une bonne image d'eux.",
+            "Pour exécuter les ordres de la direction.",
+            "Pour quitter leur entreprise plus tôt."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 24,
+        "testId": 173,
+        "text": "## <p style=\"text-align: center;\">Journée « Portes Ouvertes » à Polytech'Tours.</p>\n\n<p style=\"text-align: center;\">Venez rencontre les étudiants, enseignants et associations de Polytech'Tours</p>\n\n## <p style=\"text-align: center;\">Le samedi 12 février, de 9h à 16h</p>\n\n<p style=\"text-align: center;\">sans interruption.</p>\n\n- Espaces d'**information** présents sur les trois sites de l'école.\n- **Présentation** des études et des métiers d'ingénieur par les responsables des spécialités sur chaque site.\n- Visites **guidées** des salles de travaux pratiques, des centres de documentation, des **laboratoires** de recherche et de langues.\n- **Démonstrations** de projets réalisés dans nos cursus.\n- Présentation des **associations** étudiantes.",
+        "query": "Quel est l'objectif de cette journée ?",
+        "options": [
+            "Découvrir le travail de recherche en laboratoire.",
+            "Faire découvrir les formations pour devenir ingénieur.",
+            "Inaugurer l'ouverture d'un campus universitaire.",
+            "Obtenir des conseils afin de créer une association."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 25,
+        "testId": 173,
+        "text": "Le syndrome d'épuisement professionnel est-il uniquement lié au monde du travail ? Si l'on considère la sphère privée, certains médecins préfèrent utiliser le terme de surcharge mentale. Pour le docteur Marie-Pierre Guilho-Bailly, médecin-psychiatre spécialisée en pathologie professionnelle, il est indispensable de ne pas étendre le concept de ce syndrome à toutes les situations d'épuisement engendrées par la vie personnelle, familiale ou sociale. À son sens, le seul syndrome d'épuisement professionnel qui puisse être retenu concernant le milieu familial renvoie au travail des aidants familiaux. Toutefois, des études tendent à montrer que les symptômes peuvent survenir également dans la vie personnelle, notamment chez certains parents particulièrement épuisés.",
+        "query": "Qu'apprend-on à propos du syndrome d'épuisement professionnel?",
+        "options": [
+            "Il demande une prise charge médicale.",
+            "Il peut s'étendre au domaine personnel.",
+            "Il suscite un consensus parmi les spécialistes.",
+            "Il touche surtout les aides-soignants."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 26,
+        "testId": 173,
+        "text": "## FILM DOCUMENTAIRE\n\n« TISSEUSES DE RÊVES »\n\nMères, filles, grand-mères, une poignée de femmes berbères travaillent dur aux tâches domestiques comme à la fabrication de tapis traditionnels. Dans une économie autarcique, elles restent sans autonomie financière, ni reconnaissance de leur talent. Elles veulent farouchement s'arracher à leur condition et offrir études et avenir à leurs enfants. D'Essaouira, sur la côte atlantique, leur parviennent les nouvelles de femmes, semblables à celles, qui ont créé des coopératives de production d'huile d'Argan et changé leurs vies. Taaborth et Erkia partent en exploratrices et éblouies, rapportent à leurs sœurs les images de ce premier voyage hors de leurs montagnes et un espoir.\n\n<br/><p style=\"text-align: right;\">D'après <i>amc2-production</i></p>",
+        "query": "De quoi traite le documentaire sur les femmes berbères ?",
+        "options": [
+            "De l'éducation des plus jeunes.",
+            "De la transmission d'un savoir-faire.",
+            "De la volonté d'émancipation.",
+            "Du rapport entre les générations."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 27,
+        "testId": 173,
+        "text": "Quand on choisit une voiture, on compare les prix et les performances avant de faire son choix. Mais quand il s'agit d'une prothèse de hanche ou de sein, on prend ce que le spécialiste impose. On ne se sent souvent ni le droit, ni le courage, ni la capacité de vérifier si le matériel proposé est le plus adapté ou si le médecin est sous influence des fabricants. Ce qui explique cette confiance totale accordée au médecin. Cet abandon du patient à son médecin ou à l'hôpital exigent donc en retour une éthique et un professionnalisme sans faille de l'univers médical qui doit notamment se protéger du marketing très agressif des fabricants du matériel.\n\n<br/><p style=\"text-align: right;\">D'après <i>Le Soir</i></p>",
+        "query": "Que souligne l'article au sujet des prothèses?",
+        "options": [
+            "Le coût des dispositifs pose un problème d'éthique.",
+            "Le respect de la déontologie médicale est primordial.",
+            "Les fabricants d'implants doivent signer une charte.",
+            "Les patients ont le devoir de s'informer davantage."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 28,
+        "testId": 173,
+        "text": "Est-on plus heureux?\n\nquand on est riche?\n\nquand on croit en Dieu?\n\nquand on vit en couple?\n\nDepuis quelques décennies, de nombreuses recherches concernant le bien-être sont menées sur les facteurs sociaux et psychologiques qui favorisent ou non le bonheur. On pourrait penser que le bien-être est un phénomène subjectif, inaccessible donc à l'investigation scientifique et à la mesure. Or, grâce à des instruments divers mis en place depuis plus de trente ans pour mesurer le niveau de satisfaction de vie des individus et des populations, des méthodologies diverses ont été mises au point pour permettre de mesurer la qualité de vie telle qu'elle est perçue.",
+        "query": "Qu'apprend-on sur le bien-être dans cet article?",
+        "options": [
+            "C’est un état difficile à évaluer chez une personne.",
+            "Des outils ont été élaborés pour en estimer l'intensité.",
+            "Les enquêtes dont c’est le sujet sont innombrables.",
+            "Malgré des études sérieuses, l'analyse est impossible."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 29,
+        "testId": 173,
+        "text": "Parcourir les routes d'Europe l'été, beaucoup de touristes le font sans forcément connaître les règles en vigueur dans chacun des pays. Ce qu'il faut savoir, c'est qu'il existe des différences qui peuvent être notables selon les législations. Alors que la vitesse maximale sur autoroute est de 130 km/h en France, elle n'est que de 120 km/h en Belgique, en Espagne ou au Portugal. Quant au taux d'alcoolémie toléré, il varie de 0,8 g/l en Irlande à zéro en République tchèque.",
+        "query": "Que fait l'auteur de cet article ?",
+        "options": [
+            "Il commente une loi.",
+            "Il donne un conseil.",
+            "Il formule une plainte.",
+            "Il raconte une anecdote."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 30,
+        "testId": 173,
+        "text": "### <p style=\"text-align: center;\">Quelques astuces pour optimiser les révisions.</p>\n\nLors des révisions pour un examen, l'acquisition des connaissances s'opère plus facilement en jonglant avec la mémoire visuelle et la mémoire auditive. Comme la part des deux peut varier d'une personne à l'autre, c'est à chacun de mesurer la méthode qui lui paraît la plus efficace. Il est inutile d'intégrer des notions par cœur: mieux vaut se détacher des termes employés, pour s'approprier les connaissances et les exprimer différemment. Enfin, une bonne hygiène de vie et des activités variées constituent un gage de réussite et permettent de limiter le stress : il est indispensable de s'aérer l'esprit et de faire des pauses.",
+        "query": "D'après cette personne, que faut-il éviter de faire lorsque l'on révise ?",
+        "options": [
+            "Mémoriser des concepts sans les comprendre.",
+            "Multiplier les méthodes d'apprentissage.",
+            "S'autoriser des pauses fréquemment.",
+            "Se disperser dans de nombreuses activités."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 31,
+        "testId": 173,
+        "text": "Là où leurs prédécesseurs rêvaient d'un contrat à durée indéterminée, les Millennials (génération née entre 1980 et 2000) sont en quête d'expériences diversifiées. Beaucoup ont déjà connu le chômage et ont conscience de l'obsolescence de leurs compétences et de leur diplôme, d'où leur sentiment de n'avoir rien à perdre.\n\nL'heure n'est plus à la relation de subordination, mais à la coopération. Au quotidien, il y a de quoi déconcerter les managers. Un Millennial accepte qu'on lui explique le sens du travail mais pas la manière de le faire. Face à ces collaborateurs qui font rimer le bien-être professionnel avec connexion, confiance, autonomie et flexibilité, il faut en finir avec le syndrome de la hiérarchie pyramidale.\n\n<br/><p style=\"text-align: right;\">D'après <i>lesechos.fr</i></p>",
+        "query": "Qu'apprend-on sur les Milléniaux dans le monde du travail ?",
+        "options": [
+            "Ils bouleversent les rapports d'autorité.",
+            "Ils évitent les postes à responsabilité.",
+            "Ils sont moins motivés que leurs aînés.",
+            "Ils tiennent à la stabilité de l'emploi."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 32,
+        "testId": 173,
+        "text": "Le numérique bouleverse profondément l'enseignement mais, d'après le philosophe Marcel Gauchet, on aura plus que jamais besoin de professeurs et d'écoles. Excellent moyen de stimuler la curiosité, le numérique pousse à chercher, à creuser encore. Surtout, il enseigne une chose essentielle : personne ne sait et, nulle part, il n'existe de détenteur ultime du savoir. Ainsi, les élèves sont de plus en plus en contact avec des sources hétéroclites et cela constitue un changement majeur en termes pédagogiques. L'enseignant est alors celui qui va expliquer qu'il existe plusieurs versions d'une même chose et que savoir, c'est se confronter à l'incertitude et non réciter bêtement des connaissances.",
+        "query": "Selon Marcel Gauchet, quel va être le rôle de l'enseignant auprès des élèves ?",
+        "options": [
+            "Développer leur esprit critique.",
+            "Encourager les débats entre eux.",
+            "Enrichir leur capacité mémorielle.",
+            "Évaluer régulièrement leurs acquis."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 33,
+        "testId": 173,
+        "text": "Certains économistes spécialisés dans la politique en matière de mobilité estiment que la gratuité des transports en commun n'est pas souhaitable. Pour eux, la question de savoir qui va les financer est un peu simpliste :\n\n« La gratuité existe déjà dans notre pays. Il y a une quinzaine de réseaux en dehors de l'Île-de-France qui le font déjà totalement. Le problème actuel est celui des ressources. En effet, les réseaux des grandes métropoles ne sont pas formatés pour pouvoir absorber ce supplément de fréquentation. Et donc de ce point de vue, il n'est pas possible de se poser la question de la gratuité, avant de savoir quelle offre sera proposée aux usagers qui voyagent sur le réseau. »",
+        "query": "D'après ces spécialistes, quel est le fond du problème de la gratuité des transports ?",
+        "options": [
+            "L'absence de modèle comparatif de mobilité.",
+            "La déresponsabilisation des usagers.",
+            "Le déficit provoqué par son financement.",
+            "Le risque de saturation des réseaux."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 34,
+        "testId": 173,
+        "text": "## SUR LE CHEMIN DE LA BIO-CONSTRUCTION\n\nDepuis quelque temps, la conscience écologique s'est considérablement aiguisée. Les particuliers ont même une idée précise de ce qu'ils veulent comme habitat.\n\nEn conséquence, les projets de logement 100% écologiques deviennent l'obsession de tous les cabinets d'architectes : construction basse consommation, rénovation énergétique, maison passive... Il s'agit maintenant d'adapter l'offre du marché et d'élargir les domaines de compétences des professionnels, notamment au sein des entreprises de construction. D'autant plus que, selon un grand nombre de spécialistes, la construction bio - quand elle est mise en œuvre - représente un gain pour tout le monde, pour le promoteur comme pour l'acheteur.",
+        "query": "Selon l'auteur, quel est le défi de la bio-construction ?",
+        "options": [
+            "Convaincre la clientèle ciblée.",
+            "Former les spécialistes du secteur.",
+            "Rentabiliser les projets à venir.",
+            "Restaurer d'anciens bâtiments."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 35,
+        "testId": 173,
+        "text": "L'homme est de noir vêtu. Son crône, nu, joue avec la lumière. Tout est dit, tout est là, dans ce jeu d'ombre et de clarté qui fait d'un bâtisseur un poète. Jean Nouvel façonne le mystère pour insuffler du vivant aux édifices au cœur de pierre et bâtit sans dénaturer. Cet architecte éclairé n'érige rien, il convie cette émotion, suscite une apparition. Pour sa dernière création, l'œil découvre une ville-musée aux formes douces, un dôme qui semble né des mains d'une dentellière. Le dôme repose sur quatre piliers pour gagner en légèreté et s'allier au paysage, trait d'union avec les nuages.",
+        "query": "Quelle particularité de Jean Nouvel est louée dans cet article ?",
+        "options": [
+            "Sa technique puise dans divers mouvements artistiques.",
+            "Ses œuvres se fondent dans leur environnement.",
+            "Son inspiration provient de ses nombreuses lectures.",
+            "Son savoir-faire met en valeur des procédés connus."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 36,
+        "testId": 173,
+        "text": "Imaginez un instant que nos espaces de travail soient inadaptés à la moitié des salariés : vous trouveriez cela pour le moins troublant, voire inacceptable. C'est pourtant le cas pour les personnes introverties qui, selon des recherches, représentent entre un tiers et la moitié de la population mondiale. Travail de groupe, réseaux sociaux, « open space » : l'économie moderne exige d'interagir, faisant de l'aisance en public un avantage non négligeable dans le milieu professionnel. Les cultures d'entreprises qui mettent constamment en avant les échanges avec autrui finissent par dévaloriser l'identité des introvertis dont les capacités ne sont pas suffisamment sollicitées.\n\n<br/><p style=\"text-align: right;\">D'après <i>actualites-du-jour.eu</i></p>",
+        "query": "Que dénonce l'auteur de cet article ?",
+        "options": [
+            "La primauté de l'apparence sur les compétences.",
+            "Le corporatisme poussé de certaines sociétés.",
+            "Le manque de formation aux nouvelles technologies.",
+            "Les principes actuels d'organisation du travail."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 37,
+        "testId": 173,
+        "text": "Les champs de mise en œuvre des robots sont légion : production, services, gestion des données, vie urbaine, sécurité, loisirs, domotique... Leur arrivée donne lieu à des transformations inédites et à des problématiques nouvelles, souvent mythifiées. Un univers professionnel où tout serait régi par des robots? Voilà qui est encore loin de la réalité. Si l'automatisation a fait disparaître des emplois, elle en a aussi créé d'autres. Surtout, elle a bouleversé le fonctionnement de l'entreprise, faisant peser une forte pression sur les salariés, tenus de maintenir la continuité de la production dans des processus toujours plus complexes.",
+        "query": "Quelle est la conséquence de la robotisation dans le monde professionnel ?",
+        "options": [
+            "Elle a accru la compétitivité industrielle.",
+            "Elle a amélioré les conditions de travail.",
+            "Elle a enrayé la hausse du chômage.",
+            "Elle a modifié l'organisation du travail."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 38,
+        "testId": 173,
+        "text": "### Utiliser la comédie, le mime ou la danse pour sensibiliser les riverains, les responsables des établissements, les usagers de la nuit aux nuisances sonores?\n\nTelle est la mission novatrice des Pierrots de la nuit, ces nouvelles « brigades d'intervention artistiques nocturnes » qui sensibilisent le public de nuit. L'originalité de la méthode interpelle, les noctambules s'interrogent : qui sont les Pierrots de la nuit ? Que font-ils et pourquoi ? L'art de rue n'est pas ressenti comme une agression, en revanche il force l'écoute et le respect. Le silence n'est pas une répression mais une forme de partage.",
+        "query": "Quel est l'objectif poursuivi par les Pierrots de la nuit ?",
+        "options": [
+            "Améliorer la cohabitation entre les habitants et les noctambules.",
+            "Attirer les spectateurs parisiens vers les spectacles de rue.",
+            "Développer un nouveau concept de lieux silencieux.",
+            "Relancer la fréquentation nocturne des quartiers réservés."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 39,
+        "testId": 173,
+        "text": "Le nombre de travailleurs indépendants progresse : il devient simple d'être à son compte, avec pour unique outil un ordinateur. Mais le risque est de se retrouver coupé des autres. Or, notre créativité et notre productivité sont dépendantes des rencontres que nous faisons. Conserver un lien social est indispensable à notre bien-être, donc à notre travail. L'espace partagé de travail se présente comme une solution : il favorise les moments de détente et les contacts professionnels. D'ailleurs, les travailleurs utilisant ces espaces s'associent souvent temporairement pour répondre à une mission. Ces aménagements pourraient donc devenir essentiels à de nombreux jeunes diplômés.",
+        "query": "Sur quoi cet article insiste-t-il?",
+        "options": [
+            "L'importance de la gestion des ressources humaines.",
+            "L'intérêt d'éviter les inconvénients liés à l'isolement.",
+            "La facilité de réaliser des projets communs à distance.",
+            "La nécessité de souder les équipes dans une entreprise."
+        ],
+        "answer": 1
+    }
+]

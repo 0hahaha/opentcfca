@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "testId": 35,
+        "testId": 187,
         "text": "Sophie,\n\nTu es jolie, intelligente, merveilleuse. Je t'aime ! Marions-nous !\n\nRobert",
         "query": "Pourquoi Robert écrit à Sophie ?",
         "options": [
@@ -14,7 +14,7 @@
     },
     {
         "id": 2,
-        "testId": 35,
+        "testId": 187,
         "text": "Salut tout le monde,\n\nCamilo est né. Le bébé et la maman vont bien. Ils vous attendent dans la chambre 335 au 3e étage.\n\nGabin",
         "query": "Où est Camilo ?",
         "options": [
@@ -27,7 +27,7 @@
     },
     {
         "id": 3,
-        "testId": 35,
+        "testId": 187,
         "text": "<p style=\"font-size: x-large; text-align: center; line-height: 150%;\">Ne jetez pas vos vieux jouets, livres, ou vêtements <br/> d'enfants! <br/><br/> L'association « Un Noël pour tous » les offre en <br/> cadeau à des enfants pour les fêtes de fin d'année. <br/> Vous pouvez les apporter tous les mercredis matin <br/> à la mairie.</p>",
         "query": "Qu'est-ce que cette association propose ?",
         "options": [
@@ -40,7 +40,7 @@
     },
     {
         "id": 4,
-        "testId": 35,
+        "testId": 187,
         "text": "Vous n'avez pas pu voyager pendant la grève ? Vous pouvez demander le remboursement de votre billet de train sur notre site Internet à l'adresse : «www.montrain.fr». Vous recevrez un virement sur votre compte en banque. Pour un remboursement en espèces, allez à un guichet dans une gare. Il n'y aura pas de remboursement par chèques ou par carte bancaire.",
         "query": "Qu'est-ce que cette annonce explique ?",
         "options": [
@@ -53,7 +53,7 @@
     },
     {
         "id": 5,
-        "testId": 35,
+        "testId": 187,
         "text": "## Les silences du Général\n\nDécouvrez les secrets de la vie du général de Gaulle sur Politike, la chaîne de la vie politique française, vendredi à 20 h. Un documentaire étonnant, suivi de la diffusion du film *L'Armée des ombres* réalisé par Jean-Pierre Melville.",
         "query": "Quel média va donner des informations sur le général de Gaulle ?",
         "options": [
@@ -66,7 +66,7 @@
     },
     {
         "id": 6,
-        "testId": 35,
+        "testId": 187,
         "text": "Salut Samira,\n\nLa fête du cinéma commence samedi prochain, ça t'intéresse ? Viens chez moi après le travail vendredi, on choisira ce qu'on ira voir samedi ou dimanche. Réponds-moi vite!\n\nLali",
         "query": "Que veut faire Lali ?",
         "options": [
@@ -79,7 +79,7 @@
     },
     {
         "id": 7,
-        "testId": 35,
+        "testId": 187,
         "text": "## <p style=\"text-align: center; line-height: 150%;\">Dimanche 21 mai, <br/> venez faire connaissance <br/> avec Les HABITANTS DU QUARTIER !!</p>\n\n<p style=\"text-align: center;\">L'association « Immeubles en fête » vous donne <br/> rendez-vous vers midi. Apportez un plat et une <br/> boisson et partageons-les ensemble !<br/>\n\n<br/>**<p style=\"text-align: center;\">Animation: <br/> Tennis De TABLE à <br/> 15 H, Place De La <br/> VICTOIRE.</p>**",
         "query": "Qu'est-ce que l'association « Immeubles en fête » propose ?",
         "options": [
@@ -92,7 +92,7 @@
     },
     {
         "id": 8,
-        "testId": 35,
+        "testId": 187,
         "text": "### PREMIER FESTIVAL « TOUT EN MUSIQUE » DE Strasbourg\n\nUne compétition de danse traditionnelle est organisée par la mairie de notre belle ville … Nous invitons les personnes intéressées à aller au centre culturel pour les inscriptions. Les gagnants partiront une semaine à Berlin.",
         "query": "Qu'est-ce que cette affiche propose ?",
         "options": [
@@ -105,7 +105,7 @@
     },
     {
         "id": 9,
-        "testId": 35,
+        "testId": 187,
         "text": "<p style=\"background: #eeeeee; padding: 4px;\">À : slira@perso.fr<br/>Objet : Formation à l'informatique</p>\n\n<br/>Mademoiselle Brun,\n\n<br/>Nous avons bien enregistré votre dossier en ligne. Pour votre participation à notre prochain stage de formation, nous vous attendons donc le 12 octobre à 9 heures. Nous vous rappelons que la présentation de vos diplômes est obligatoire.\n\n<br/>Cordialement,\n\n<br/>Muriel Simonet",
         "query": "Que doit faire mademoiselle Brun ?",
         "options": [
@@ -118,7 +118,7 @@
     },
     {
         "id": 10,
-        "testId": 35,
+        "testId": 187,
         "text": "## <p style=\"background: #eeeeee; padding: 5px;\">Nouveau message</p>\n\nBonjour Alice,\n\n<br/>Votre facture d'électricité du mois de novembre est disponible sur Internet. Pour vous connecter à votre compte, consulter et régler votre facture, utilisez votre numéro de client et le mot de passe reçu par message téléphonique.\n\n<br/>Cordialement.\n\n<br/>L'entreprise Electrica.",
         "query": "Qu'est-ce que ce message propose à Alice ?",
         "options": [
@@ -131,7 +131,7 @@
     },
     {
         "id": 11,
-        "testId": 35,
+        "testId": 187,
         "text": "Étudiante donne cours d'anglais.\n\n<br/><p style=\"font-size: 80px;\">🇬🇧 🇺🇸</p>\n\n<br/>Renseignements **au 06 35 75 67 80**.",
         "query": "Que veut faire la jeune fille ?",
         "options": [
@@ -144,7 +144,7 @@
     },
     {
         "id": 12,
-        "testId": 35,
+        "testId": 187,
         "text": "Vous travaillez à la mairie de Rouen, vous êtes musicien et vous jouez d'un instrument depuis plusieurs années ? Rejoignez l'orchestre des agents de la ville de Rouen !\n\nLes répétitions reprennent en septembre (à la fin des congés d'été) et ont lieu les jeudis entre 12 h et 13 h 30 au conservatoire de la ville.",
         "query": "Qu'est-ce qui est proposé aux agents de la mairie ?",
         "options": [
@@ -157,7 +157,7 @@
     },
     {
         "id": 13,
-        "testId": 35,
+        "testId": 187,
         "text": "Un projet surprenant : José, 13 ans, a gagné le Prix du Climat l'an dernier. Il a imaginé une banque écologique dans son pays. Si chaque mois, un enfant ramasse une certaine quantité de déchets (plastique, carton...), on lui donne une monnaie qu'il peut échanger contre de l'argent réel.",
         "query": "De quoi parle cet article ?",
         "options": [
@@ -170,7 +170,7 @@
     },
     {
         "id": 14,
-        "testId": 35,
+        "testId": 187,
         "text": "**Attention** : la bibliothèque sera fermée l'après-midi pour un mois pendant les travaux. Les réservations de livres sont possibles en ligne sur labiblio.fr\n\nVous pouvez venir sur place seulement pour chercher ou déposer vos livres entre **9 h et 12 h 30**.\n\nLes inscriptions ne seront pas possibles.\n\nLa direction",
         "query": "Qu'est-ce qui est annoncé ?",
         "options": [
@@ -183,7 +183,7 @@
     },
     {
         "id": 15,
-        "testId": 35,
+        "testId": 187,
         "text": "### LA TROISIÈME ÉDITION DU GRAND CULTURO AURA LIEU LE PREMIER DIMANCHE DE MAI\n\nLe Grand Culturo, c'est l'échange entre particuliers de livres, de bandes dessinées, de disques, de DVD, de petits objets design, de jeux vidéo, d'affiches, de tableaux ou d'instruments de musique... Les échanges se font sans intermédiaire et sans argent. Un rendez-vous culturel ouvert à tous et entièrement gratuit.",
         "query": "Que peut-on faire à cet événement ?",
         "options": [
@@ -196,7 +196,7 @@
     },
     {
         "id": 16,
-        "testId": 35,
+        "testId": 187,
         "text": "La Ville de Paris lance un concours mondial de créations urbaines innovantes. Ouvert à tous, professionnel ou citoyen, du moment qu'un architecte est associé au projet, le concours a pour objectif d'imaginer le Paris de demain en innovant.\n\n« *Faire autrement*, explique l'adjoint en charge de l'urbanisme, *c'est utiliser plus de matière grise pour consommer moins de matière première, sélectionner les bons matériaux, tendre vers le zéro déchet, produire localement, co-construire la ville avec les citoyens en s'inspirant des idées des riverains* .»",
         "query": "Que propose la mairie de Paris au public ?",
         "options": [
@@ -209,7 +209,7 @@
     },
     {
         "id": 17,
-        "testId": 35,
+        "testId": 187,
         "text": "## DU 4 AU 26 JUIN <br/><p style=\"margin-left:95px; font-size: 12pt;\">venez visiter</p>\n\n# <p style=\"line-height: 120%; display: inline-block; padding: 10px; padding-left: 30px; background: #eeeeee;\">LE SALON DE <br/> L'AGRICULTURE <br/> À STRASBOURG\n\n- Ateliers pour les adultes, balades avec des animaux pour les enfants.\n- Stands de nourriture et boissons sur place.\n- Tarif spécial pour les groupes et enfants de moins de 12 ans.\n\n**Informations sur salon-agriculture-strasbourg.fr**",
         "query": "Qu'est-ce que cette annonce propose ?",
         "options": [
@@ -222,7 +222,7 @@
     },
     {
         "id": 18,
-        "testId": 35,
+        "testId": 187,
         "text": "Mme Aline Vaquet\n\nGérante du service locations\n\nAgence Immo Paris Tél: 01 48 55 21 36\n\n<br/>Chers locataires,\n\n<br/>Comme chaque année, nous vous demandons de bien vouloir nous adresser votre nouvelle attestation d'assurance responsabilité civile locataire pour l'année à venir. Ce document nous permettra de mettre à jour votre dossier.\n\n<br/>Si toutefois vous nous l'avez déjà adressée, merci de ne pas tenir compte de ce courrier. Vous remerciant par avance, nous vous prions d'accepter nos sincères salutations.\n\n<br/>Aline Vaquet",
         "query": "Quel est l'objet de cette lettre ?",
         "options": [
@@ -235,7 +235,7 @@
     },
     {
         "id": 19,
-        "testId": 35,
+        "testId": 187,
         "text": "La ville de Clermont-Ferrand fait maintenant partie des «**villes apprenantes**» de l'UNESCO. Cette organisation apporte son aide aux projets pour une éducation de qualité tout au long de la vie. Clermont-Ferrand devient ainsi la première cité française de cette association mondiale réunissant **177 autres villes**, situées dans **41 pays**, qui partagent leur expérience sur ce type d'apprentissage.",
         "query": "Quel est le but des «villes apprenantes» ?",
         "options": [
@@ -248,7 +248,7 @@
     },
     {
         "id": 20,
-        "testId": 35,
+        "testId": 187,
         "text": "C'est une tendance qui a envahi Lyon ces derniers mois. Dorénavant, les végétariens (voire végétaliens) peuvent sortir dans des restaurants et commander des plats originaux et goûteux. Terminé le remplacement des viandes par une poêlée de légumes sans âme. « Maintenant, un végétarien peut vraiment manger à Lyon qui a longtemps été une ville viandante ! Il existe de véritables alternatives aux plats carnés » assure Stéphanie Iguna, spécialiste des tendances en matière de nourriture à Lyon. Le point d'orgue de cette évolution réside probablement dans le succès du restaurant Culina Hortus, qui a ouvert il y a un peu plus d'un an. Ce restaurant gastronomique végétarien pourrait concourir à l'obtention d'une étoile sans rougir. Un grand pas dans une ville qui ne jure historiquement que par la cochonnaille.",
         "query": "Que constate l'auteur concernant la nouvelle tendance de la restauration lyonnaise?",
         "options": [
@@ -261,7 +261,7 @@
     },
     {
         "id": 21,
-        "testId": 35,
+        "testId": 187,
         "text": "<p style=\"text-align: right;\">Paris, le 13 mars</p>\n\n<br/>Madame, Monsieur,\n\n<br/>&nbsp;&nbsp;&nbsp;&nbsp; Ce courrier fait suite à mon achat d'un téléphone le 5 mars dernier. Après réflexion, je souhaiterais le rendre car j'ai finalement décidé d'acheter un appareil avec messagerie intégrée.\n\n<br/>&nbsp;&nbsp;&nbsp;&nbsp; Ainsi, je vous prie de bien vouloir me restituer la somme de 80 euros, correspondant à la somme versée le 5 mars par chèque.\n\n<br/>&nbsp;&nbsp;&nbsp;&nbsp; Dans l'attente de votre réponse, je vous transmets, Madame, Monsieur, mes meilleures salutations.\n\n<br/>*<p style=\"text-align: right;\">André Cellier</p>*",
         "query": "Quel est l'objet de la lettre de monsieur Cellier ?",
         "options": [
@@ -274,7 +274,7 @@
     },
     {
         "id": 22,
-        "testId": 35,
+        "testId": 187,
         "text": "Faire des horaires à rallonge, venir travailler même malade... Depuis quelques années, le présentéisme - une présence excessive au travail - s'étend dans les entreprises. En cause: une idée typiquement française selon laquelle la valeur de son travail dépend du nombre d'heures qu'on y passe.\n\nFavorisé par la crainte de perdre son emploi, le présentéisme est un phénomène difficile à repérer, mais qui représente un vrai danger pour les salariés et les entreprises. Contrairement à ce que l'on croit souvent, un salarié trop présent risque d'être moins efficace, car il s'épuisera avec des horaires trop importants, perdra sa concentration et sera démotivé.",
         "query": "Qu'apprend-on sur le présentéisme ?",
         "options": [
@@ -287,7 +287,7 @@
     },
     {
         "id": 23,
-        "testId": 35,
+        "testId": 187,
         "text": "En dix ans le nombre de sources lumineuses sur la voie publique - panneaux publicitaires, lampadaires - a progressé en France de 30%. Première conséquence de cette consommation électrique : 50% de la population ne peut plus voir les étoiles. Seconde conséquence : la disparition des papillons, moustiques et autres insectes, qui tournent jusqu'à épuisement la nuit sous les lampadaires ou meurent grillés.",
         "query": "Que déplore l'auteur du texte ?",
         "options": [
@@ -300,7 +300,7 @@
     },
     {
         "id": 24,
-        "testId": 35,
+        "testId": 187,
         "text": "C'est le défi quotidien du consommateur soucieux de son alimentation. Comment déchiffrer ce qui se cache derrière les sigles et les obscurs tableaux des étiquettes ?\n\nEn France, l'État a bien décidé la mise en place d'un affichage simple, le Nutri-score, qui, avec une lettre et une couleur, informe le consommateur sur la qualité nutritionnelle d'un produit. Mais vous le verrez peu dans les rayons : son utilisation facultative est basée sur le volontariat de l'industrie agroalimentaire.",
         "query": "Qu'apprend-on sur l'affichage du Nutri-Score ?",
         "options": [
@@ -313,7 +313,7 @@
     },
     {
         "id": 25,
-        "testId": 35,
+        "testId": 187,
         "text": "Le son aigu des petites voix résonne au rythme des couverts. Chaque midi, les enfants de l'école maternelle Rochechouart à Paris s'asseyent autour des tables du restaurant scolaire avec une nouvelle habitude: trier leurs déchets à l'issue du déjeuner. Pour instaurer ce nouveau geste, les enfants ont appris ce qu'étaient les biodéchets. Ils deviennent ainsi des ambassadeurs du tri. Les parents risquent désormais de se faire rappeler à l'ordre s'ils ne trient pas leurs déchets à la maison. Plus on vieillit, plus il est difficile de changer ses habitudes, d'où l'intérêt de commencer dès le plus jeune âge.",
         "query": "Que constate-t-on quand les enfants très jeunes apprennent à trier leurs déchets ?",
         "options": [
@@ -326,7 +326,7 @@
     },
     {
         "id": 26,
-        "testId": 35,
+        "testId": 187,
         "text": "### LE PARTAGE, UN NOUVEAU MODE DE CONSOMMATION\n\nLa consommation collaborative, basée sur l'échange, le partage, la location plutôt que la possession, n'est plus l'apanage de pionniers engagés. «Nous faisons face à un mouvement de fond, analyse le sociologue Erwan Lecoeur. Partager n'est pas nouveau. Mais cet acte, longtemps le fait d'une minorité, est récupéré par des acteurs intermédiaires: entreprises, grandes associations, institutions. Par exemple, les parkings-relais se multiplient pour favoriser le covoiturage. De telles initiatives légitiment ces pratiques.» Faut-il y voir un effet de la crise ?\n\n«Non, répond cet observateur, la consommation collaborative vient juste conforter une nouvelle façon d'appréhender la consommation.»\n\n<br/><p style=\"text-align: right;\">D'après <i>lemonde.fr</i></p>",
         "query": "Que constate Erwan Lecoeur sur la consommation collaborative ?",
         "options": [
@@ -339,7 +339,7 @@
     },
     {
         "id": 27,
-        "testId": 35,
+        "testId": 187,
         "text": "Prenant acte des bilans économiques moroses qui se succèdent, et plus particulièrement d'un résultat catastrophique pour le chiffre d'affaire des libraires l'an dernier - au point que l'on a même entendu un éditeur suggérer de mettre fin à cette authentique institution qu'est la rentrée littéraire en France... -, l'édition a décidé, cette année, d'opter pour la sobriété: 524 nouveaux romans paraîtront entre la mi-août et octobre parmi lesquels 336 romans français et 188 romans traduits.\n\nOn est certes encore loin de la diète, et même de la simple frugalité, mais il s'agit tout de même de la rentrée française la plus modeste en nombre de titres depuis vingt ans.",
         "query": "Quelle est la particularité de la nouvelle rentrée littéraire ?",
         "options": [
@@ -352,7 +352,7 @@
     },
     {
         "id": 28,
-        "testId": 35,
+        "testId": 187,
         "text": "Au sein du groupe des 16-un rassemblement regroupant syndicats enseignants et représentants de parents d'élèves - l'idée d'une journée de grève n'a pas fait l'unanimité. Même si la dernière mobilisation a été bonne, les enseignants regardent désormais à deux fois dans leur portefeuille, avant de sacrifier une journée de salaire. « On a la crainte de ne pas être assez nombreux », reconnaît le co-secrétaire général du Syndicat national des enseignements du second degré. Résultat, une autre forme d'action est à l'étude comme « Les jeudis de l'éducation »: un rendez-vous hebdomadaire qui associerait familles et enseignants autour d'une réflexion sur le devenir de l'école.",
         "query": "Sur quoi les avis de ces acteurs de l'éducation différent-ils ?",
         "options": [
@@ -365,7 +365,7 @@
     },
     {
         "id": 29,
-        "testId": 35,
+        "testId": 187,
         "text": "Plus de 40% des espèces d'insectes sont en déclin et un tiers sont menacées. Leur taux de mortalité est huit fois plus rapide que celui des mammifères. À ce rythme, s'inquiètent les scientifiques, les insectes pourraient disparaître d'ici un siècle. Cette prévision est préoccupante car ils sont essentiels au bon fonctionnement de tous les écosystèmes. Ils pollinisent les plantes, recyclent les nutriments et servent de nourriture aux autres animaux. Leur disparition « aura des conséquences catastrophiques à la fois pour les écosystèmes de la planète et pour la survie de l'humanité ». « Si les modes de production alimentaire ne changent pas, les insectes dans leur ensemble s'engageront sur la voie de l'extinction dans quelques décennies », écrivent les chercheurs.\n\n<br/><p style=\"text-align: right;\">D'après <i>lemonde.fr</p>",
         "query": "D'après l'article, qu'est-ce qui est à l'origine de la disparition des insectes ?",
         "options": [
@@ -378,7 +378,7 @@
     },
     {
         "id": 30,
-        "testId": 35,
+        "testId": 187,
         "text": "### LES REQUINS N'ONT PAS FINI DE NOUS SURPRENDRE!\n\nTapis dans les fonds océaniques d'Amérique du Nord, les requins-houle possèdent une peau marron ou grisâtre à deux tons, l'un foncé et l'autre clair. Une équipe de chercheurs américains a découvert une molécule fabriquée exclusivement dans les zones claires de leur peau: elle absorbe la lumière bleue - la seule à subsister à une telle profondeur - pour émettre du vert. Les requins se parent alors, dans le noir des profondeurs, de motifs vert fluorescent auxquels ils sont particulièrement sensibles. « Comme leur vision se limite précisément aux couleurs bleu et vert, ce phénomène pourrait aider les individus à s'identifier », présume Jason Crawford, de l'université de Yale.",
         "query": "Quelle hypothèse font les chercheurs sur les requins-houle ?",
         "options": [
@@ -391,7 +391,7 @@
     },
     {
         "id": 31,
-        "testId": 35,
+        "testId": 187,
         "text": "Là où leurs prédécesseurs rêvaient d'un contrat à durée indéterminée, les Millennials (génération née entre 1980 et 2000) sont en quête d'expériences diversifiées. Beaucoup ont déjà connu le chômage et ont conscience de l'obsolescence de leurs compétences et de leur diplôme, d'où leur sentiment de n'avoir rien à perdre.\n\nL'heure n'est plus à la relation de subordination, mais à la coopération. Au quotidien, il y a de quoi déconcerter les managers. Un Millennial accepte qu'on lui explique le sens du travail mais pas la manière de le faire. Face à ces collaborateurs qui font rimer le bien-être professionnel avec connexion, confiance, autonomie et flexibilité, il faut en finir avec le syndrome de la hiérarchie pyramidale.\n\n<br/><p style=\"text-align: right;\">D'après <i>lesechos.fr</i></p>",
         "query": "Qu'apprend-on sur les Milléniaux dans le monde du travail ?",
         "options": [
@@ -404,7 +404,7 @@
     },
     {
         "id": 32,
-        "testId": 35,
+        "testId": 187,
         "text": "Mon souci a toujours été d'inciter mes étudiants à ne pas s'enfermer dans une seule vision du monde. Parce que finalement chacun vit dans sa prison. C'est à la fin de mon livre: « Il faut parler deux langues au moins pour savoir qu'on en parle une, que c'est une langue que l'on parle». J'ai toujours dit à mes étudiants que le  monde ne se limitait pas à notre manière de vivre. Accepter de n'exister qu'avec une langue, qu'avec une culture, c'est se priver de liberté. En choisissant d'étudier une autre langue, on se donne une chance inouïe : tout d'un coup, on voit apparaître cette prison dans laquelle on vivait sans forcément s'en rendre compte.",
         "query": "Qu'explique cette personne sur l'apprentissage d'une langue étrangère ?",
         "options": [
@@ -417,7 +417,7 @@
     },
     {
         "id": 33,
-        "testId": 35,
+        "testId": 187,
         "text": "Le désintérêt pour la lecture chez un grand nombre d'enfants peut être expliqué par plusieurs facteurs. Tout d'abord, beaucoup d'enfants abandonnent la lecture lorsqu'ils réalisent que d'autres élèves sont plus avancés qu'eux. De plus, lorsqu'on demande à l'enfant non seulement de lire, mais aussi de comprendre, il peut perdre son intérêt. En général, l'absence de compréhension est associée à un manque de plaisir.\n\nSelon certains psychologues, les enfants ont du mal à comprendre parce qu'ils ont des lacunes en culture générale. Cependant, la culture générale s'acquiert justement en lisant. Cela crée un cercle vicieux difficile à briser.\n\nPour sortir de ce cercle vicieux, les psychologues recommandent de mettre à la disposition des enfants des livres adaptés à leur niveau de compréhension et à leurs centres d'intérêt. De plus, il est important de proposer des méthodes d'enseignement de la lecture qui encouragent l'interaction entre les élèves et qui renforcent la confiance en soi. Enfin, il est important que les parents et les enseignants encouragent la lecture chez les enfants en leur offrant des livres adaptés à leur âge et à leur niveau de compréhension.",
         "query": "Selon ce texte, quelle est l'une des raisons qui découragent les enfants de lire ?",
         "options": [
@@ -430,7 +430,7 @@
     },
     {
         "id": 34,
-        "testId": 35,
+        "testId": 187,
         "text": "Une surenchère médiatique accable le tourisme : d'activité sympathique, il devient une cible à abattre. Pourtant, depuis la généralisation des congés payés, le tourisme représente une expression positive de la société de consommation. Il a permis à des millions de personnes de visiter d'autres territoires. Il n'y a pas de « surtourisme ». Il n'y a que des personnes qui ne savent pas gérer les équilibres de leurs territoires. La cause ? L'appât du gain. Tous les maillons de la chaîne sont concernés : élus qui votent des plans de développement massifs, professionnels qui veulent leur part du gâteau sans penser à la saturation, habitants qui profitent de la flambée immobilière pour vendre leur bien à prix d'or.\n\n<br/><p style=\"text-align: right;\">D'après <i>lemonde.fr</i></p>",
         "query": "Que déplore l'auteur de cet article ?",
         "options": [
@@ -443,7 +443,7 @@
     },
     {
         "id": 35,
-        "testId": 35,
+        "testId": 187,
         "text": "## Côté (BD)\n\nAdaptée d'un polar de Pierre Siniac, la bande dessinée « Le secret de l'étrangleur » de Jacques Tardi est un succès : sa version en feuilleton, cet été, sous la forme de cinq journaux, tirés à 50,000 exemplaires chacun, avait intrigué les premiers lecteurs, âgés de 15 à 35 ans. L'album, déjà vendu à 130,000 exemplaires, est remarquable par son originalité. En effet, il faut découper les dernières pages du livre pour en connaître la fin sachant que plusieurs dénouements sont possibles.",
         "query": "Quelle est la particularité de cette BD?",
         "options": [
@@ -456,7 +456,7 @@
     },
     {
         "id": 36,
-        "testId": 35,
+        "testId": 187,
         "text": "De nombreuses théories du complot circulent sur Internet. Plutôt que de purement les contredire, la première saison de «Mécaniques du complotisme» - nouveau podcast de France Culture - en décortique l'origine et les ramifications. Le présentateur, Roman Bornstein, nous explique : «Nous avons voulu autopsier un délire collectif et montrer qu'il ne s'agissait pas simplement de délires d'adolescents passionnés d'informatique dans une cave. Le complotisme n'est jamais innocent et son histoire explique beaucoup de notre époque». En s'appuyant sur un site Internet de surveillance des théories du complot, il raconte leur propagation, dans un discours efficace, mené à la manière d'un roman d'espionnage.",
         "query": "Quel est le but de cette émission sur les théories du complot ?",
         "options": [
@@ -469,7 +469,7 @@
     },
     {
         "id": 37,
-        "testId": 35,
+        "testId": 187,
         "text": "La bataille de Bouvines, remportée le 27 juillet 1214 par le roi de France Philippe Auguste sur un empereur allemand, est l'un des actes fondateurs de la dynastie capétienne et l'un des épisodes les plus célèbres du « roman national » français. Du XIII<sup>e</sup> siècle à nos jours, elle a été à l'origine de multiples légendes que le spécialiste du monde médiéval, Dominique Barthélemy, confronte à la réalité des faits. À l'issue d'une enquête approfondie, il décrit un affrontement plus modeste et moins épique que celui construit et enrichi au gré des nécessités politiques. Ainsi, il nous invite à poursuivre la réflexion sur l'idée que les Français se font d'eux-mêmes.",
         "query": "Selon l'article, que fait Dominique Barthélemy ?",
         "options": [
@@ -482,7 +482,7 @@
     },
     {
         "id": 38,
-        "testId": 35,
+        "testId": 187,
         "text": "La révolution numérique aura, selon le philosophe Michel Serres, des effets au moins aussi considérables qu'en leur temps l'invention de l'écriture, puis celle de l'imprimerie. Les notions de temps et d'espace en sont transformées et les façons d'accéder à la connaissance profondément modifiées.\n\nÀ cet égard, chaque grande rupture dans l'histoire de l'humanité conduit à priver l'homme de facultés (« il perd »), mais chaque révolution lui en apporte de nouvelles (« il gagne »). Pour chaque perte d'une part de mémoire et de capacité de traitement de l'information liée à la diffusion des technologies numériques, l'homme gagne une possibilité nouvelle de mise en relation (entre les individus et entre les savoirs) ainsi qu'une faculté décuplée d'invention et de création.",
         "query": "Sur quoi Michel Serres attire-t-il l'attention ?",
         "options": [
@@ -495,7 +495,7 @@
     },
     {
         "id": 39,
-        "testId": 35,
+        "testId": 187,
         "text": "L'histoire des sociétés humaines tourne autour de la recherche d'un monde plus juste. Les idéologies religieuses et politiques ont toujours visé une certaine forme de justice et d'égalité. Les êtres humains ont besoin de donner un sens à leur existence, notamment sociale : ils se soucient forcément de la vie des autres et veulent trouver une raison d'être à l'état de la société. Aucune élite ne peut se contenter de posséder davantage d'argent ou de pouvoir que les autres de façon explicitement arbitraire. De ce fait, l'organisation sociale est expliquée et justifiée par un discours sophistiqué. Ce discours doit être un minimum plausible et repose souvent sur un mélange de sincérité et d'hypocrisie.",
         "query": "Qu'explique l'auteur sur les inégalités sociales ?",
         "options": [

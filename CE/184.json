@@ -340,7 +340,7 @@
     {
         "id": 27,
         "testId": 30,
-        "text": "### Dans l’ensemble des espaces verts de la ville de Toulouse,\n\nLes pelouses tondues régulièrement laissent place à 150 hectares de prairies urbaines, plus sauvages. « En coupant l'herbe, on stoppe le cycle des végétaux. Or si on ne la coupe qu'une fois par an, c'est bon pour l'écosystème et ça permet l'intégration de nouvelles espèces », explique la conseillère municipale en charge des espaces verts. Seul inconvénient, le résultat est nettement moins esthétique. « Au début, c'était mal compris, car les gens pensaient que c'était sale », reconnait l'élue. Mais aujourd'hui on voit des petites fleurs réapparaître et je ne reçois plus de courriers.",
+        "text": "### Dans l'ensemble des espaces verts de la ville de Toulouse,\n\nles pelouses tondues régulièrement laissent place à 150 hectares de prairies urbaines, plus sauvages. « En coupant l'herbe, on stoppe le cycle des végétaux. Or si on ne la coupe qu'une fois par an, c'est bon pour l'écosystème et ça permet l'intégration de nouvelles espèces », explique la conseillère municipale en charge des espaces verts. Seul inconvénient, le résultat est nettement moins esthétique. « Au début, c'était mal compris car les gens pensaient que c'était sale, reconnaît l'élue. Mais aujourd'hui, on voit des petites fleurs réapparaître et je ne reçois plus de courriers ».",
         "query": "Quel est l'avantage principal de ne tondre l'herbe qu'une fois par an dans les espaces verts de la ville de Toulouse ?",
         "options": [
             "Cela réduit les coûts d'entretien des espaces verts.",
@@ -392,7 +392,7 @@
     {
         "id": 31,
         "testId": 30,
-        "text": "Là où leurs prédécesseurs rêvaient d'un contrat à durée indéterminée, les Milléniaux (génération née entre 1980 et 2000) sont en quête d'expériences diversifiées. Beaucoup ont déjà connu le chômage et ont conscience de l'obsolescence de leurs compétences et de leur diplôme, d'où leur sentiment de n'avoir rien à perdre.\n\nL'heure n'est plus à la relation de subordination, mais à la coopération. Au quotidien, il y a de quoi déconcerter les managers. Un Millénial accepte qu'on lui explique le sens du travail mais pas la manière de le faire. Face à ces collaborateurs qui font rimer le bien-être professionnel avec connexion, confiance, autonomie et flexibilité, il faut en finir avec le syndrome de la hiérarchie pyramidale.\n\n<br/><p style=\"text-align: right;\">D'après <i>4sechas.fr</i></p>",
+        "text": "Là où leurs prédécesseurs rêvaient d'un contrat à durée indéterminée, les Millennials (génération née entre 1980 et 2000) sont en quête d'expériences diversifiées. Beaucoup ont déjà connu le chômage et ont conscience de l'obsolescence de leurs compétences et de leur diplôme, d'où leur sentiment de n'avoir rien à perdre.\n\nL'heure n'est plus à la relation de subordination, mais à la coopération. Au quotidien, il y a de quoi déconcerter les managers. Un Millennial accepte qu'on lui explique le sens du travail mais pas la manière de le faire. Face à ces collaborateurs qui font rimer le bien-être professionnel avec connexion, confiance, autonomie et flexibilité, il faut en finir avec le syndrome de la hiérarchie pyramidale.\n\n<br/><p style=\"text-align: right;\">D'après <i>lesechos.fr</i></p>",
         "query": "Qu'apprend-on sur les Milléniaux dans le monde du travail ?",
         "options": [
             "Ils bouleversent les rapports d'autorité.",
@@ -418,7 +418,7 @@
     {
         "id": 33,
         "testId": 30,
-        "text": "C'est un étonnant phénomène, appelé couronne de timidité : le feuillage de certains arbres n'entre jamais en contact avec celui des autres, créant des frontières entre les feuilles des chemins de lumière. Dans certains forets, en observant les cimes des arbres, un labyrinthe de lumière se dessine entre les feuillages, comme si les arbres laissaient volontairement une barrière polie d'une trentaine de centimètres pour éviter d'entrer en contact. Cet espace laisserait filtrer la lumière, essentielle à la photosynthèse et à la survie des sous-bois, et permettait également d'éviter des contagions, qu'il s'agisse de maladies ou d'insectes non volants, une même espèce d'arbres s'entendait donc pour créer un environnement propice à la survie du groupe dans son ensemble.",
+        "text": "C'est un étonnant phénomène, appelé couronne de timidité : le feuillage de certains arbres n'entre jamais en contact avec celui des autres, créant des frontières entre les feuilles et des chemins de lumière. Dans certaines forêts, en observant les cimes des arbres, un labyrinthe de lumière se dessine entre les feuillages, comme si les arbres laissaient volontairement une barrière polie d'une trentaine de centimètres pour éviter d'entrer en contact. Cet espace laisserait filtrer la lumière, essentielle à la photosynthèse et à la survie des sous-bois, et permettrait également d'éviter des contagions, qu'il s'agisse de maladies ou d'insectes non volants. Une même espèce d'arbres s'entendrait donc pour créer un environnement propice à la survie du groupe dans son ensemble.",
         "query": "Que constate l'auteur du texte à propos des arbres ?",
         "options": [
             "Ils sont aptes à coloniser un territoire vierge.",
@@ -432,7 +432,7 @@
         "id": 34,
         "testId": 30,
         "text": "## SUR LE CHEMIN DE LA BIO-CONSTRUCTION\n\nDepuis quelque temps, la conscience écologique s'est considérablement aiguisée. Les particuliers ont même une idée précise de ce qu'ils veulent comme habitat.\n\nEn conséquence, les projets de logement 100% écologiques deviennent l'obsession de tous les cabinets d'architectes : construction basse consommation, rénovation énergétique, maison passive... Il s'agit maintenant d'adapter l'offre du marché et d'élargir les domaines de compétences des professionnels, notamment au sein des entreprises de construction. D'autant plus que, selon un grand nombre de spécialistes, la construction bio - quand elle est mise en œuvre - représente un gain pour tout le monde, pour le promoteur comme pour l'acheteur.",
-        "query": "Selon l'auteur, quel est le défi de la bioconstruction ?",
+        "query": "Selon l'auteur, quel est le défi de la bio-construction ?",
         "options": [
             "Convaincre la clientèle ciblée.",
             "Former les spécialistes du secteur.",
@@ -457,13 +457,13 @@
     {
         "id": 36,
         "testId": 30,
-        "text": "Les champs de mise en œuvre des robots sont légion : production, services, gestion des données, vie urbaine, sécurité, loisirs, domotique... Leur arrivée donne lieu à des transformations inédites et à des problématiques nouvelles, souvent mythifiées. Un univers professionnel où tout serait régi par des robots? Voilà qui est encore loin de la réalité. Si l'automatisation a fait disparaître des emplois, elle en a aussi créé d’autres. Surtout, elle a bouleversé le fonctionnement de l'entreprise, faisant peser une forte pression sur les salariés, tenus de maintenir la continuité de la production dans des processus toujours plus complexes.",
+        "text": "Les champs de mise en œuvre des robots sont légion : production, services, gestion des données, vie urbaine, sécurité, loisirs, domotique... Leur arrivée donne lieu à des transformations inédites et à des problématiques nouvelles, souvent mythifiées. Un univers professionnel où tout serait régi par des robots? Voilà qui est encore loin de la réalité. Si l'automatisation a fait disparaître des emplois, elle en a aussi créé d'autres. Surtout, elle a bouleversé le fonctionnement de l'entreprise, faisant peser une forte pression sur les salariés, tenus de maintenir la continuité de la production dans des processus toujours plus complexes.",
         "query": "Quelle est la conséquence de la robotisation dans le monde professionnel ?",
         "options": [
             "Elle a accru la compétitivité industrielle.",
             "Elle a amélioré les conditions de travail.",
             "Elle a enrayé la hausse du chômage.",
-            "Elle a modifié l’organisation du travail."
+            "Elle a modifié l'organisation du travail."
         ],
         "answer": 3
     },
@@ -473,8 +473,8 @@
         "text": "La bataille de Bouvines, remportée le 27 juillet 1214 par le roi de France Philippe Auguste sur un empereur allemand, est l'un des actes fondateurs de la dynastie capétienne et l'un des épisodes les plus célèbres du « roman national » français. Du XIII<sup>e</sup> siècle à nos jours, elle a été à l'origine de multiples légendes que le spécialiste du monde médiéval, Dominique Barthélemy, confronte à la réalité des faits. À l'issue d'une enquête approfondie, il décrit un affrontement plus modeste et moins épique que celui construit et enrichi au gré des nécessités politiques. Ainsi, il nous invite à poursuivre la réflexion sur l'idée que les Français se font d'eux-mêmes.",
         "query": "Selon l'article, que fait Dominique Barthélemy ?",
         "options": [
-            "Il analyse l'établissement d’une dynastie royale.",
-            "Il explique l'origine d’une légende médiévale.",
+            "Il analyse l'établissement d'une dynastie royale.",
+            "Il explique l'origine d'une légende médiévale.",
             "Il explore la construction identitaire des Français.",
             "Il renforce le mythe de la bataille de Bouvines."
         ],

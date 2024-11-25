@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "testId": 32,
+        "testId": 185,
         "text": "Vous partez en vacances et vous cherchez quelqu'un pour s'occuper de votre chien? Je suis la personne idéale! Je suis étudiant et j'habite dans une maison avec un jardin. Je serai heureux de vous rencontrer pour en parler, prenez contact avec moi mikael.normand@lavilla.fr",
         "query": "Qu'est-ce que cette personne propose ?",
         "options": [
@@ -14,7 +14,7 @@
     },
     {
         "id": 2,
-        "testId": 32,
+        "testId": 185,
         "text": "Cédric,\n\nTa mère et moi rentrons tard ce soir. Ton repas est dans le réfrigérateur, je t'ai fait du poulet avec des légumes. Avant de te coucher, n'oublie pas de sortir le chien et de lui donner à manger!\n\nBonne soirée,\n\nPapa",
         "query": "Qu'est-ce que Cédric doit faire ?",
         "options": [
@@ -27,7 +27,7 @@
     },
     {
         "id": 3,
-        "testId": 32,
+        "testId": 185,
         "text": "Madame, Monsieur,\n\n<br/>Vous êtes convoqués à l'école avec votre fils, Paul Lemaire, inscrit en 6B, le jeudi 13 janvier à 10 h, bureau 8.\n\n<br/>Merci de vous présenter au secrétariat du directeur adjoint.",
         "query": "Qui est Paul Lemaire ?",
         "options": [
@@ -40,7 +40,7 @@
     },
     {
         "id": 4,
-        "testId": 32,
+        "testId": 185,
         "text": "Salut Alex,\n\n<br/>Pourrais-tu m'emmener à la fête de Lina demain soir ? Ma voiture est en panne et c'est moi qui ai son cadeau d'anniversaire.\n\n<br/>À demain\n\nElsa",
         "query": "Que doit faire Alex ?",
         "options": [
@@ -53,7 +53,7 @@
     },
     {
         "id": 5,
-        "testId": 32,
+        "testId": 185,
         "text": "Françoise,\n\nPouvons-nous nous rencontrer dans ton bureau demain matin ?\n\nAriane.",
         "query": "Pourquoi Ariane écrit-elle ce message ?",
         "options": [
@@ -66,7 +66,7 @@
     },
     {
         "id": 6,
-        "testId": 32,
+        "testId": 185,
         "text": "# <p style=\"text-align: center; line-height: 120%;\">Moulin du Lac</P>\n\n<p style=\"text-align: center; line-height: 180%; font-size: x-large;\">Cadre exceptionnel <br/> Location de salles de 35 à 400 personnes <br/> Services personnalisés pour mariages, <br/> baptêmes et séminaires. <br/> <b>04 66 81 25 24</b> MOULIN DU LAC <br/> 30170 VALATOUGES</p>",
         "query": "Que peut-on faire au Moulin du Lac ?",
         "options": [
@@ -79,7 +79,7 @@
     },
     {
         "id": 7,
-        "testId": 32,
+        "testId": 185,
         "text": "## <p style=\"text-align: center; line-height: 150%;\">Dimanche 21 mai, <br/> venez faire connaissance <br/> avec Les HABITANTS DU QUARTIER !!</p>\n\n<p style=\"text-align: center;\">L'association « Immeubles en fête » vous donne <br/> rendez-vous vers midi. Apportez un plat et une <br/> boisson et partageons-les ensemble !<br/>\n\n<br/>**<p style=\"text-align: center;\">Animation: <br/> Tennis De TABLE à <br/> 15 H, Place De La <br/> VICTOIRE.</p>**",
         "query": "Qu'est-ce que l'association « Immeubles en fête » propose ?",
         "options": [
@@ -92,7 +92,7 @@
     },
     {
         "id": 8,
-        "testId": 32,
+        "testId": 185,
         "text": "<p style=\"text-align: center;\">Votre bibliothèque vous invite à venir écouter <br/> une sélection de CD à l'occasion du festival de musique. <br/><br/> <b><i>« Le printemps du Jazz</i></b> » <br/><br/> qui commence le mois prochain dans tout le <br/> département.</p>",
         "query": "Que propose la bibliothèque ?",
         "options": [
@@ -105,7 +105,7 @@
     },
     {
         "id": 9,
-        "testId": 32,
+        "testId": 185,
         "text": "De : Jean.Roussel@epicesexotiques.com\n\nA: georges.Rouault@epicesexotiques.com\n\nGeorges, je reste à Montélimar une semaine de plus parce que les ventes sur les marchés sont très bonnes. Est-ce que tu peux rencontrer les gens des magasins Biotopia à ma place ? Appelle-moi si tu as besoin.\n\nJean",
         "query": "Que va faire Jean Roussel ?",
         "options": [
@@ -118,7 +118,7 @@
     },
     {
         "id": 10,
-        "testId": 32,
+        "testId": 185,
         "text": "<p style=\"text-align: center; font-size: 80pt;\">🇪🇺</p>\n\n<br/><br/><p style=\"text-align: center; font-weight: bold; font-size: x-large; line-height: 150%; color: white; text-shadow: 2px 2px black, -2px -2px black, 2px -2px black, -2px 2px black, 0 0 5px black, 0 0 10px black, 0 0 10px black;\">Vous mangez italien, dansez le flamenco ou <br/> apprenez le suédois ?</p>\n\n<p style=\"text-align: center; font-size: x-large; line-height: 150%;\">Partagez vos prises de vue (portraits, paysages, etc.) <br/> qui montrent que l'Europe fait partie de votre vie. <br/>Participez au concours « Europe en images ».</p>\n\n<br/><p style=\"text-align: center; font-size: x-large; line-height: 150%;\"><span style=\"font-weight: bold; font-size: 30pt;color: white; text-shadow: 2px 2px black, -2px -2px black, 2px -2px black, -2px 2px black, 0 0 5px black, 0 0 10px black, 0 0 10px black;\">À GAGNER</span> : un séjour à Bruxelles où un <br/> atelier cuisine.</p>",
         "query": "Que propose ce concours ?",
         "options": [
@@ -131,7 +131,7 @@
     },
     {
         "id": 11,
-        "testId": 32,
+        "testId": 185,
         "text": "Vous souhaitez vivre une expérience qui sort de l'ordinaire ? Réservez une nuit dans l'une de nos maisons dans les arbres ! Intérieur confortable, sensation d'aventure, réveil aux bruits de la nature, tout est prévu pour un séjour inoubliable !",
         "query": "Qu'est-ce que cette annonce propose ?",
         "options": [
@@ -144,7 +144,7 @@
     },
     {
         "id": 12,
-        "testId": 32,
+        "testId": 185,
         "text": "<svg viewBox=\"0 0 500 150\"><path id=\"curve\" fill=\"transparent\" d=\"M50,100 C130,20 370,20 450,100\" /><text width=\"500\" fill=\"#000000\" style=\"font-size: 40pt;\"><textPath xlink:href=\"#curve\" startOffset=\"50%\"  text-anchor=\"middle\">Chers Clients,</textPath></text></svg>\n\n<p style=\"text-align: center; line-height: 150%; font-size: x-large;font-weight: bold; margin-top: -80px;\">Votre supermarché vous accueille <br/> depuis 60 ans. Le propriétaire et <br/> son équipe vous invitent à une <br/> semaine de festivités. <br/> À partir du 10 août, plus de 1000 <br/> OFFRES EXCEPTIONNELLES et des <br/> réductions JUSQU'À 50% sur les <br/> articles vous attendent.</p>",
         "query": "Qu'est-ce qu'on fête ?",
         "options": [
@@ -157,7 +157,7 @@
     },
     {
         "id": 13,
-        "testId": 32,
+        "testId": 185,
         "text": "## <p style=\"text-align: center; line-height: 150%; background: #1d1d1d; color: white; padding: 10px;\">Vous toussez ?</p>\n\n### <p style=\"text-align: center;\">Suivez les conseils de votre pharmacien.</p>\n\nLa toux peut être aggravée par votre environnement : la pollution, le pollen, un air sec, des changements de température... Pour vous protéger : gardez votre gorge au chaud quand il fait froid, aérez votre chambre, mettez quelques feuilles de menthe dans vos paquets de mouchoirs et évitez de faire du sport dans les endroits pollués et où il y a de la fumée. Et si vous toussez beaucoup, **consultez votre médecin**.",
         "query": "Que conseille cet article en cas ?",
         "options": [
@@ -170,7 +170,7 @@
     },
     {
         "id": 14,
-        "testId": 32,
+        "testId": 185,
         "text": "<p style=\"text-align: center; line-height: 180%; font-size:x-large;\">Le week-end prochain, l'école de musique ouvre <br/> ses portes aux habitants de la ville et des environs. <br/> Venez rencontrer nos professeurs. <br/> Essayez de jouer de la guitare, de la trompette, du <br/> piano où d'un autre instrument que vous aimez! <br/> <b>Informations au 02 97 86 87 88.</b></p>",
         "query": "Qu'est ce qu’on peut faire à l’école de musique ?",
         "options": [
@@ -183,7 +183,7 @@
     },
     {
         "id": 15,
-        "testId": 32,
+        "testId": 185,
         "text": "## <p style=\"text-align: center; line-height: 150%; border: 1px black solid; padding: 20px; margin: 0 50px;\">BLOG DE L'ASSOCIATION <br/> DE TENNIS MONTRÉAL</p>\n\n<p style=\"text-align: center; line-height: 180%; font-size:x-large;\">Vous aimez le tennis et vous voulez <br/> partager votre passion ? <br/> Votre histoire nous intéresse ! Comment <br/> est-ce que vous avez commencé ? Avec qui <br/> est-ce que vous jouez ? Quels sont vos <br/> sentiments quand vous gagnez ? <br/> Envoyez-nous votre article avant le <b>15 juin</b>.</p>",
         "query": "Que propose ce blog ?",
         "options": [
@@ -196,7 +196,7 @@
     },
     {
         "id": 16,
-        "testId": 32,
+        "testId": 185,
         "text": "À partir d'expériences menées dans les années 1970 à New-York, des municipalités ont décidé de mettre de plus en plus d'espaces urbains à la disposition des habitants. Dans certaines villes, on délivre des permis de végétaliser aux personnes désireuses de faire pousser ce que bon leur semble dans leur quartier, avec pour seul impératif de s'engager à utiliser des espèces locales et des plantes susceptibles d'attirer les abeilles, sans employer ni insecticides ni pesticides. Parmi les avantages, on peut citer par exemple l'engazonnement qui limite les nuisances sonores, la spéculation immobilière et le bétonnage excessif.",
         "query": "Que proposent certaines villes aux habitants ?",
         "options": [
@@ -209,7 +209,7 @@
     },
     {
         "id": 17,
-        "testId": 32,
+        "testId": 185,
         "text": "Pour bien profiter de vos vacances, oubliez vos courriels professionnels. Mais comment éviter de lire ses messages sans se retrouver avec une boîte pleine à son retour ? Il est nécessaire de préparer en amont son départ en vacances : laisser sur votre boîte un message qui précise vos dates d'absence. Cette solution toute simple réduira le nombre de messages que vous recevrez chaque jour.\n\nQuant à l'angoisse de retrouver au bureau une boîte chargée de centaines de courriels, sachez que si vous rentrez reposé, parcourir les mille qui vous attendent ne vous semblera pas un défi insurmontable.",
         "query": "Que met en avant cat article ?",
         "options": [
@@ -222,7 +222,7 @@
     },
     {
         "id": 18,
-        "testId": 32,
+        "testId": 185,
         "text": "**REGAIN**\n\nFrance 2\n\n<p style=\"text-align: right;\">20 h 55</p>\n\nFilm de Marcel Pagnol (1937) d'après le roman de Jean Giono.\n\nUn village abandonné en Haute Provence reprend vie grâce à l'arrivée d'une femme qui se lie d'amitié avec l'un des derniers habitants du lieu.",
         "query": "De quoi parle le film \"Regain\" de Marcel Pagnol ?",
         "options": [
@@ -235,7 +235,7 @@
     },
     {
         "id": 19,
-        "testId": 32,
+        "testId": 185,
         "text": "Il y a quelque chose de rare dans « *Normandie nue* »: ce film est résolument léger, tout en ayant du fond. À travers une histoire qui sert de fil conducteur cocasse et insolite - celle d'un artiste américain qui veut photographier des paysans dévêtus -, « *Normandie nue* » aborde la crise des éleveurs avec beaucoup d'humanité, notamment grâce au maire du village qui voit dans la venue du photographe l'occasion de faire valoir sa cause aux yeux de la planète. Parfois un peu maladroite, cette comédie amuse en caricaturant gentiment les médias, les artistes et les bobos parisiens en mal de verdure.",
         "query": "Quelle est l'opinion du journaliste sur le film « Normandie nue » ?",
         "options": [
@@ -248,7 +248,7 @@
     },
     {
         "id": 20,
-        "testId": 32,
+        "testId": 185,
         "text": "En Provence et sur la Côte d'Azur, les campagnes sont jalonnées d'oliviers, d'orangers et autres pruniers dont les fruits ne sont jamais ramassés. À Grasse, l'association d'insertion Renouer a eu l'excellente idée de valoriser ces denrées pour s'autofinancer. Depuis 2012, la structure intervient dans les vergers de particuliers via des cueillettes dites solidaires. « Nous répertorions des parcelles laissées en friche et nous proposons aux propriétaires de ramasser les fruits à leur place » précise Sophie Allain, bénévole qui coordonne l'opération. Tous les ans, l'action mobilise entre 10 et 15 employés en insertion ainsi que des citoyens séduits par la dimension à la fois sociale et écologique de l'initiative.",
         "query": "Quelle est l'activité de cette association ?",
         "options": [
@@ -261,7 +261,7 @@
     },
     {
         "id": 21,
-        "testId": 32,
+        "testId": 185,
         "text": "Les consommateurs du passé acceptaient de manger de la viande en se souvenant que derrière il y avait un animal. Aujourd'hui, on achète du poisson, mais on ne veut pas voir les yeux et les arêtes. On veut un bifteck anonyme. Si l'on nous dit que derrière le steak il y avait une génisse de 18 mois, ça nous coupe l'appétit. Il s'agit de la consommation d'une viande qui n'a plus aucune référence à l'animal. En fait, on ne veut pas savoir ce que l'on mange, bien qu'en même temps, on veuille être sûr de ce que l'on mange.",
         "query": "Quel est le paradoxe évoqué à propos des consommateurs ?",
         "options": [
@@ -274,7 +274,7 @@
     },
     {
         "id": 22,
-        "testId": 32,
+        "testId": 185,
         "text": "Le smartphone participe à l'entretien d'un lien pathologique de plus en plus répandu, le désir de mainmise des parents sur les adolescents. La crise d'adolescence confronte les parents au désir d'autonomie de l'adolescent, et les oblige à faire le deuil de leur position de parent. Cela suppose qu'ils lâchent prise et fassent confiance à leur enfant. Mais de plus en plus de parents souhaitent que leur ado reste à la maison. Le smartphone, qui permet de rester en lien avec ses copains, arrange donc les parents.\n\n<br/><p style=\"text-align: right;\">D'après <i>lexpress.fr</i></p>",
         "query": "Quel constat fait l'auteur à propos des smartphones ?",
         "options": [
@@ -287,7 +287,7 @@
     },
     {
         "id": 23,
-        "testId": 32,
+        "testId": 185,
         "text": "La profession de marionnettiste a bien changé. « C'est un métier qui a beaucoup évolué et qui est devenu un art du théâtre à part entière », explique Lucile Bodson, directrice de l'École supérieure des arts de la marionnette (ESNAM). Et parce que la profession et la technique ont progressé, l'école propose un cursus pluridisciplinaire original. « La formation inclut non seulement les arts plastiques et la construction de marionnettes, le jeu dramatique et la manipulation mais aussi le travail sur la compréhension de la dramaturgie, la réalisation de synopsis, le rapport au corps et à l'espace ainsi que sur l'image », précise la directrice de l'ESNAM.",
         "query": "Quelle est la particularité de cette école ?",
         "options": [
@@ -300,7 +300,7 @@
     },
     {
         "id": 24,
-        "testId": 32,
+        "testId": 185,
         "text": "Cherchant à promouvoir les acteurs nationaux de l'ameublement, du design et de la décoration d'intérieure, le site ......fr présente à ses clients, sur la boutique en ligne, des produits variés-mobilier et outils pour le jardin, tables basses, papiers peints, linge de maison... tous fabriqués en France. Mieux encore, la livraison se fait directement du fabricant au client. Ce choix permet de diminuer l'impact environnemental en supprimant plusieurs intermédiaires tout en accordant aux enseignes la possibilité de réaliser des marges plus intéressantes. Ce site « 100% made in France » collabore aujourd'hui sur une centaine de marques.",
         "query": "Qu'apprend-on à propos de ce site ?",
         "options": [
@@ -313,7 +313,7 @@
     },
     {
         "id": 25,
-        "testId": 32,
+        "testId": 185,
         "text": "**Une AMAP**, un magasin de producteurs où une cueillette à la ferme : les circuits courts gagnent du terrain et ils s'étendent sur tout le territoire. Ils touchent désormais toutes les couches de la population, jeunes, retraités, urbains et ruraux.\n\nLes raisons de ce succès sont diverses. D'une part, les consommateurs sont en quête de qualité et de transparence quant à l'origine des produits. Ils sont aussi conscients des difficultés que connaissent les agriculteurs et ont compris que, grâce à leurs achats, ils pouvaient défendre l'économie locale. D'autre part, les producteurs cherchent de nouveaux débouchés et un contact approfondi avec les clients. Il s'agit donc d'une tendance qui répond aux attentes des uns et des autres.\n\n<br/>***AMAP : association pour le maintien d'une agriculture paysanne**\n\n<br/><p style=\"text-align: right;\">D'après <i>Essentiel santé magazine</i></p>",
         "query": "Pour quelle raison les consommateurs utilisent-ils les circuits courts ?",
         "options": [
@@ -326,7 +326,7 @@
     },
     {
         "id": 26,
-        "testId": 32,
+        "testId": 185,
         "text": "Le rapport de l'Agence internationale de l'énergie se concentre sur les données de la dernière conférence climatique. Il contient une information intéressante : d'après l'agence, les réserves mondiales de gaz sont plus importantes que prévues. Le marché mondial serait même sous la menace d'un excédent massif, en raison de l'essor de la production américaine et d'une chute de la demande liée à la crise.",
         "query": "Qu'a révélé le rapport de l'Agence internationale de l'énergie?",
         "options": [
@@ -339,7 +339,7 @@
     },
     {
         "id": 27,
-        "testId": 32,
+        "testId": 185,
         "text": "## CACHE-CACHE GÉANT\n\nUn magasin de meubles, membre d'une chaîne bien connue, a dû faire intervenir la price dans ses rayons pour interrompre une partie de cache-cache lancée via les réseaux sociaux et intéressant plusieurs milliers de personnes. Ironie de l'histoire, c'est pourtant la chaîne elle-même qui avait lancé la mode en proposant des jeux dans certains de ses magasins. 500 personnes y avaient alors participé. Un succès qui avait donné des idées et conduit à de nombreux autres événements du même genre un peu partout en Europe, sans l'autorisation de la firme.",
         "query": "De quoi est-il question dans cet article ?",
         "options": [
@@ -352,7 +352,7 @@
     },
     {
         "id": 28,
-        "testId": 32,
+        "testId": 185,
         "text": "## <p style=\"text-align: center;\">DRAGONS CHINOIS À PARIS</p>\n\nC'est avec enthousiasme que le départ des festivités pour célébrer le Nouvel An chinois a été donné hier à 14 h 30 sur la place de l'Hôtel de Ville. Devant une foule joyeuse, éclairés par de petites lumières rouges, les dragons et les tigres ont commencé leur danse rythmée par les tambours. Si vous avez manqué ce défilé coloré, vous pourrez toujours vous rattraper aujourd'hui, car il y en a un autre de prévu à 11 h 30 au métro Belleville.\n\n<br/>D'après <i>Le Parisien</i>",
         "query": "Qu'a-t-on pu voir place de l'Hôtel de Ville ?",
         "options": [
@@ -365,9 +365,9 @@
     },
     {
         "id": 29,
-        "testId": 32,
+        "testId": 185,
         "text": "Au sein du groupe des 16-un rassemblement regroupant syndicats enseignants et représentants de parents d'élèves - l'idée d'une journée de grève n'a pas fait l'unanimité. Même si la dernière mobilisation a été bonne, les enseignants regardent désormais à deux fois dans leur portefeuille, avant de sacrifier une journée de salaire. « On a la crainte de ne pas être assez nombreux », reconnaît le co-secrétaire général du Syndicat national des enseignements du second degré. Résultat, une autre forme d'action est à l'étude comme « Les jeudis de l'éducation »: un rendez-vous hebdomadaire qui associerait familles et enseignants autour d'une réflexion sur le devenir de l'école.",
-        "query": "Sur quoi les avis de ces acteurs de l'éducation diffèrent-ils ?",
+        "query": "Sur quoi les avis de ces acteurs de l'éducation différent-ils ?",
         "options": [
             "La mise en œuvre d'une action collective.",
             "La mission des organisations professionnelles.",
@@ -378,7 +378,7 @@
     },
     {
         "id": 30,
-        "testId": 32,
+        "testId": 185,
         "text": "J'ai beau être un styliste très reconnu, je ne dirai jamais que j'ai créé la robe parfaite! Je n'aime pas la perfection, ni les gens parfaits. Je hais qu'on me le dise : « **Oui, tout va très bien !** », alors qu'il y a des problèmes. Quand je suis arrivé à Paris, le mot que j'ai le plus entendu était « non ». J'aime vivre avec ce « non » car j'ai peur de la perfection. Elle est synonyme de fin puisque c'est le doute et l'insatisfaction qui font revenir à l'atelier et tout recommencer, tout améliorer. Le « non » ne cache pas la réalité, et cela stimule.",
         "query": "Comment le styliste interprète-t-il le mot « non » ?",
         "options": [
@@ -391,7 +391,7 @@
     },
     {
         "id": 31,
-        "testId": 32,
+        "testId": 185,
         "text": "Deux petites saisons et puis s'en vont. Sur les plates-formes de streaming vidéo par abonnement, les séries ont beau être reines, elles n'en sont pas moins soumises à rude concurrence. Et leur durée de vie peut se révéler bien plus courte que sur les chaînes traditionnelles. Cette stratégie ne doit rien au hasard. Dans leur objectif de conquête de nouveaux abonnés, les plates-formes accordent en effet plus de vertus à la nouveauté qu'à la longévité. Quitte à décevoir certains fans qui payent un service de streaming spécialisé dont le baromètre de satisfaction devrait en théorie être plus important que celui de l'audimat.\n\n<br/><p style=\"text-align: right;\">D'après <i>lemonde.fr</i></p>",
         "query": "D'après l'article, que privilégient les plates-formes de streaming ?",
         "options": [
@@ -404,7 +404,7 @@
     },
     {
         "id": 32,
-        "testId": 32,
+        "testId": 185,
         "text": "Les additifs et conservateurs, ces poudres de perlimpinpin, rendent appétissant un produit médiocre afin de mieux le vendre. C'est le cas des colorants si la préparation est terne, des exhausteurs de goût de type glutamate si elle est fade, des agents de texture si elle est sans consistance, ou des arômes si elle est insipide ou a carrément mauvais goût. On vous dit que les conservateurs ou antioxydants (sorbates, nitrites, sulfites...) servent à vous protéger de possibles intoxications bactériennes, mais ils servent surtout à prolonger les dates limites de consommation, afin de laisser plus de temps aux industriels et aux supermarchés pour commercialiser leur marchandise.",
         "query": "Que critique cet article ?",
         "options": [
@@ -417,20 +417,20 @@
     },
     {
         "id": 33,
-        "testId": 32,
-        "text": "Une surenchère médiatique accable le tourisme d'activité sympathique, il devient une cible à abattre. Pourtant, depuis la généralisation des congés payés, le tourisme représente une expression positive de la société de consommation. Il a permis à des millions de personnes de visiter d'autres territoires. Il n'y a pas de « surtourisme ». Il n'y a que des personnes qui ne savent pas gérer les équilibres de leurs territoires. La cause ? L'appât du gain. Tous les maillons de la chaîne sont concernés : élus qui votent des plans de développement massifs, professionnels qui veulent leur part du gâteau sans penser à la saturation, habitants qui profitent de la flambée immobilière pour vendre leur bien à prix d'or.\n\n<br/><p style=\"text-align: right;\">D'après <i>lemonde.fr</i></p>",
+        "testId": 185,
+        "text": "Une surenchère médiatique accable le tourisme : d'activité sympathique, il devient une cible à abattre. Pourtant, depuis la généralisation des congés payés, le tourisme représente une expression positive de la société de consommation. Il a permis à des millions de personnes de visiter d'autres territoires. Il n'y a pas de « surtourisme ». Il n'y a que des personnes qui ne savent pas gérer les équilibres de leurs territoires. La cause ? L'appât du gain. Tous les maillons de la chaîne sont concernés : élus qui votent des plans de développement massifs, professionnels qui veulent leur part du gâteau sans penser à la saturation, habitants qui profitent de la flambée immobilière pour vendre leur bien à prix d'or.\n\n<br/><p style=\"text-align: right;\">D'après <i>lemonde.fr</i></p>",
         "query": "Que déplore l'auteur de cet article ?",
         "options": [
             "La pénurie de logement liée à la présence des touristes.",
             "L'avidité financière des acteurs du secteur touristique.",
             "Le mépris des touristes pour les considérations écologiques.",
-            "L’exclusion des classes populaires des activités touristiques."
+            "L'exclusion des classes populaires des activités touristiques."
         ],
         "answer": 1
     },
     {
         "id": 34,
-        "testId": 32,
+        "testId": 185,
         "text": "Souvent critiquée pour la qualité de son service, la société berlinoise des transports en commun a fait parler d'elle, en proposant 500 paires de « chaussures-billets » aux couleurs des banquettes du métro berlinois. Vendues 180 euros, ces baskets incluent un abonnement annuel métro - bus - tram (hors trains de banlieue), contre 761 euros pour un forfait classique. Les consommateurs séduits par ce concept commercial qui permet de voyager presque gratuitement sur une partie du réseau ont formé une longue file d'attente. Certains ont même tenté de revendre en ligne leur paire « collector », à un tarif de base quintuplé.\n\n<br/><p style=\"text-align: right;\">D'après <i>lexpress.fr</i></p>",
         "query": "Quel est l'objectif de la société berlinoise des transports ?",
         "options": [
@@ -443,7 +443,7 @@
     },
     {
         "id": 35,
-        "testId": 32,
+        "testId": 185,
         "text": "On estime que grâce au développement des technologies, 55% des salariés qui travaillent aujourd'hui devant un écran pourraient devenir des télétravailleurs. Les avantages ? Une meilleure productivité individuelle car les télétravailleurs se focalisent avant tout sur les résultats. Autre intérêt : réduire les déplacements et diminuer le stress. C'est le cas d'Emmanuel Denner, 40 ans, directeur d'une ligne de produits dans une grande entreprise. « Les jeudis et les vendredis, je suis à mon bureau... mais à la maison. J'économise 70 kilomètres de trajets par jour. Cette solution apporte confort et plaisir, et cela se ressent dans la qualité du travail ». Mais le principal frein au développement du télétravail se rencontre dans l'esprit du management traditionnel. Le chef d'entreprise aime bien avoir l'œil sur ses salariés et ceux-ci ont également besoin de se sentir intégrés à une équipe.",
         "query": "Selon ce texte, qu'est-ce qui empêche le développement du télétravail ?",
         "options": [
@@ -456,7 +456,7 @@
     },
     {
         "id": 36,
-        "testId": 32,
+        "testId": 185,
         "text": "Instaurer un grand oral pour réformer le baccalauréat est un nouveau défi à relever pour le système éducatif français. L'oral a autant d'importance que l'écrit. Il a ses règles propres et ses méthodes d'apprentissage : selon moi, une quinzaine d'heures suffit avec douze élèves pour arriver à parler debout devant les autres de façon argumentée. Bien loin d'être un discriminant social, l'oral peut être une formidable opportunité de réussite pour tous les élèves, à condition qu'il s'agisse bien d'une épreuve orale et non d'un écrit transposé à l'oral. Contrairement aux idées reçues, je pense que l'oral ne demande quasiment pas de prérequis ni un quelconque talent de naissance venu d'une fée - y compris sociale - qui se serait penchée sur le berceau.",
         "query": "Selon l'auteur, quel est l'intérêt d'une épreuve orale au baccalauréat ?",
         "options": [
@@ -469,7 +469,7 @@
     },
     {
         "id": 37,
-        "testId": 32,
+        "testId": 185,
         "text": "L'individualisme a souvent mauvaise presse dans les discours actuels. On a tendance à lui imputer tous les maux de nos sociétés: égoïsme, compétition, exclusion, communautarisme, voire déliquescence morale... Erreur, explique le sociologue François de Singly dans un petit essai percutant. On assimile l'individualisme à ces réactions adolescentes du type « j'ai bien le droit de faire ce que je veux », alors qu'il est tout le contraire. Fruit d'une pensée élaborée depuis la Renaissance, l'individualisme est un projet de société dans lequel chacun devrait trouver les meilleures conditions de son épanouissement.\n\n<br/><p style=\"text-align: right;\">D'après <i>scienceshumaines.com</i></p>",
         "query": "Qu'explique François de Singly à propos de l'individualisme ?",
         "options": [
@@ -482,9 +482,9 @@
     },
     {
         "id": 38,
-        "testId": 32,
+        "testId": 185,
         "text": "Le nombre de travailleurs indépendants progresse : il devient simple d'être à son compte, avec pour unique outil un ordinateur. Mais le risque est de se retrouver coupé des autres. Or, notre créativité et notre productivité sont dépendantes des rencontres que nous faisons. Conserver un lien social est indispensable à notre bien-être, donc à notre travail. L'espace partagé de travail se présente comme une solution : il favorise les moments de détente et les contacts professionnels. D'ailleurs, les travailleurs utilisant ces espaces s'associent souvent temporairement pour répondre à une mission. Ces aménagements pourraient donc devenir essentiels à de nombreux jeunes diplômés.",
-        "query": "Que cet article insiste-t-il ?",
+        "query": "Sur quoi cet article insiste-t-il?",
         "options": [
             "L'importance de la gestion des ressources humaines.",
             "L'intérêt d'éviter les inconvénients liés à l'isolement.",
@@ -495,7 +495,7 @@
     },
     {
         "id": 39,
-        "testId": 32,
+        "testId": 185,
         "text": "Le conseil suédois de la mode a annoncé ne plus vouloir cautionner les pratiques particulièrement polluantes de l'industrie textile et a donc décidé de ne plus organiser de semaine de la mode cette année dans sa forme traditionnelle. L'industrie suédoise de la mode étant en pleine expansion, il lui semble crucial d'encourager le développement de marques qui façonneront respectueusement le monde de demain. Il s'agit de cette façon de s'adapter aux nouvelles demandes, d'atteindre des objectifs écologiques et d'instaurer de nouveaux modèles de développement durable au sein de cette industrie.",
         "query": "Qu'a décidé le conseil suédois de la mode ?",
         "options": [
