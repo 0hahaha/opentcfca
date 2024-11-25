@@ -110,7 +110,7 @@
     {
         "id": 9,
         "testId": 162,
-        "text": "— Je pars au stade faire un peu de sport. Et toi, qu'est-ce que tu fais cet après-midi?\n\n— J'emmène les enfants à une exposition sur les jouets. Tu crois qu'ils vont aimer ?\n\nA. Bien sûr, voilà une bonne sortie culturelle.\n\nB. Certainement, ils adorent faire les magasins.\n\nC. D'accord, n'oublie pas leur maillot de bain.\n\nD. Probablement, au parc, ils pourront courir un peu.",
+        "text": "ccupe de ma n Je pars au stade faire un peu de sport. Et toi, qu'est-ce que tu fais cet après-midi?\n\n— J'emmène les enfants à une exposition sur les jouets. Tu crois qu'ils vont aimer ?\n\nA. Bien sûr, voilà une bonne sortie culturelle.\n\nB. Certainement, ils adorent faire les magasins.\n\nC. D'accord, n'oublie pas leur maillot de bain.\n\nD. Probablement, au parc, ils pourront courir un peu.",
         "audio": "/mp3/162/9.mp3",
         "options": [
             "Proposition A.",
@@ -139,10 +139,10 @@
         "text": "— Ça ne va pas? Tu es malade?\n\n— Non, mais mon mari vient de réserver un appartement à la montagne pour 15 jours. Au programme, randonnée, vélo et escalade.\n\n— C'est génial!\n\n— C'est affreux, tu veux dire. Moi, je rêvais de deux semaines de repos et de lecture.\n\nDe quoi discutent les deux femmes?",
         "audio": "/mp3/162/11.mp3",
         "options": [
-            "D’un prochain déménagement.",
+            "D'un prochain déménagement.",
             "De sport pour le week-end.",
             "De vacances en famille.",
-            "D’un problème de santé."
+            "D'un problème de santé."
         ],
         "answer": 2
     },
@@ -292,7 +292,7 @@
     {
         "id": 23,
         "testId": 162,
-        "text": "— Est-ce que c'est toujours compatible ça, d'avoir beaucoup d'heures de sport comme ça et pouvoir concilier les études aussi?\n\n— Non, spontanément c'est pas toujours compatible et puis c'est un grand paradoxe qui s'installe d'entrée de jeu parce que on fait faire du sport à nos enfants pour développer des valeurs, des valeurs de rigueur, de saines habitudes de vie, de qualité de vie et puis on se retrouve à devoir composer avec des attitudes qui ne sont pas très très de grande qualité. On va faire manger les enfants dans la voiture en s'en allant à l'aréna, on va faire des devoirs 2-3 fois plus parce qu'on sait que tel ou tel jour on n'aura pas le temps de les faire. Donc, on fait plusieurs entorses à l'hygiène de vie parfois pour réussir à rencontrer les horaires.\n\nQu'est-ce qui inquiète cette mère de famille?",
+        "text": "— Est-ce que c'est toujours compatible ça, d'avoir beaucoup d'heures de sport comme ça et pouvoir concilier des études aussi?\n\n— Non, spontanément c'est pas toujours compatible et puis c'est un grand paradoxe qui s'installe d'entrée de jeu parce que on fait faire du sport à nos enfants pour développer des valeurs, des valeurs de rigueur, sens d'habitude de vie, de qualité de vie et puis on se retrouve à devoir composer avec des attitudes qui ne sont pas très très de grande qualité. On va faire manger les enfants dans la voiture en s'en allant à l'aréna, on va faire des devoirs 2-3 fois plus parce qu'on sait que tel ou tel jour on n'aura pas le temps de les faire. Donc, on fait plusieurs entorses à l'hygiène de vie parfois pour réussir à rencontrer les horaires.\n\nQu'est-ce qui inquiète cette mère de famille?",
         "audio": "/mp3/162/23.mp3",
         "options": [
             "La fréquence des compétitions sportives.",
@@ -318,7 +318,7 @@
     {
         "id": 25,
         "testId": 162,
-        "text": "— CDV Formation, bonjour.\n\n— Bonjour. Je suis intéressé par votre formation en vente.\n\n— Oui ? Quel est votre parcours ?\n\n— Je suis déménageur depuis 4 ans. Je voudrais me réorienter.\n\n— Malheureusement, notre formation s'adresse à des personnes déjà expérimentées en vente.\n\n— Je vois. Mais j'y pense. J'ai travaillé deux étés comme caissier en supermarché. C'est suffisant ?\n\n— Envoyez-nous un CV et une lettre de motivation. Nous étudierons votre candidature.\n\n— Je m'en occupe. Merci. Au revoir.\n\n— Au revoir.\n\nPour quelles raisons la jeune femme accepte-t-elle de recevoir la candidature de ce monsieur ?",
+        "text": "— CDV Formation, bonjour.\n\n— Bonjour. Je suis intéressé par votre formation en vente.\n\n— Oui ? Quel est votre parcours ?\n\n— Je suis déménageur depuis 4 ans. Je voudrais me réorienter.\n\n— Malheureusement, notre formation s'adresse à des personnes déjà expérimentées en vente.\n\n— Je vois. Mais j'y pense. J'ai travaillé deux étés comme caissier en supermarché. C'est suffisant ?\n\n— Envoyez-nous un CV et une lettre de motivation. Nous étudierons votre candidature.\n\n— Je m'en occupe. Merci. Au revoir.\n\n— Au revoir.\n\nPour quelle raison la jeune femme accepte-t-elle de recevoir la candidature de ce monsieur ?",
         "audio": "/mp3/162/25.mp3",
         "options": [
             "Il a quatre ans d’expérience.",
@@ -344,7 +344,7 @@
     {
         "id": 27,
         "testId": 162,
-        "text": "— Delphine Manseau, en tant que directrice de l'Institut pour l'innovation et la compétitivité, pensez-vous que tout le monde peut être innovant ?\n\n— On croit souvent que l'innovation survient par hasard et qu'il s'agit d'un don individuel. Mais être innovant et créatif, ça s'apprend.\n\n— Alors, comment rend-t-on un étudiant innovant, par exemple ?\n\n— Il faut différencier l'innovation individuelle et la capacité à être innovant collectivement. Nous avons donc mis en place des programmes pour apprendre aux jeunes à conduire des projets innovants dans le cadre d'équipes diversifiées. Comment favorise-t-on l'innovation chez les jeunes dans cet institut ?",
+        "text": "— Delphine Manseau, en tant que directrice de l'Institut pour l'innovation et la compétitivité, pensez-vous que tout le monde peut être innovant ?\n\n— On croit souvent que l'innovation survient par hasard et qu'il s'agit d'un don individuel. Mais être innovant et créatif, ça s'apprend.\n\n— Alors, comment rend-t-on un étudiant innovant, par exemple ?\n\n— Il faut différencier l'innovation individuelle et la capacité à être innovant collectivement. Nous avons donc mis en place des programmes pour apprendre aux jeunes à conduire des projets innovants dans le cadre d'équipes diversifiées.\n\nComment favorise-t-on l'innovation chez les jeunes dans cet institut ?",
         "audio": "/mp3/162/27.mp3",
         "options": [
             "En les incitant à travailler de manière collaborative.",
@@ -487,7 +487,7 @@
     {
         "id": 38,
         "testId": 162,
-        "text": "— Pour faciliter l'installation des compagnies minières, il faut bâtir des routes, mais aussi des logements. Le nombre de citoyens affermant une ville en plein boom minier va doubler, comme l'explique sa mairesse.\n\n— Il y a des secteurs de rue qui vont ouvrir d'ici les prochaines semaines, d'ici le prochain mois. Pourquoi ? Pour répondre aux besoins de construire des logements, des habitations, des bungalows, des appartements aussi pour les gens. C'est tout un défi qu'on a à relever.\n\nSelon cet élu, en quoi consiste le défi à relever ?",
+        "text": "— Pour faciliter l'installation des compagnies minières, il faut bâtir des routes, mais aussi des logements. Le nombre de citoyens à Fermont, une ville en plein boom minier, va doubler, comme l'explique sa mairesse.\n\n— Il y a des secteurs de rue qui vont ouvrir d'ici les prochaines semaines, d'ici le prochain mois. Pourquoi ? Pour répondre aux besoins de construire des logements, des habitations, des bungalows, des appartements aussi pour les gens. C'est tout un défi qu'on a à relever.\n\nSelon cet élu, en quoi consiste le défi à relever ?",
         "audio": "/mp3/162/38.mp3",
         "options": [
             "Mettre en place toutes les infrastructures d’accueil.",

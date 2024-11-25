@@ -244,7 +244,7 @@
     {
         "id": 19,
         "testId": 155,
-        "text": "— Tout le monde rêve de faire de la proximité, d'être proche des auditeurs, alors quand on est une radio associative, locale, on a plus de facilité. Vous, chaque vendredi, vous ouvrez le local à 13h, on peut venir avec son panier et on partage en commun le repas.\n\n— Tout à fait, et là pour la fin de l'année, on a donc lancé une invitation à tous ceux qui voudraient pour venir manger avec nous et réaliser une émission collective de fin d'année, un petit peu festive.\n\nQue propose chaque semaine cette radio à ses auditeurs ?",
+        "text": "— Tout le monde rêve de faire de la proximité, d'être proche des auditeurs, alors quand on est une radio-associative locale, on a plus de facilité. Vous, chaque vendredi, vous ouvrez le local à 13h, on peut venir avec son panier et on partage en commun le repas.\n\n— Tout à fait, et là, pour la fin de l'année, on a donc lancé une invitation à tous ceux qui voudraient pour venir manger avec nous et réaliser une émission collective de fin d'année, un petit peu festive.\n\nQue propose chaque semaine cette radio à ses auditeurs ?",
         "audio": "/mp3/155/19.mp3",
         "options": [
             "De déjeuner ensemble.",
@@ -257,7 +257,7 @@
     {
         "id": 20,
         "testId": 155,
-        "text": "— On dit souvent qu'à Londres, on peut changer de job quasiment comme de chemise. Est-ce que c'est toujours vrai?\n\n— Il est toujours facile de passer d'un job à l'autre. Le diplôme a beaucoup moins d'importance. On va surtout regarder les postes que vous avez déjà occupés. On va aussi tenir compte de vos motivations. C'est vrai qu'on vous donne aussi la possibilité d'augmenter assez… enfin, comment dire, de franchir les étapes beaucoup plus rapidement. On retrouve assez régulièrement des personnes vers 22-23 ans et déjà managers, tandis qu'en France, c'est quand même un petit peu plus compliqué.\n\nQue dit cette intervenante au sujet du travail à Londres ?",
+        "text": "— On dit souvent qu'à Londres, on peut changer de job quasiment comme de chemise. Est-ce que c'est toujours vrai?\n\n— Il est toujours facile de passer d'un job à l'autre. Le diplôme a beaucoup moins d'importance. On va surtout regarder les postes que vous avez déjà occupés. On va aussi tenir compte de vos motivations. C'est vrai qu'on vous donne aussi la possibilité d'augmenter assez… enfin… comment dire… de franchir les étapes beaucoup plus rapidement. On retrouve assez régulièrement des personnes vers 22-23 ans et déjà managers, tandis qu'en France, c'est quand même un petit peu plus compliqué.\n\nQue dit cette intervenante au sujet du travail à Londres ?",
         "audio": "/mp3/155/20.mp3",
         "options": [
             "Le recrutement se fonde sur l’expérience.",
@@ -270,7 +270,7 @@
     {
         "id": 21,
         "testId": 155,
-        "text": "— Bonjour monsieur, je viens transférer ma ligne téléphonique. J'emménage demain dans les logements neufs de la rue de l'université.\n\n— Oh là là, ça ne sera pas fini avant dix jours. Les travaux ne sont pas encore terminés. Le promoteur a eu du retard. Nous attendons son autorisation pour installer le réseau. \n\n— Dix jours ? Mais comment je fais sans téléphone moi ? J'en ai besoin pour mon travail.\n\n— Je suis désolé monsieur, mais vous n'êtes pas le seul dans ce cas et on ne peut pas aller plus vite que les travaux.\n\nPourquoi le client n'obtient-il pas le transfert de sa ligne téléphonique ?",
+        "text": "— Bonjour monsieur, je viens transférer ma ligne téléphonique. J'emménage demain dans les logements neufs de la rue de l'université.\n\n— Oh là là, ça ne sera pas fini avant dix jours. Les travaux ne sont pas encore terminés. Le promoteur a eu du retard. Nous attendons son autorisation pour installer le réseau.\n\n— Dix jours ? Mais comment je fais sans téléphone moi ? J'en ai besoin pour mon travail.\n\n— Je suis désolé monsieur, mais vous n'êtes pas le seul dans ce cas et on ne peut pas aller plus vite que les travaux.\n\nPourquoi le client n'obtient-il pas le transfert de sa ligne téléphonique ?",
         "audio": "/mp3/155/21.mp3",
         "options": [
             "Le promoteur a oublié de prévenir la compagnie de téléphone.",
@@ -296,13 +296,13 @@
     {
         "id": 23,
         "testId": 155,
-        "text": "— Bonjour! Je suis nouveau à Charlebourg. Vous sauriez ce que je dois faire de mon arbre de Noël pour qu'il soit ramassé ?\n\n— Vous n'avez qu'à déneiger devant chez vous, et puis le laisser dans la rue. La collecte a lieu demain matin. Il est grain, votre arbre ?\n\n— Hum. Regardez. Je l'ai mis dans le jardin. Il fait bien trois mètres de haut. \n\n— Alors, il faut le couper en deux. Et puis, aussi, enlever tout ce qui est dessus.\n\nQu'est-ce que cette personne cherche à savoir ?",
+        "text": "— Bonjour! Je suis nouveau à Charlebourg. Vous sauriez ce que je dois faire de mon arbre de Noël pour qu'il soit ramassé ?\n\n— Vous n'avez qu'à déneiger devant chez vous, et puis le laisser dans la rue. La collecte a lieu demain matin. Il est grain, votre arbre ?\n\n— Hum. Regardez. Je l'ai mis dans le jardin. Il fait bien trois mètres de haut.\n\n— Alors, il faut le couper en deux. Et puis, aussi, enlever tout ce qui est dessus.\n\nQu'est-ce que cette personne cherche à savoir ?",
         "audio": "/mp3/155/23.mp3",
         "options": [
-            "Comment protéger ses végétaux .",
-            "Comment recycler son sapin .",
-            "Comment replanter un arbre .",
-            "Comment scier une branche ."
+            "Comment protéger ses végétaux.",
+            "Comment recycler son sapin.",
+            "Comment replanter un arbre.",
+            "Comment scier une branche."
         ],
         "answer": 1
     },
@@ -478,7 +478,7 @@
     {
         "id": 37,
         "testId": 155,
-        "text": "— La rénovation urbaine est aujourd'hui plébiscitée par les élus locaux et les habitants des banlieues, mais ce programme a aussi eu des effets pervers selon Renaud Epstein. Il est sociologue, spécialiste des politiques urbaines.\n\n— La mobilisation de milliards d'euros pour changer le bâti et changer l'urbanisme s'est faite aux dépens d'autres domaines d'intervention dans ces mêmes quartiers. Parfois on a pu rebâtir des écoles, mais ça change pas nécessairement les moyens qui sont mis à disposition de ces écoles pour paralyser leurs missions. Il y en a de même pour les équipements sociaux, culturels dans ces quartiers. Est-ce que l'enjeu ne devrait pas être plutôt d'améliorer la qualité de service dans ces quartiers ? Quelle réserve le sociologue Renaud Epstein émit-il?",
+        "text": "— La rénovation urbaine est aujourd'hui plébiscitée par les élus locaux et les habitants des banlieues, mais ce programme a aussi eu des effets pervers selon Renaud Epstein. Il est sociologue spécialiste des politiques urbaines.\n\n— La mobilisation de milliards d'euros pour changer le bâti et changer l'urbanisme, c'est fait au dépens d'autres domaines d'intervention dans ces mêmes quartiers. Parfois on a pu rebâtir des écoles, mais ça ne change pas nécessairement les moyens qui sont mis à disposition de ces écoles pour réaliser leur mission et en même pour les équipements sociaux, culturels dans ces quartiers. Est-ce que l'enjeu ne devrait pas être plutôt d'améliorer la qualité de service dans ces quartiers?\n\nQuelle réserve le sociologue Renaud Epstein émet-il ?",
         "audio": "/mp3/155/37.mp3",
         "options": [
             "Les bâtiments restaurés sont en nombre insuffisant.",

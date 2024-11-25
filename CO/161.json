@@ -197,10 +197,10 @@
     {
         "id": 16,
         "testId": 161,
-        "text": "— Allô ?\n\n— Bonsoir, M. Lequérec. C'est Mme George. J'appelle pour que l'on s'organise pour notre séjour chez vous.\n\n— Bonsoir, madame. Oui, alors nous serons déjà partis quand vous arriverez, donc on ne se verra pas. Mais les clés seront chez la voisine du deuxième étage. Je vous ai préparé des draps et serviettes, et un petit repas froid vous attendra au frigo. Nous vous avons aussi laissé une liste d'activités à faire ici, et des adresses pour sortir dîner.\n\n— Merci beaucoup. C'est très clair.\n\n— De rien. Bon séjour.\n\nQui est M. Lequérec ?",
+        "text": "— Allô ?\n\n— Bonsoir, Monsieur Le Querrec. C'est Mme George. J'appelle pour que l'on s'organise pour notre séjour chez vous.\n\n— Bonsoir, madame. Oui, alors nous serons déjà partis quand vous arriverez, donc on ne se verra pas. Mais les clés seront chez la voisine du deuxième étage. Je vous ai préparé des draps et serviettes, et un petit repas froid vous attendra au frigo. Nous vous avons aussi laissé une liste d'activités à faire ici, et des adresses pour sortir dîner.\n\n— Merci beaucoup. C'est très clair.\n\n— De rien. Bon séjour.\n\nQui est Monsieur Le Querrec ?",
         "audio": "/mp3/161/16.mp3",
         "options": [
-            "Un employé d’agence de voyages.",
+            "Un employé d'agence de voyage.",
             "Un patron de restaurant.",
             "Un propriétaire d’appartement.",
             "Un réceptionniste d’hôtel."
@@ -249,10 +249,10 @@
     {
         "id": 20,
         "testId": 161,
-        "text": "— Vous avez vu l'heure?\n\n— Oui. Je sais, il est un peu tard.\n\n— C'est la troisième fois que vous arrivez en retard cette semaine.\n\n— Je m'excuse.\n\n— Écoutez-moi bien. Votre période d'essai se termine dans 15 jours. Dorénavant, arrivez à l'heure si vous voulez être embauché.\n\nQu'annonce le directeur à l'employé?",
+        "text": "— Vous avez vu l'heure?\n\n— Oui, je sais, il est un peu tard.\n\n— C'est la troisième fois que vous arrivez en retard cette semaine.\n\n— Je m'excuse.\n\n— Écoutez-moi bien, votre période d'essai se termine dans 15 jours. Dorénavant, arrivez à l'heure si vous voulez être embauché.\n\nQu'annonce le directeur à l'employé?",
         "audio": "/mp3/161/20.mp3",
         "options": [
-            "Il est possible qu’il soit renvoyé.",
+            "Il est possible qu'il soit renvoyé.",
             "Il est renvoyé définitivement.",
             "Il va commencer sa période d’essai.",
             "Il va être embauché définitivement."
@@ -353,7 +353,7 @@
     {
         "id": 28,
         "testId": 161,
-        "text": "Le premier à avoir... La première indication que les organismes, et en particulier les animaux, avaient une horloge interne, c'est un droit à un biologie, à un médecin, en fait, suisse, qui observait les abeilles sur... en prenant son petit déjeuner à la terrasse de son chalet. Elle venaient, elle s'étaient attirées par la confiture. Et puis un jour, il faisait mauvais, il a pris son petit déjeuner à l'intérieur, donc les abeilles ne pouvaient pas sentir la confiture, mais elles sont quand même venues le chercher à l'heure où il prenait son petit déjeuner, à l'heure normale. Donc c'est une indication, c'est une indication qu'il y avait pas juste un rythme, mais un mécanisme de mesure du temps. Quelle conclusion le savant a-t-il tirée en observant les abeilles?",
+        "text": "Le premier à avoir... La première indication que les organismes, et en particulier les animaux, avaient une horloge interne, c'est un droit à un biologie, à un médecin, en fait, suisse, qui observait les abeilles sur... en prenant son petit déjeuner à la terrasse de son chalet. Elles venaient, elles s'étaient attirées par la confiture. Et puis un jour, il faisait mauvais, il a pris son petit déjeuner à l'intérieur, donc les abeilles ne pouvaient pas sentir la confiture, mais elles sont quand même venues le chercher à l'heure où ils prenaient sorti à l'heure normale. Donc c'est une indication, c'est une indication qu'il y avait pas juste un rythme, mais un mécanisme de mesure du temps. Quelle conclusion le savant a-t-il tirée en observant les abeilles?",
         "audio": "/mp3/161/28.mp3",
         "options": [
             "Elles ont la notion du temps chronologique.",
@@ -431,7 +431,7 @@
     {
         "id": 34,
         "testId": 161,
-        "text": "La finance solidaire, c'est un compromis entre une recherche de rentabilité, du placement que l'on fait, et une recherche de sens, si on peut dire. Donc, si vous voulez, on va avoir un peu moins de rentabilité, mais peut-être un peu plus de sens. J'appelle le sens, c'est faire un geste vis-à-vis d'autres, vis-à-vis d'entrepreneurs qui vont, par exemple, embaucher des handicapés, embaucher des chômeurs de longue durée, s'endetter pour acheter du matériel économiseur d'énergie. C'est tout un ensemble de démarches et d'outils d'épargne. Il y a un peu moins de rentabilité, peut-être un petit peu plus de sens. En quoi les projets financés par ce type d’épargnes sont-ils particuliers?",
+        "text": "La finance solidaire, c'est un compromis entre une recherche de rentabilité, du placement que l'on fait, et une recherche de sens, si on peut dire. Donc, si vous voulez, on va avoir un peu moins de rentabilité, mais peut-être un peu plus de sens. J'appelle le sens, c'est faire un geste vis-à-vis d'autres, vis-à-vis d'entrepreneurs qui vont, par exemple, embaucher des handicapés, embaucher des chômeurs de longue durée, s'endetter pour acheter du matériel économiseur d'énergie. C'est tout un ensemble de démarches et d'outils d'épargne. Il y a un peu moins de rentabilité, peut-être un petit peu plus de sens. En quoi les projets financés par ce type d'épargnes sont-ils particuliers?",
         "audio": "/mp3/161/34.mp3",
         "options": [
             "Ils concernent des investissements à long terme.",
@@ -470,7 +470,7 @@
     {
         "id": 37,
         "testId": 161,
-        "text": "Dans mon cabinet de recrutement, Internet est devenu un outil indispensable, non seulement pour repérer des candidats potentiels sur la toile, mais également pour la phase d'entretien. Grâce au logiciel de visioconférence, les cadres ne doivent plus se déplacer et parfois faire des centaines de kilomètres pour s'entendre dire après dix minutes d'entretien qu'ils n'ont pas le profil. De plus, l'utilisation de tel logiciel offre un autre avantage considérable, il réduit les discriminations. Comme l'entretien peut être enregistré aussi bien par le candidat que par le recruteur, cela évite les questions déplacées. Enfin, les enregistrements peuvent être visionnés autant de fois qu'on le souhaite ou encore être transmis à nos clients pour plus de transparence et de professionnalisme. Selon cette personne, qu’est-ce que l’utilisation d’Internet apporte au processus de recrutement?",
+        "text": "Dans mon cabinet de recrutement, Internet est devenu un outil indispensable, non seulement pour repérer des candidats potentiels sur la toile, mais également pour la phase d'entretien. Grâce au logiciel de visioconférence, les cadres ne doivent plus se déplacer et parfois faire des centaines de kilomètres pour s'entendre dire après dix minutes d'entretien qu'ils n'ont pas le profil. De plus, l'utilisation de tel logiciel offre un autre avantage considérable: Il réduit les discriminations. Comme l'entretien peut être enregistré aussi bien par le candidat que par le recruteur, cela évite les questions déplacées. Enfin, les enregistrements peuvent être visionnés autant de fois qu'on le souhaite ou encore être transmis à nos clients pour plus de transparence et de professionnalisme. Selon cette personne, qu'est-ce que l'utilisation d'Internet apporte au processus de recrutement?",
         "audio": "/mp3/161/37.mp3",
         "options": [
             "Une diminution de la longueur des entretiens.",

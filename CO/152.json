@@ -121,7 +121,7 @@
     {
         "id": 10,
         "testId": 152,
-        "text": "Pierre, tu travailles la semaine prochaine? Non, on descend avec les enfants dans notre maison de campagne dans le sud. Tu as de la chance de te reposer un peu. Oui, je vais enfin pouvoir jouer au tennis. Que fera Pierre la semaine prochaine?",
+        "text": "— Pierre, tu travailles la semaine prochaine?\n\n— Non, on descend avec les enfants dans notre maison de campagne dans le sud.\n\n— Tu as de la chance de te reposer un peu.\n\n— Oui, je vais enfin pouvoir jouer au tennis.\n\nQue fera Pierre la semaine prochaine?",
         "audio": "/mp3/152/10.mp3",
         "options": [
             "Il aura la visite de sa famille.",
@@ -160,7 +160,7 @@
     {
         "id": 13,
         "testId": 152,
-        "text": "Bonjour, vous cherchez qui ? Bonjour, je souhaiterais rencontrer M. Bernard. Ah, je crois qu'il n'est pas à l'université aujourd'hui. Attendez, je regarde ton planning de la semaine. C'est cela, il est absent cet après-midi, il assiste à un colloque. Je peux vous donner un rendez-vous pour demain si vous voulez ? Demain, ce n'est pas possible, je suis en stage toute la journée. Alors lundi ? Lundi, oui, ce serait bien. Dans la matinée, ce serait possible ? Que souhaite cette étudiante ?",
+        "text": "— Bonjour, vous cherchez qui ?\n\n— Bonjour, je souhaiterais rencontrer M. Bernard. Ah, je crois qu'il n'est pas à l'université aujourd'hui. Attendez, je regarde ton planning de la semaine. C'est cela, il est absent cet après-midi, il assiste à un colloque. Je peux vous donner un rendez-vous pour demain si vous voulez ?\n\n— Demain, ce n'est pas possible, je suis en stage toute la journée.\n\n— Alors lundi ?\n\n— Lundi, oui, ce serait bien. Dans la matinée, ce serait possible ?\n\nQue souhaite cette étudiante ?",
         "audio": "/mp3/152/13.mp3",
         "options": [
             "S’entretenir avec un enseignant.",
@@ -173,7 +173,7 @@
     {
         "id": 14,
         "testId": 152,
-        "text": "Est-ce que tu veux participer au cadeau pour Daniel? Un cadeau? Pourquoi? Il part à la retraite à la fin du mois. Il part déjà? Le service semblera vide sans lui. Et comment va faire le chef sans son secrétaire? Ha, ça! Il essaie de trouver quelqu'un pour le remplacer, mais je crois qu'il va avoir du mal à trouver un aussi bon employé que lui. Si le remplaçant doit plaire au chef, aux collègues et aux clients, c'est sûr, ça va être dur. Pour ces personnes, qui est Daniel?",
+        "text": "— Est-ce que tu veux participer au cadeau pour Daniel ?\n\n— Un cadeau ? Pourquoi ?\n\n— Il part à la retraite à la fin du mois.\n\n— Il part déjà ? Le service semblera vide sans lui. Et comment va faire le chef sans son secrétaire ?\n\n— Ah, ça ! Il essaie de trouver quelqu'un pour le remplacer, mais je crois qu'il va avoir du mal à trouver un aussi bon employé que lui.\n\n— Si le remplaçant doit plaire au chef, aux collègues et aux clients, c'est sûr, ça va être dur.\n\nPour ces personnes, qui est Daniel ?",
         "audio": "/mp3/152/14.mp3",
         "options": [
             "Leur client.",
@@ -186,13 +186,13 @@
     {
         "id": 15,
         "testId": 152,
-        "text": "Alors, finalement, tu as vu l'exposition Mathis ? Oui, j'y suis allée pendant les vacances. Il y avait deux heures d'attente avant de pouvoir entrer. Heureusement que j'avais un bon livre. Ah oui, c'est souvent comme ça. Mais après, tu as vu ? La disposition du tableau, l'organisation de l'espace, la lumière... C'est vraiment superbe. Oui, il y a un très bel éclairage, qui met bien les étoiles en valeur. Mais dans cette foule, il faut se battre pour les voir. Très sincèrement, j'aurais été plus tranquille chez moi à feuilleter une revue d'art contemporain. Pourquoi l’un des interlocuteurs n’a-t-il pas apprécié l’exposition ?",
+        "text": "— Alors, finalement, tu as vu l'exposition Mathis ?\n\n— Oui, j'y suis allée pendant les vacances. Il y avait deux heures d'attente avant de pouvoir entrer. Heureusement que j'avais un bon livre.\n\n— Ah oui, c'est souvent comme ça. Mais après, tu as vu ? La disposition des tableaux, l'organisation de l'espace, la lumière... C'est vraiment superbe.\n\n— Oui, il y a un très bel éclairage, qui met bien les étoiles en valeur. Mais dans cette foule, il faut se battre pour les voir. Très sincèrement, j'aurais été plus tranquille chez moi à feuilleter une revue d'art contemporain.\n\nPourquoi l'un des interlocuteurs n'a-t-il pas apprécié l'exposition ?",
         "audio": "/mp3/152/15.mp3",
         "options": [
-            "Il n’aime pas l’œuvre de ce peintre.",
+            "Il n'aime pas l'œuvre de ce peintre.",
             "La présentation des tableaux lui a déplu.",
-            "Il a trouvé qu’il avait trop de visiteurs.",
-            "Il s’est ennuyé en faisant la queue."
+            "Il a trouvé qu'il y avait trop de visiteurs.",
+            "Il s'est ennuyé en faisant la queue."
         ],
         "answer": 2
     },
@@ -212,7 +212,7 @@
     {
         "id": 17,
         "testId": 152,
-        "text": "Alors, ton voyage en Allemagne ? Super ! J'ai pu rencontrer les responsables de programme et leur proposer nos produits. Dans l'ensemble, ils étaient assez intéressés. C'est plutôt encourageant pour la suite. Génial ! Tu as pu visiter un peu la ville ? En dehors du quartier de l'hôtel, pas vraiment. Je suis assez déçu. Mais je n'ai pas eu le temps. Je ne suis resté que trois jours et j'avais beaucoup de personnes à rencontrer. On mangeait tout le temps au restaurant de l'entreprise, les journées se terminaient tard… Que regrette la femme ?",
+        "text": "— Alors, ton voyage en Allemagne ?\n\n— Super ! J'ai pu rencontrer les responsables de programme et leur proposer nos produits. Dans l'ensemble, ils étaient assez intéressés. C'est plutôt encourageant pour la suite.\n\n— Génial ! Tu as pu visiter un peu la ville ?\n\n— En dehors du quartier de l'hôtel, pas vraiment. Je suis assez déçue. Mais je n'ai pas eu le temps. Je ne suis restée que trois jours et j'avais beaucoup de personnes à rencontrer. On mangeait tout le temps au restaurant de l'entreprise. Les journées se terminaient tard.\n\nQue regrette la femme ?",
         "audio": "/mp3/152/17.mp3",
         "options": [
             "Elle aurait aimé faire du tourisme.",
@@ -225,7 +225,7 @@
     {
         "id": 18,
         "testId": 152,
-        "text": "Maman, tu sais, avec Julie, on a décidé d'acheter un lave-vaisselle. Avec les deux enfants, il y a beaucoup de vaisselle. Mais j'ai peur que ça consomme beaucoup d'eau et que ça soit bruyant. Détrompe-toi. Il paraît qu'on utilise moins d'eau avec un lave-vaisselle qu'en lavant à la main. Et les nouveaux appareils sont vraiment silencieux. Et toi ? Tu n'en veux pas un ? Boah, je suis seul. Même avec un petit appareil, il faudrait que j'attende plusieurs jours avant qu'il soit rempli.",
+        "text": "— Maman, tu sais, avec Julie, on a décidé d'acheter un lave-vaisselle. Avec les deux enfants, il y a beaucoup de vaisselle. Mais j'ai peur que ça consomme beaucoup d'eau et que ça soit bruyant.\n\n— Détrompe-toi. Il paraît qu'on utilise moins d'eau avec un lave-vaisselle qu'en lavant à la main. Et les nouveaux appareils sont vraiment silencieux.\n\n— Et toi ? Tu n'en veux pas un ? Boah, je suis seule. Même avec un petit appareil, il faudrait que j'attende plusieurs jours avant qu'il soit rempli.\n\nPourquoi la mère refuse-t-elle d'avoir un lave-vaisselle?",
         "audio": "/mp3/152/18.mp3",
         "options": [
             "Parce qu’elle trouve ça trop bruyant.",
@@ -242,7 +242,7 @@
         "audio": "/mp3/152/19.mp3",
         "options": [
             "Encourager la mobilité des étudiants.",
-            "Favoriser l’intégration des étrangers.",
+            "Favoriser l'intégration des étrangers.",
             "Mettre en relation des francophones.",
             "Offrir des emplois aux mères de famille."
         ],
@@ -264,7 +264,7 @@
     {
         "id": 21,
         "testId": "152",
-        "text": "Tu as entendu les informations? Il paraît que le maire veut faire construire une autoroute qui passe par la réserve naturelle de la région. Ah bon? Et il va vraiment le faire? Pour l'instant, il est obligé d'affronter les écologistes et même le ministère des Transports. Que se passe-t-il dans la région?",
+        "text": "— Tu as entendu les informations? Il paraît que le maire veut faire construire une autoroute qui passe par la réserve naturelle de la région.\n\n— Ah bon? Et il va vraiment le faire?\n\n— Pour l'instant, il est obligé d'affronter les écologistes et même le ministère des Transports.\n\nQue se passe-t-il dans la région?",
         "audio": "/mp3/152/21.mp3",
         "options": [
             "Des habitants ont voté pour un maire écologiste.",
@@ -316,7 +316,7 @@
     {
         "id": 25,
         "testId": "152",
-        "text": "Psychologue, vous animer une émission télévisée. Comment faites-vous pour jongler entre vos consultations et vos émissions? J'ai suspendu mes consultations privées dans un souci éthique. Je ne veux pas utiliser cette émission comme fond de commerce, comme une manière de rabattre de la clientèle. Je suis un thérapeute ordinaire et je ne veux pas donner l'image de quelqu'un qui va plus vite que les autres. Pour quelle raison ce psychologue a-t-il interrompu ces consultations?",
+        "text": "— Psychologue, vous animez une émission télévisée. Comment faites-vous pour jongler entre vos consultations et vos émissions?\n\n— J'ai suspendu mes consultations privées dans un souci éthique. Je ne veux pas utiliser cette émission comme fond de commerce, comme une manière de rabattre de la clientèle. Je suis un thérapeute ordinaire et je ne veux pas donner l'image de quelqu'un qui va plus vite que les autres.\n\nPour quelles raisons ce psychologue a-t-il interrompu ses consultations?",
         "audio": "/mp3/152/25.mp3",
         "options": [
             "Il a répondu à une demande de ses patients.",
@@ -329,7 +329,7 @@
     {
         "id": 26,
         "testId": "152",
-        "text": "Quel rapport aviez-vous avec votre père ? Je ne lui parlais plus de mes études. Il avait toujours la peur ou peut-être le désir que je n'y arrive pas. Il s'énervait de me voir à longueur de journée dans les livres. Je crois qu'il pensait que j'étais malheureuse. Comment se comportait-il avec vous face au monde extérieur ? Devant la famille, les clients, de la gêne. Presque de la honte que je ne gagne pas encore ma vie à 17 ans. Il craignait qu'on ne me prenne pour une paresseuse et lui pour un crâneur. Il disait que j'apprenais bien, jamais que je travaillais bien. Quelle était pour lui la définition du mot « travail » ? « Travailler », c'était seulement travailler de ses mains. Quelle relation le père entretenait-il avec sa fille ?",
+        "text": "— Quel rapport aviez-vous avec votre père ?\n\n— Je ne lui parlais plus de mes études. Il avait toujours la peur ou peut-être le désir que je n'y arrive pas. Il s'énervait de me voir à longueur de journée dans les livres. Je crois qu'il pensait que j'étais malheureuse.\n\n— Comment se comportait-il avec vous face au monde extérieur ?\n\n— Devant la famille, les clients, de la gêne, presque de la honte que je ne gagne pas encore ma vie à 17 ans. Il craignait qu'on ne me prenne pour une paresseuse et lui pour un crâneur. Il disait que j'apprenais bien, jamais que je travaillais bien.\n\n— Quelle était pour lui la définition du mot « travail » ?\n\n— « Travailler », c'était seulement travailler de ses mains.\n\nQuelle relation le père entretenait-il avec sa fille ?",
         "audio": "/mp3/152/26.mp3",
         "options": [
             "Il avait du mal à accepter ses choix.",
@@ -355,7 +355,7 @@
     {
         "id": 28,
         "testId": "152",
-        "text": "Si les enfants ne mangent pas assez de fruits et légumes, c'est peut-être parce qu'ils n'aiment pas ça. En fait, les enfants mangent principalement par plaisir et c'est une fonction que ne remplissent pas les fruits et légumes. Certes, tout le monde est d'accord pour dire que c'est bon à la santé, que c'est nécessaire, que c'est souvent contraignant à préparer, que cela ne remplit pas l'estomac, voir que ce n'est pas bon. Mais on trouve rarement la notion de plaisir associé aux fruits et légumes. De quoi est-il question ?",
+        "text": "— Et si les enfants ne mangent pas assez de fruits et légumes, c'est peut-être parce qu'ils n'aiment pas ça.\n\n— En fait, les enfants mangent principalement par plaisir et c'est une fonction que ne remplissent pas les fruits et légumes. Certes, tout le monde est d'accord pour dire que c'est bon à la santé, que c'est nécessaire, que c'est souvent contraignant à préparer, que cela ne remplit pas l'estomac, voire que ce n'est pas bon. Mais on trouve rarement la notion de plaisir associée aux fruits et légumes.\n\nDe quoi est-il question ?",
         "audio": "/mp3/152/28.mp3",
         "options": [
             "Des besoins énergétiques des jeunes.",
@@ -368,7 +368,7 @@
     {
         "id": 29,
         "testId": "152",
-        "text": "Alors Patrick, ce stage d'informatique à la tulipe? Oh, ne m'en parle pas. Horrible! Je suis ravi d'être au boulot. D'abord, il a plu toute la semaine, avec une tempête, t'aurais vu sûr. On pensait pouvoir faire des balades en fin de journée. Il n'y a que moi qui voulais encore marcher malgré la pluie. Les autres se retrouvaient au bord pour jouer aux cartes ou refaire le monde. D'autres ont passé leur temps devant la télé. Eh bien bravo! Pour prendre le bonheur, c'est réussi. Et je ne te décris pas le trou que c'était. Rien à voir à des kilomètres à la ronde. Qu'est-ce que Patrick était le seul à vouloir faire?",
+        "text": "— Alors Patrick, ce stage d'informatique à la Tulipe?\n\n— Oh, ne m'en parle pas. Horrible! Je suis ravi d'être au boulot. D'abord, il a plu toute la semaine, avec une tempête, t'aurais vu sûr. On pensait pouvoir faire des balades en fin de journée. Il n'y a que moi qui voulais encore marcher malgré la pluie. Les autres se retrouvaient au bord pour jouer aux cartes ou refaire le monde. D'autres ont passé leur temps devant la télé.\n\n— Eh bien bravo! Pour prendre le bonheur, c'est réussi.\n\n— Et je ne te décris pas le trou que c'était. Rien à voir à des kilomètres à la ronde.\n\nQu'est-ce que Patrick était le seul à vouloir faire?",
         "audio": "/mp3/152/29.mp3",
         "options": [
             "Jouer aux cartes.",
@@ -381,7 +381,7 @@
     {
         "id": 30,
         "testId": "152",
-        "text": "Apprendre à gérer son argent n’est pas une priorité éducative alors que l’argent nous accompagne toute notre vie. Construire un budget ça s’apprend, mais trop souvent le sujet est considéré tabou par les adultes. Donc pas question d’en parler avec les enfants. Dans la sphère de l’école, aucune séance de travail n’est dédier à cette question. Pourtant, chacun est concerné dans sa vie professionnelle et personnelle par les principales notions que sont les coûts, les crédits, les prêts, les taux d’intérêt, l’endettement, l’économie à l’échelle de l’individu. Voilà un domaine qui touche chaque Français sans que jamais celui-ci y soit vraiment initié. Que dénonce cette journaliste?",
+        "text": "Apprendre à gérer son argent n’est pas une priorité éducative alors que l’argent nous accompagne toute notre vie. Construire un budget ça s’apprend, mais trop souvent le sujet est considéré tabou par les adultes. Donc pas question d’en parler avec les enfants. Dans la sphère de l’école, aucune séance de travail n’est dédiée à cette question. Pourtant, chacun est concerné dans sa vie professionnelle et personnelle par les principales notions que sont les coûts, les crédits, les prêts, les taux d’intérêt, l’endettement, l’économie à l’échelle de l’individu. Voilà un domaine qui touche chaque Français sans que jamais celui-ci y soit vraiment initié. Que dénonce cette journaliste?",
         "audio": "/mp3/152/30.mp3",
         "options": [
             "L'absence de formation sur l'élaboration d'un budget.",
@@ -394,7 +394,7 @@
     {
         "id": 31,
         "testId": "152",
-        "text": "C'est l'un des plus importants vols jamais réalisés dans une galerie de peinture en Europe. Il concerne quatre tableaux de certains des plus grands maîtres de la peinture européenne Manet, Renoir, Sisley et Chagall. Le montant du préjudice s'élève à plusieurs centaines de millions d'euros. Ces tableaux sont tellement connus que les enquêteurs pensent que la revente était déjà conclue avant que les trafiquants ne passent à l'acte. Il faut faire vite car ces œuvres sont fragiles. Toutes les polices européennes coopèrent afin de retrouver les malfaiteurs et les tableaux dans les plus brefs délais. Quelle est l’hypothèse de la police sur les oeuvres volés?",
+        "text": "C'est l'un des plus importants vols jamais réalisés dans une galerie de peinture en Europe. Il concerne quatre tableaux de certains des plus grands maîtres de la peinture européenne Manet, Renoir, Sisley et Chagall. Le montant du préjudice s'élève à plusieurs centaines de millions d'euros. Ces tableaux sont tellement connus que les enquêteurs pensent que la revente était déjà conclue avant que les trafiquants ne passent à l'acte. Il faut faire vite car ces œuvres sont fragiles. Toutes les polices européennes coopèrent afin de retrouver les malfaiteurs et les tableaux dans les plus brefs délais. Quelle est l’hypothèse de la police sur les œuvres volés?",
         "audio": "/mp3/152/31.mp3",
         "options": [
             "Elles ont été revendues.",
@@ -485,7 +485,7 @@
     {
         "id": 38,
         "testId": "152",
-        "text": "La qualité, vous savez, la qualité, surtout la très grande qualité, tout ça, ça a un prix. Si on veut trouver une place sur le marché, il faut donc, c'est tout un exercice, arriver à produire des aliments à des coûts qui sont quand même abordables. Et c'est l'exercice qui occupe en ce moment Sophie Barry de Carol&E. C'est une petite fabrique de pâtes et de sauces qui est installée à Sabrevois, à Montérégie. Que cherche à faire cette entreprise?",
+        "text": "La qualité, vous savez, la qualité, surtout la très grande qualité, tout ça, ça a un prix. Si on veut trouver une place sur le marché, il faut donc, et c'est tout un exercice, arriver à produire des aliments à des coûts qui sont quand même abordables. Et c'est l'exercice qui occupe en ce moment Sophie Barry de Carol&E. C'est une petite fabrique de pâtes et de sauces qui est installée à Sabrevois, à Montérégie. Que cherche à faire cette entreprise?",
         "audio": "/mp3/152/38.mp3",
         "options": [
             "Améliorer la présentation des produits.",

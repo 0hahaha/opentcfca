@@ -116,7 +116,7 @@
             "D'un atelier de cuisine.",
             "D'une recette familiale.",
             "Des courses pour un repas.",
-            "Des horaires d’un magasin."
+            "Des horaires d'un magasin."
         ],
         "answer": 2
     },
@@ -227,7 +227,7 @@
     {
         "id": 18,
         "testId": 175,
-        "text": "— Malo, tu veux venir chez moi? On pourrait regarder le championnat du monde de jeux vidéo.\n\n— Oui, je sais que tu es fan, mais je trouve que ce sport n'a rien à voir avec le vrai sport. Les participants ne font pas vraiment d'efforts physiques, ce n'est pas très impressionnant.\n\n— Tu as tort. Certains champions de sport électronique ressemblent aux autres champions. Ils signent un contrat, s'entraînent beaucoup, sont suivis par des médecins pour éviter des douleurs au dos ou à la main.\n\nQue propose Malo à son ami?",
+        "text": "— Malo, tu veux venir chez moi? On pourrait regarder le championnat du monde de jeux vidéo.\n\n— Oui, je sais que tu es fan, mais je trouve que ce sport n'a rien à voir avec le vrai sport. Les participants ne font pas vraiment d'efforts physiques, ce n'est pas très impressionnant.\n\n— Tu as tort. Certains champions de sport électronique ressemblent aux autres champions. Ils signent un contrat, s'entraînent beaucoup, sont suivis par des médecins pour éviter des douleurs au dos ou à la main.\n\nQue propose Malo à son amie?",
         "audio": "/mp3/175/18.mp3",
         "options": [
             "De participer à un match.",
@@ -240,7 +240,7 @@
     {
         "id": 19,
         "testId": 175,
-        "text": "— Bonjour, monsieur. Vous voulez bien accrocher cette affiche dans votre magasin? Mon école organise une collecte de jouets pour financer notre voyage en Europe. On organisera ensuite une tombola. Les billets seront vendus à deux euros.\n\n— C'est une très bonne idée. Je vais la mettre sur la porte. Où est-ce que les gens doivent déposer les jeux qu'ils veulent donner?\n\n— Dans un coin de votre boutique, si ça ne vous dérange pas. Je peux vous laisser ce carton?\n\n— J'ai pas tellement de place. Pour le carton, demandez à la pharmacie juste à côté.\n\nQu'est-ce que le commerçant accepte de prendre? Je ne sais pas.",
+        "text": "— Bonjour, monsieur. Vous voulez bien accrocher cette affiche dans votre magasin? Mon école organise une collecte de jouets pour financer notre voyage en Europe. On organisera ensuite une tombola. Les billets seront vendus à deux euros.\n\n— C'est une très bonne idée. Je vais la mettre sur la porte. Où est-ce que les gens doivent déposer les jeux qu'ils veulent donner?\n\n— Dans un coin de votre boutique, si ça ne vous dérange pas. Je peux vous laisser ce carton?\n\n— J'ai pas tellement de place. Pour le carton, demandez à la pharmacie juste à côté.\n\nQu'est-ce que le commerçant accepte de prendre?",
         "audio": "/mp3/175/19.mp3",
         "options": [
             "L'affiche.",
@@ -271,7 +271,7 @@
         "options": [
             "Le comportement des habitants.",
             "Le sentiment de solitude.",
-            "Les conditions météoritiques.",
+            "Les conditions météorologiques.",
             "Les obstacles linguistiques."
         ],
         "answer": 2
@@ -282,10 +282,10 @@
         "text": "— Salut Nathalie! Alors, comment s'est passé ton week-end à la montagne?\n\n— L'endroit était splendide, mais le séjour a été gâché parce qu'il a plu tout le temps. On n'a pas pu faire de la randonnée comme prévu.\n\n— Ah, c'est dommage. Qu'est-ce que vous avez fait alors?\n\n— On a sorti les dominos et les cartes. On aurait pu faire ça chez nous, ça nous aurait coûté moins cher. On a fait beaucoup de routes pour rester enfermés.\n\nQue regrettes-tu, Nathalie?",
         "audio": "/mp3/175/22.mp3",
         "options": [
-            "Elle a perdu aux jeux de société.",
-            "Elle est restée près de chez elle.",
-            "La météo était très mauvaise.",
-            "Le logement était mal situé."
+            "Le comportement des habitants.",
+            "Le sentiment de solitude.",
+            "Les conditions météorologiques.",
+            "Les obstacles linguistiques."
         ],
         "answer": 2
     },
@@ -448,7 +448,7 @@
     {
         "id": 35,
         "testId": 175,
-        "text": "On l'a dit, la culture générale a tous ses défauts, mais en plus, elle a le défaut d'ignorer les sciences. Ça c'est assez facile à faire comme constat. Oui, assez facile à faire comme constat, mais ce qui est déplorable, c'est que c'est pas incorporé cette idée-là, il me semble. C'est-à-dire qu'on peut traiter aujourd'hui et se prétendre cultiver, et les gens qui parlent de culture générale sont très souvent, ou typiquement des humanistes qui ont une culture littéraire, être cultivés sans avoir de connaissances scientifiques. Et j'irais même jusqu'à dire pire, en méprisant, ou en trouvant que ça pose absolument pas problème de pas avoir des cultures scientifiques, ou pour prendre un exemple que j'aime beaucoup, en se vantant de rien connaître aux mathématiques. Et là, je pense que c'est une profonde erreur, et puis le livre se veut une défense passionnée, j'oserais dire, de l'importance d'incorporer les notions de culture scientifique. Pour l'auteur, de quoi les gens cultivés doivent-ils se rendre compte ?",
+        "text": "— On l'a dit, la culture générale a tous sorts de défauts, mais en plus, elle a le défaut d'ignorer les sciences. Ça, c'est assez facile à faire comme constat.\n\n— Oui, assez facile à faire comme constat, mais ce qui est déplorable, c'est que ce n'est pas incorporé, cette idée-là, il me semble. C'est-à-dire qu'on peut très bien aujourd'hui se prétendre cultiver, et les gens qui parlent de culture générale sont très souvent ou typiquement des humanistes qui ont une culture littéraire, être cultivés sans avoir de connaissances scientifiques. Et j'irais même jusqu'à dire pire, en méprisant ou en trouvant que ça pose absolument pas problème de pas avoir de culture scientifique, ou pour prendre un exemple que j'aime beaucoup, en se vantant de rien connaître aux mathématiques. Et là, je pense que c'est une profonde erreur, et puis le livre se veut une défense passionnée, j'oserais dire, de l'importance d'incorporer les notions de culture scientifique.\n\nPour l'auteur, de quoi les gens cultivés doivent-ils se rendre compte?",
         "audio": "/mp3/175/35.mp3",
         "options": [
             "De l’absurdité qu’il y a à valoriser leur manque de culture scientifique.",

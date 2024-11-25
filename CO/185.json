@@ -121,7 +121,7 @@
     {
         "id": 10,
         "testId": 185,
-       "text": "— Salut Ayat ! Waouh ! Il est beau ton manteau !\n\n— Merci ! Il est parfait pour l'automne et le froid qui arrive.\n\n— Oui, moi j'adore cette époque. Les couleurs des arbres sont magnifiques. C'est super pour se promener en forêt. Et on peut sortir son beau manteau, comme toi.\n\n— Mais moi en fait, je préfère l'été. Les vêtements légers, être dehors...\n\n— Eh bien, on n'a pas les mêmes goûts. Mais bon, c'est vrai qu'il fait un peu froid dehors. On va boire un café ?\n\nSur quoi est-ce que ces deux personnes ont des goûts différents ?",
+        "text": "— Salut Ayat ! Waouh ! Il est beau ton manteau !\n\n— Merci ! Il est parfait pour l'automne et le froid qui arrive.\n\n— Oui, moi j'adore cette époque. Les couleurs des arbres sont magnifiques. C'est super pour se promener en forêt. Et on peut sortir son beau manteau, comme toi.\n\n— Mais moi en fait, je préfère l'été. Les vêtements légers, être dehors...\n\n— Eh bien, on n'a pas les mêmes goûts. Mais bon, c'est vrai qu'il fait un peu froid dehors. On va boire un café ?\n\nSur quoi est-ce que ces deux personnes ont des goûts différents ?",
         "audio": "/mp3/185/10.mp3",
         "options": [
             "La mode.",
@@ -395,7 +395,7 @@
     {
         "id": 31,
         "testId": 185,
-        "text": "— Oui, Fatoumata a 29 ans, elle termine en ce moment son doctorat d'astronomie et a aussi de passer un an au Japon pour se préparer à son futur métier d'astronome. Et Fatoumata veut être astronome, femme de ménage de l'espace.\n\n— Les objets qui sont vraiment retombés sur Terre, au Zimbabwe et en Arabie Saoudite, c'est arrivé. Plusieurs entreprises et agences ont proposé des solutions de nettoyage de l'espace, mais aucune n'a vraiment été testée dans les conditions réelles. Mais tout le monde se prépare à aller dans l'espace, parce que la NASA prévoit qu'à l'horizon 2025, on pourra plus envoyer d'objets dans l'espace, tellement ce sera encombré de débris. Donc en fait, je simule des explosions et des collisions dans l'espace. Par exemple, vous avez deux objets qui rentrent en collision, ça crée 40 000 débris. Regardez comment ces 40 000 débris vont évoluer avec le temps autour de la Terre.\n\n— Voilà...\n\nQuel est l'objectif de l'activité actuelle de Fatoumata ?",
+        "text": "— Oui, Fatoumata a 29 ans, elle termine en ce moment son doctorat d'astronomie et a aussi de passer un an au Japon pour se préparer à son futur métier d'astronome. Et Fatoumata veut être astronome, femme de ménage de l'espace.\n\n— Les objets qui sont vraiment retombés sur Terre, au Zimbabwe et en Arabie Saoudite, c'est arrivé. Plusieurs entreprises et agences ont proposé des solutions de nettoyage de l'espace, mais aucune n'a vraiment été testée dans les conditions réelles. Mais tout le monde se prépare à aller dans l'espace, parce que la NASA prévoit qu'à l'horizon 2025, on pourra plus envoyer d'objets dans l'espace, tellement ce sera encombré de débris. Donc en fait, je simule des explosions et des collisions dans l'espace. Par exemple, vous avez deux objets, ils rentrent en collision, ça crée 40 000 débris. Vous pouvez regarder comment ces 40 000 débris vont évoluer avec le temps autour de la Terre.\n\n— Voilà...\n\nQuel est l'objectif de l'activité actuelle de Fatoumata ?",
         "audio": "/mp3/185/31.mp3",
         "options": [
             "Comparer les mouvements des galaxies.",
@@ -486,7 +486,7 @@
     {
         "id": 38,
         "testId": 185,
-        "text": "— C'est une dame que je ne connaissais pas du tout. Une des deux filles, Irène Némirovsky, une dame qui est décédée maintenant et qui s'appelle Elisabeth Gilles, qui était éditrice chez Julliard, qui un jour m'a appelé en me disant « Voilà, ça fait des années que je vous entends à la télé, ça fait des années que je me dis qu'en fait vous êtes un écrivain qui ne le savez pas ». Et quand je suis arrivé dans son bureau elle m'a expliqué qu'« en fait je n'avais rien à faire à la télé et que ce n'était pas mon métier ».\n\n— Mais vous croyez au hasard de la vie, aux rencontres vous essentiellement?\n\n— À moi ça m'est tout le temps arrivé, ça oui, j'ai beaucoup de chance.\n\nComment s'est révélée la vocation de cet écrivain?",
+        "text": "— C'est une dame que je ne connaissais pas du tout. Une des deux filles d'Irène Némirovsky, une dame qui est décédée maintenant et qui s'appelle Elisabeth Gilles, qui était éditrice chez Julliard, qui un jour m'a appelé en me disant « Voilà, ça fait des années que je vous entends à la télé, ça fait des années que je me dis qu'en fait vous êtes un écrivain qui ne le savez pas ». Et quand je suis arrivé dans son bureau, elle m'a expliqué qu'« en fait je n'avais rien à faire à la télé et que ce n'était pas mon métier ».\n\n— Mais vous croyez au hasard de la vie, aux rencontres vous essentiellement?\n\n— À moi ça m'est tout le temps arrivé, ça oui, j'ai beaucoup de chance.\n\nComment s'est révélée la vocation de cet écrivain?",
         "audio": "/mp3/185/38.mp3",
         "options": [
             "À l’occasion d’une entrevue.",

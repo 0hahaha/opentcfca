@@ -2,7 +2,7 @@
     {
         "id": 1,
         "testId": "151",
-        "text": "A. La séance débute tout de suite, salle 3. Bon film. \n\nB. Voilà votre carte d'embarquement. Bon voyage. \n\nC. Votre table est juste devant vous. Bon appétit. \n\nD. Votre train part dans 30 minutes. Bon après-midi.",
+        "text": "A. La séance débute tout de suite, salle 3. Bon film.\n\nB. Voilà votre carte d'embarquement. Bon voyage.\n\nC. Votre table est juste devant vous. Bon appétit.\n\nD. Votre train part dans 30 minutes. Bon après-midi.",
         "audio": "/mp3/151/1.mp3",
         "img": "/mp3/151/1.jpg",
         "options": [
@@ -16,7 +16,7 @@
     {
         "id": 2,
         "testId": "151",
-        "text": "A. Alors, les cabines se trouvent à droite. \n\nB. Bien, ça vous fait 49 dollars. \n\nC. Oui, je vous apporte la taille en dessous. \n\nD. Vraiment, cette robe vous va très bien.",
+        "text": "A. Alors, les cabines se trouvent à droite.\n\nB. Bien, ça vous fait 49 dollars.\n\nC. Oui, je vous apporte la taille en dessous.\n\nD. Vraiment, cette robe vous va très bien.",
         "audio": "/mp3/151/2.mp3",
         "img": "/mp3/151/2.jpg",
         "options": [
@@ -30,7 +30,7 @@
     {
         "id": 3,
         "testId": "151",
-        "text": "Je vous sers un café ? \n\nA. À demain. \n\nB. Avec plaisir. \n\nC. C'est joli. \n\nD. Excusez-moi.",
+        "text": "Je vous sers un café ?\n\nA. À demain.\n\nB. Avec plaisir.\n\nC. C'est joli.\n\nD. Excusez-moi.",
         "audio": "/mp3/151/3.mp3",
         "options": [
             "Proposition A.",
@@ -43,7 +43,7 @@
     {
         "id": 4,
         "testId": "151",
-        "text": "Combien coûte un ticket de bus? \n\nA. Deux kilomètres. \n\nB. La ligne 4. \n\nC. Trois heures. \n\nD. Un euro vingt.",
+        "text": "Combien coûte un ticket de bus?\n\nA. Deux kilomètres.\n\nB. La ligne 4.\n\nC. Trois heures.\n\nD. Un euro vingt.",
         "audio": "/mp3/151/4.mp3",
         "options": [
             "Proposition A.",
@@ -56,7 +56,7 @@
     {
         "id": 5,
         "testId": "151",
-        "text": "Tu voudrais bien t'inscrire à ce cours de danse avec moi? \n\nA. C'est sûr, elle va aimer la salsa. \n\nB. D'accord, si ça te fait plaisir. \n\nC. J'ai étudié le piano l'an dernier. \n\nD. Le professeur t'a appelé hier.",
+        "text": "Tu voudrais bien t'inscrire à ce cours de danse avec moi?\n\nA. C'est sûr, elle va aimer la salsa.\n\nB. D'accord, si ça te fait plaisir.\n\nC. J'ai étudié le piano l'an dernier.\n\nD. Le professeur t'a appelé hier.",
         "audio": "/mp3/151/5.mp3",
         "options": [
             "Proposition A.",
@@ -69,7 +69,7 @@
     {
         "id": 6,
         "testId": "151",
-        "text": "Qu'est-ce que tu prends pour aller à la plage ? \n\nA. Avec quelques amis. \n\nB. Juste mon maillot de bain. \n\nC. Nous y allons à pied. \n\nD. Oui, c'est un bel endroit.",
+        "text": "Qu'est-ce que tu prends pour aller à la plage ?\n\nA. Avec quelques amis.\n\nB. Juste mon maillot de bain.\n\nC. Nous y allons à pied.\n\nD. Oui, c'est un bel endroit.",
         "audio": "/mp3/151/6.mp3",
         "options": [
             "Proposition A.",
@@ -82,7 +82,7 @@
     {
         "id": 7,
         "testId": "151",
-        "text": "Bonjour, je fais une enquête sur les Français et leur temps libre. Pourriez-vous me parler de vos loisirs préférés? \n\nA. J'adore jouer au tennis de table. \n\nB. Je préfère faire les courses en semaine. \n\nC. Je souhaite travailler en équipe. \n\nD. Je voudrais acheter une maison.",
+        "text": "Bonjour, je fais une enquête sur les Français et leur temps libre. Pourriez-vous me parler de vos loisirs préférés?\n\nA. J'adore jouer au tennis de table.\n\nB. Je préfère faire les courses en semaine.\n\nC. Je souhaite travailler en équipe.\n\nD. Je voudrais acheter une maison.",
         "audio": "/mp3/151/7.mp3",
         "options": [
             "Proposition A.",
@@ -95,7 +95,7 @@
     {
         "id": 8,
         "testId": "151",
-        "text": "On pourrait aller voir un film cet après-midi. Ça te dit ? Tu sais, je dois faire des courses. Le frigidaire est vide. Et je dois chercher un paquet et des timbres. Et puis, je préférerais aller nager. Pourquoi pas ? Je prépare les maillots et les serviettes et on se retrouve à 16 heures. Où est-ce que ces personnes vont se retrouver à 16h?",
+        "text": "— On pourrait aller voir un film cet après-midi. Ça te dit ?\n\n— Tu sais, je dois faire des courses. Le frigidaire est vide. Et je dois chercher un paquet et des timbres. Et puis, je préférerais aller nager.\n\n— Pourquoi pas ? Je prépare les maillots et les serviettes et on se retrouve à 16 heures.\n\nOù est-ce que ces personnes vont se retrouver à 16h?",
         "audio": "/mp3/151/8.mp3",
         "options": [
             "À la piscine.",
@@ -108,7 +108,7 @@
     {
         "id": 9,
         "testId": "151",
-        "text": "Bonjour, madame. J'habite à Québec depuis deux mois. Je cherche une activité sportive à faire dans le quartier Montcalm. Pouvez-vous m'aider? Certainement, monsieur. Voici un catalogue avec de nombreuses informations utiles. Qu'est-ce que cet homme veut faire?",
+        "text": "— Bonjour, madame. J'habite à Québec depuis deux mois. Je cherche une activité sportive à faire dans le quartier Montcalm. Pouvez-vous m'aider?\n\n— Certainement, monsieur. Voici un catalogue avec de nombreuses informations utiles.\n\nQu'est-ce que cet homme veut faire?",
         "audio": "/mp3/151/9.mp3",
         "options": [
             "Acheter un magazine.",
@@ -121,7 +121,7 @@
     {
         "id": 10,
         "testId": "151",
-        "text": "Eh Nicolas, tu as des projets pour ce week-end ? Non, pas vraiment, et toi ? Ben oui, j'ai bien envie d'aller à la piscine samedi après-midi. Ça te dit de venir avec moi ? Pourquoi pas, j'ai besoin de me détendre après mes examens. On se retrouve devant l'université avant, et on fait le trajet ensemble. On dit quatorze heures ? Oui, d'accord. Que fait Nicolas ?",
+        "text": "— Eh Nicolas, tu as des projets pour ce week-end ?\n\n— Non, pas vraiment, et toi ?\n\n— Ben oui, j'ai bien envie d'aller à la piscine samedi après-midi. Ça te dit de venir avec moi ?\n\n— Pourquoi pas, j'ai besoin de me détendre après mes examens.\n\n— On se retrouve devant l'université avant, et on fait le trajet ensemble. On dit quatorze heures ?\n\n— Oui, d'accord.\n\nQue fait Nicolas ?",
         "audio": "/mp3/151/10.mp3",
         "options": [
             "Il accepte la proposition de son ami.",
@@ -134,7 +134,7 @@
     {
         "id": 11,
         "testId": "151",
-        "text": "Alors, que pensez-vous de la maison ? Elle me plaît. Elle correspond à ce que je recherche. Un lieu de vie clair et spacieux. Vous pourrez refaire la peinture si vous voulez. Elle est un peu vieille. Oui, peut-être. Pour l'instant, je préférerais changer les fenêtres. On entend beaucoup les voitures dehors. En effet, il y a un supermarché à l'angle de la rue. C'est embêtant. Je rêvais d'un endroit calme. Prenez le temps de réfléchir. Pour quelles raisons la femme hésite-t-elle à louer la maison ?",
+        "text": "— Alors, que pensez-vous de la maison ?\n\n— Elle me plaît. Elle correspond à ce que je recherche. Un lieu de vie clair et spacieux.\n\n— Vous pourrez refaire la peinture, si vous voulez. Elle est un peu vieille.\n\n— Oui, peut-être. Pour l'instant, je préférerais changer les fenêtres. On entend beaucoup les voitures dehors.\n\n— En effet, il y a un supermarché à l'angle de la rue.\n\n— C'est embêtant. Je rêvais d'un endroit calme.\n\n— Prenez le temps de réfléchir.\n\nPour quelles raisons la femme hésite-t-elle à louer la maison ?",
         "audio": "/mp3/151/11.mp3",
         "options": [
             "Elle a besoin de réparations urgentes.",
@@ -147,7 +147,7 @@
     {
         "id": 12,
         "testId": "151",
-        "text": "Alors, comment s'est passée cette première journée dans la vie active ? Plutôt bien. Les collègues ont été très accueillants. Et avec ton chef ? Tu m'avais dit qu'il était un peu froid. Ben, en fait, il a été très sympa. Il m'a présenté à toute l'équipe, fait visiter les locaux et montré mon bureau, qui est très grand. Je n'en revenais pas. Bienvenue dans le monde professionnel, Alex. Tu n'es pas au bout de tes découvertes. Quel bilan Alex tire-t-il de sa première journée de travail ?",
+        "text": "— Alors, comment s'est passée cette première journée dans la vie active ?\n\n— Plutôt bien. Les collègues ont été très accueillants.\n\n— Et avec ton chef ? Tu m'avais dit qu'il était un peu froid.\n\n— Ben, en fait, il a été très sympa. Il m'a présenté à toute l'équipe, fait visiter les locaux et montré mon bureau, qui est très grand. Je n'en revenais pas.\n\n— Bienvenue dans le monde professionnel, Alex. Tu n'es pas au bout de tes découvertes.\n\nQuel bilan Alex tire-t-il de sa première journée de travail ?",
         "audio": "/mp3/151/12.mp3",
         "options": [
             "Il a été très agréablement surpris.",
@@ -173,7 +173,7 @@
     {
         "id": 14,
         "testId": "151",
-        "text": "Bonjour, monsieur. Je cherche la pharmacie Bollet. C'est dans le coin, je crois. Oh, mon garçon, ça fait longtemps que c'est plus une pharmacie. C'est une laverie automatique, maintenant. Monsieur Bollet, il est mort il y a cinq ans. Ah bon ? Mais c'est ma mère qui me l'a indiqué. Vous êtes sûr qu'elle n'est plus là ? Bien sûr. Ça fait vingt ans que j'habite le quartier, alors je le connais, une pharmacie. Il y en a une autre, mais dans deux rues, à droite. C'est pas loin. Pourquoi le jeune homme ne trouve-t-il pas la pharmacie Bollet ?",
+        "text": "— Bonjour, monsieur. Je cherche la pharmacie Bollet. C'est dans le coin, je crois.\n\n— Oh, mon garçon, ça fait longtemps que c'est plus une pharmacie. C'est une laverie automatique, maintenant. Monsieur Bollet, il est mort il y a cinq ans.\n\n— Ah bon ? Mais c'est ma mère qui me l'a indiqué. Vous êtes sûr qu'elle n'est plus là ?\n\n— Bien sûr. Ça fait vingt ans que j'habite le quartier, alors je le connais, une pharmacie. Il y en a une autre, mais dans deux rues, à droite. C'est pas loin.\n\nPourquoi le jeune homme ne trouve-t-il pas la pharmacie Bollet ?",
         "audio": "/mp3/151/14.mp3",
         "options": [
             "Elle n’existe plus depuis un moment.",
@@ -186,7 +186,7 @@
     {
         "id": 15,
         "testId": "151",
-        "text": "Rafika de Buffalo, bienvenue dans La Terre est Belle. Bonjour Mark. Alors, nous sommes ravis de vous avoir à l'antenne parce qu'on n'a jamais eu personne de Buffalo. Vous allez nous apprendre des choses. Ça se trouve, vous déjà ? Totalement à l'ouest de l'état de New York. C'est limitrophe du Canada. C'est drôle comme nom. Il n'y a pas spécialement de buffles ou de choses comme ça ? Non. D'après la légende, ça vient de Beau-fleuve, un nom donné par les explorateurs français. Enfin, c'est l'histoire qu'on raconte. Pour quelle raison Rafika intervient-elle?",
+        "text": "— Rafika de Buffalo, bienvenue dans La Terre est Belle.\n\n— Bonjour Mark.\n\n— Alors, nous sommes ravis de vous avoir à l'antenne parce qu'on n'a jamais eu personne de Buffalo. Vous allez nous apprendre des choses. Ça se trouve où déjà ?\n\n— Totalement à l'ouest de l'état de New York. C'est limitrophe du Canada.\n\n— C'est drôle comme nom. Il n'y a pas spécialement de buffles ou de choses comme ça ?\n\n— Non. D'après la légende, ça vient de Beau-fleuve, un nom donné par les explorateurs français. Enfin, c'est l'histoire qu'on raconte.\n\nPour quelle raison Rafika intervient-elle?",
         "audio": "/mp3/151/15.mp3",
         "options": [
             "Pour conseiller un livre.",
@@ -199,7 +199,7 @@
     {
         "id": 16,
         "testId": "151",
-        "text": "Bonjour Monique. Bonjour Olivier. Que puis-je pour vous ? Je viens vous voir au sujet de mes vacances. Je voudrais les prendre en juillet. Je sais que certains collègues seront en formation et d'autres en extérieur, pour les présentations de nos produits sur les marchés d'Europe. Est-ce que cela sera possible ? Nous aurons peut-être besoin de vous, effectivement. Je vais y réfléchir et je vous donne ma réponse cette semaine. Je vous remercie. Permettez-moi juste de vous rappeler que, l'été dernier, j'ai travaillé tout le mois d'août. Que demande Olivier ?",
+        "text": "— Bonjour Monique.\n\n— Bonjour Olivier. Que puis-je pour vous ?\n\n— Je viens vous voir au sujet de mes vacances. Je voudrais les prendre en juillet. Je sais que certains collègues seront en formation et d'autres en extérieur, pour les présentations de nos produits sur les marchés d'Europe. Est-ce que cela sera possible ?\n\n— Nous aurons peut-être besoin de vous, effectivement. Je vais y réfléchir et je vous donne ma réponse cette semaine.\n\n— Je vous remercie. Permettez-moi juste de vous rappeler que, l'été dernier, j'ai travaillé tout le mois d'août.\n\nQue demande Olivier ?",
         "audio": "/mp3/151/16.mp3",
         "options": [
             "À quel moment il pourra poser des congés.",
@@ -212,7 +212,7 @@
     {
         "id": 17,
         "testId": "151",
-        "text": "Bonjour Madame. Je suis venu hier ouvrir un compte, mais je n'ai pas bien compris quand je recevrai le chéquier commandé par vos soins. Pouvez-vous me rappeler votre nom et votre numéro de compte? Bien sûr. Je m'appelle Cloutier. Pierre Cloutier. Voici mon numéro de compte ouvert hier dans cette agence. Très bien. Pour un premier chéquier, comptez au moins une petite semaine. Puis on le commande automatiquement et ça prend 48 heures. Voilà. Il sera à votre disposition soit au guichet, soit en voyant l'accusé de réception à votre domicile. Que souhaitez-vous? Eh bien, je préfère passer le prendre en fin de semaine. Je serai sûr de l'avoir. Très bien. À bientôt, Monsieur. Pourquoi l'homme se rend-il dans une banque?",
+        "text": "— Bonjour Madame, je suis venu hier ouvrir un compte, mais je n'ai pas bien compris quand je recevrai le chéquier commandé par vos soins.\n\n— Pouvez-vous me rappeler votre nom et votre numéro de compte?\n\n— Bien sûr, je m'appelle Cloutier, Pierre Cloutier. Voici mon numéro de compte ouvert hier dans cette agence.\n\n— Très bien. Pour un premier chéquier, comptez au moins une petite semaine. Puis on le commande automatiquement et ça prend 48 heures. Voilà, il sera à votre disposition soit au guichet, soit en voyant l'accusé de réception à votre domicile. Que souhaitez-vous?\n\n— Eh bien, je préfère passer le prendre en fin de semaine. Je serai sûr de l'avoir.\n\n— Très bien. À bientôt, Monsieur.\n\nPourquoi l'homme se rend-il dans une banque?",
         "audio": "/mp3/151/17.mp3",
         "options": [
             "Pour retirer le chéquier arrivé une semaine avant.",
@@ -290,7 +290,7 @@
     {
         "id": 23,
         "testId": "151",
-        "text": "Bienvenue à tous. Ce colloque est intitulé « Travail et modernité » car nous devons changer notre manière d’appréhender le travail au sein d’une société en pleine mutation. Nous entrons en effet dans l’ère de la communication interplanétaire. Nul ne peut se contenter d’évoluer à l’intérieur des frontières de son pays. Il faut étudier, voyager, communiquer et surtout savoir changer de métier, de pays avec souplesse. Quelle est la qualité dont le travailleur moderne doit faire preuve ?",
+        "text": "Bienvenue à tous. Ce colloque est intitulé « Travail et modernité » car nous devons changer notre manière d'appréhender le travail au sein d'une société en pleine mutation. Nous entrons en effet dans l'ère de la communication interplanétaire. Nul ne peut se contenter d'évoluer à l'intérieur des frontières de son pays. Il faut étudier, voyager, communiquer et surtout savoir changer de métier, de pays avec souplesse. Quelle est la qualité dont le travailleur moderne doit faire preuve ?",
         "audio": "/mp3/151/23.mp3",
         "options": [
             "La créativité.",
@@ -303,7 +303,7 @@
     {
         "id": 24,
         "testId": "151",
-        "text": "Les Français sont de plus en plus nombreux à rechercher les loisirs de plein air. Et le camping n’est plus seulement choisi pour de simples raisons économiques, puisque l’on trouve des terrains 5 étoiles, qui proposent même des restaurants gastronomiques et des salles de bain privées. Le mot camping commence d’ailleurs à laisser la place à hôtelleries de plein air. Qu’apprend-on sur le camping ?",
+        "text": "Les Français sont de plus en plus nombreux à rechercher les loisirs de plein air. Et le camping n'est plus seulement choisi pour de simples raisons économiques, puisque l'on trouve des terrains 5 étoiles, qui proposent même des restaurants gastronomiques et des salles de bain privées. Le mot camping commence d'ailleurs à laisser la place à hôtellerie de plein air. Qu'apprend-on sur le camping ?",
         "audio": "/mp3/151/24.mp3",
         "options": [
             "Il intéresse très peu les vacanciers.",
@@ -316,7 +316,7 @@
     {
         "id": 25,
         "testId": "151",
-        "text": "L’économie circulaire c’est le réemploi, la réparation, le partage, la location et le recyclage des matériaux lorsque la matière redevient matière, la boucle, le cercle est bouclé. Oui, alors ? Et c’est le cas du secteur textile ? Oui, depuis 30 ans, l’entreprise Le Relais collecte et trie les vêtements que vous ne voulez plus porter et depuis 30 ans elle fait de l’économie circulaire en fait sans le savoir, car à l’origine il s’agissait surtout de réinsérer des personnes en difficulté. Que nous apprend l’intervenante sur l’économie circulaire ?",
+        "text": "— L'économie circulaire, c'est le réemploi, la réparation, le partage, la location et le recyclage des matériaux lorsque la matière redevient matière, la boucle, le cercle est bouclé.\n\n— Oui, alors, c'est le cas du secteur textile.\n\n— Oui, depuis 30 ans, l'entreprise Le Relais collecte et trie les vêtements que vous ne voulez plus porter et depuis 30 ans, elle fait de l'économie circulaire en fait sans le savoir, car à l'origine, il s'agissait surtout de réinsérer des personnes en difficulté.\n\nQue nous apprend l'intervenante sur l'économie circulaire ?",
         "audio": "/mp3/151/25.mp3",
         "options": [
             "Elle a d’abord une vocation caritative.",
@@ -329,7 +329,7 @@
     {
         "id": 26,
         "testId": "151",
-        "text": "Le prénom que vos parents vous ont donné vous rebutent ? Vous pouvez en changer mais ce n’est pas une simple formalité. Il faut obligatoirement faire appel à un avocat qui dépose le dossier auprès du tribunal de grande instance du lieu de naissance ou du domicile du demandeur. La principale difficulté comme le souligne maître David Bachelard est de parvenir à convaincre les juges du bien fondé de sa requête. On peut changer de prénom à condition de justifier d’un intérêt légitime. La francisation par exemple. Mais ça peut être également des personnes qui souhaitent mettre en adéquation leur prénom avec leur conviction religieuse. Et puis il y a des cas beaucoup plus atypiques. Une personne qui souffre de son prénom parce qu’il a un caractère quelque peu ridicule, qui rencontre des difficultés. Pourquoi changer de prénom peut-il s’avérer difficile ?",
+        "text": "— Le prénom que vos parents vous ont donné vous rebutent ? Vous pouvez en changer mais ce n'est pas une simple formalité. Il faut obligatoirement faire appel à un avocat qui dépose le dossier auprès du tribunal de grande instance du lieu de naissance ou du domicile du demandeur. La principale difficulté comme le souligne maître David Bachelard est de parvenir à convaincre les juges du bien fondé de sa requête.\n\n— On peut changer de prénom à condition de justifier d'un intérêt légitime. La francisation par exemple. Mais ça peut être également des personnes qui souhaitent mettre en adéquation leur prénom avec leur conviction religieuse. Et puis il y a des cas beaucoup plus atypiques. Une personne qui souffre de son prénom parce qu'il a un caractère quelque peu ridicule, qui rencontre des difficultés.\n\nPourquoi changer de prénom peut-il s'avérer difficile ?",
         "audio": "/mp3/151/26.mp3",
         "options": [
             "Il faut obtenir l’accord de la famille.",
@@ -342,13 +342,13 @@
     {
         "id": 27,
         "testId": "151",
-        "text": "Allô, bonjour madame, c’est M. Etienne. Je reçus mon relevé bancaire et je vois que mon abonnement au service en ligne a augmenté de 5%. C’est pas beaucoup, certes, mais est-ce normal ? Oui, oui, je vous rassure, c’est bien normal. Tous nos tarifs ont subi une augmentation au 1er janvier. Peut-être, mais je n’ai reçu aucun courrier pour m’avertir. Vous avez raison, mais nos conditions tarifaires sont affichées à l’agence. Cela ne justifie pas que vous n’avertissez pas vos clients ! Alors je vous demande de résilier cet abonnement au plus vite ! Pourquoi le client demande-t-il la résiliation de son abonnement bancaire ?",
+        "text": "— Allô, bonjour madame, c'est M. Etienne. J'ai reçu mon relevé bancaire et je vois que mon abonnement au service en ligne est augmenté de 5%. C'est pas beaucoup, certes, mais est-ce normal ?\n\n— Oui, oui, je vous rassure, c'est bien normal. Tous nos tarifs ont subi une augmentation au 1er janvier.\n\n— Peut-être, mais je n'ai reçu aucun courrier pour m'avertir.\n\n— Vous avez raison, mais nos conditions tarifaires sont affichées à l'agence.\n\n— Cela ne justifie pas que vous n'avertissez pas vos clients ! Alors je vous demande de résilier cet abonnement au plus vite !\n\nPourquoi le client demande-t-il la résiliation de son abonnement bancaire ?",
         "audio": "/mp3/151/27.mp3",
         "options": [
             "Il trouve que cela lui coûte trop cher.",
             "Il pense que cela ne lui est plus utile.",
-            "Il trouve que l’augmentation est injustifiée.",
-            "Il pense qu’il aurait dû être prévenu."
+            "Il trouve que l'augmentation est injustifiée.",
+            "Il pense qu'il aurait dû être prévenu."
         ],
         "answer": 3
     },
@@ -368,12 +368,12 @@
     {
         "id": 29,
         "testId": "151",
-        "text": "Et on termine avec vous, Jean-nick, qui pose une grande question existentielle. Marcher ou courir? Ça dépend. C’est ce qui ressort de quelques études récentes qui ont opposé les deux exercices et mesuré leurs effets. L’une d’elles a été publiée le mois dernier dans la revue Medicine and Science in Sports and Exercise. Conclusion? En ce qui concerne la perte de poids, c’est la course qui l’emporte haut la main. Les coureurs sont plus minces, moins de surcharge pondérale que les marcheurs, et passer l’âge de 55 ans, c’est encore plus vrai, même si le nombre de kilomètres parcourus à la course par semaine est minime. Il y a une différence entre les coureurs et les marcheurs, et la cause pourrait être l’effet de la course sur l’appétit. Selon le chroniqueur, que permet la course par rapport à la marche ?",
+        "text": "— Et on termine avec vous, Jean-nick, qui pose une grande question existentielle. Marcher ou courir?\n\n— Ça dépend. C'est ce qui ressort de quelques études récentes qui ont opposé les deux exercices et mesuré leurs effets. L'une d'elles a été publiée le mois dernier dans la revue Medicine and Science in Sports and Exercise. Conclusion? En ce qui concerne la perte de poids, c'est la course qui l'emporte haut la main. Les coureurs sont plus minces, moins de surcharge pondérale que les marcheurs. Et passer l'âge de 55 ans, c'est encore plus vrai, même si le nombre de kilomètres parcourus à la course par semaine est minime. Il y a une différence entre les coureurs et les marcheurs. Et la cause pourrait être l'effet de la course sur l'appétit.\n\nSelon le chroniqueur, que permet la course par rapport à la marche ?",
         "audio": "/mp3/151/29.mp3",
         "options": [
             "De maigrir plus rapidement.",
             "De manger sans compter.",
-            "De s’entraîner moins souvent.",
+            "De s'entraîner moins souvent.",
             "De vivre plus longtemps."
         ],
         "answer": 0
@@ -381,12 +381,12 @@
     {
         "id": 30,
         "testId": "151",
-        "text": "Bonjour à tous, je n’ai rien à me mettre. Avez-vous déjà prononcé cette phrase devant votre armoire pleine de vêtements? Quelles sont les basiques de votre garde-robe? Avez-vous une tenue fétiche que vous enfilez lorsque vous voulez jouer la carte de la sécurité? Que porter pour un premier rendez-vous, pour un entretien d’embauche, pour un week-end à la campagne? Ces questions semblent futiles. La mode nous paraît parfois un luxe superflu et on oppose souvent l’être et le paraître. Mais faites l’expérience. Si vous êtes femme, quel que soit votre gabarit, enfilez une robe qui vous met en valeur, de jolies chaussures, une touche de rouge à lèvres peut-être, vous vous sentirez sans aucun doute plus sûr de vous, votre caractère en sera peut-être même transformé. Quelle est l’idée avancée par la journaliste?",
+        "text": "Bonjour à tous. Je n'ai rien à me mettre. Avez-vous déjà prononcé cette phrase devant votre armoire pleine de vêtements ? Quelles sont les basiques de votre garde-robe ? Avez-vous une tenue fétiche que vous enfilez lorsque vous voulez jouer la carte de la sécurité ? Que porter pour un premier rendez-vous, pour un entretien d'embauche, pour un week-end à la campagne ? Ces questions semblent futiles. La mode nous paraît parfois un luxe superflu et on oppose souvent l'être et le paraître. Mais faites l'expérience. Si vous êtes femme, quel que soit votre gabarit, enfilez une robe qui vous met en valeur, de jolies chaussures, une touche de rouge à lèvres peut-être, vous vous sentirez sans aucun doute plus sûr de vous. Votre caractère en sera peut-être même transformé. Quelle est l'idée avancée par la journaliste?",
         "audio": "/mp3/151/30.mp3",
         "options": [
             "Aujourd’hui, être à la mode est une préoccupation superficielle.",
-            "il faut porter des vêtements adaptés à toutes circonstances.",
-            "La société actuelle donne trop de place a l’apparence.",
+            "Il faut porter des vêtements adaptés à toutes circonstances.",
+            "La société actuelle donne trop de place à l’apparence.",
             "La tenue vestimentaire influence l’état psychologique."
         ],
         "answer": 3
@@ -399,7 +399,7 @@
         "options": [
             "Ils habitent plus longtemps en location.",
             "Ils perçoivent un salaire plus élevé.",
-            "Ils s’investissent dans des associations",
+            "Ils s'investissent dans des associations.",
             "Ils sont tentés par les dépenses."
         ],
         "answer": 3
@@ -420,7 +420,7 @@
     {
         "id": 33,
         "testId": "151",
-        "text": "Il y a certains légumes qui sont moins bien connus que d’autres. Oui, la courge entre autres, c’est quelque chose qui... vraiment les gens la regardent avec un point d’interrogation, qu’est-ce que je vais faire avec ça? Donc il faut être imaginatif comme producteur pour tenter les gens de le cuisiner. Puis on comprend que le temps est tellement précieux, les gens n’ont pas le temps, donc il faut essayer de leur trouver des trucs. Que doit faire cette personne pour vendre ses légumes?",
+        "text": "— Il y a certains légumes qui sont moins bien connus que d'autres.\n\n— Oui, la courge entre autres, c'est quelque chose qui... vraiment les gens la regardent avec un point d'interrogation, qu'est-ce que je vais faire avec ça? Donc il faut être imaginatif comme producteur pour tenter les gens de le cuisiner. Puis on comprend que le temps est tellement précieux, les gens n'ont pas le temps, donc il faut essayer de leur trouver des trucs.\n\nQue doit faire cette personne pour vendre ses légumes?",
         "audio": "/mp3/151/33.mp3",
         "options": [
             "Donner des conseils de préparation.",
@@ -446,13 +446,13 @@
     {
         "id": 35,
         "testId": "151",
-        "text": "Depuis quelques années, des vignerons ont investi des sommes importantes au Québec pour se lancer dans une nouvelle culture, comme Daniel Desmoulins qui a ouvert le vignoble L’Ange-Gardien en face du fleuve Saint-Laurent. Faire du vin au Québec, c’est un challenge. Je serais peut-être pas parti là-dessus il y a 20 ans, mais je trouvais que les produits étaient de mieux en mieux et c’est pour ça qu’il y a 10 ans, avec ma femme, on a dit « on va se lancer ». Dans le vin, je pense que l’on a des produits extrêmement intéressants parce qu’il y a un petit peu d’acidité. Puis, il y a toujours le vin de glace, on a la température pour ça. On cueille le raisin fin décembre, début janvier. Qu’est-ce qui a décidé Daniel Desmoulins à démarrer son activité?",
+        "text": "— Depuis quelques années, des vignerons ont investi des sommes importantes au Québec pour se lancer dans une nouvelle culture, comme Daniel Desmoulins qui a ouvert le vignoble L'Ange-Gardien en face du fleuve Saint-Laurent.\n\n— Faire du vin au Québec, c'est un challenge. Je serais peut-être pas parti là-dessus il y a 20 ans, mais je trouvais que les produits étaient de mieux en mieux et c'est pour ça qu'il y a 10 ans, avec ma femme, on a dit « on va se lancer ». Dans le vin, je pense que l'on a des produits extrêmement intéressants parce qu'il y a un petit peu d'acidité. Puis, il y a toujours le vin de glace, on a la température pour ça. On cueille le raisin fin décembre, début janvier.\n\nQu'est-ce qui a décidé Daniel Desmoulins à démarrer son activité?",
         "audio": "/mp3/151/35.mp3",
         "options": [
             "La qualité croissante des résultats.",
             "Les aménagements hydrauliques.",
             "L’expérience de ses collègues.",
-            "L’importance de pieds de vigne."
+            "L’importation de pieds de vigne."
         ],
         "answer": 0
     },
@@ -472,7 +472,7 @@
     {
         "id": 37,
         "testId": "151",
-        "text": "Bonjour à tous, Noël est passé, et bien maintenant on va s’intéresser aux jouets et à leur conception. Je pensais qu’on ne pouvait pas mettre un jouet sur le commerce s’il n’était pas sain pour les enfants et pour les grands aussi, parce qu’il y a des grands qui jouent aussi un petit peu, normal. Alors il est vrai que pour les jouets, il existe des réglementations qui s’appliquent, notamment sur l’interdiction de certaines substances chimiques qui ne doivent pas être présentes dans les jouets, ou alors avec une limite de concentration à ne pas dépasser. Après comme tous les produits de consommation mis sur le marché, il n’y a pas d’autorisation de mise sur le marché comme ça existe pour les médicaments. De quoi s’étonne le premier interlocuteur?",
+        "text": "— Bonjour à tous, Noël est passé, et bien maintenant on va s’intéresser aux jouets et à leur conception. Je pensais qu’on ne pouvait pas mettre un jouet sur le commerce s’il n’était pas sain pour les enfants et pour les grands aussi, parce qu’il y a des grands qui jouent aussi un petit peu, normal.\n\n— Alors il est vrai que pour les jouets, il existe des réglementations qui s’appliquent, notamment sur l’interdiction de certaines substances chimiques qui ne doivent pas être présentes dans les jouets, ou alors avec une limite de concentration à ne pas dépasser. Après comme tous les produits de consommation mis sur le marché, il n’y a pas d’autorisation de mise sur le marché comme ça existe pour les médicaments.\n\nDe quoi s’étonne le premier interlocuteur?",
         "audio": "/mp3/151/37.mp3",
         "options": [
             "De la mise en vente libre de jouets sans contrôle sanitaire.",
@@ -498,13 +498,13 @@
     {
         "id": 39,
         "testId": "151",
-        "text": "Peut-être aurais-je dû moi aussi faire l’acquisition de l’un de ces nombreux manuels du bonheur proposés par la librairie Erroll. Cela m’aurait peut-être aidé à positiver, à voir les choses autrement, comme le prônent justement ces ouvrages. Ainsi je ne serais pas rentrée avec la sensation un peu déprimante, je dois le dire, que pour être heureux, eh bien il faut faire des efforts. Le bonheur n’est pas inné, nous disent les spécialistes, il s’apprend. Et donc au rayon bonheur de la librairie, donc je n’invente pas, il y a bien une étiquette bonheur sur un rayon, les manuels proposent leur aide, un grand coup d’exercice, de conseils, rédigés généralement à l’impératif. On lit, ne vous souciez pas du regard des autres. Quelle conclusion la journaliste tire-t-elle de sa visite dans cette librairie?",
+        "text": "Peut-être aurais-je dû moi aussi faire l'acquisition de l'un de ces nombreux manuels du bonheur proposés par la librairie Erroll. Cela m'aurait peut-être aidé à positiver, à voir les choses autrement, comme le prônent justement ces ouvrages. Ainsi je ne serais pas rentrée avec la sensation un peu déprimante, je dois le dire, que pour être heureux, eh bien il faut faire des efforts. Le bonheur n'est pas inné, nous disent les spécialistes, il s'apprend. Et donc au rayon bonheur de la librairie, donc je n'invente pas, il y a bien une étiquette bonheur sur un rayon, les manuels proposent leur aide, un grand coup d'exercice, de conseils, rédigés généralement à l'impératif. On lit, ne vous souciez pas du regard des autres. Quelle conclusion la journaliste tire-t-elle de sa visite dans cette librairie?",
         "audio": "/mp3/151/39.mp3",
         "options": [
             "Acheter des livres sur le bonheur rend heureux.",
             "Chacun de nous est prédisposé au bonheur.",
-            "Des cours de bonheur s’impose dès l’enfance.",
-            "L’accès au bonheur nécessite du travail."
+            "Des cours de bonheur s'impose dès l'enfance.",
+            "L'accès au bonheur nécessite du travail."
         ],
         "answer": 3
     }

@@ -2,7 +2,7 @@
     {
         "id": 1,
         "testId": 171,
-        "text": "Écoutez les quatre propositions. Choisissez celle qui correspond à l'image.\n\nA. J'aimerais ouvrir ce colis. C'est un cadeau.\n\n B. Je n'arrive pas à écrire le courrier pour le directeur.\n\nC. Je voudrais envoyer cette lettre, s'il vous plaît.\n\nD. Le facteur est passé. Tu vas chercher le courrier?",
+        "text": "A. J'aimerais ouvrir ce colis. C'est un cadeau.\n\nB. Je n'arrive pas à écrire le courrier pour le directeur.\n\nC. Je voudrais envoyer cette lettre, s'il vous plaît.\n\nD. Le facteur est passé. Tu vas chercher le courrier?",
         "audio": "/mp3/171/1.mp3",
         "img": "/mp3/171/1.jpg",
         "options": [
@@ -134,7 +134,7 @@
     {
         "id": 11,
         "testId": 171,
-        "text": "— Allo Paul, tu peux m'aider ?\n\n— Qu'est-ce qui t'arrive Lydie ?\n\n— J'ai laissé mes clés de voiture dans la salle de conférence et elle est occupée jusqu'à 20h.\n\n— Je peux te ramener si tu veux ?\n\n— Oh merci, ça m'arrange. Je dois être chez moi à 18h30. Demain je viendrai en transport.\n\nQuel est le problème de Lydie ?",
+        "text": "— Allô Paul, tu peux m'aider ?\n\n— Qu'est-ce qui t'arrive Lydie ?\n\n— J'ai laissé mes clés de voiture dans la salle de conférence et elle est occupée jusqu'à 20h.\n\n— Je peux te ramener si tu veux ?\n\n— Oh merci, ça m'arrange. Je dois être chez moi à 18h30. Demain je viendrai en transport.\n\nQuel est le problème de Lydie ?",
         "audio": "/mp3/171/11.mp3",
         "options": [
             "Elle a oublié un objet important.",
@@ -186,7 +186,7 @@
     {
         "id": 15,
         "testId": 171,
-        "text": "— Allô ? Salut, c'est Rachida.\n\n— Salut, petite sœur.\n\n— Je t'appelle pour qu'on s'organise. Tu te souviens qu'on sera déjà parti quand vous arriverez ?\n\n— Ah c'est vrai, j'avais complètement oublié. Comment on fait pour les clés ?\n\n— Je les laisserai chez la voisine d'en face. On vous a préparé des draps, des serviettes, et le frigo est plein. Nous vous avons aussi laissé une liste d'activités à faire ici et des adresses pour sortir dîner.\n\n— Merci beaucoup. Je te dois combien ?\n\n— Ah ben rien, tu plaisantes. C'est normal, tu es mon frère.\n\nPourquoi Rachida appelle-t-elle son frère ?",
+        "text": "— Allô ?\n\n— Salut, c'est Rachida.\n\n— Salut, petite sœur.\n\n— Je t'appelle pour qu'on s'organise. Tu te souviens qu'on sera déjà parti quand vous arriverez ?\n\n— Ah c'est vrai, j'avais complètement oublié. Comment on fait pour les clés ?\n\n— Je les laisserai chez la voisine d'en face. On vous a préparé des draps, des serviettes, et le frigo est plein. Nous vous avons aussi laissé une liste d'activités à faire ici et des adresses pour sortir dîner.\n\n— Merci beaucoup. Je te dois combien ?\n\n— Ah ben rien, tu plaisantes. C'est normal, tu es mon frère.\n\nPourquoi Rachida appelle-t-elle son frère ?",
         "audio": "/mp3/171/15.mp3",
         "options": [
             "Pour l’inviter au restaurant.",
@@ -225,7 +225,7 @@
     {
         "id": 18,
         "testId": 171,
-        "text": "Tom, c'est Sarah. Je viens d'avoir ton SMS mais je ne peux pas te répondre, je suis en réunion en ce moment. Pour ce soir, pas de problème, je te rejoins au cinéma à 20h et j'achète le popcorn.Qu'annonce Sarah à Tom ?",
+        "text": "Tom, c'est Sarah. Je viens d'avoir ton SMS mais je ne peux pas te répondre, je suis en réunion en ce moment. Pour ce soir, pas de problème, je te rejoins au cinéma à 20h et j'achète le popcorn. Qu'annonce Sarah à Tom ?",
         "audio": "/mp3/171/18.mp3",
         "options": [
             "Elle a mal compris son message.",
@@ -251,7 +251,7 @@
     {
         "id": 20,
         "testId": 171,
-        "text": "Ah, j'ai commencé dans l'entreprise, cela fait quand même 30 ans, à l'époque où on ne s'embarrassait pas avec le recrutement. Je me souviens, dès le soir où j'ai fini ma formation, mon patron de stage m'a proposé de rester, et pour mes copains de formation, pareil. Ah, c'est sûr, on n'embauche plus si facilement. Maintenant, je suis un ancien. Je dois recruter les jeunes qui arrivent, et je trouve ça incroyable. Ils accumulent les diplômes, ont fait plein de stages, 150 à postuler. Cela ne doit pas être drôle. Que constate cet employé ?",
+        "text": "Ah, j'ai commencé dans l'entreprise, cela fait quand même 30 ans, à l'époque où on ne s'embarrassait pas avec le recrutement. Je me souviens, dès le soir où j'ai fini ma formation, mon patron de stage m'a proposé de rester, et pour mes copains de formation, pareil. Ah, c'est sûr, on n'embauche plus si facilement. Maintenant, je suis un ancien. Je dois recruter les jeunes qui arrivent, et je trouve ça incroyable. Ils accumulent les diplômes, ont fait plein de stages, sont 150 à postuler. Cela ne doit pas être drôle. Que constate cet employé ?",
         "audio": "/mp3/171/20.mp3",
         "options": [
             "Les conditions de recrutement sont plus difficiles aujourd’hui.",
@@ -277,12 +277,12 @@
     {
         "id": 22,
         "testId": 171,
-        "text": "Je crois que les difficultés en matière de lecture ont des causes à la fois individuelles et sociales. Les parents, par exemple, parce qu'ils sont angoissés par l'avenir de leurs enfants, leur présentent souvent la lecture comme une obligation, une démarche indispensable pour réussir, et c'est une erreur, parce que la lecture est avant tout un plaisir. Un livre, c'est un voyage, une découverte, une aventure, et il faudrait faire découvrir la lecture aux enfants comme on leur fait découvrir la cuisine chinoise ou les jeux dans la neige. Et puis les parents refusent aussi souvent à leurs enfants des lectures qu'ils considèrent comme mineures. Les bandes dessinées, par exemple, et ça aussi, c'est une erreur. Lire une bande dessinée, c'est lire. Et ça permet souvent d'ailleurs de découvrir ensuite d'autres formes de littérature. Que conseille cette intervenante aux parents ?",
+        "text": "Je crois que les difficultés en matière de lecture ont des causes à la fois individuelles et sociales. Les parents, par exemple, parce qu'ils sont angoissés par l'avenir de leurs enfants, leur présentent souvent la lecture comme une obligation, une démarche indispensable pour réussir. Et c'est une erreur, parce que la lecture est avant tout un plaisir. Un livre, c'est un voyage, une découverte, une aventure, et il faudrait faire découvrir la lecture aux enfants comme on leur fait découvrir la cuisine chinoise ou les jeux dans la neige. Et puis les parents refusent aussi souvent à leurs enfants des lectures qu'ils considèrent comme mineurs. Les bandes dessinées, par exemple, et ça aussi, c'est une erreur. Lire une bande dessinée, c'est lire. Et ça permet souvent d'ailleurs de découvrir ensuite d'autres formes de littérature. Que conseille cette intervenante aux parents ?",
         "audio": "/mp3/171/22.mp3",
         "options": [
-            "D’attribuer à la lecture le statut de loisir.",
+            "D'attribuer à la lecture le statut de loisir.",
             "De favoriser la lecture en autonomie.",
-            "De limiter la lecture d’histoires illustrées.",
+            "De limiter la lecture d'histoires illustrées.",
             "De sélectionner des lectures classiques."
         ],
         "answer": 0
@@ -347,8 +347,8 @@
         "options": [
             "De la préparation des vacances.",
             "Des révisions d’un examen.",
-            "D’un anniversaire surprise.",
-            "D’un projet de visites culturelles."
+            "D'un anniversaire surprise.",
+            "D'un projet de visites culturelles."
         ],
         "answer": 1
     },
@@ -361,14 +361,14 @@
             "Conseiller gratuitement des régimes minceur.",
             "Faciliter la consommation de produits sains.",
             "Livrer des spécialités régionales à domicile.",
-            "Proposer une émission de cuisine sur internet."
+            "Proposer une émission de cuisine sur Internet."
         ],
         "answer": 1
     },
     {
         "id": 29,
         "testId": 171,
-        "text": "— Alors Patrick, ce stage d'informatique à la tulipe?\n\n— Oh, ne m'en parle pas. Horrible! Je suis ravi d'être au boulot. D'abord, il a plu toute la semaine, avec une tempête, t'aurais vu sûr. On pensait pouvoir faire des balades en fin de journée. Il n'y a que moi qui voulais encore marcher malgré la pluie. Les autres se retrouvaient au bord pour jouer aux cartes ou refaire le monde. D'autres ont passé leur temps devant la télé.\n\n— Eh bien bravo! Pour prendre le bonheur, c'est réussi.\n\n— Et je ne te décris pas le trou que c'était. Rien à voir à des kilomètres à la ronde.\n\nQu'est-ce que Patrick était le seul à vouloir faire?",
+        "text": "— Alors Patrick, ce stage d'informatique à la Tulipe?\n\n— Oh, ne m'en parle pas. Horrible! Je suis ravi d'être au boulot. D'abord, il a plu toute la semaine, avec une tempête, t'aurais vu sûr. On pensait pouvoir faire des balades en fin de journée. Il n'y a que moi qui voulais encore marcher malgré la pluie. Les autres se retrouvaient au bord pour jouer aux cartes ou refaire le monde. D'autres ont passé leur temps devant la télé.\n\n— Eh bien bravo! Pour prendre le bonheur, c'est réussi.\n\n— Et je ne te décris pas le trou que c'était. Rien à voir à des kilomètres à la ronde.\n\nQu'est-ce que Patrick était le seul à vouloir faire?",
         "audio": "/mp3/171/29.mp3",
         "options": [
             "Jouer aux cartes.",
@@ -394,7 +394,7 @@
     {
         "id": 31,
         "testId": 171,
-        "text": "— Là, on vient, très récemment, de... d'observer pour la première fois un trou noir, Hubert Rives. Quelle a été votre réaction?\n\n— Oui, c'est le moment où on découvre une chose pour la première fois, et surtout le fait que cette idée des trous noirs, qui a été inventée par Einstein dans les années 1910-15, je ne me souviens pas, c'était au départ une théorie. Et de trouver que le comportement de ces trous noirs existe, c'est une confirmation de la valeur de la science en général, qui sont, par exemple, les idées des trous noirs. Ça vous donne confiance dans la science.\n\nSelon Hubert Rives, pourquoi cette première observation d'un trou noir est-elle importante ?",
+        "text": "— Là, on vient, très récemment, de... d'observer pour la première fois un trou noir, Hubert Rives. Quelle a été votre réaction?\n\n— Oui, c'est le moment où on découvre une chose pour la première fois, et surtout le fait que cette idée des trous noirs, qui a été inventée par Einstein dans les années 1910-15, je ne me souviens pas, c'était au départ une théorie de trouver que le comportement de ces trous noirs existe, c'est une confirmation de la valeur de la science en général, qui sont, par exemple, les idées des trous noirs. Ça vous donne confiance dans la science.\n\nSelon Hubert Rives, pourquoi cette première observation d'un trou noir est-elle importante ?",
         "audio": "/mp3/171/31.mp3",
         "options": [
             "Elle annonce de futures découvertes.",
@@ -433,7 +433,7 @@
     {
         "id": 34,
         "testId": 171,
-        "text": "— Quand vous revenez de Chicago, vous fondez d'abord Héritage Montréal. Pourquoi?\n\n— Vous savez, quand je suis revenue de Chicago, j'étais là pendant quelques années à prendre des photographies des bâtiments Pierre Grise.\n\n— À Montréal?\n\n— Oui, parce que je trouvais ça formidable et ça délimitait. C'était une façon de marquer chaque quartier de Montréal. Alors, je faisais ça avec un photographe, très bien. Et puis, quand nous étions dans, par exemple, un des couvents, on nous a dit, « Qu'est-ce que vous faites dans ce bâtiment? C'est vétuste. On va le démolir. » C'était comme ça partout. Alors, finalement, on a compris qu'il fallait vraiment s'occuper de ça. Surtout, quand je venais de Chicago, et puis toutes les villes autour de Troyes, Cincinnati, un peu partout, il y avait peut-être un bâtiment qui restait debout, un bâtiment victorien, et puis tout était aplatit. C'était la période Ferrance.\n\nDans quel but a été fait ce reportage photo?",
+        "text": "— Quand vous revenez de Chicago, vous fondez d'abord Héritage Montréal. Pourquoi?\n\n— Vous savez, quand je suis revenue de Chicago, j'étais là pendant quelques années à prendre des photographies des bâtiments Pierre Grise.\n\n— À Montréal?\n\n— Oui, parce que je trouvais ça formidable et ça délimitait. C'était une façon de marquer chaque quartier de Montréal. Alors, je faisais ça avec un photographe, très bien. Et puis, quand nous étions dans, par exemple, un des couvents, on nous a dit, « Mais pourquoi est-ce que vous faites dans ce bâtiment? C'est vétuste. On va le démolir. » C'était comme ça partout. Alors, finalement, on a compris qu'il fallait vraiment s'occuper de ça. Surtout, quand je venais de Chicago, et puis toutes les villes autour de Troyes, Cincinnati, un peu partout, il y avait peut-être un bâtiment qui restait debout, un bâtiment victorien, et puis tout était aplatit. C'était la période Ferrance.\n\nDans quel but a été fait ce reportage photo?",
         "audio": "/mp3/171/34.mp3",
         "options": [
             "Pour accélérer la rénovation d’anciennes constructions.",
@@ -488,7 +488,7 @@
         "text": "Les pays européens sont presque tous d'excellents élèves de l'écologie. «Est-ce une bonne nouvelle ?» S'interroge le Figaro. Pas si sûr. L'Europe, dit Gérard Dupuy dans Libération, ne paraît vertueuse que parce que son double décimètre était truqué. Les quotas de rejet de CO2, fixés à l'avance, ont été calculés de manière à ne pas trop effaroucher les industriels. Du coup, ils ne servaient à rien. Mais, reconnaît Gérard Dupuy, il serait tout aussi erroné, à l'inverse, d'avoir des exigences drastiques mais irréalistes. Les industriels savent d'ailleurs agiter un épouvantail efficace. La méthode la plus simple pour arriver à une absence complète de pollution, c'est de fermer une usine et de la délocaliser sous d'autres cieux. Ce n'est pas toujours une menace en l'air. D'après le journaliste, en quoi les bons résultats européens en matière d'écologie sont-ils contestables ?",
         "audio": "/mp3/171/38.mp3",
         "options": [
-            "Ils font l’objet de manipulations douteuses par les pollueurs.",
+            "Ils font l'objet de manipulations douteuses par les pollueurs.",
             "Ils répondent à des critères insuffisamment exigeants.",
             "Ils sont destinés à justifier les politiques économiques.",
             "Ils sont publiés par des organismes liés aux entreprises."
@@ -498,7 +498,7 @@
     {
         "id": 39,
         "testId": 171,
-        "text": "— Tes recherches sur les algues, ça avance ?\n\n— Oui, pas mal.\n\n— Mais, tu étudies quoi au juste ?\n\n— Leur système de reproduction. Dans un milieu aquatique, le vent ou les insectes ne jouent évidemment aucun rôle. En fait, ce sont des petites boules au bout des tiges qui se fendent et attirent les cellules mâles pour les féconder.\n\n— Et à quoi te serviront ces découvertes ?\n\n— Par la suite, on pourra multiplier ces algues et les utiliser dans la composition des produits pharmaceutiques.\n\nQue cherche à étudier cette personne à propos des algues ?",
+        "text": "— Tes recherches sur les algues, ça avance ?\n\n— Oui, pas mal.\n\n— Mais, tu étudies quoi au juste ?\n\n— Leur système de reproduction. Dans un milieu aquatique, le vent ou les insectes ne jouent évidemment aucun rôle. En fait, ce sont des petites boules au bout des tiges qui se fondent et attirent les cellules mâles pour les féconder.\n\n— Et à quoi te serviront ces découvertes ?\n\n— Par la suite, on pourra multiplier ces algues et les utiliser dans la composition des produits pharmaceutiques.\n\nQue cherche à étudier cette personne à propos des algues ?",
         "audio": "/mp3/171/39.mp3",
         "options": [
             "Le processus d’attractivité des cellules femelles.",

@@ -172,13 +172,13 @@
     {
         "id": 14,
         "testId": 165,
-        "text": "— Bonjour madame, auriez-vous quelques minutes pour répondre à un sondage ?\n\n— Rapidement, oui. Parfait.\n\n— Suivez-vous l'actualité ? Oui, un peu, mais je n'ai pas toujours le temps.\n\n— Vous lisez les journaux ? Un peu, dans le métro, mais je regarde plutôt les informations à la télévision.\n\n— Et sur Internet ?\n\n— Oui, parfois des amis postent des actualités sur les réseaux sociaux. J'aime ce qui parle des grands réalisateurs de films, des acteurs, parce que je suis actrice, vous savez.\n\n— Très bien, merci madame. Vos réponses nous seront très utiles.\n\nQuel est le thème du sondage ?",
+        "text": "— Bonjour madame, auriez-vous quelques minutes pour répondre à un sondage ?\n\n— Rapidement, oui.\n\n— Parfait. Suivez-vous l'actualité ?\n\n— Oui, un peu, mais je n'ai pas toujours le temps.\n\n— Vous lisez les journaux ?\n\n— Un peu, dans le métro, mais je regarde plutôt les informations à la télévision.\n\n— Et sur Internet ?\n\n— Oui, parfois des amis postent des actualités sur les réseaux sociaux. J'aime ce qui parle des grands réalisateurs de films, des acteurs, parce que je suis actrice, vous savez.\n\n— Très bien, merci madame. Vos réponses nous seront très utiles.\n\nQuel est le thème du sondage ?",
         "audio": "/mp3/165/14.mp3",
         "options": [
-            "L’intérêt pour le cinéma.",
+            "L'intérêt pour le cinéma.",
             "Les activités de loisirs.",
             "Les habitudes de transport.",
-            "L’utilisation des médias."
+            "L'utilisation des médias."
         ],
         "answer": 3
     },
@@ -471,7 +471,7 @@
     {
         "id": 37,
         "testId": 165,
-        "text": "Dans mon cabinet de recrutement, Internet est devenu un outil indispensable, non seulement pour repérer des candidats potentiels sur la toile, mais également pour la phase d'entretien. Grâce au logiciel de visioconférence, les cadres ne doivent plus se déplacer et parfois faire des centaines de kilomètres pour s'entendre dire après 10 minutes d'entretien qu'ils n'ont pas le profil. De plus, l'utilisation de tel logiciel offre un autre avantage considérable, il réduit les discriminations. Comme l'entretien peut être enregistré aussi bien par le candidat que par le recruteur, cela évite les questions déplacées. Enfin, les enregistrements peuvent être visionnés autant de fois qu'on le souhaite, ou encore être transmis à nos clients pour plus de transparence et de professionnalisme. Selon cette personne, qu'est-ce que l'utilisation d'Internet apporte au processus de recrutement?",
+        "text": "Dans mon cabinet de recrutement, Internet est devenu un outil indispensable, non seulement pour repérer des candidats potentiels sur la toile, mais également pour la phase d'entretien. Grâce au logiciel de visioconférence, les cadres ne doivent plus se déplacer et parfois faire des centaines de kilomètres pour s'entendre dire après dix minutes d'entretien qu'ils n'ont pas le profil. De plus, l'utilisation de tel logiciel offre un autre avantage considérable: Il réduit les discriminations. Comme l'entretien peut être enregistré aussi bien par le candidat que par le recruteur, cela évite les questions déplacées. Enfin, les enregistrements peuvent être visionnés autant de fois qu'on le souhaite ou encore être transmis à nos clients pour plus de transparence et de professionnalisme. Selon cette personne, qu'est-ce que l'utilisation d'Internet apporte au processus de recrutement?",
         "audio": "/mp3/165/37.mp3",
         "options": [
             "Une diminution de la longueur des entretiens.",

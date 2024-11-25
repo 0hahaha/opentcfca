@@ -69,7 +69,7 @@
     {
         "id": 6,
         "testId": 178,
-        "text": "Ah Desskis ! C'est un super cadeau ! Comment vous avez eu l'idée ?\n\nA. On a demandé à ton frère.\n\nB. On a fait ton gâteau préféré.\n\nC. On a invité tes amis et ta famille.\n\nD. On a réservé une salle.",
+        "text": "Ah, des skis ! C'est un super cadeau ! Comment vous avez eu l'idée ?\n\nA. On a demandé à ton frère.\n\nB. On a fait ton gâteau préféré.\n\nC. On a invité tes amis et ta famille.\n\nD. On a réservé une salle.",
         "audio": "/mp3/178/6.mp3",
         "options": [
             "Proposition A.",
@@ -126,7 +126,7 @@
         "options": [
             "Elle est pressée.",
             "Elle est végétarienne.",
-            "Elle fait le régime.",
+            "Elle fait un régime.",
             "Elle manque d’appétit."
         ],
         "answer": 3
@@ -147,13 +147,13 @@
     {
         "id": 12,
         "testId": 178,
-        "text": "— Maintenant que les examens universitaires sont finis, qu'est-ce que tu vas faire ?\n\n— Je voudrais faire un stage de langue espagnole pendant un mois.\n\n— Bonne idée ! J'en ai fait un l'année dernière en Argentine. C'était super !\n\n— Je ne veux pas aller si loin. Je pense plutôt à l'Espagne.\n\n— Tu devrais aller dans le sud, à Séville. C'est une ville magnifique !\n\n— Pourquoi pas ? Mais j'ai un petit budget. Je dois voir si je peux trouver un logement pas trop cher.\n\nDe quoi parle ces deux personnes ?",
+        "text": "— Maintenant que les examens universitaires sont finis, qu'est-ce que tu vas faire ?\n\n— Je voudrais faire un stage de langue espagnole pendant un mois.\n\n— Bonne idée ! J'en ai fait un l'année dernière en Argentine. C'était super !\n\n— Je ne veux pas aller si loin. Je pense plutôt à l'Espagne.\n\n— Tu devrais aller dans le sud, à Séville. C'est une ville magnifique !\n\n— Pourquoi pas ? Mais j'ai un petit budget. Je dois voir si je peux trouver un logement pas trop cher.\n\nDe quoi parlent ces deux personnes ?",
         "audio": "/mp3/178/12.mp3",
         "options": [
             "De leur voyage en Argentine.",
             "Des résultats des examens.",
             "Du coût de la vie en ville.",
-            "D’un séjour linguistique."
+            "D'un séjour linguistique."
         ],
         "answer": 3
     },
@@ -251,7 +251,7 @@
     {
         "id": 20,
         "testId": 178,
-        "text": "— Régis Solivérès, bonjour.\n\n— Bonjour, bonjour Philippe.\n\n— Régis, vous lancez une aventure, enfin vous lissez un, dans une aventure assez incroyable qui est de participer à la réalisation d'un film, un film avec un réalisateur professionnel, avec des professionnels du cinéma, il s'appelle François Chailloux.\n\n— Oui, à l'occasion du festival de Lufon, j'ai rencontré François, je lui ai dit que je voulais faire un film.\n\nQuel est le projet de Régis Solivérès et de ses élèves ?",
+        "text": "— Régis Solivérès, bonjour.\n\n— Bonjour, bonjour Philippe.\n\n— Régis, vous lancez une aventure afin vos lycéens dans une aventure assez incroyable qui est de participer à la réalisation d'un film, un film avec un réalisateur professionnel, avec des professionnels du cinéma, il s'appelle François Chailloux.\n\n— Oui, à l'occasion du festival de Lufon, j'ai rencontré François, je lui ai dit que je voulais faire un film.\n\nQuel est le projet de Régis Solivérès et de ses élèves ?",
         "audio": "/mp3/178/20.mp3",
         "options": [
             "Interviewer un réalisateur.",
@@ -290,12 +290,12 @@
     {
         "id": 23,
         "testId": 178,
-        "text": "Je crois que les difficultés en matière de lecture ont des causes à la fois individuelles et sociales. Les parents, par exemple, parce qu'ils sont angoissés par l'avenir de leurs enfants, leur présentent souvent la lecture comme une obligation, une démarche indispensable pour réussir, et c'est une erreur, parce que la lecture est avant tout un plaisir. Un livre, c'est un voyage, une découverte, une aventure, et il faudrait faire découvrir la lecture aux enfants comme on leur fait découvrir la cuisine chinoise ou les jeux dans la neige. Et puis les parents refusent aussi souvent à leurs enfants des lectures qu'ils considèrent comme mineures. Les bandes dessinées, par exemple, et ça aussi, c'est une erreur. Lire une bande dessinée, c'est lire. Et ça permet souvent d'ailleurs de découvrir ensuite d'autres formes de littérature. Que conseille cette intervenante aux parents ?",
+        "text": "Je crois que les difficultés en matière de lecture ont des causes à la fois individuelles et sociales. Les parents, par exemple, parce qu'ils sont angoissés par l'avenir de leurs enfants, leur présentent souvent la lecture comme une obligation, une démarche indispensable pour réussir. Et c'est une erreur, parce que la lecture est avant tout un plaisir. Un livre, c'est un voyage, une découverte, une aventure, et il faudrait faire découvrir la lecture aux enfants comme on leur fait découvrir la cuisine chinoise ou les jeux dans la neige. Et puis les parents refusent aussi souvent à leurs enfants des lectures qu'ils considèrent comme mineurs. Les bandes dessinées, par exemple, et ça aussi, c'est une erreur. Lire une bande dessinée, c'est lire. Et ça permet souvent d'ailleurs de découvrir ensuite d'autres formes de littérature. Que conseille cette intervenante aux parents ?",
         "audio": "/mp3/178/23.mp3",
         "options": [
-            "D’attribuer à la lecture le statut de loisir.",
+            "D'attribuer à la lecture le statut de loisir.",
             "De favoriser la lecture en autonomie.",
-            "De limiter la lecture d’histoires illustrées.",
+            "De limiter la lecture d'histoires illustrées.",
             "De sélectionner des lectures classiques."
         ],
         "answer": 0
@@ -373,7 +373,7 @@
         "options": [
             "D’un outil qui facilite l’apprentissage, quelle que soit la discipline étudiée.",
             "De la bonne méthode de révision d’un cours quand on est pris par le temps.",
-            "De la difficulté a rédigé des cours motivants pour les jeunes étudiants.",
+            "De la difficulté à rédiger des cours motivants pour les jeunes étudiants.",
             "Des limites de l’enseignement à distance pour certaines disciplines."
         ],
         "answer": 0
@@ -423,9 +423,9 @@
         "text": "— Alors Philippe, est-ce que vous pouvez nous en apprendre plus sur votre établissement?\n\n— Quand j'ai récupéré l'endroit, il s'agissait d'un lieu qui était ancien à Montréal, début 19e siècle. J'ai donc gardé ce qui était d'époque et j'ai rajouté une touche moderne, design, pour créer un espace particulier où les styles se mélangent. Comme je suis un passionné de meubles design, j'ai acheté des pièces qui me plaisent. Et en plus d'y manger, on peut assister à des soirées musicales, on a un DJ très connu internationalement dans le domaine de la musique électronique. Enfin, étant donné qu'on est dans un lieu très haut de plafond, j'ai accroché des tableaux, des œuvres contemporaines, mais on organise aussi des expos temporaires. Toutes les formes d'expression nous intéressent.\n\nQuelle est la particularité de l'établissement de Philippe?",
         "audio": "/mp3/178/33.mp3",
         "options": [
-            "C’est la reproduction d’un café du siècle dernier.",
+            "C'est la reproduction d'un café du siècle dernier.",
             "Il contient un dépôt-vente de meubles design.",
-            "C’est à la fois un restaurant et une galerie d’art.",
+            "C'est à la fois un restaurant et une galerie d'art.",
             "Il y organise un festival de musique électronique."
         ],
         "answer": 2

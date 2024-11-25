@@ -187,7 +187,7 @@
     {
         "id": 15,
         "testId": 167,
-        "text": "Suite à un accident de voyageurs, le train numéro 8791 en direction de Marseille, départ initial 13h35, est immobilisé en gare de Lyon-Perrache. Les voyageurs sont invités à descendre du train et à se rendre au guichet où de plus amples informations leur seront communiquées. Nous vous remercions de votre compréhension. Question 15. Qu'est-ce que les voyageurs doivent faire?",
+        "text": "Suite à un accident de voyageurs, le train numéro 8791 en direction de Marseille, départ initial 13h35, est immobilisé en gare de Lyon-Perrache. Les voyageurs sont invités à descendre du train et à se rendre au guichet où de plus amples informations leur seront communiquées. Nous vous remercions de votre compréhension. Qu'est-ce que les voyageurs doivent faire?",
         "audio": "/mp3/167/15.mp3",
         "options": [
             "Prendre un car.",
@@ -200,7 +200,7 @@
     {
         "id": 16,
         "testId": 167,
-        "text": "— Rafika de Buffalo, bienvenue dans La Terre est Belle.\n\n— Bonjour Mark.\n\n— Alors, nous sommes ravis de vous avoir à l'antenne parce qu'on n'a jamais eu personne de Buffalo. Vous allez nous apprendre des choses. Ça se trouve, vous déjà ?\n\n— Totalement à l'ouest de l'état de New York. C'est limitrophe du Canada. C'est drôle comme nom. Il n'y a pas spécialement de buffles ou de choses comme ça ?\n\n— Non. D'après la légende, ça vient de Beau-fleuve, un nom donné par les explorateurs français. Enfin, c'est l'histoire qu'on raconte.\n\nPour quelle raison Rafika intervient-elle?",
+        "text": "— Rafika de Buffalo, bienvenue dans La Terre est Belle.\n\n— Bonjour Mark.\n\n— Alors, nous sommes ravis de vous avoir à l'antenne parce qu'on n'a jamais eu personne de Buffalo. Vous allez nous apprendre des choses. Ça se trouve où déjà ?\n\n— Totalement à l'ouest de l'état de New York. C'est limitrophe du Canada.\n\n— C'est drôle comme nom. Il n'y a pas spécialement de buffles ou de choses comme ça ?\n\n— Non. D'après la légende, ça vient de Beau-fleuve, un nom donné par les explorateurs français. Enfin, c'est l'histoire qu'on raconte.\n\nPour quelle raison Rafika intervient-elle?",
         "audio": "/mp3/167/16.mp3",
         "options": [
             "Pour conseiller un livre.",
@@ -342,7 +342,7 @@
     {
         "id": 27,
         "testId": 167,
-        "text": "Bon, l'affaire est révélée par le Wall Street Journal et fait beaucoup de bruit dans la presse anglo-saxonne. Désormais, chez Facebook, on ne peut proposer à un ou une collègue de sortir boire un verre ou de dîner. Vous savez, les Américains parlent de dates qu'une seule fois, s'ils ou elles refusent. Alors, on ne peut pas l'inviter une seconde fois et ça figure désormais dans le code de conduite de l'entreprise. Aller plus loin peut s'exposer à des sanctions disciplinaires. La direction de Facebook est entrée dans les détails. Un non n'a pas à être totalement explicite. Si vous entendez répondre « Je suis occupé ce soir, je ne suis pas disponible et bien cela suffit », vous n'aurez pas le droit de réitérer votre invitation, passer cette limite. On pourrait entrer dans un possible harcèlement. Pourquoi l'entreprise Facebook a-t-elle modifié son code de conduite ?",
+        "text": "— Oui, il y a un fait révélée par le Wall Street Journal et fait beaucoup de bruit dans la presse anglo-saxonne. Désormais, chez Facebook, on ne peut proposer à un ou une collègue de sortir boire un verre ou de dîner. Vous savez, les Américains parlent de dates qu'une seule fois, s'ils ou elles refusent. Alors, on ne peut pas l'inviter une seconde fois.\n\n— Ça presque vous paye.\n\n— Et ça figure désormais dans le code de conduite de l'entreprise. Aller plus loin peut s'exposer à des sanctions disciplinaires. La direction de Facebook est entrée dans les détails. Un non n'a pas à être totalement explicite. Si vous vous entendez répondre « Je suis occupé ce soir » ou « Je ne suis pas disponible », eh bien, cela suffit. Vous n'aurez pas le droit de réitérer votre invitation. Passer cette limite, On pourrait entrer dans un possible harcèlement.\n\nPourquoi l'entreprise Facebook a-t-elle modifié son code de conduite ?",
         "audio": "/mp3/167/27.mp3",
         "options": [
             "Pour améliorer la cohésion des équipes.",
@@ -420,12 +420,12 @@
     {
         "id": 33,
         "testId": 167,
-        "text": "— Jean-Philippe, la Coalition pour l'avenir du Québec veut aussi réduire la dette. Ce que propose François Legault, c'est d'investir 100% des redevances tirées des ressources naturelles pour rembourser la dette. On pourrait la chercher environ 200 millions de dollars par année. Mais pour Simon Tremblay-Pépin, de l'Institut de recherche et d'information socio-économique, ce n'est pas du tout une bonne idée.\n\n— Au lieu d'investir dans des services publics qui, évidemment, sont dynamiques, qui aident à favoriser la croissance de l'économie et donc à réduire son rapport avec la dette, eh bien, là, on décide de le retirer du secteur de l'économie. Donc, ça me semble tout à fait une très, très mauvaise idée de se tenter là-dedans.\n\nSur quoi s'opposent François Legault et Simon Tremblay-Pépin?",
+        "text": "— Jean-Philippe, la Coalition pour l'avenir du Québec veut aussi réduire la dette.\n\n— Ce que propose François Legault, c'est d'investir 100% des redevances tirées des ressources naturelles pour rembourser la dette. On pourrait la chercher environ 200 millions de dollars par année. Mais pour Simon Tremblay-Pépin, de l'Institut de recherche et d'information socio-économique, ce n'est pas du tout une bonne idée.\n\n— Au lieu d'investir dans des services publics qui, évidemment, sont dynamiques, qui aident à favoriser la croissance de l'économie et donc à réduire son rapport avec la dette, eh bien, là, on décide de le retirer du secteur de l'économie. Donc, ça me semble tout à fait une très, très mauvaise idée de se tenter là-dedans.\n\nSur quoi s'opposent François Legault et Simon Tremblay-Pépin?",
         "audio": "/mp3/167/33.mp3",
         "options": [
-            "Sur l’amplitude de l’effet de la dette sur la croissance.",
-            "Sur l’utilisation des recettes fiscales pour régler la dette.",
-            "Sur l’acquittement de la dette par la vente du patrimoine de l’Etat.",
+            "Sur l'amplitude de l’effet de la dette sur la croissance.",
+            "Sur l'utilisation des recettes fiscales pour régler la dette.",
+            "Sur l'acquittement de la dette par la vente du patrimoine de l'État.",
             "Sur le montant de la dette contractée par la province québécoise."
         ],
         "answer": 1
