@@ -2,7 +2,7 @@
     {
         "id": 1,
         "testId": 180,
-        "text": "A. Cours vite, le train arrive.\n\nB. Descends vite de ton vélo.\n\nC. Entre vite dans la voiture.\n\nD. Monte vite dans le bus.",
+        "text": "A. Donne-moi ça, maman.\n\nB. Attention, c'est très chaud.\n\nC. Bon anniversaire, maman.\n\nD. Non, je n'ai pas envie.",
         "audio": "/mp3/180/1.mp3",
         "img": "/mp3/180/1.jpg",
         "options": [
@@ -16,7 +16,7 @@
     {
         "id": 2,
         "testId": 180,
-        "text": "Vous pouvez fermer la porte, s'il vous plaît?\n\nA. Bien sûr.\n\nB. C'est vrai.\n\nC. Très souvent.\n\nD. Merci bien.",
+        "text": "Bonjour, je voudrais un rendez-vous avec le docteur Savin, s'il vous plaît.\n\nA. Oui, à dix heures aujourd'hui ?\n\nB. Oui, c'est à quelle adresse ?\n\nC. Oui, pour combien de personnes ?\n\nD. Oui, qu'est-ce que vous cherchez ?",
         "audio": "/mp3/180/2.mp3",
         "options": [
             "Proposition A.",
@@ -29,7 +29,7 @@
     {
         "id": 3,
         "testId": 180,
-        "text": "— Qu'est-ce que tu fais cet après-midi ?\n\n— Je m'occupe de ma nièce.\n\n— Super ! Est-ce que tu vas la chercher à l'école ?\n\nA. Non, c'est la fille de mon frère.\n\nB. Bien sûr, elle est en vacances.\n\nC. Oui, et après nous irons au parc.\n\nD. Peut-être, elle sait lire et écrire.",
+        "text": "Nous organisons une petite fête pour l'anniversaire de Clémence, samedi soir. Tu peux venir ?\n\nA.  Oui, avec plaisir, je serai là.\n\nB. Oui, ce matin, je serai disponible.\n\nC. Oui, je serai absent aujourd'hui.\n\nD. Oui, je serai libre mardi midi.",
         "audio": "/mp3/180/3.mp3",
         "options": [
             "Proposition A.",
@@ -37,7 +37,7 @@
             "Proposition C.",
             "Proposition D."
         ],
-        "answer": 2
+        "answer": 0
     },
     {
         "id": 4,
@@ -162,7 +162,7 @@
         "text": "— Si tu prends le bus de midi pour aller à l'université, tu seras en retard.\n\n— Et que veux-tu que je fasse?\n\n— Marche! Il fait beau! Et si tu passes par le parc, tu pourras t'arrêter au kiosque pour acheter ton déjeuner.\n\nQue conseille la jeune fille à son amie?",
         "audio": "/mp3/180/13.mp3",
         "options": [
-            "D’aller à l’université à pied.",
+            "D'aller à l'université à pied.",
             "De courir pour être à l’heure.",
             "De déjeuner avant de partir.",
             "De prendre le bus de midi."
@@ -198,7 +198,7 @@
     {
         "id": 16,
         "testId": 180,
-        "text": "— Je sais ce que j'ai à la retraite, le bruit est aussi une source de fatigue et de tension.\n\n— Moi le bruit m'empêche de dormir bien sûr, j'arrive à un âge où on a peut-être besoin de moins de sommeil. Mais il est évident qu'en mordure de pouvoir perdre le bruit, je n'arrive pas à supporter ce niveau sonore qui est permanent. Entre autres, il faut aussi ne pas oublier que même si l'intensité routière diminue en nuit, on est réveillé par des bruits un petit peu exceptionnels, une moto pétarade qui passe ou une voiture qui passe à 200 à l'heure sur le boulevard à l'œil, c'est ce qu'on constate régulièrement.\n\nQu'est-ce qui empêche cet homme de dormir?",
+        "text": "— Ce c'est prêt général retraite, le bruit est aussi une source de fatigue et de tension.\n\n— Moi le bruit m'empêche de dormir bien sûr, j'arrive à un âge où on a peut-être besoin de moins de sommeil. Mais il est évident qu'en m'endurant de vouloir pédaler, je n'arrive pas à supporter ce niveau sonore qui est permanent. Entre autres, il faut aussi ne pas oublier que même si l'intensité routière diminue en nuit, on est réveillé par des bruits un petit peu exceptionnels, une moto pétarade qui passe ou une voiture qui passe à 200 à l'heure sur le boulevard à l'œil, c'est ce qu'on constate régulièrement.\n\nQu'est-ce qui empêche cet homme de dormir?",
         "audio": "/mp3/180/16.mp3",
         "audioAI": "/mp3/180/ai_16.mp3",
         "options": [
@@ -267,7 +267,7 @@
     {
         "id": 21,
         "testId": 180,
-        "text": "Je suis une militante de la cuisine. Dans ce plaisir, j'éprouve le besoin de le partager et surtout je considère que cette place dans les familles ne peut pas rester vacante. On est à une époque où on a la chance de bénéficier de l'industrie alimentaire, des livraisons, on peut manger indien, thaï, français, voilà. D'accord, sauf malheureusement ceux pour qui c'est beaucoup trop cher et pour qui la cuisine est encore une contrainte. Mais il me semble que cette place doit être occupée par un des membres de la famille, l'homme, la femme, les enfants, peu importe, mais que ce plaisir-là, ce partage-là et ce lien familial et social doit être sauvegardé. Question 21 D'après cette personne, que permet la cuisine au sein d'une famille?",
+        "text": "Je suis une militante de la cuisine. Non seul... Dans ce plaisir, j'éprouve le besoin de le partager et surtout je considère que cette place dans les familles ne peut pas rester vacante. On est à une époque où on a la chance de bénéficier de l'industrie alimentaire, des livraisons, des... on peut manger indien, thaï, français, voilà. D'accord, sauf malheureusement ceux pour qui c'est beaucoup trop cher et pour qui la cuisine est encore une contrainte. Mais il me semble que cette place doit être occupée par un des membres de la famille, l'homme, la femme, les enfants, peu importe, mais que ce plaisir-là, ce partage-là et ce lien familial et social doit être sauvegardé. D'après cette personne, que permet la cuisine au sein d'une famille?",
         "audio": "/mp3/180/21.mp3",
         "options": [
             "De conforter le rôle de chacun.",
@@ -309,8 +309,8 @@
         "text": "— Malgré les apparences, vous n'êtes pas dans une salle de danse, mais dans une école, pour le moins innovante et unique, à Marseille. Ici, on enseigne bien sûr les matières essentielles, mais aussi la comédie musicale, la cuisine ou bien l'électricité. Cette école parie surtout depuis 5 ans sur la pédagogie active de re-motivation dans l'intérêt de l'enfant. On écoute la directrice de l'établissement.\n\n— La pédagogie active, c'est une pédagogie qui implique l'élève dans son apprentissage. Il est acteur, c'est-à-dire qu'on va le familiariser tout seul, avec un texte ou avec n'importe quel support d'information. Il s'autonomise tout en prenant plaisir à apprendre.\n\nSelon la directrice de cette école, quel est l'objectif de la pédagogie active ?",
         "audio": "/mp3/180/24.mp3",
         "options": [
-            "Amener l’élève à participer à sa propre formation.",
-            "Axer principalement l’apprentissage sur le jeu.",
+            "Amener l'élève à participer à sa propre formation.",
+            "Axer principalement l'apprentissage sur le jeu.",
             "Initier les élèves à des activités parascolaires.",
             "Responsabiliser les élèves encore immatures."
         ],
@@ -347,7 +347,7 @@
     {
         "id": 27,
         "testId": 180,
-        "text": "L'écriture inclusive, le langage inclusif est parfois caricaturé, alors qu'en fait, tout simplement, ça revient à dire que quand on parle d'hommes et de femmes dans un texte, quand dans un discours on s'adresse à des hommes et des femmes, on ne peut pas tout accorder systématiquement au masculin et invisibiliser complètement les femmes. On dit souvent aujourd'hui de transformer la langue. En fait, il ne s'agit pas de transformer la langue, mais c'est de revenir au fait que les académiciens, les linguistes, progressivement ont effacé la place des femmes dans l'histoire. La règle du masculin l'emporte sur le féminin n'a pas toujours existé, ça a été instauré à partir du XVIIe siècle. En fait c'est au fil du temps qu'on a invisibilisé les femmes dans la langue et que ça a aussi contribué à ce qu'on invisibilise leur place dans l'histoire. Quel est le point de vue de cette intervenante sur la langue française?",
+        "text": "L'écriture inclusive, le langage inclusif est parfois caricaturé, alors qu'en fait, tout simplement, ça revient à dire que quand on parle d'hommes et de femmes dans un texte, quand dans un discours on s'adresse à des hommes et des femmes, on ne peut pas tout accorder systématiquement au masculin et invisibiliser complètement les femmes. On dit souvent aujourd'hui transformer la langue. En fait, il ne s'agit pas de transformer la langue, mais c'est de revenir au fait que les académiciens, les linguistes, progressivement ont effacé la place des femmes dans l'histoire. La règle du masculin l'emporte sur le féminin n'a pas toujours existé, ça a été instauré à partir du XVII<sup>e</sup> siècle. En fait c'est au fil du temps qu'on a invisibilisé les femmes dans la langue et que ça a aussi contribué à ce qu'on invisibilise leur place dans l'histoire. Quel est le point de vue de cette intervenante sur la langue française?",
         "audio": "/mp3/180/27.mp3",
         "options": [
             "Elle encourage des propos stéréotypés en société.",
@@ -455,7 +455,7 @@
     {
         "id": 35,
         "testId": 180,
-        "text": "Parce que la bande dessinée est un exercice qui demande une telle rigueur, une telle discipline. La pratique de la bande dessinée nous impose une grammaire, une grammaire tellement étroite, déjà le dessin est enfermé dans des cases la plupart du temps. Donc, tout est là pour que le dessin, sans qu'il ose, se redisse, se redisse, s'amidonne. Tous les éléments sont là pour que notre dessin se dessèche. Donc, à l'intérieur de cet exercice domestiqué qu'est la bande dessinée, essayer de rendre un dessin vivant ou simplement plaisant à exécuter, c'es pas, c'est pas gagné en fait. Qu'explique l'interlocuteur à propos de la bande dessinée?",
+        "text": "Parce que la bande dessinée est un exercice qui demande une telle rigueur, une telle discipline. La pratique de la bande dessinée nous impose une grammaire, une grammaire tellement étroite, déjà le dessin est enfermé dans des cases la plupart du temps. Donc, tout est là pour que le dessin, sans qu'il ose, se redisse, se redisse, s'amidonne. Tous les éléments sont là pour que notre dessin se dessèche. Donc, à l'intérieur de cet exercice domestiqué qu'est la bande dessinée, essayer de rendre un dessin vivant ou simplement plaisant à exécuter, c'est pas, c'est pas gagnant en fait. Qu'explique l'interlocuteur à propos de la bande dessinée?",
         "audio": "/mp3/180/35.mp3",
         "options": [
             "Elle aborde des sujets de fonds.",
@@ -468,7 +468,7 @@
     {
         "id": 36,
         "testId": 180,
-        "text": "Dire que les écrans sont un poison pour les enfants, c'est vraiment excessif. On ne peut vraiment pas signifier les choses de cette façon-là, il faut être un peu plus nuancé. Évidemment un usage excessif, ce n'est absolument pas constructif pour l'enfant, mais un usage pondéré et accompagné par les parents, là, ça peut vraiment être intéressant. Il y a un impact des écrans sur les enfants, c'est-à-dire qu'ils peuvent apprendre des choses avec les écrans, ils peuvent jouer, donc ça c'est l'impact positif. Et puis l'impact négatif, c'est effectivement quand il y a trop d'écrans, quand on se ferme aux interactions, quand on ne fait plus que ça, quand on ne réfléchit plus et qu'on est passif à recevoir l'information, ça c'est plutôt négatif. Qu'affirme cette spécialiste au sujet des écrans dans la vie des enfants ?",
+        "text": "Dire que les écrans sont un poison pour les enfants, c'est vraiment excessif. On ne peut vraiment pas signifier les choses de cette façon-là, il faut être un peu plus nuancé. Évidemment un usage excessif, ça n'est absolument pas constructif pour l'enfant, mais un usage pondéré et accompagné par les parents, là, ça peut vraiment être intéressant. Il y a un impact des écrans sur les enfants, c'est-à-dire qu'ils peuvent apprendre des choses avec les écrans, ils peuvent jouer, donc ça c'est l'impact positif. Et puis l'impact négatif, c'est effectivement quand il y a trop d'écrans, quand on se ferme aux interactions, quand on ne fait plus que ça, quand on réfléchit plus et qu'on est passif à recevoir l'information, ça c'est plutôt négatif. Qu'affirme cette spécialiste au sujet des écrans dans la vie des enfants ?",
         "audio": "/mp3/180/36.mp3",
         "options": [
             "Ils favorisent les interactions avec les adultes.",
@@ -494,7 +494,7 @@
     {
         "id": 38,
         "testId": 180,
-        "text": "— C'est une dame que je ne connaissais pas du tout. Une des deux filles, Tyrène Némirovsky, une dame qui est décédée maintenant et qui s'appelle Elisabeth Gilles, qui était éditrice chez Julliard, qui un jour m'a appelé en me disant « Voilà, ça fait des années que je vous entends à la télé, ça fait des années que je me dis qu'en fait vous êtes un écrivain qui ne le savez pas ». Et quand je suis arrivé dans son bureau elle m'a expliqué qu'« en fait je n'avais rien à faire à la télé et que ce n'était pas mon métier ».\n\n— Mais vous croyez au hasard de la vie, aux rencontres vous essentiellement?\n\n— À moi ça m'est tout le temps arrivé, ça oui, j'ai beaucoup de chance.\n\nComment s'est révélée la vocation de cet écrivain?",
+        "text": "— C'est une dame que je ne connaissais pas du tout. Une des deux filles d'Irène Némirovsky, une dame qui est décédée maintenant et qui s'appelle Elisabeth Gilles, qui était éditrice chez Julliard, qui un jour m'a appelé en me disant « Voilà, ça fait des années que je vous entends à la télé, ça fait des années que je me dis qu'en fait vous êtes un écrivain qui ne le savez pas ». Et quand je suis arrivé dans son bureau, elle m'a expliqué qu'« en fait je n'avais rien à faire à la télé et que ce n'était pas mon métier ».\n\n— Mais vous croyez au hasard de la vie, aux rencontres vous essentiellement?\n\n— À moi ça m'est tout le temps arrivé, ça oui, j'ai beaucoup de chance.\n\nComment s'est révélée la vocation de cet écrivain?",
         "audio": "/mp3/180/38.mp3",
         "options": [
             "À l’occasion d’une entrevue.",
