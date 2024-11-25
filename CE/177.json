@@ -41,7 +41,7 @@
     {
         "id": 4,
         "testId": 177,
-        "text": "<p style=\"text-align: center;\">Prière de n'emporter ni les draps de bain, ni les <br/> objets appartenant au bar de la chambre. <br/> Nous vous remercions de votre compréhension.</p>\n\n*<p style=\"text-align: center;\">La direction de l'hôtel</p>*",
+        "text": "<p style=\"text-align: center; font-size: x-large; line-height: 150%;\">Prière de n'emporter ni les draps de bain, ni les objets <br/> appartenant au bar de la chambre. <br/> Nous vous remercions de votre compréhension. <br/><br/> <i>La direction de l'hôtel</i></p>",
         "query": "À qui est destinée cette annonce ?",
         "options": [
             "Aux clients de l'hôtel.",
@@ -107,7 +107,7 @@
         "id": 9,
         "testId": 177,
         "text": "Le soin d'origine naturelle « Nuit sommeil » est étudié pour les peaux fragiles. Il corrige les signes de fatigue et réveille votre visage. Votre peau est parfaite, même en plein hiver.",
-        "query": "Qu'est-ce que « Nuit Sommeil » ?",
+        "query": "Qu'est-ce que « Nuit sommeil » ?",
         "options": [
             "Un savon pour le corps.",
             "Un shampoing aux herbes.",
@@ -210,10 +210,10 @@
     {
         "id": 17,
         "testId": 177,
-        "text": "Dans les quartiers populaires de Kinshasa. Il crée des tableaux en relief à partir des déchets trouvés dans la ville.\n\nCertains le prennent pour un fou, d'autres pour un génie. Yeux perçants, mains agiles, jambes déformées par la polio, Emmanuel Botalatala est appelé le « ministre des poubelles ». Ce poste n'est pas officiel, c'est son nom d'artiste. Le documentaire qui lui est consacré présente le rôle qu'un artiste et sa vision peuvent jouer dans une capitale en pleine mutation.",
+        "text": "Dans les quartiers populaires de Kinshasa, il crée des tableaux en relief à partir des déchets trouvés dans la ville. Certains le prennent pour un fou, d'autres pour un génie. Yeux perçants, mains agiles, jambes déformées par la polio. Emmanuel Botalatala est appelé le « ministre des poubelles ». Ce poste n'est pas officiel, c'est son nom d'artiste. Le documentaire qui lui est consacré présente le rôle qu'un artiste et sa vision peuvent jouer dans une capitale en pleine mutation.",
         "query": "De quoi est-il question dans cet article ?",
         "options": [
-            "D'un comédien qui tourne dans les bidonvilles.",
+            "D'un comédien qui tourne dans des bidonvilles.",
             "D'un homme qui produit des œuvres originales.",
             "De la santé d’un membre du gouvernement.",
             "De mesures écologiques prises par une mairie."
@@ -249,7 +249,7 @@
     {
         "id": 20,
         "testId": 177,
-        "text": "À l'ère des réseaux sociaux, il n'y a pas une table où les convives ne dégainent leur smartphone pour « poster » immédiatement leur assiette. Peu importe qu'elle refroidisse, que ce soit bon ou pas. Sur la toile, la cuisine est devenue, l'univers le plus plébiscité avec le voyage.\n\nEt même si la vue des mets est un avant-goût du plaisir, réduire la cuisine à une galerie de natures mortes, aussi belles soient-elles, n'est pas sans interroger. « Pour moi, la bonne cuisine, c'est quand on soulève le couvercle, que ça fume, que ça sent bon et qu'on peut se resservir », disait le grand cuisinier Paul Bocuse. Pour les réseaux sociaux, c'est un plat qui en met plein la vue et qu'on vous sert sur écran plat.",
+        "text": "À l'ère des réseaux sociaux, il n'y a pas une table où les convives ne dégainent leur smartphone pour « poster » immédiatement leur assiette. Peu importe qu'elle refroidisse, que ce soit bon ou pas. Sur la toile, la cuisine est devenue, l'univers le plus plébiscité avec le voyage.\n\nEt même si la vue des mets est un avant-goût du plaisir, réduire la cuisine à une galerie de natures mortes, aussi belles soient-elles, n'est pas sans interroger. « Pour moi, la bonne cuisine, c'est quand on soulève le couvercle, que ça fume, que ça sent bon et qu'on peut se resservir », disait le grand cuisinier Paul Bocuse. Pour les réseaux sociaux, c'est un plat qui en met plein la vue et qu'on vous sert sur écran plat.\n\n<br/><p style=\"text-align: right;\">D'après <i>lefigaro.fr</i></p>",
         "query": "Qu'apprend-on dans cet article ?",
         "options": [
             "La réputation de restaurants touristiques est menacée par internet.",
@@ -301,7 +301,7 @@
     {
         "id": 24,
         "testId": 177,
-        "text": "### Fixer des limites strictes à la pêche, c'est l'action que va mener l'Australie afin de protéger la vie aquatique.\n\n«Il est temps que la planète franchisse une nouvelle étape dans la protection des océans» a déclaré le ministre australien de l'environnement. La création d'un réseau de parcs naturels aura un impact sur le secteur de la pêche commerciale qui devrait recevoir 79,2 millions d'euros en contrepartie. La fondation australienne pour la protection de l'environnement a qualifié cette annonce d'historique mais elle a souligné que plusieurs zones restaient menacées par l'exploitation humaine des ressources naturelles.",
+        "text": "### Fixer des limites strictes à la pêche, c'est l'action que va mener l'Australie afin de protéger la vie aquatique.\n\n« Il est temps que la planète franchisse une nouvelle étape dans la protection des océans » a déclaré le ministre australien de l'environnement. La création d'un réseau de parcs naturels aura un impact sur le secteur de la pêche commerciale qui devrait recevoir 79,2 millions d'euros en contrepartie. La fondation australienne pour la protection de l'environnement a qualifié cette annonce d'« historique » mais elle a souligné que plusieurs zones restaient menacées par l'exploitation humaine des ressources naturelles.\n\n<br/><p style=\"text-align: right;\">D'après <i>www.lavoixdunord.fr</i></p>",
         "query": "Que projette le gouvernement australien?",
         "options": [
             "D'aménager des réserves restreignant la pêche.",
@@ -405,7 +405,7 @@
     {
         "id": 32,
         "testId": 177,
-        "text": "Dans le monde de l'entreprise, les jeunes et les seniors éprouvent des sentiments analogues d'éviction et de dévalorisation. Pourtant, des actions de mentorat, menées par des seniors pour guider les jeunes sur le marché du travail ou lors de la création de leur entreprise, existent depuis de nombreuses années. Plus étonnant, est apparu récemment le mentorat renverse, où les jeunes habitués aux outils numériques initient les seniors à leur usage. Les seniors y gagnent de nouvelles compétences, et les jeunes élargissent leur réseau.\n\nEn période de crise, cette coopération peut constituer un moyen de désamorcer les tensions sociales. Favoriser les échanges intergénérationnels, c'est contribuer à établir des relations où chacun prend conscience qu'il peut apporter quelque chose à l'autre.",
+        "text": "Dans le monde de l'entreprise, les jeunes et les seniors éprouvent des sentiments analogues d'éviction et de dévalorisation. Pourtant, des actions de mentorat, menées par des seniors pour guider les jeunes sur le marché du travail ou lors de la création de leur entreprise, existent depuis de nombreuses années. Plus étonnant, est apparu récemment le mentorat renversé, où les jeunes habitués aux outils numériques initient les seniors à leur usage. Les seniors y gagnent de nouvelles compétences, et les jeunes élargissent leur réseau.\n\nEn période de crise, cette coopération peut constituer un moyen de désamorcer les tensions sociales. Favoriser les échanges intergénérationnels, c'est contribuer à établir des relations où chacun prend conscience qu'il peut apporter quelque chose à l'autre.",
         "query": "Quel est l'intérêt des mentorats décrits ?",
         "options": [
             "Créer de nouvelles sources d'emploi.",
@@ -419,7 +419,7 @@
         "id": 33,
         "testId": 177,
         "text": "Le désintérêt pour la lecture chez un grand nombre d'enfants peut être expliqué par plusieurs facteurs. Tout d'abord, beaucoup d'enfants abandonnent la lecture lorsqu'ils réalisent que d'autres élèves sont plus avancés qu'eux. De plus, lorsqu'on demande à l'enfant non seulement de lire, mais aussi de comprendre, il peut perdre son intérêt. En général, l'absence de compréhension est associée à un manque de plaisir.\n\nSelon certains psychologues, les enfants ont du mal à comprendre parce qu'ils ont des lacunes en culture générale. Cependant, la culture générale s'acquiert justement en lisant. Cela crée un cercle vicieux difficile à briser.\n\nPour sortir de ce cercle vicieux, les psychologues recommandent de mettre à la disposition des enfants des livres adaptés à leur niveau de compréhension et à leurs centres d'intérêt. De plus, il est important de proposer des méthodes d'enseignement de la lecture qui encouragent l'interaction entre les élèves et qui renforcent la confiance en soi. Enfin, il est important que les parents et les enseignants encouragent la lecture chez les enfants en leur offrant des livres adaptés à leur âge et à leur niveau de compréhension.",
-        "query": "Selon ce texte, quelle est l’une des raisons qui découragent les enfants de lire ?",
+        "query": "Selon ce texte, quelle est l'une des raisons qui découragent les enfants de lire ?",
         "options": [
             "La difficulté d'accéder au sens.",
             "La pression exercée par la famille.",
@@ -444,10 +444,10 @@
     {
         "id": 35,
         "testId": 177,
-        "text": "Il faut se rendre à l'évidence: le «jour» n'est plus l'unité de temps d'un journal. Un quotidien papier ne peut pas rivaliser avec la vitesse à laquelle les sites web, les blogs, les réseaux sociaux, les journaux en ligne, les radios et télés, les «news» des grands serveurs diffusent les nouvelles du jour. Aussi, au moment où il est en kiosques, se condamne-t-il à apparaître comme «le journal de la veille» perdant progressivement ses lecteurs qui, bombardés de scoops tous azimuts, sont déçus de n'trouver que ce qu'ils savent déjà.",
+        "text": "Il faut se rendre à l'évidence : le «jour» n'est plus l'unité de temps d'un journal. Un quotidien papier ne peut pas rivaliser avec la vitesse à laquelle les sites web, les blogs, les réseaux sociaux, les journaux en ligne, les radios et télés, les «news» des grands serveurs diffusent les nouvelles du jour. Aussi, au moment où il est en kiosques, se condamne-t-il à apparaître comme «le journal de la veille» - perdant progressivement ses lecteurs qui, bombardés de scoops tous azimuts, sont déçus de n'trouver que ce qu'ils savent déjà.\n\n<br/><p style=\"text-align: right;\">D'après <i>Libération</i></p>",
         "query": "Quelle est la position de l'auteur de l'article?",
         "options": [
-            "Il conteste la fiabilité des sources d'internet.",
+            "Il conteste la fiabilité des sources d'Internet.",
             "Il critique la surabondance de l'information.",
             "Il dénonce la médiocrité de la presse écrite.",
             "Il doute de l'intérêt des médias traditionnels."
@@ -483,11 +483,11 @@
     {
         "id": 38,
         "testId": 177,
-        "text": "Ça pourrait être une tragédie, avec les meilleurs ingrédients du genre : rencontres hasardeuses de personnages abîmés par un lourd passé, malheurs successifs et révélations inattendues... Sauf qu'entre le jeune pompier Roméo et l'infirmière Juliette victime de la cruauté de son compagnon, le chemin tracé par Agnès Ledig dans son roman Pars avec lui est plein de pudeur, riche de personnages ordinaires, mais surprenants, vrais, mais imprévisibles, dans une France provinciale qu'on décrit trop peu. Il y a chez eux une envie de dire, d'avouer ce qui fut trop longtemps caché. Ainsi l'histoire se fait-elle peu à peu libération et rédemption. Avec un art direct et familier de conteuse, l'auteure offre à ses personnages un espoir, un bonheur encore possible.",
+        "text": "Ça pourrait être une tragédie, avec les meilleurs ingrédients du genre : rencontres hasardeuses de personnages abîmés par un lourd passé, malheurs successifs et révélations inattendues... Sauf qu'entre le jeune pompier Roméo et l'infirmière Juliette victime de la cruauté de son compagnon, le chemin tracé par Agnès Ledig dans son roman « Pars avec lui » est plein de pudeur, riche de personnages ordinaires, mais surprenants, vrais, mais imprévisibles, dans une France provinciale qu'on décrit trop peu. Il y a chez eux une envie de dire, d'avouer ce qui fut trop longtemps caché. Ainsi l'histoire se fait-elle peu à peu libération et rédemption. Avec un art direct et familier de conteuse, l'auteure offre à ses personnages un espoir, un bonheur encore possible.",
         "query": "D'après la critique, quel est l'atout principal du roman d'Agnès Ledig ?",
         "options": [
-            "L’alternance entre le comique et le drame.",
-            "L’atmosphère énigmatique et inquiétante.",
+            "L'alternance entre le comique et le drame.",
+            "L'atmosphère énigmatique et inquiétante.",
             "La présentation de particularités régionales.",
             "L'émancipation des héros au cours du récit."
         ],

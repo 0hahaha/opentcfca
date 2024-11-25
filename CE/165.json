@@ -41,8 +41,8 @@
     {
         "id": 4,
         "testId": 165,
-        "text": "Camille,\n\n<br/>Je ne peux pas te retrouver au concert ce soir, désolé. Mes enfants sont malades et je dois rester avec eux. Viens déjeuner à la maison dimanche. Je pars bientôt en voyage. J'aimerais te voir avant mon départ.\n\n<br/>Bises,\n\nDriss",
-        "query": "Qu'est-ce Driss propose à son amie ?",
+        "text": "Camille,\n\nJe ne peux pas te retrouver au concert ce soir, désolé. Mes enfants sont malades et je dois rester avec eux. Viens déjeuner à la maison dimanche. Je pars bientôt en voyage, j'aimerais te voir avant mon départ.\n\nBises,\n\nDriss",
+        "query": "Qu'est-ce que Driss propose à son amie ?",
         "options": [
             "D'aller à un concert.",
             "D'organiser un voyage.",
@@ -67,7 +67,7 @@
     {
         "id": 6,
         "testId": 165,
-       "text": "Madame et Monsieur Moreau,\n\n<br/>Monsieur l'Ambassadeur de France a le plaisir de vous inviter au dîner qu'il donnera en sa résidence, le jeudi 14 juillet à 20 h, à l'occasion de la Fête nationale.\n\n<br/>Tenue de soirée exigée.\n\n<br/><p style=\"text-align: right;\">Réponse : <i><a href=\"#null\">secrétariat-amb.france@gmail.com</a></i></p>",
+        "text": "Madame et Monsieur Moreau,\n\n<br/>Monsieur l'Ambassadeur de France a le plaisir de vous inviter au dîner qu'il donnera en sa résidence, le jeudi 14 juillet à 20 h, à l'occasion de la Fête nationale.\n\n<br/>Tenue de soirée exigée.\n\n<br/><p style=\"text-align: right;\">Réponse : <i><a href=\"#null\">secrétariat-amb.france@gmail.com</a></i></p>",
         "query": "À quoi sont invités Mme et M. Moreau ?",
         "options": [
             "À un repas officiel.",
@@ -158,7 +158,7 @@
     {
         "id": 13,
         "testId": 165,
-        "text": "On savait déjà que le chocolat était bon pour la tension. Les scientifiques affirment maintenant  qu' « **une consommation de chocolat pourrait être une stratégie efficace de protection contre les rayons du soleil** ». Pour cela, il n'est pas nécessaire de recouvrir son corps de cacao: d'après les chercheurs, il suffirait de consommer trois carrés par jour pour bénéficier des bienfaits du chocolat. Cela n'empêche pas de se protéger avec la crème solaire et d'avoir une bonne alimentation.",
+        "text": "On savait déjà que le chocolat était bon pour la tension. Les scientifiques affirment maintenant qu' « **une consommation de chocolat pourrait être une stratégie efficace de protection contre les rayons du soleil** ». Pour cela, il n'est pas nécessaire de recouvrir son corps de cacao: d'après les chercheurs, il suffirait de consommer trois carrés par jour pour bénéficier des bienfaits du chocolat. Cela n'empêche pas de se protéger avec de la crème solaire et d'avoir une bonne alimentation.",
         "query": "Que conseillent ces chercheurs pour se protéger du soleil ?",
         "options": [
             "D'utiliser des crèmes solaires à base de chocolat.",
@@ -210,20 +210,20 @@
     {
         "id": 17,
         "testId": 165,
-        "text": "Internet est entré dans les habitudes de consommation, et aucun secteur ne semble pouvoir échapper à cette pratique sauf peut-être le milieu pharmaceutique. Aujourd'hui, les trois quarts des Français déclarent ne pas être prêts à acheter un médicament sur Internet. Car le médicament n'est pas une simple marchandise, et la personne qui entre dans une pharmacie n'y chercher pas seulement un remède, mais un accompagnement et une assurance à la fois de sécurité et de santé.",
+        "text": "Internet est entré dans les habitudes de consommation, et aucun secteur ne semble pouvoir échapper à cette pratique sauf peut-être le milieu pharmaceutique. Aujourd'hui, les trois quarts des Français déclarent ne pas être prêts à acheter un médicament sur Internet. Car le médicament n'est pas une simple marchandise, et la personne qui entre dans une pharmacie n'y cherche pas seulement un remède, mais un accompagnement et une assurance à la fois de sécurité et de santé.",
         "query": "Qu'apprend-on sur l'achat de médicaments en ligne ?",
         "options": [
             "C'est une pratique courante.",
-            "Les pharmaciens s’y opposent.",
+            "Les pharmaciens s'y opposent.",
             "Leur paiement est sécurisé.",
-            "On s’en méfie en France."
+            "On s'en méfie en France."
         ],
         "answer": 3
     },
     {
         "id": 18,
         "testId": 165,
-        "text": "Sur la bouteille de sa boisson de jus de fruits bio, un fabricant utilise une belle image d'ananas et de noix de coco. À lire de plus près, vous apprendrez que « des oranges gorgées de soleil et de bananes » viennent s'associer à l'ananas et à la noix de coco. Une jolie manière d'expliquer qu'ananas et noix de coco ne représentent que 30% des fruits de la boisson avec d'autre jus plus communs (et moins coûteux).",
+        "text": "Sur la bouteille de sa boisson de jus de fruits bio, un fabricant utilise une belle image d'ananas et de noix de coco. À lire de plus près, vous apprendrez que « des oranges gorgées de soleil et des bananes » viennent s'associer à l'ananas et à la noix de coco. Une jolie manière d'expliquer qu'ananas et noix de coco ne représentent que 30% des fruits de la boisson avec d'autres jus plus communs (et moins coûteux).",
         "query": "Que dénonce cet article ?",
         "options": [
             "L'ajout d'ingrédients malsains.",
@@ -249,7 +249,7 @@
     {
         "id": 20,
         "testId": 165,
-        "text": "Il y a quelque chose de rare dans « Normandie nue »: ce film est résolument léger, tout en ayant du fond. À travers une histoire qui sert de fil conducteur cocasse et insolite - celle d'un artiste américain qui veut photographier des paysans dévêtus -, « Normandie nue » aborde la crise des éleveurs avec beaucoup d'humanité, notamment grâce au maire du village qui voit dans la venue du photographe l'occasion de faire valoir sa cause aux yeux de la planète. Parfois un peu maladroite, cette comédie amuse en caricaturant gentiment les médias, les artistes et les bobos parisiens en mal de verdure.",
+        "text": "Il y a quelque chose de rare dans « *Normandie nue* »: ce film est résolument léger, tout en ayant du fond. À travers une histoire qui sert de fil conducteur cocasse et insolite - celle d'un artiste américain qui veut photographier des paysans dévêtus -, « *Normandie nue* » aborde la crise des éleveurs avec beaucoup d'humanité, notamment grâce au maire du village qui voit dans la venue du photographe l'occasion de faire valoir sa cause aux yeux de la planète. Parfois un peu maladroite, cette comédie amuse en caricaturant gentiment les médias, les artistes et les bobos parisiens en mal de verdure.",
         "query": "Quelle est l'opinion du journaliste sur le film « Normandie nue » ?",
         "options": [
             "Il est facile de s'identifier aux personnages.",
@@ -265,7 +265,7 @@
         "text": "Mathieu Lagouanère et Élodie Calas, deux journalistes, ont fait un tour du monde avec une idée originale : provoquer des rencontres en faisant goûter le roquefort, un fromage traditionnel, fabriqué dans leur région. « Le roquefort était simplement un moyen de faire connaissance avec les habitants. Ses principales caractéristiques, les taches de moisissure et l'odeur, peuvent faire réagir », explique Mathieu. La société Roquefort leur a fourni les fromages. Ils ont raconté leurs aventures dans un blog de voyage.",
         "query": "Quel était l'objectif de Mathieu et Élodie ?",
         "options": [
-            "Découvrir de recettes locales.",
+            "Découvrir des recettes locales.",
             "Entrer en contact avec les gens.",
             "Réaliser une opération publicitaire.",
             "Vendre des spécialités françaises."
@@ -288,7 +288,7 @@
     {
         "id": 23,
         "testId": 165,
-       "text": "Le PDG de la société SEB a avoué « ne plus espérer avoir une croissance importante » sur les marchés occidentaux, arrivés à saturation. Lui qui a toujours défendu la valeur ajoutée et le savoir-faire des usines tricolores, n'a pas pu faire face à l'arrivée des pays émergents dans le petit électroménager : 80% des grille-pains vendus en France coûtent désormais moins de 30€. Résultat, les ventes de l'inventeur de la cocotte-minute ont reculé de 5,6% en France et de 2,6% dans les autres pays de l'Union Européenne.",
+        "text": "Le PDG de la société SEB a avoué « ne plus espérer avoir une croissance importante » sur les marchés occidentaux, arrivés à saturation. Lui, qui a toujours défendu la valeur ajoutée et le savoir-faire des usines tricolores, n'a pas pu faire face à l'arrivée des pays émergents dans le petit électroménager : 80% des grille-pains vendus en France coûtent désormais moins de 30€. Résultat, les ventes de l'inventeur de la cocotte-minute ont reculé de 5,6% en France et de 2,6% dans les autres pays de l'Union Européenne.",
         "query": "Que regrette le PDG de la société SEB ?",
         "options": [
             "La faible qualité de la production française.",
@@ -301,8 +301,8 @@
     {
         "id": 24,
         "testId": 165,
-        "text": "Lors de l'inscription à la faculté de médecine de Boston, les professeurs privilégient les candidats... ayant déjà connu des échecs. Ils considèrent en effet que ces erreurs d'orientation permettent de grandir plus vite, de se rapprocher plus rapidement de sa vocation — bref, de mieux se connaître. Plus simplement, ils réduisent aussi le risque de recruter des élevés qui vont se rendre compte au bout de quelques mois qu'ils ne veulent plus devenir médecins : ils ont déjà changé de voie une fois, il est moins probable qu'ils en changent une seconde fois.",
-        "query": "Pourquoi les candidates qui se réorientent sont-ils privilégiés dans cette faculté ?",
+        "text": "Lors de l'inscription à la faculté de médecine de Boston, les professeurs privilégient les candidats... ayant déjà connu des échecs. Ils considèrent en effet que ces erreurs d'orientation permettent de grandir plus vite, de se rapprocher plus rapidement de sa vocation — bref, de mieux se connaître. Plus simplement, ils réduisent aussi le risque de recruter des élèves qui vont se rendre compte au bout de quelques mois qu'ils ne veulent plus devenir médecins : ils ont déjà changé de voie une fois, il est moins probable qu'ils en changent une seconde fois.",
+        "query": "Pourquoi les candidats qui se réorientent sont-ils privilégiés dans cette faculté ?",
         "options": [
             "Ils ont plus de facilités d'apprentissage.",
             "Ils ont une idée claire de leur futur métier.",
@@ -314,12 +314,12 @@
     {
         "id": 25,
         "testId": 165,
-        "text": "## <p style=\"text-align: center;\">Journée « Portes Ouvertes » à Polytech'Tours.</p>\n\n<p style=\"text-align: center;\">Venez rencontre les étudiants, enseignants et associations de Polytech'Tours</p>\n\n## <p style=\"text-align: center;\">Le samedi 12 février, de 9h à 16h</p>\n\n<p style=\"text-align: center;\">Sans interruption.</p>\n\n- Espaces d'**information** présents sur les trois sites de l'école.\n- **Présentation** des études et des métiers d'ingénieur par les responsables des spécialités sur chaque site.\n- Visites **guidées** des salles de travaux pratiques, des centres de documentation, des **laboratoires** de recherche et de langues.\n- **Démonstrations** de projets réalisés dans nos cursus.\n- Présentation des **associations** étudiantes.",
+        "text": "## <p style=\"text-align: center;\">Journée « Portes Ouvertes » à Polytech'Tours.</p>\n\n<p style=\"text-align: center;\">Venez rencontre les étudiants, enseignants et associations de Polytech'Tours</p>\n\n## <p style=\"text-align: center;\">Le samedi 12 février, de 9h à 16h</p>\n\n<p style=\"text-align: center;\">sans interruption.</p>\n\n- Espaces d'**information** présents sur les trois sites de l'école.\n- **Présentation** des études et des métiers d'ingénieur par les responsables des spécialités sur chaque site.\n- Visites **guidées** des salles de travaux pratiques, des centres de documentation, des **laboratoires** de recherche et de langues.\n- **Démonstrations** de projets réalisés dans nos cursus.\n- Présentation des **associations** étudiantes.",
         "query": "Quel est l'objectif de cette journée ?",
         "options": [
             "Découvrir le travail de recherche en laboratoire.",
             "Faire découvrir les formations pour devenir ingénieur.",
-            "Inaugurer l'ouverture d’un campus universitaire.",
+            "Inaugurer l'ouverture d'un campus universitaire.",
             "Obtenir des conseils afin de créer une association."
         ],
         "answer": 1
@@ -353,11 +353,11 @@
     {
         "id": 28,
         "testId": 165,
-        "text": "La désillusion de la jeunesse française d'aujourd'hui est un fait préoccupant. Elle est surtout due à la crise internationale, qui réduit les offres d'emploi, fait pression sur les salaries et raréfie les possibilités de promotion. Mais on peut également l'attribuer à un conflit de génération larvée : il oppose la classe d'âge des «baby-boomers», devenus aujourd'hui «papy-boomers» triomphants tout au long de leurs parcours, à celle de leurs enfants et maintenant de leurs petits-enfants.",
+        "text": "La désillusion de la jeunesse française d'aujourd'hui est un fait préoccupant. Elle est surtout due à la crise internationale, qui réduit les offres d'emploi, fait pression sur les salaires et raréfie les possibilités de promotion. Mais on peut également l'attribuer à un conflit de génération larvé : il oppose la classe d'âge des «baby-boomers», devenus aujourd'hui «papy-boomers» triomphants tout au long de leurs parcours, à celle de leurs enfants et maintenant de leurs petits-enfants.",
         "query": "D'où vient la désillusion des jeunes en France ?",
         "options": [
             "De la concurrence des autres générations.",
-            "De la course à la compétitive.",
+            "De la course à la compétitivité.",
             "De la situation économique tendue.",
             "Des critiques émanant de leurs parents."
         ],
@@ -405,7 +405,7 @@
     {
         "id": 32,
         "testId": 165,
-        "text": "Dans le monde de l'entreprise, les jeunes et les seniors éprouvent des sentiments analogues d'éviction et de dévalorisation. Pourtant, des actions de mentorat, menées par des seniors pour guider les jeunes sur le marché du travail ou lors de la création de leur entreprise, existent depuis de nombreuses années. Plus étonnant, est apparu récemment le mentorat renverse, où les jeunes habitués aux outils numériques initient les seniors à leur usage. Les seniors y gagnent de nouvelles compétences, et les jeunes élargissent leur réseau.\n\nEn période de crise, cette coopération peut constituer un moyen de désamorcer les tensions sociales. Favoriser les échanges intergénérationnels, c'est contribuer à établir des relations où chacun prend conscience qu'il peut apporter quelque chose à l'autre.",
+        "text": "Dans le monde de l'entreprise, les jeunes et les seniors éprouvent des sentiments analogues d'éviction et de dévalorisation. Pourtant, des actions de mentorat, menées par des seniors pour guider les jeunes sur le marché du travail ou lors de la création de leur entreprise, existent depuis de nombreuses années. Plus étonnant, est apparu récemment le mentorat renversé, où les jeunes habitués aux outils numériques initient les seniors à leur usage. Les seniors y gagnent de nouvelles compétences, et les jeunes élargissent leur réseau.\n\nEn période de crise, cette coopération peut constituer un moyen de désamorcer les tensions sociales. Favoriser les échanges intergénérationnels, c'est contribuer à établir des relations où chacun prend conscience qu'il peut apporter quelque chose à l'autre.",
         "query": "Quel est l'intérêt des mentorats décrits ?",
         "options": [
             "Créer de nouvelles sources d'emploi.",
@@ -431,7 +431,7 @@
     {
         "id": 34,
         "testId": 165,
-        "text": "Une exposition de l'Institut d'Art Contemporain de Villeurbanne est consacrée à l'Américain Jimmie Durham et la Brésilienne Maria Thereza Alvez. Depuis vingt ans, ils parcourent, au fil de leurs déplacements, le territoire méditerranéen et sont réunis au sein de cette exposition à la forme inédite. Le parcours se veut éloigné de tout didactisme, laissant assez d'espace au spectateur pour construire son propre récit autour d'une mer connue pour être le berceau fertile des civilisations. Dans un jeu de matières, de couleurs et d'objets, tous tangibles, Durham et Alvez tentent de décrypter une certaine pensée historique et mythologique notamment en déjouant les codes classiques utilisés dans les musées.",
+        "text": "Une exposition de l'Institut d'Art Contemporain de Villeurbanne est consacrée à l'Américain Jimmie Durham et la Brésilienne Maria Theraza Alvez. Depuis vingt ans, ils parcourent, au fil de leurs déplacements, le territoire méditerranéen et sont réunis au sein de cette exposition à la forme inédite. Le parcours se veut éloigné de tout didactisme, laissant assez d'espace au spectateur pour construire son propre récit autour d'une mer connue pour être le berceau fertile des civilisations. Dans un jeu de matières, de couleurs et d'objets, tous tangibles, Durham et Alvez tentent de décrypter une certaine pensée historique et mythologique notamment en déjouant les codes classiques utilisés dans les musées.",
         "query": "Qu'est-ce qui fait la singularité de cette exposition ?",
         "options": [
             "La liberté accordée aux visiteurs.",
@@ -445,9 +445,9 @@
         "id": 35,
         "testId": 165,
         "text": "Je suis persuadée que tous les enfants possèdent en eux la volonté de mettre en route leur imaginaire qui les pousse naturellement vers la littérature. Mais si elle n'est pas stimulée, cette force peut s'éteindre. C'est la mission de l'école que de sensibiliser les élèves aux grands textes classiques. Malheureusement, elle y a renoncé. Trop souvent, les enseignants ont tendance à penser qu'ils sont réservés à l'élite. Alors qu'au contraire, l'école devrait donner un accès à la haute culture aux élèves qui arrivent avec un bagage moins fourni que les autres.",
-        "query": "Selon l’auteur de ce texte, quelle ambition devraient avoir les enseignants ?",
+        "query": "Selon l'auteur de ce texte, quelle ambition devraient avoir les enseignants ?",
         "options": [
-            "Aborder des œuvres réputées difficiles avec leur élevés.",
+            "Aborder des œuvres réputées difficiles avec leurs élèves.",
             "Encourager leurs élèves à écrire des textes littéraires.",
             "Inviter régulièrement des écrivains célèbres dans leur classe.",
             "Monter des pièces de théâtre d'auteurs classiques."
@@ -457,10 +457,10 @@
     {
         "id": 36,
         "testId": 165,
-        "text": "Sexistes, les jeux vidéo? Peut-être que oui, peut-être que non. En tout cas, à parcourir les allées de la Paris Games Week, l’œil avisé aura lui-même bien du mal à trouver un personnage principal féminin de jeu vidéo. Il y a bien, la célébrissime Lara Croft du jeu vidéo Tomb Raider, aux attributs particulièrement imposants, conçus presque sur mesure pour plaire à un certain nombre de joueurs masculins. Pour le reste, circulez, il n’y a - presque - rien d’autre à voir, si l’on balaye d’un coup de manette de jeu, au mieux, les princesses à sauver, au pire les calls girls de mafioso. Pourtant, l’industrie du jeu vidéo a pris conscience ces dernières années du potentiel du marché des joueuses.",
+        "text": "Sexistes, les jeux vidéo ? Peut-être que oui, peut-être que non. En tout cas, à parcourir les allées de la Paris Games Week, l'œil avisé aura lui-même bien du mal à trouver un personnage principal féminin de jeu vidéo. Il y a bien la célébrissime Lara Croft du jeu vidéo Tomb Raider, aux attributs particulièrement imposants, conçus presque sur mesure pour plaire à un certain nombre de joueurs masculins. Pour le reste, circulez, il n'y a - presque - rien d'autre à voir, si l'on balaye d'un coup de manette de jeu, au mieux, les princesses à sauver, au pire les calls girls de mafioso. Pourtant, l'industrie du jeu vidéo a pris conscience ces dernières années du potentiel du marché des joueuses.",
         "query": "Quel constat est dressé sur les jeux vidéo ?",
         "options": [
-            "La quasi-absence d’héroïnes.",
+            "La quasi-absence d'héroïnes.",
             "L'appel constant à la violence.",
             "L'atténuation des clichés.",
             "L'uniformité des scénarios."
@@ -470,7 +470,7 @@
     {
         "id": 37,
         "testId": 165,
-        "text": "Défenseur·e·s et détracteur·e·s de l'écriture inclusive, qui consiste à féminiser les mots en plaçant entre des point la terminaison du féminin, s'écharpent sur cet épineux sujet.\n\nPour Éliane Viennot, il est important de défendre l'écriture inclusive qui, en remaniant l'orthographe, vise à combattre les stéréotypes sexistes. Selon elle, la langue structure notre représentation du monde. Apprendre aux plus jeunes que le masculin l'emporte sur le féminin ne peut guère contribuer à forger des consciences égalitaristes. Elle rappelle de surcroît que la langue française a longtemps été plus égalitaire qu'elle ne l'est aujourd'hui: il y a eu une masculinisation délibérée du langage à partir du XVII<sup>e</sup> siècle. Ceux qui se piquaient alors de définir le bon usage en ont profité pour renforcer l'ordre masculin.",
+        "text": "Défenseur·e·s et détracteur·e·s de l'écriture inclusive, qui consiste à féminiser les mots en plaçant entre des points la terminaison du féminin, s'écharpent sur cet épineux sujet.\n\nPour Éliane Viennot, il est important de défendre l'écriture inclusive qui, en remaniant l'orthographe, vise à combattre les stéréotypes sexistes. Selon elle, la langue structure notre représentation du monde. Apprendre aux plus jeunes que le masculin l'emporte sur le féminin ne peut guère contribuer à forger des consciences égalitaristes. Elle rappelle de surcroît que la langue française a longtemps été plus égalitaire qu'elle ne l'est aujourd'hui: il y a eu une masculinisation délibérée du langage à partir du XVII<sup>e</sup> siècle. Ceux qui se piquaient alors de définir le bon usage en ont profité pour renforcer l'ordre masculin.",
         "query": "Que pense Éliane Viennot de l'écriture inclusive ?",
         "options": [
             "Elle favorise l’évolution des mentalités.",

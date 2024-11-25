@@ -2,7 +2,7 @@
     {
         "id": 1,
         "testId": 154,
-        "text": "Heures d'ouverture du service consulaire :\n\nLe service consulaire est ouvert au public les lundis, mercredis et jeudis de 8h à 14h et les mardis et vendredis de 14h30 à 18h.",
+        "text": "### Heures d'ouverture du service consulaire :\n\nLe service consulaire est ouvert au public les lundis, mercredis et jeudis de 8 h 30 à 14 et les mardis et vendredis de 14 h 30 à 18 h.",
         "query": "Quand le service est-il fermé au public ?",
         "options": [
             "Le lundi matin.",
@@ -28,7 +28,7 @@
     {
         "id": 3,
         "testId": 154,
-        "text": "***<p style=\"text-align: right;\">Lyon, le 22 Juin 2011</p>***\n\n***Madame,***\n\nSuite à votre courrier du 17 juin dernier, je vous envoie le catalogue de nos produits.\n\nTrès cordialement,\n\n***<p style=\"text-align: right;\">Sophie Leloux</p>***\n\n***<p style=\"text-align: right;\">Service clientèle</p>***",
+        "text": "<p style=\"text-align: right;\">Lyon, le 22 Juin 2011</p>\n\nMadame,\n\nSuite à votre courrier du 17 juin dernier, je vous envoie le catalogue de nos produits.\n\nTrès cordialement,\n\n<p style=\"text-align: right;\">Sophie Leloux</p>\n\n*<p style=\"text-align: right;\">Service clientèle</p>*",
         "query": "Pourquoi est-ce que Sophie Leloux écrit cette lettre ?",
         "options": [
             "Elle cherche une vendeuse.",
@@ -54,7 +54,7 @@
     {
         "id": 5,
         "testId": 154,
-        "text": "**Antoine,**\n\nS'il te plait, viens dans mon bureau après la réunion.\n\nMerci.\n\n***<u>Ludovic</u>***",
+        "text": "Antoine,\n\nS'il te plaît, viens dans mon bureau après la réunion.\n\nMerci,\n\nLudovic",
         "query": "Que doit faire Antoine ?",
         "options": [
             "Apporter un document.",
@@ -93,7 +93,7 @@
     {
         "id": 8,
         "testId": 154,
-        "text": "### <p style=\"text-align: center;\">La cuisine de Jean-Emile</p>\n\nJean-Émile Nodier, chef depuis 10 ans, propose : **DES COURS DE CUISINE À DOMICILE** pour une à quatre personnes. Apprenez à cuisiner des recettes de qualité.\n\nPour plus de renseignements:\n\nhttp://www.lacuisinedejeanemile.fr",
+        "text": "## <p style=\"text-align: center;\">La cuisine de Jean-Émile</p>\n\n<p style=\"text-align: center;\">Jean-Émile Nodier, chef depuis 10 ans, propose</p>\n\n\n\n## <span style=\"float: left; padding-top: 50px; padding-left: 100px; font-size: 100pt;\">👨‍🍳</span> <p style=\"text-align: right; padding-right: 100px; line-height: 150%;\">DES COURS DE <br/> <span style=\"font-size: 30pt;\">CUISINE</span> <br/> À DOMICILE</p>\n\n<p style=\"text-align: right; padding-right: 100px;\">pour une à quatre personnes.</p>\n\n<br/><p style=\"text-align: center;\">Apprenez à cuisiner des recettes de qualité.<br/>Pour plus de renseignements: <br/><br/> <i>http://www.lacuisinedejeanemile.fr</p></p>",
         "query": "Qu'est-ce que cette annonce propose ?",
         "options": [
             "D'apprendre à préparer des plats chez soi.",
@@ -119,7 +119,7 @@
     {
         "id": 10,
         "testId": 154,
-        "text": "***Chers collègues,***\n\nNous vous informons que la réunion parents-professeurs des classes de seconde prévue pour ce samedi est reportée au samedi prochain à midi.\n\nVotre présence est obligatoire.\n\n***La direction du lycée***",
+        "text": "Chers collègues,\n\nNous vous informons que la réunion parents-professeurs des classes de seconde prévue pour ce samedi est reportée au samedi prochain à midi.\n\nVotre présence est obligatoire.\n\n*La direction du lycée*",
         "query": "À qui est adressé ce message ?",
         "options": [
             "Aux élèves.",
@@ -171,7 +171,7 @@
     {
         "id": 14,
         "testId": 154,
-        "text": "Après les cartes de cinéma illimitées, la carte Scène+ ! Paris est la première ville à tester cette formule : des places à tarifs réduits à utiliser quand on veut, dans quarante théâtres environ, pour aller voir plus de 150 pièces. On achète la carte, valable un mois ou un semestre et on peut aller dans les petites scènes de théâtre parisiennes qui accueillent surtout des comédies populaires plutôt que des pièces classiques.",
+        "text": "# Scène+\n\nLa nouvelle carte Scène+\n\nAprès les cartes de cinéma illimitées, la carte Scène+ ! Paris est la première ville à tester cette formule : des places à tarifs réduits à utiliser quand on veut, dans quarante théâtres environ, pour aller voir plus de 150 pièces. On achète la carte, valable un mois ou un semestre et on peut aller dans les petites scènes de théâtre parisiennes qui accueillent surtout des comédies populaires plutôt que des pièces classiques.\n\n<br/><p style=\"text-align: right;\">D'après <i>Télérama</i></p>",
         "query": "Que peut-on faire avec la carte Scène+ ?",
         "options": [
             "Assister à des spectacles.",
@@ -210,8 +210,8 @@
     {
         "id": 17,
         "testId": 154,
-        "text": "En hiver et à l'extérieur, pour piloter n'importe quel appareil à écran tactile, il faut enlever ses gants, au risque d'attraper des engelures par les temps de grand froid. Plus de risque de se geler les mains désormais avec ce modèle de gants en chevreau doublé de soie. Les perforations au niveau de l'index permettent un meilleur contact avec l'écran tactile. On pourra être à la pointe de la technologie et de la mode. Mais être à la page à un prix, la paire de gants est plus chère que l'appareil à écran tactile : 370 euros.",
-        "query": "Quels est la particularité de ces gants ?",
+        "text": "En hiver et à l'extérieur, pour piloter n'importe quel appareil à écran tactile, il faut enlever ses gants, au risque d'attraper des engelures par les temps de grand froid. Plus de risque de se geler les mains désormais avec ce modèle de gants en chevreau doublé de soie. Les perforations au niveau de l'index permettent un meilleur contact avec l'écran tactile. On pourra être à la pointe de la technologie et de la mode. Mais être à la page a un prix, la paire de gants est plus chère que l'appareil à écran tactile : 370 euros.",
+        "query": "Quelle est la particularité de ces gants ?",
         "options": [
             "Ils évitent de rayer les appareils à écran tactile.",
             "Ils permettent un contact direct avec un écran tactile.",
@@ -223,11 +223,11 @@
     {
         "id": 18,
         "testId": 154,
-        "text": "La télévision, les jeux, vidéo, les ordinateurs ont envahi les foyers. Alors, certains parents craignent le risque d’addiction pour leurs enfants. Quel est le quota d'heures quotidien devant les écrans à ne pas dépasser ? Pour les psychologues, le critère à prendre en compte est celui de l'exclusivité. Si les jeux vidéo et internet sont l'unique source de relation et de distraction pour un adolescent, alors, il faut s'inquiéter et agir. Réguler la consommation d'images, c'est le travail des parents qui doivent faire des écrans des objets d'échange familial et non un refuge individuel.",
+        "text": "La télévision, les jeux vidéo, les ordinateurs ont envahi les foyers. Alors, certains parents craignent le risque d'addiction pour leurs enfants. Quel est le quota d'heures quotidien devant les écrans à ne pas dépasser ? Pour les psychologues, le critère à prendre en compte est celui de l'exclusivité. Si les jeux vidéo et internet sont l'unique source de relation et de distraction pour un adolescent, alors, il faut s'inquiéter et agir. Réguler la consommation d'images, c'est le travail des parents qui doivent faire des écrans des objets d'échange familial et non un refuge individuel.",
         "query": "Que devraient faire les parents concernant les jeux vidéo et internet ?",
         "options": [
             "Donner à ces activités une fonction éducative.",
-            "Faire de ces boîtiers des moments de partage.",
+            "Faire de ces loisirs des moments de partage.",
             "Fixer des plages horaires pour jouer en ligne.",
             "S'informer auprès des professionnels de santé."
         ],
@@ -249,7 +249,7 @@
     {
         "id": 20,
         "testId": 154,
-        "text": "Plus de peur que de mal pour ce petit garçon, près de Lorient, qui, dimanche soir, mangeait une part de fromage. ***«Papa, le fromage, il est dur!!!...»*** Dimanche, Youenn, 4 ans, mange une portion individuelle de fromage dans la maison familiale. Ses parents, occupés dans la pièce d’à côté, l’entendent tousser. «Comme s’il voulait vomir», raconte Yann, son père. En fait, l’enfant est en train de recracher… un bout de plastique qui aurait pu l’étouffer.",
+        "text": "Plus de peur que de mal pour ce petit garçon, près de Lorient, qui, dimanche soir, mangeait une part de fromage.\n\n«Papa, le fromage, il est dur!!!…» Dimanche, Youenn, 4 ans, mange une portion individuelle de fromage dans la maison familiale. Ses parents, occupés dans la pièce d'à côté, l'entendent tousser. «Comme s'il voulait vomir», raconte Yann, son père. En fait, l'enfant est en train de recracher… un bout de plastique qui aurait pu l'étouffer.\n\n<br/><p style=\"text-align: right;\">D'après <i>Ouest France</i></p>",
         "query": "Qu'est-il arrivé à Youenn?",
         "options": [
             "Il a avalé un mauvais morceau de fromage.",
@@ -262,8 +262,8 @@
     {
         "id": 21,
         "testId": 154,
-        "text": "Mathieu Lagouanère et Élodie Calas, deux journalistes, ont fait un tour du monde avec une idée originale : provoquer des rencontres en faisant goûter le roquefort, un fromage traditionnel, fabriqué dans leur région. « Le roquefort était simplement un moyen de faire connaissances avec les habitants. Ses principales caractéristiques, les taches de moisissure et l'odeur, peuvent faire réagir », explique Mathieu. La société Roquefort leur a fourni les fromages. Ils ont raconté leurs aventures dans un blog de voyage.",
-        "query": "Quel était l'objectif de Mathieu et Elodie ?",
+        "text": "Mathieu Lagouanère et Élodie Calas, deux journalistes, ont fait un tour du monde avec une idée originale : provoquer des rencontres en faisant goûter le roquefort, un fromage traditionnel, fabriqué dans leur région. « Le roquefort était simplement un moyen de faire connaissance avec les habitants. Ses principales caractéristiques, les taches de moisissure et l'odeur, peuvent faire réagir », explique Mathieu. La société Roquefort leur a fourni les fromages. Ils ont raconté leurs aventures dans un blog de voyage.",
+        "query": "Quel était l'objectif de Mathieu et Élodie ?",
         "options": [
             "Découvrir des recettes locales.",
             "Entrer en contact avec les gens.",
@@ -275,13 +275,13 @@
     {
         "id": 22,
         "testId": 154,
-        "text": "***Monsieur Lereux,***\n\nJ'ai l'honneur de vous informer que **votre nom a été sélectionné** pour « Magasins en fête »!\n\nDès à présent, rendez-vous dans votre magasin, un bulletin de participation vous sera remis en caisse à partir de 25 euros d'achat !\n\nC'est la dernière étape, alors n'attendez plus, venez remplir ce bulletin et gagnez un voyage de rêve, ou bien l'un de nos nombreux autres cadeaux.",
+        "text": "Monsieur Lereux,\n\n<br/>J'ai l'honneur de vous informer que **votre nom a été sélectionné** pour « Magasins en fête »!\n\n<br/>Dès à présent, rendez-vous dans votre magasin, un bulletin de participation vous sera remis en caisse à partir de 25 euros d'achat !\n\n<br/>C'est la dernière étape, alors n'attendez plus, venez remplir ce bulletin et **gagnez un voyage** de rêve, ou bien l'un de nos nombreux autres cadeaux.",
         "query": "Pourquoi Monsieur Lereux doit-il se rendre en magasin ?",
         "options": [
-            "Pour bénéficier d’une promotion.",
-            "Pour participer à la finale d’un jeu.",
+            "Pour bénéficier d'une promotion.",
+            "Pour participer à la finale d'un jeu.",
             "Pour recevoir un coupon de voyage.",
-            "Pour tenir un chèque cadeau."
+            "Pour retirer un chèque cadeau."
         ],
         "answer": 1
     },
@@ -301,12 +301,12 @@
     {
         "id": 24,
         "testId": 154,
-        "text": "### <p style=\"text-align: center;\">Journée « Portes Ouvertes » à Polytech'Tours.</p>\n\n<p style=\"text-align: center;\">Venez rencontre les étudiants, enseignants et associations de Polytech'Tours</p>\n\n### <p style=\"text-align: center;\">Le samedi 12 février, 9h à 16h</p>\n\n<p style=\"text-align: center;\">Sans interruption.</p>\n\n- Espaces d'**information** présents sur les trois sites de l'école.\n- **Présentation** des études et des métiers d'ingénieur par les responsables des spécialités sur chaque site.\n- Visites **guidées** des salles de travaux pratiques. Des centres de documentation, des **laboratoires** de recherche et de langues.\n- **Démonstrations** de projets réalisés dans nos cursus.\n- Présentation des **associations** étudiantes.",
+        "text": "## <p style=\"text-align: center;\">Journée « Portes Ouvertes » à Polytech'Tours.</p>\n\n<p style=\"text-align: center;\">Venez rencontre les étudiants, enseignants et associations de Polytech'Tours</p>\n\n## <p style=\"text-align: center;\">Le samedi 12 février, de 9h à 16h</p>\n\n<p style=\"text-align: center;\">sans interruption.</p>\n\n- Espaces d'**information** présents sur les trois sites de l'école.\n- **Présentation** des études et des métiers d'ingénieur par les responsables des spécialités sur chaque site.\n- Visites **guidées** des salles de travaux pratiques, des centres de documentation, des **laboratoires** de recherche et de langues.\n- **Démonstrations** de projets réalisés dans nos cursus.\n- Présentation des **associations** étudiantes.",
         "query": "Quel est l'objectif de cette journée ?",
         "options": [
             "Découvrir le travail de recherche en laboratoire.",
             "Faire découvrir les formations pour devenir ingénieur.",
-            "Inaugurer l'ouverture d’un campus universitaire.",
+            "Inaugurer l'ouverture d'un campus universitaire.",
             "Obtenir des conseils afin de créer une association."
         ],
         "answer": 1
@@ -379,21 +379,21 @@
     {
         "id": 30,
         "testId": 154,
-        "text": "Chaque année, le 10 août, les cordons bleus de l'Île de la Guadeloupe se retrouvent à Pointe-à-Pitre pour célébrer saint Laurent, leur patron. Après une grande messe donnée à l'église de Saint-Pierre-et-Saint-Paul, une procession de cuisinières vêtues de leurs plus beaux madras sillonne la ville avant de convier la population à un grand festin composé des meilleurs plats créoles. Située dans le village du Gosier, à proximité de Pointe-à-Pitre, l'Auberge de la Vieille Tour, construire autour d'un moulin à vent du XVII siècle, sera un lieu de séjour idéal pour assister à cette manifestation haute en couleur et pour goûter au vrai parfum des Antilles.",
-        "query": "La fête de Saint Laurent à Pointe-à-Pitre :",
+        "text": "Chaque année, le 10 août, les cordons bleus de l'île de la Guadeloupe se retrouvent à Pointe-à-Pitre pour célébrer saint Laurent, leur patron. Après une grande messe donnée à l'église de Saint-Pierre-et-Saint-Paul, une procession de cuisinières vêtues de leurs plus beaux madras sillonne la ville avant de convier la population à un grand festin composé des meilleurs plats créoles. Située dans le village du Gosier, à proximité de Pointe-à-Pitre, l'Auberge de la Vieille Tour, construite autour d'un moulin à vent du XVIII<sup>e</sup> siècle, sera un lieu de séjour idéal pour assister à cette manifestation haute en couleur et pour goûter au vrai parfum des Antilles.",
+        "query": "La fête de saint Laurent à Pointe-à-Pitre :",
         "options": [
-            "Consiste en un grand événement religieux.",
-            "Permet de découvrir les saveurs antillaises.",
-            "Se réduit à une manifestation pour touristes.",
-            "Se déroule dans un ancien monument restauré."
+            "consiste en un grand événement religieux.",
+            "permet de découvrir les saveurs antillaises.",
+            "se réduit à une manifestation pour touristes.",
+            "se déroule dans un ancien monument restauré."
         ],
         "answer": 1
     },
     {
         "id": 31,
         "testId": 154,
-        "text": "« Il faut te le dire en quelle langue ? » Cette question, que des milliers de mères posent à leur enfant lorsqu'elles veulent se faire écouter, est en fait très sensée (comme tout ce que disent les mères). Des travaux scientifiques récents ont en effet démontré une réalité étonnante nous réfléchissons et prenons des décisions différemment lorsque nous traitons l'information dans une autre langue que notre langue maternelle. Nous comprenons tout aussi bien l'idée ou le problème mais, lorsque nous utilisons une autre langue, le résultat est plus réfléchi, moins dicté par les émotions, plus orienté vers l'utilité.",
-        "query": "Que permet l’utilisation d’une langue autre que la langue maternelle ?",
+        "text": "\"Il faut te le dire en quelle langue ?\" Cette question, que des milliers de mères posent à leur enfant lorsqu'elles veulent se faire écouter, est en fait très sensée (comme tout ce que disent les mères). Des travaux scientifiques récents ont en effet démontré une réalité étonnante : nous réfléchissons et prenons des décisions différemment lorsque nous traitons l'information dans une autre langue que notre langue maternelle. Nous comprenons tout aussi bien l'idée ou le problème mais, lorsque nous utilisons une autre langue, le résultat est plus réfléchi, moins dicté par les émotions, plus orienté vers l'utilité.",
+        "query": "Que permet l'utilisation d'une langue autre que la langue maternelle ?",
         "options": [
             "D'attirer l'attention de l'interlocuteur.",
             "D'imaginer des solutions originales.",
@@ -405,10 +405,10 @@
     {
         "id": 32,
         "testId": 154,
-        "text": "La Commission européenne s'était penchée sur la demande d'adhésion à l'Union de l'Islande moins de deux semaines après la requête, preuve que le pays possédait des atouts indéniables, jusqu'alors, l'Islande avait été peu disposée à entrer dans l'Union. Toutefois, suite à l'effondrement de ses principaux établissement financiers et à la chute du cours de la couronne, la monnaie islandaise, le pays avait vu dans cette adhésion et dans l'adoption de l'euro un moyen de stabiliser son économie. Pour le Président de l'Union, cette volonté d'intégrer l'espace européen renforçait la crédibilité du projet communautaire de l'ancien continent. L'Islande avait fini par retirer sa demande suite à un changement de gouvernement et pour éviter des sujets épineux comme les quotas de pêche.",
-        "query": "Selon cet article, pourquoi l'Islande avait-elle souhaité entrer dans l’Union Européenne ?",
+        "text": "La Commission européenne s'était penchée sur la demande d'adhésion à l'Union de l'Islande moins de deux semaines après la requête, preuve que le pays possédait des atouts indéniables. Jusqu'alors, l'Islande avait été peu disposée à entrer dans l'Union. Toutefois, suite à l'effondrement de ses principaux établissement financiers et à la chute du cours de la couronne, la monnaie islandaise, le pays avait vu dans cette adhésion et dans l'adoption de l'euro un moyen de stabiliser son économie. Pour le président de l'Union, cette volonté d'intégrer l'espace européen renforçait la crédibilité du projet communautaire de l'ancien continent. L'Islande avait fini par retirer sa demande suite à un changement de gouvernement et pour éviter des sujets épineux comme les quotas de pêche.",
+        "query": "Selon cet article, pourquoi l'Islande avait-elle souhaité entrer dans l'Union Européenne ?",
         "options": [
-            "Pour bénéficier des aides financières de l'Union.",
+            "Pour bénéficier des aides financières de l’Union.",
             "Pour mieux contrôler ses établissements financiers.",
             "Pour redonner de la valeur à la monnaie nationale.",
             "Pour sortir de la crise que son économie subissait."
@@ -418,10 +418,10 @@
     {
         "id": 33,
         "testId": 154,
-        "text": "En France, entre 200 000 et 500 000 cas de troubles psychiques sont liés au monde du travail. L'apparition de nouvelles méthodes de travail, plus intenses et contraignantes, serait à l'origine de l'augmentation des cas de syndrome d'épuisement professionnel : c'est le mal du siècle et pourtant, il n'est pas encore reconnu. Les salariés, prisonniers de l'idéologie ambiante, s'imaginent trop souvent, quand ils craquent, qu'un collègue plus solide qu'eux aurait été capable de résister. Mais cela s'avère faux la plupart du temps. Une reconnaissance de la maladie obligerait les entreprises à réfléchir à leur fonctionnement et représenterait une réelle mesure d'utilité publique.",
+        "text": "En France, entre 200 000 et 500 000 cas de troubles psychiques sont liés au monde du travail. L'apparition de nouvelles méthodes de travail, plus intenses et contraignantes, serait à l'origine de l'augmentation des cas de syndrome d'épuisement professionnel : c'est le mal du siècle et pourtant, il n'est pas encore reconnu. Les salariés, prisonniers de l'idéologie ambiante, s'imaginent trop souvent, quand ils craquent, qu'un collègue plus solide qu'eux aurait été capable de résister. Mais cela s'avère faux la plupart du temps. Une reconnaissance de la maladie obligerait les entreprises à réfléchir à leur fonctionnement et représenterait une réelle mesure d'utilité publique.\n\n<br/><p style=\"text-align: right;\">D'après <i>capital.fr</i></p>",
         "query": "Quel constat est dressé à propos de ce syndrome ?",
         "options": [
-            "Il inquiète les patrons des sociétés.",
+            "Il inquiète les patrons de sociétés.",
             "Il touche les employés les plus faibles.",
             "Son existence doit être officialisée.",
             "Son traitement est peu efficace."
@@ -431,10 +431,10 @@
     {
         "id": 34,
         "testId": 154,
-        "text": "### <p style=\"text-align: center;\">L'apprentissage en Europe</p>\n\nÀ l'heure actuelle, l'utilisation des nouvelles technologies de l'information et de la communication (TIC) dans les salles de classe est rare. Les établissements travaillent encore selon un modèle ancien de l'éducation. Cela signifie que les établissements n'ont pas pu se détacher d'une structure trop rigide : ils fondent leurs ressources d'enseignement sur des manuels, ont peu recours aux connaissances mises à leurs portée grâce à la mondialisation et travaillent au sein d'espaces d'apprentissage très spécifiques. Les établissements appliquent toujours une philosophie plus caractéristique du XIXᵉ siècle (industriel) que du XXIᵉ siècle (informationnel). L'enseignement se caractérise actuellement par des établissements du XIXᵉ siècles dans lesquels des enseignants du XXᵉ siècle travaillent auprès d'étudiants du XXIᵉ siècle.",
-        "query": "Que présente l’auteur de l’article ?",
+        "text": "### <p style=\"text-align: center;\">L'apprentissage en Europe</p>\n\nÀ l'heure actuelle, l'utilisation des nouvelles technologies de l'information et de la communication (TIC) dans les salles de classe est rare. Les établissements travaillent encore selon un modèle ancien de l'éducation. Cela signifie que les établissements n'ont pas pu se détacher d'une structure trop rigide : ils fondent leurs ressources d'enseignement sur des manuels, ont peu recours aux connaissances mises à leur portée grâce à la mondialisation et travaillent au sein d'espaces d'apprentissage très spécifiques. Les établissements appliquent toujours une philosophie plus caractéristique du XIX<sup>e</sup> siècle (industriel) que du XXI<sup>e</sup> siècle (informationnel). L'enseignement se caractérise actuellement par des établissements du XIX<sup>e</sup> siècle dans lesquels des enseignants du XX<sup>e</sup> siècle travaillent auprès d'étudiants du XXI<sup>e</sup> siècle.",
+        "query": "Que présente l'auteur de l'article ?",
         "options": [
-            "Des méthodes innovantes sur l’usage des TIC.",
+            "Des méthodes innovantes sur l'usage des TIC.",
             "Des pistes de recherche sur l'apprentissage.",
             "Un état des lieux des ressources pédagogiques.",
             "Une analyse du contexte socio-éducatif actuel."
@@ -444,7 +444,7 @@
     {
         "id": 35,
         "testId": 154,
-        "text": "On connait Cézanne surtout pour ses paysages, mais le Musée d'Orsay montre, pour la première fois, une partie méconnu de l'œuvre de l'artisan. On y croisera ainsi le visage de son épouse, seul motif autant étudié par le peintre que la montagne Sainte-victoire. Au fil des versions, Hortense Fiquet devient l'objet d'une recherche plastique, de mise en scène et de géométrisation des formes. Mais Cézanne peut aussi avoir le pinceau cruel. Dès ses débuts, les figures de son père et de sa mère sont tourmentées. Lui-même se représente à 27 ans, patibulaire et le regard injecté de sang. À la fin de sa vie, Cézanne choisit des anonymes du monde rural. Ses tableaux ne sont alors qu'une autre forme de paysage",
+        "text": "On connait Cézanne surtout pour ses paysages, mais le Musée d'Orsay montre, pour la première fois, une partie méconnue de l'œuvre de l'artiste. On y croisera ainsi le visage de son épouse, seul motif autant étudié par le peintre que la montagne Sainte-Victoire. Au fil des versions, Hortense Fiquet devient l'objet d'une recherche plastique, de mise en scène et de géométrisation des formes. Mais Cézanne peut aussi avoir le pinceau cruel. Dès ses débuts, les figures de son père et de sa mère sont tourmentées. Lui-même se représente à 27 ans, patibulaire et le regard injecté de sang. À la fin de sa vie, Cézanne choisit des anonymes du monde rural. Ses tableaux ne sont alors qu'une autre forme de paysage.",
         "query": "Que souligne cette exposition sur Paul Cézanne ?",
         "options": [
             "L'influence de ses contemporains.",
@@ -457,7 +457,7 @@
     {
         "id": 36,
         "testId": 154,
-        "text": "Suite à un accident chimique sur un site minier, les pouvoirs publics ont décidé d'obliger les sociétés minières à financer des programmes de recherche et à replanter les surfaces exploitées. Et de fait, les compagnies minières jouent très bien le jeu. Comme il serait bien naïf de penser que leurs dirigeants soient tout à coup devenus philanthropes, il faut chercher la raison de cet intérêt ailleurs. Il se trouve qu'un scientifique, Anthony Van der Hent, a prouvé que des « super-plantes » avaient la faculté d'extraire du sol des métaux économiquement exploitables. C'est donc la possibilité d'allier la régénération de sites industriels à des assurances de gains financiers supplémentaires qui motivent tant les industriels.",
+        "text": "Suite à un accident chimique sur un site minier, les pouvoirs publics ont décidé d'obliger les sociétés minières à financer des programmes de recherche et à replanter les surfaces exploitées. Et de fait, les compagnies minières jouent très bien le jeu. Comme il serait bien naïf de penser que leurs dirigeants soient tout à coup devenus philanthropes, il faut chercher la raison de cet intérêt ailleurs. Il se trouve qu'un scientifique, Anthony Van der Hent, a prouvé que des « super-plantes » avaient la faculté d'extraire du sol des métaux économiquement exploitables. C'est donc la possibilité d'allier la régénération de sites industriels à des assurances de gains financiers supplémentaires qui motive tant les industriels.\n\n<br/><p style=\"text-align: right;\">D'après <i>Fruits et abeilles</i></p>",
         "query": "Sur quel point porte le scepticisme du journaliste ?",
         "options": [
             "La capacité des plantes à nettoyer les sols.",
@@ -470,10 +470,10 @@
     {
         "id": 37,
         "testId": 154,
-        "text": "Quand j'ai ouvert ce blog il y a bientôt trois ans, je lisais partout sur internet que le journalisme professionnel était mort dès lors que chacun pouvait devenir journaliste, au sens de diffuseur d'informations. Ce point de vue, à mon sens erroné, tend à disparaître. Il disparaît à mesure que se dessine sur internet la différence entre faits et opinions, entre travail professionnel et amateur, entre capacité à aller chercher l'information et simple possibilité technique de la diffuser. Tout le monde n'est pas devenu journaliste avec internet, en revanche, nous sommes de plus en plus nombreux à accéder au statut de membres actifs du système médiatique.",
+        "text": "Quand j'ai ouvert ce blog il y a bientôt trois ans, je lisais partout sur Internet que le journalisme professionnel était mort dès lors que chacun pouvait devenir journaliste, au sens de diffuseur d'informations. Ce point de vue, à mon sens erroné, tend à disparaître. Il disparaît à mesure que se dessine sur Internet la différence entre faits et opinions, entre travail professionnel et amateur, entre capacité à aller chercher l'information et simple possibilité technique de la diffuser. Tout le monde n'est pas devenu journaliste avec Internet, en revanche, nous sommes de plus en plus nombreux à accéder au statut de membres actifs du système médiatique.",
         "query": "Quelle est l'opinion de cette personne sur l'évolution du métier de journaliste ?",
         "options": [
-            "La formation du métier de journaliste est devenue tout à fait inutile.",
+            "La formation au métier de journaliste est devenue tout à fait inutile.",
             "Une frontière est apparue entre les journalistes confirmés et les autres.",
             "L'évolution d'Internet a affaibli le respect porté au statut de journaliste.",
             "Des internautes publiant sur le net se prennent pour des journalistes."

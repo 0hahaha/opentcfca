@@ -2,7 +2,7 @@
     {
         "id": 1,
         "testId": 176,
-        "text": "La société des transports **T2C** offre plusieurs moyens de transport publics : trente-quatre stations de tramway, de train et de métro en journée, 23 lignes de bus, dont une de nuit.\n\nPlus de renseignements sur notre site www.t2c.fr !",
+        "text": "<p style=\"text-align: center; line-height: 150%; font-size: x-large;\">La société des transports <b>T2C</b> offre <br/> plusieurs moyens de transport <br/> publics : trente-quatre stations <br/> de tramway, de train et de métro <br/> en journée, 23 lignes de bus, <br/> dont une de nuit. <br/> Plus de renseignements sur notre <br/> site <i>www.t2c.fr</i> !</p>",
         "query": "Quel transport circule après 23h ?",
         "options": [
             "Le bus.",
@@ -54,7 +54,7 @@
     {
         "id": 5,
         "testId": 176,
-        "text": "## <p style=\"text-align: center; line-height: 150%;\">SAMEDI 29 JUIN, <br/> VENEZ COURIR 10 KM <br/> POUR AIDER L'ASSOCIATION <br/> « TOUT ENSEMBLE POUR LA PAIX »<p/>\n\n## <br/><p style=\"text-align: center; line-height: 150%;\">RENDEZ-VOUS À 10H, AU PARC DE <br/> VINCENNES.</p>\n\n## <br/><p style=\"text-align: center; line-height: 150%;\">AMBIANCE SYMPATHIQUE ET REPAS <br/> OFFERT POUR LES SPORTIFS, <br/> VENEZ NOMBREUX !</p>",
+        "text": "## <p style=\"text-align: center; line-height: 150%;\">SAMEDI 29 JUIN, <br/> VENEZ COURIR 10 KM <br/> POUR AIDER L'ASSOCIATION <br/> « TOUS ENSEMBLE POUR LA PAIX »<p/>\n\n## <br/><p style=\"text-align: center; line-height: 150%;\">RENDEZ-VOUS À 10 H, AU PARC DE <br/> VINCENNES.</p>\n\n## <br/><p style=\"text-align: center; line-height: 150%;\">AMBIANCE SYMPATHIQUE ET REPAS <br/> OFFERT POUR LES SPORTIFS, <br/> VENEZ NOMBREUX !</p>",
         "query": "Qu'est-ce que cette annonce propose ?",
         "options": [
             "D'aider à organiser une fête.",
@@ -93,13 +93,13 @@
     {
         "id": 8,
         "testId": 176,
-        "text": "La France est le pays d'Europe où il y a le plus d'animaux par habitant. Chien, chat, poisson, cheval ou même serpent, les français adorent s'occuper d'eux, les nourrir, les sortir et vivre à leurs côtés.",
-        "query": "Qu’apprend-on sur les Français et les animaux ?",
+        "text": "La France est le pays d'Europe où il y a le plus d'animaux par habitant. Chien, chat, poisson, cheval ou même serpent, les Français adorent s'occuper d'eux, les nourrir, les sortir et vivre à leurs côtés.",
+        "query": "Qu'apprend-on sur les Français et les animaux ?",
         "options": [
             "Ils aiment en voir dans la nature.",
             "Ils les regardent à la télévision.",
             "Ils sont nombreux à en avoir.",
-            "Ils vont les voir dans les zoos."
+            "Ils vont les voir dans des zoos."
         ],
         "answer": 2
     },
@@ -119,7 +119,7 @@
     {
         "id": 10,
         "testId": 176,
-        "text": "***Marché facile*** est une application pour téléphone portable qui vous conseille les bons fruits et légumes de saison dans les supermarchés. Elle donne aussi des informations sur le fromage, la viande et le poisson.",
+        "text": "**Marché facile** est une application pour téléphone portable qui vous conseille les bons fruits et légumes de saison dans les supermarchés. Elle donne aussi des informations sur le fromage, la viande et le poisson.",
         "query": "À quoi sert cette application ?",
         "options": [
             "À acheter sur internet.",
@@ -161,7 +161,7 @@
         "text": "Du 30 décembre au 15 janvier, dans les magasins *Jouons à tous les âges*, les produits des rayons vélos et jeux vidéo sont à -50%. Pour chaque achat, 2 euros seront donnés à *Apprendre mieux à l'école*, une association qui s'occupe d'enfants de 6 à 15 ans.",
         "query": "Qu'est-ce que cette publicité annonce ?",
         "options": [
-            "De l’aide pour une association.",
+            "De l'aide pour une association.",
             "De nouveaux rayons jouets.",
             "Un concours de jeux vidéo.",
             "Une remise de 2 euros par article."
@@ -236,11 +236,11 @@
     {
         "id": 19,
         "testId": 176,
-        "text": "Des études de marché récentes montrent que les frites signent leur grand retour. Leur cote de popularité ne se dément pas, mais elles doivent être préparées dans les règles de l'art : pour des frites dorées, moelleuses dedans, croquantes dehors, il faut les cuire, puis les frire en deux temps.\n\nSi la Belgique et la France s'en disputent la paternité, on n'en a toujours pas trouvé l'origine. Avec le bond spectaculaire du burger dont elles sont l'accompagnement idéal, les frites sont fortement consommées au restaurant.",
+        "text": "Des études de marché récentes montrent que les frites signent leur grand retour. Leur cote de popularité ne se dément pas mais elles doivent être préparées dans les règles de l'art : pour des frites dorées, moelleuses dedans, croquantes dehors, il faut les cuire, puis les frire en deux temps.\n\nSi la Belgique et la France s'en disputent la paternité, on n'en a toujours pas trouvé l'origine. Avec le bond spectaculaire du burger dont elles sont l'accompagnement idéal, les frites sont fortement consommées au restaurant.",
         "query": "Que révèle cet article sur les frites ?",
         "options": [
             "L'origine historique de la recette.",
-            "Le secret d’une bonne préparation.",
+            "Le secret d'une bonne préparation.",
             "Les adresses où les consommer.",
             "Les raisons de leur popularité."
         ],
@@ -250,7 +250,7 @@
         "id": 20,
         "testId": 176,
         "text": "Les jours rallongent, la température monte, les arbres sont en fleurs, bref... l'été approche, et les grandes vacances aussi. Mais savez-vous déjà comment vos enfants vont passer ces deux mois ? Ils ont un besoin vital de se détendre et ils sont curieux de tout. De votre côté, vous cherchez des solutions pratiques et des vacances intelligentes et sûres. Nous vous proposons des ateliers scientifiques passionnants dans des centres de vacances rigoureusement sélectionnés. Alors, appelez-nous vite !",
-        "query": "Qu’offrent ces centres de vacances ?",
+        "query": "Qu'offrent ces centres de vacances ?",
         "options": [
             "Des cours de rattrapage scolaires en sciences.",
             "Des activités de découverte de la nature.",
@@ -262,8 +262,8 @@
     {
         "id": 21,
         "testId": 176,
-        "text": "La ville de Nantes à de quoi séduire grâce à son dynamisme culturel. Son renouveau, débute il y a plus de deux décennies, est exceptionnel. Elle a retrouvé le goût du risque, un grain de folie et un peu de naïveté. Nantes, le bourgeois cité des ducs de Bretagne, est une vraie boîte à idées, toujours en quête de nouvelles manières de conjuguer le « vivre ensemble ». Pas étonnant qu'elle connaisse une des plus fortes croissances des métropoles de France.",
-        "query": "Qu'est ce qui attire les gens à Nantes ?",
+        "text": "La ville de Nantes a de quoi séduire grâce à son dynamisme culturel. Son renouveau, débuté il y a plus de deux décennies, est exceptionnel. Elle a retrouvé le goût du risque, un grain de folie et un peu de naïveté. Nantes, la bourgeoise cité des ducs de Bretagne, est une vraie boîte à idées, toujours en quête de nouvelles manières de conjuguer le « vivre ensemble ». Pas étonnant qu'elle connaisse une des plus fortes croissances des métropoles de France.",
+        "query": "Qu'est-ce qui attire les gens à Nantes ?",
         "options": [
             "Sa position géographique.",
             "Ses traditions régionales.",
@@ -275,7 +275,7 @@
     {
         "id": 22,
         "testId": 176,
-        "text": "En quelques années, le camping est devenu le premier mode d'hébergement touristique, devant les hôtels, les résidences et les villages de vacances. « Les familles qui louaient des villas ou partaient à l'hôtel choisissent de plus en plus ce type de séjour en plein air et tout compris », déclare un expert. Ces nouveaux adeptes du camping, souvent plus fortunés, se tournent vers les tentes meublées, chalets et mobile-homes classés 3 à 5 étoiles qui existaient peu auparavant. Il y a quelques années, certains avaient honte de dire: je suis allé au camping. Aujourd'hui, ce n'est plus vrai.\n\n<br/><p style=\"text-align: right;\">D'après <i>lemonde.fr</p>",
+        "text": "En quelques années, le camping est devenu le premier mode d'hébergement touristique, devant les hôtels, les résidences et les villages de vacances. \"*Les familles qui louaient des villas ou partaient à l'hôtel choisissent de plus en plus ce type de séjour en plein air et tout compris*\", déclare un expert. Ces nouveaux adeptes du camping, souvent plus fortunés, se tournent vers les tentes meublées, chalets et mobil-homes classés 3 à 5 étoiles qui existaient peu auparavant. Il y a quelques années, certains avaient honte de dire: je suis allé au camping. Aujourd'hui, ce n'est plus vrai.\n\n<br/><p style=\"text-align: right;\">D'après <i>lemonde.fr</p>",
         "query": "Que constate l'expert à propos du camping ?",
         "options": [
             "Le confort a été très nettement amélioré.",
@@ -291,7 +291,7 @@
         "text": "Le « moustique urbain », c'est son nom, qui hibernait depuis octobre, s'est réveillé plus tôt. Et une fois d'attaque, les mâles sont immédiatement allés féconder les femelles, qui se sont mises à pondre frénétiquement. Là où l'on ne rit plus, c'est quand on sait que les larves se nourrissent de matières organiques contenues dans les eaux stagnantes usées qui leur servent de nurseries et que, plus il fait chaud, plus il y a de quoi profiter. Ce qui donne des moustiques de taille XXL qui, sans que les scientifiques sachent pourquoi, délaissent les oiseaux pour s'attaquer de préférence aux humains. Il ne nous reste plus qu'à courir acheter du répulsif!",
         "query": "Pourquoi les moustiques sont-ils plus gros que d'habitude ?",
         "options": [
-            "Parce qu’il y a eu des pluies importantes.",
+            "Parce qu'il y a eu des pluies importantes.",
             "Parce que les femelles ont moins pondu.",
             "Parce que les larves ont beaucoup mangé.",
             "Parce qu'ils ont hiberné plus longtemps."
@@ -327,8 +327,8 @@
     {
         "id": 26,
         "testId": 176,
-        "text": "Dans les familles, il y a des conflits entre les parents, tout simplement parce que chacun a son style éducatif, ses valeurs, son expérience et sa culture familiale. Chacun a ses idées sur le rôle d'un père, d'une mère, la place d'un enfant... Et quand chacun veut les mettre en application, il se heurte à celles de l'autre et ça crée des disputes dans le couple. C'est inévitable, tout à fait normal et il n'y a pas à s'en inquiéter. On peut parfaitement éduquer son enfant sans être d'accord sur tout, à une condition : que les parents s'entendent sur les valeurs fondamentales qu'ils veulent lui donner et qu'ils respectent les méthodes éducatives de l’autre même s'ils ne les approuvent pas.",
-        "query": "Selon l’article, que doivent faire les parents en matière d'éducation ?",
+        "text": "Dans les familles, il y a des conflits entre les parents, tout simplement parce que chacun a son style éducatif, ses valeurs, son expérience et sa culture familiale. Chacun a ses idées sur le rôle d'un père, d'une mère, la place d'un enfant... Et quand chacun veut les mettre en application, il se heurte à celles de l'autre et ça crée des disputes dans le couple. C'est inévitable, tout à fait normal et il n'y a pas à s'en inquiéter. On peut parfaitement éduquer son enfant sans être d'accord sur tout, à une condition : que les parents s'entendent sur les valeurs fondamentales qu'ils veulent lui donner et qu'ils respectent les méthodes éducatives de l'autre même s'ils ne les approuvent pas.",
+        "query": "Selon cet article, que doivent faire les parents en matière d'éducation ?",
         "options": [
             "Dialoguer avec leurs enfants.",
             "Prendre appui sur leur expérience.",
@@ -354,10 +354,10 @@
         "id": 28,
         "testId": 176,
         "text": "**Supprimer les concours des grandes écoles ? Changer nos élites ? Le débat a ouvert grand la porte aux envies de bousculer la formation de la jeunesse.**\n\nPendant longtemps, on a cru que les concours étaient d'indépassables garants de l'idéal républicain d'égalité. On a mis beaucoup de temps à se rendre compte qu'ils pouvaient entretenir la reproduction des élites ou écarter insidieusement une partie des jeunes, en fonction de leur origine sociale, voire ethnique.\n\nDe ce constat certains déduisent qu'il faut introduire des discriminations positives au sein des concours existants. Mais il existe une alternative pour répondre rapidement à cette nécessité de démocratisation : reconnaître d'autres compétences dans les processus de sélection comme l'esprit d'entraide, de solidarité et de coopération.",
-        "query": "Qu’apprend-on sur les concours ?",
+        "query": "Qu'apprend-on sur les concours ?",
         "options": [
             "Ils perpétuent une forme d'exclusion.",
-            "Le nombre de candidats s’amenuise.",
+            "Le nombre de candidats s'amenuise.",
             "Leur niveau d’exigence diminue.",
             "On les réforme régulièrement."
         ],
@@ -366,8 +366,8 @@
     {
         "id": 29,
         "testId": 176,
-        "text": "Plus de 40% des espèces d'insectes sont en déclin et un tiers sont menacés. Leur taux de mortalité est huit fois plus rapide que celui des mammifères. À ce rythme, s'inquiètent les scientifiques, les insectes pourraient disparaître d'ici un siècle. Cette prévision est préoccupante, car ils sont essentiels au bon fonctionnement de tous les écosystèmes. Ils pollinisent les plantes, recyclent les nutriments et servent de nourriture aux autres animaux. Leur disparition « aura des conséquences catastrophiques à la fois pour les écosystèmes de la planète et pour la survie de l'humanité ». « Si les modes de production alimentaire ne changent pas, les insectes dans leur ensemble s'engagera sur la voie de l'extinction dans quelques décennies », écrivent les chercheurs.\n\n<br/><p style=\"text-align: right;\">D'après <i>lemonde.fr</p>",
-        "query": "D'après l’article, qu'est-ce qui est à l'origine de la disparition des insectes ?",
+        "text": "Plus de 40% des espèces d'insectes sont en déclin et un tiers sont menacées. Leur taux de mortalité est huit fois plus rapide que celui des mammifères. À ce rythme, s'inquiètent les scientifiques, les insectes pourraient disparaître d'ici un siècle. Cette prévision est préoccupante car ils sont essentiels au bon fonctionnement de tous les écosystèmes. Ils pollinisent les plantes, recyclent les nutriments et servent de nourriture aux autres animaux. Leur disparition « aura des conséquences catastrophiques à la fois pour les écosystèmes de la planète et pour la survie de l'humanité ». « Si les modes de production alimentaire ne changent pas, les insectes dans leur ensemble s'engageront sur la voie de l'extinction dans quelques décennies », écrivent les chercheurs.\n\n<br/><p style=\"text-align: right;\">D'après <i>lemonde.fr</p>",
+        "query": "D'après l'article, qu'est-ce qui est à l'origine de la disparition des insectes ?",
         "options": [
             "Les changements de climat.",
             "Les méthodes de culture.",
@@ -392,8 +392,8 @@
     {
         "id": 31,
         "testId": 176,
-        "text": "Là où leurs prédécesseurs rêvaient d'un contrat à durée indéterminée, les Millennials (génération née entre 1980 et 2000) sont en quête d'expériences diversifiées. Beaucoup ont déjà connu le chômage et ont conscience de l'obsolescence de leurs compétences et de leur diplôme d'où leur sentiment de n'avoir rien à perdre.\n\nL'heure n'est plus à la relation de subordination, mais à la coopération. Au quotidien, il y a de quoi déconcerter les managers. Un Millénial accepte qu'on lui explique le sens du travail mais pas la manière de le faire. Face à ces collaborateurs qui font rimer bien-être professionnel avec connexion, confiance, autonomie et flexibilité, il faut en finir avec le syndrome de la hiérarchie pyramidale.\n\n<br/><p style=\"text-align: right;\">D'après <i>4sechas.fr</i></p>",
-        "query": "Qu’apprend-on sur les Millenniais dans le monde du travail ?",
+        "text": "Là où leurs prédécesseurs rêvaient d'un contrat à durée indéterminée, les Millennials (génération née entre 1980 et 2000) sont en quête d'expériences diversifiées. Beaucoup ont déjà connu le chômage et ont conscience de l'obsolescence de leurs compétences et de leur diplôme, d'où leur sentiment de n'avoir rien à perdre.\n\nL'heure n'est plus à la relation de subordination, mais à la coopération. Au quotidien, il y a de quoi déconcerter les managers. Un Millennial accepte qu'on lui explique le sens du travail mais pas la manière de le faire. Face à ces collaborateurs qui font rimer le bien-être professionnel avec connexion, confiance, autonomie et flexibilité, il faut en finir avec le syndrome de la hiérarchie pyramidale.\n\n<br/><p style=\"text-align: right;\">D'après <i>lesechos.fr</i></p>",
+        "query": "Qu'apprend-on sur les Milléniaux dans le monde du travail ?",
         "options": [
             "Ils bouleversent les rapports d'autorité.",
             "Ils évitent les postes à responsabilité.",
@@ -405,7 +405,7 @@
     {
         "id": 32,
         "testId": 176,
-        "text": "Depuis un an, l'association du théâtre de la poudrerie, située à Sevran, à quelques kilomètres de Paris, organise des représentations gratuites à domicile d'une pièce inédite. Pour cela, l'association a convié une auteure professionnelle à venir en résidence pour l'écrire. Elle a recueilli le témoignage d'une trentaine d'habitantes sur le thème du pouvoir féminin, puis écrit son texte à partir de cette matière première. L'enjeu pour cette association est que les spectateurs s'approprient la pièce : quand il y a un phénomène d'identification, la parole se libère lors de la rencontre qui suit la représentation. Ce phénomène est amplifié par ce cadre intimiste qui favorise le rapprochement des spectateurs et des comédiens.",
+        "text": "Depuis un an, l'association du Théâtre de la poudrerie, située à Sevran, à quelques kilomètres de Paris, organise des représentations gratuites à domicile d'une pièce inédite. Pour cela, l'association a convié une auteure professionnelle à venir en résidence pour l'écrire. Elle a recueilli le témoignage d'une trentaine d'habitantes sur le thème du pouvoir féminin, puis écrit son texte à partir de cette matière première. L'enjeu pour cette association est que les spectateurs s'approprient la pièce : quand il y a un phénomène d'identification, la parole se libère lors de la rencontre qui suit la représentation. Ce phénomène est amplifié par ce cadre intimiste qui favorise le rapprochement des spectateurs et des comédiens.",
         "query": "Quel objectif poursuit cette association avec ce projet ?",
         "options": [
             "Encourager le dialogue avec le public.",
@@ -432,25 +432,25 @@
         "id": 34,
         "testId": 176,
         "text": "Un nouveau mot se banalise sur les campus américains : « microagression ». Qualifiant les blessures subtiles qui affectent les individus exposés à une forme de dévalorisation par le langage, il alimente le débat sur la liberté d'expression. Forgé dans les années 1970, le terme a été développé à partir de 2007 par Derald Wing Sue qui le définit ainsi : des insultes ou attitudes intentionnelles ou non qui communiquent des messages hostiles ou méprisants envers des personnes sur la seule base de leur appartenance à un groupe marginalisé. Des universités ont mis en place des mécanismes de prévention et de dénonciation de ces microagressions mais certains redoutent que l'excès de précaution ne vienne tuer le débat d'idées.\n\n<br/><p style=\"text-align: right;\">D'après <i>Idées Le Monde</i></p>",
-        "query": "Qu’apprend-on sur les microagressions ?",
+        "query": "Qu'apprend-on sur les microagressions ?",
         "options": [
             "Ce sont des blessures corporelles superficielles.",
             "Elles sont commises par des groupes minoritaires.",
             "Les autorités universitaires s’en préoccupent peu.",
-            "Lutter contre elle peut nuire à certaines libertés."
+            "Lutter contre elles peut nuire à certaines libertés."
         ],
         "answer": 3
     },
     {
         "id": 35,
         "testId": 176,
-        "text": "## Que pensent les français de la mobilité territoriale ?\n\nSi la mobilité n'est ni bonne, ni mauvaise en soi, elle peut être perçue de manière radicalement différente en fonction des circonstances dans lesquelles elle se réalise et surtout du fait d'être choisie ou non. Des mobilités personnelles, professionnelles et spatiales, voulues et recherchées, peuvent être un facteur d'épanouissement individuel et professionnel pour certains groupes favorisés, alors qu'elles peuvent être un facteur de précarité pour les groupes défavorisés notamment si elles sont subies.\n\n<br/><p style=\"text-align: right;\">D'après <i>theconversation.com</i></p>",
-        "query": "Quand une mobilité territoriale est-elle vécue ?",
+        "text": "## Que pensent les Français de la mobilité territoriale ?\n\nSi la mobilité n'est ni bonne, ni mauvaise en soi, elle peut être perçue de manière radicalement différente en fonction des circonstances dans lesquelles elle se réalise et surtout du fait d'être choisie ou non. Des mobilités personnelles, professionnelles et spatiales, voulues et recherchées, peuvent être un facteur d'épanouissement individuel et professionnel pour certains groupes favorisés, alors qu'elles peuvent être un facteur de précarité pour les groupes défavorisés, notamment si elles sont subies.\n\n<br/><p style=\"text-align: right;\">D'après <i>theconversation.com</i></p>",
+        "query": "Quand une mobilité territoriale est-elle bien vécue ?",
         "options": [
             "Si c'est une occasion d'élargir son réseau social.",
             "Si c'est une opportunité de changer de mode de vie.",
-            "Si c’est la possibilité de trouver un emploi.",
-            "Si c’est le fruit d'une décision personnelle."
+            "Si c'est la possibilité de trouver un emploi.",
+            "Si c'est le fruit d'une décision personnelle."
         ],
         "answer": 3
     },

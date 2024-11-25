@@ -15,7 +15,7 @@
     {
         "id": 2,
         "testId": 166,
-        "text": "<svg viewBox=\"0 0 500 150\"><path id=\"curve\" fill=\"transparent\" d=\"M50,100 C130,20 370,20 450,100\" /><text width=\"500\" fill=\"#000000\" style=\"font-size: large;\"><textPath xlink:href=\"#curve\">Apprenez une langue étrangère sans aller en classe !</textPath></text></svg>\n\n<p style=\"text-align: center; font-size: 30pt; margin-top: -80px;\">👩🏻‍💻📓✍🏻💡</p>\n\n<br/><p style=\"text-align: center; font-size: large; line-height: 150%;\">L'école <b>Lingua Mobile</b> vous offre plusieurs <br/> solutions modernes : vous pouvez suivre <br/> vos cours par internet, depuis chez vous <br/> ou de votre bureau.</p>",
+        "text": "<svg viewBox=\"0 0 500 150\"><path id=\"curve\" fill=\"transparent\" d=\"M50,100 C130,20 370,20 450,100\" /><text width=\"500\" fill=\"#000000\" style=\"font-size: large;\"><textPath xlink:href=\"#curve\">Apprenez une langue étrangère sans aller en classe !</textPath></text></svg>\n\n<p style=\"text-align: center; font-size: 30pt; margin-top: -80px;\">👩🏻‍💻📓✍🏻💡</p>\n\n<br/><p style=\"text-align: center; font-size: large; line-height: 150%;\">L'école <b>Lingua Mobile</b> vous offre plusieurs <br/> solutions modernes : vous pouvez suivre <br/> vos cours par Internet, depuis chez vous <br/> ou de votre bureau.</p>",
         "query": "Quelle est la spécialité de Lingua Mobile ?",
         "options": [
             "Ses leçons à distance.",
@@ -240,7 +240,7 @@
         "query": "Que révèle cet article sur les frites ?",
         "options": [
             "L'origine historique de la recette.",
-            "Le secret d’une bonne préparation.",
+            "Le secret d'une bonne préparation.",
             "Les adresses où les consommer.",
             "Les raisons de leur popularité."
         ],
@@ -262,7 +262,7 @@
     {
         "id": 21,
         "testId": 166,
-        "text": "<p style=\"text-align: right;\">Paris, le 13 mars</p>\n\n<br/>Madame, Monsieur,\n\n<br/>&nbsp;&nbsp;&nbsp;&nbsp; Ce courrier fait suite à mon achat d'un téléphone le 5 mars dernier. Après réflexion, je souhaiterais le rendre, car j'ai finalement décidé d'acheter un appareil avec messagerie intégrée.\n\n<br/>&nbsp;&nbsp;&nbsp;&nbsp; Ainsi, je vous prie de bien vouloir me restituer la somme de 80 euros, correspondant à la somme versée le 5 mars par chèque.\n\n<br/>&nbsp;&nbsp;&nbsp;&nbsp; Dans l'attente de votre réponse, je vous transmets, Madame, Monsieur, mes meilleures salutations.\n\n<br/>*<p style=\"text-align: right;\">André Cellier</p>*",
+        "text": "<p style=\"text-align: right;\">Paris, le 13 mars</p>\n\n<br/>Madame, Monsieur,\n\n<br/>&nbsp;&nbsp;&nbsp;&nbsp; Ce courrier fait suite à mon achat d'un téléphone le 5 mars dernier. Après réflexion, je souhaiterais le rendre car j'ai finalement décidé d'acheter un appareil avec messagerie intégrée.\n\n<br/>&nbsp;&nbsp;&nbsp;&nbsp; Ainsi, je vous prie de bien vouloir me restituer la somme de 80 euros, correspondant à la somme versée le 5 mars par chèque.\n\n<br/>&nbsp;&nbsp;&nbsp;&nbsp; Dans l'attente de votre réponse, je vous transmets, Madame, Monsieur, mes meilleures salutations.\n\n<br/>*<p style=\"text-align: right;\">André Cellier</p>*",
         "query": "Quel est l'objet de la lettre de monsieur Cellier ?",
         "options": [
             "Le remboursement de son article.",
@@ -275,7 +275,7 @@
     {
         "id": 22,
         "testId": 166,
-        "text": "Pendant un an, la journaliste allemande Greta Taubert a décidé de quitter la société de consommation sans quitter son appartement berlinois. Pendant cette expérience, elle bu, mangé, s'est habillée sans payer : elle a échangé jupes et pantalons avec ses voisines, planté des légumes dans un jardin collectif. Pour ses vacances, elle est allée chez des amis en faisant de l'auto-stop. « Aujourd'hui, je suis contente de ne plus vivre aussi radicalement, c'était difficile mais je cherche à intégrer dans mon quotidien ce que j'ai appris », explique-t-elle.\n\n<br/><p style=\"text-align: right;\">D'après <i>linternaute.com</i></p>",
+        "text": "Pendant un an, la journaliste allemande Greta Taubert a décidé de quitter la société de consommation sans quitter son appartement berlinois. Pendant cette expérience, elle a bu, mangé, s'est habillée sans payer : elle a échangé jupes et pantalons avec ses voisines, planté des légumes dans un jardin collectif. Pour ses vacances, elle est allée chez des amis en faisant de l'auto-stop. « Aujourd'hui, je suis contente de ne plus vivre aussi radicalement, c'était difficile mais je cherche à intégrer dans mon quotidien ce que j'ai appris », explique-t-elle.\n\n<br/><p style=\"text-align: right;\">D'après <i>linternaute.com</i></p>",
         "query": "Quel est le constat de Greta Taubert après cette expérience ?",
         "options": [
             "C'est possible à la campagne.",
@@ -315,7 +315,7 @@
         "id": 25,
         "testId": 166,
         "text": "Dans cette belle institution qu'est l'Éducation nationale, ce sont les profs qui font tourner la boutique. Ce sont eux qui, chaque jour, nourrissent intellectuellement ceux qui feront la France de demain. Sans eux et leur amour du métier, l'école française se serait effondrée depuis belle lurette et ferait encore moins bien que ses résultats actuels. Notre journal veut donc leur dire merci en publiant quelques portraits et en vous demandant de nous signaler d'autres « héros de l'école ».\n\n### <p style=\"text-align: center;\">ENVOYEZ-NOUS VOS MESSAGES, NOUS LES PUBLIERONS.</p>",
-        "query": "D'après le texte, quel rôle jouent les enseignants dans l'institution scolaire ?",
+        "query": "D'après ce texte, quel rôle jouent les enseignants dans l'institution scolaire ?",
         "options": [
             "Ils influencent les élèves au-delà de la classe.",
             "Ils instillent le goût du travail en équipe.",
@@ -444,7 +444,7 @@
     {
         "id": 35,
         "testId": 166,
-        "text": "L'homme est de noir vêtu. Son crône, nu, joue avec la lumière. Tout est dit, tout est là, dans ce jeu d'ombre et de clarté qui fait d'un bâtisseur un poète. Jean Nouvel façonne le mystère pour insuffler du vivant aux édifices au cœur de pierre et bâtit sans dénaturer. Cet architecte éclairé n'érige rien, il convie cette émotion, suscite une apparition pour sa dernière création, l'œil découvre une ville-musée aux formes douces, un dôme qui semble né des mains d'une dentellière. Le dôme repose sur quatre piliers pour gagner en légèreté et s'allier au paysage, trait d'union avec les nuages.",
+        "text": "L'homme est de noir vêtu. Son crône, nu, joue avec la lumière. Tout est dit, tout est là, dans ce jeu d'ombre et de clarté qui fait d'un bâtisseur un poète. Jean Nouvel façonne le mystère pour insuffler du vivant aux édifices au cœur de pierre et bâtit sans dénaturer. Cet architecte éclairé n'érige rien, il convie cette émotion, suscite une apparition. Pour sa dernière création, l'œil découvre une ville-musée aux formes douces, un dôme qui semble né des mains d'une dentellière. Le dôme repose sur quatre piliers pour gagner en légèreté et s'allier au paysage, trait d'union avec les nuages.",
         "query": "Quelle particularité de Jean Nouvel est louée dans cet article ?",
         "options": [
             "Sa technique puise dans divers mouvements artistiques.",
@@ -483,7 +483,7 @@
     {
         "id": 38,
         "testId": 166,
-        "text": "Inexorablement, la cravate perd de sa superbe. Un abandon progressif constaté par Serge Carreira maître de conférences à Sciences Po Paris et spécialiste du luxe et du mode : on l'impose de moins en moins de manière systématique à tout le monde au sein d'une entreprise. Toutefois, il existe des secteurs qui résistent à la tendance. Dans le monde de la finance, dans la haute administration, la cravate reste quelque chose de statutaire, estime Serge Carreira. C'est un symbole d'autorité et de respect vis-à-vis de ses interlocuteurs, de ses clients... Un formalisme qui n'est pas toujours très bien compris par les principaux intéressés : Josselin travaille pour une banque d'entreprise, il n'est pas en contact avec les clients et pourtant il doit se plier à la règle.",
+        "text": "Inexorablement, la cravate perd de sa superbe. Un abandon progressif constaté par Serge Carreira, maître de conférences à Sciences Po Paris et spécialiste du luxe et de la mode : on l'impose de moins en moins de manière systématique à tout le monde au sein d'une entreprise. Toutefois, il existe des secteurs qui résistent à la tendance. Dans le monde de la finance, dans la haute administration, la cravate reste quelque chose de statutaire, estime Serge Carreira. C'est un symbole d'autorité et de respect vis-à-vis de ses interlocuteurs, de ses clients... Un formalisme qui n'est pas toujours très bien compris par les principaux intéressés : Josselin travaille pour une banque d'entreprise, il n'est pas en contact avec les clients et pourtant il doit se plier à la règle.",
         "query": "Pourquoi certains continuent-ils à porter la cravate au travail ?",
         "options": [
             "C'est un accessoire d'élégance masculine.",
@@ -491,12 +491,12 @@
             "C'est une coutume en réunion.",
             "C'est une marque de courtoisie."
         ],
-        "answer": 1
+        "answer": 3
     },
     {
         "id": 39,
         "testId": 166,
-        "text": "J'ai la naïveté de penser qu'un peu d'imagination n'est pas totalement absurde lorsqu'on écrit des romans. Or, à mon sens, l'imagination est le but de deux choses fondamentales : l'ennui, à qui on donne trop souvent un mauvais rôle, et l'observation, qui n'est pas seulement un terme médical. Il s'avère que le téléphone intelligent, ce charmant objet, si nécessaire, si vital, fait peu à peu disparaître ces deux activités de fainéants du cerveau humain que sont l'ennui et l'observation. Pourquoi s'ennuyer quand on peut regarder des vidéos de chaton ou des notifications Facebook de la plus haute importance dans une salle d'attente? En somme, grâce à ce téléphone intelligent, vous pouvez regarder en permanence le résultat de l'imagination brillante des autres (au détriment de la vôtre).",
+        "text": "J'ai la naïveté de penser qu'un peu d'imagination n'est pas totalement absurde lorsqu'on écrit des romans. Or, à mon sens, l'imagination est le fruit de deux choses fondamentales : l'ennui, à qui on donne trop souvent un mauvais rôle, et l'observation, qui n'est pas seulement un terme médical. Il s'avère que le téléphone intelligent, ce charmant objet, si nécessaire, si vital, fait peu à peu disparaître ces deux activités de fainéants du cerveau humain que sont l'ennui et l'observation. Pourquoi s'ennuyer quand on peut regarder des vidéos de chaton ou des notifications Facebook de la plus haute importance dans une salle d'attente? En somme, grâce à ce téléphone intelligent, vous pouvez regarder en permanence le résultat de l'imagination brillante des autres (au détriment de la vôtre).",
         "query": "Quelle est l'attitude de l'auteur vis-à-vis du téléphone intelligent ?",
         "options": [
             "Il reconnaît ses aspects pratiques.",

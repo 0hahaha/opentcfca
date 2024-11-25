@@ -41,7 +41,7 @@
     {
         "id": 4,
         "testId": 157,
-        "text": "**Pascal,**\n\nNous sommes en réunion sur la publicité du jus de fruit Koi. C'est en salle 20.\n\n**Jean**",
+        "text": "Pascal,\n\nNous sommes en réunion sur la publicité du jus de fruit Koj. C'est en salle 20.\n\nJean",
         "query": "Où est Jean ?",
         "options": [
             "Dans un café.",
@@ -54,8 +54,8 @@
     {
         "id": 5,
         "testId": 157,
-        "text": "**De** : Société BALY INFORMATIQUE\n\n**À** : Monsieur Lefort\n\n**Objet** : Printemps des conférences - Lyon\n\n---\nMonsieur,\n\nUne voiture de notre société va nous attendre à votre arrivée à l'aéroport (porte-F) pour vous conduire au Palais des Congrès.\n\nCordialement,\n\nMme Deor",
-        "query": "Comment est-ce que M. Lefort va aller au palais des Congrès ?",
+        "text": "**De** : Société BALY INFORMATIQUE\n\n**À** : Monsieur Lefort\n\n**Objet** : Printemps des conférences - Lyon\n\n---\nMonsieur,\n\nUne voiture de notre société va vous attendre à votre arrivée à l'aéroport (porte-F) pour vous conduire au Palais des Congrès.\n\nCordialement,\n\nMme Deor",
+        "query": "Comment est-ce que M. Lefort va aller au Palais des Congrès ?",
         "options": [
             "Avec Mme Deor.",
             "Avec un chauffeur.",
@@ -86,14 +86,14 @@
             "Pour acheter un cadeau avec elle.",
             "Pour annuler sa venue à une fête.",
             "Pour décider d’un rendez-vous.",
-            "Pour inviter son amie à diner."
+            "Pour inviter son amie à dîner."
         ],
         "answer": 2
     },
     {
         "id": 8,
         "testId": 157,
-        "text": "Chers étudiants,\n\n<br/>Nous avons le plaisir de vous informe que notre centre vous offre moins 10% sur le prix de ses cours de français.\n\nVous pouvez bénéficier de cette offre spéciale pour un stage d'une ou plusieurs semaines de juin à septembre.\n\n<br/>Vous trouverez le calendrier et le programme des formations sur notre site : www.coursdefrançais.org\n\n<br/>Cordialement,\n\n<br/>La responsable des cours",
+        "text": "Chers étudiants,\n\n<br/>Nous avons le plaisir de vous informer que notre centre vous offre moins 10% sur le prix de ses cours de français.\n\nVous pouvez bénéficier de cette offre spéciale pour un stage d'une ou plusieurs semaines de juin à septembre.\n\n<br/>Vous trouverez le calendrier et le programme des formations sur notre site : www.coursdefrançais.org\n\n<br/>Cordialement,\n\n<br/>La responsable des cours",
         "query": "Dans ce message, que propose-t-on aux étudiants ?",
         "options": [
             "Une formation adaptée pendant les vacances.",
@@ -106,7 +106,7 @@
     {
         "id": 9,
         "testId": 157,
-        "text": "L'Union européenne va offrir une « Carte Jeune » aux étudiants du continent qui ont vingt ans cette année. Pendant un mois maximum, les jeunes pourront prendre le train gratuitement pour visiter plus de quinze pays.",
+        "text": "L'Union européenne va offrir une « Carte Jeunes » aux étudiants du continent qui ont vingt ans cette année. Pendant un mois maximum, les jeunes pourront prendre le train gratuitement pour visiter plus de quinze pays.",
         "query": "Qu'est-ce qui est proposé aux jeunes Européens ?",
         "options": [
             "Des visites de musées.",
@@ -132,7 +132,7 @@
     {
         "id": 11,
         "testId": 157,
-        "text": "Pierre,\n\nCe soir, je rentre tard. Peux-tu acheter du pain et du fromage pour le diner ?\n\nAnne",
+        "text": "Pierre,\n\nCe soir, je rentre tard. Peux-tu acheter du pain et du fromage pour le dîner ?\n\nAnne",
         "query": "Que doit faire Pierre ?",
         "options": [
             "Aller chercher Anne.",
@@ -145,7 +145,7 @@
     {
         "id": 12,
         "testId": 157,
-        "text": "Les petits Allemands ont de la chance. Depuis quelques années, leurs établissements, de la maternelle au lycée, ont de nouvelles chaises aux formes arrondies et colorées. Ces chaises, pensées pour les besoins des écoliers, répondent à une nouvelle philosophie de l'enseignement. Avant il fallait rester immobile et écouter aujourd'hui les psychologues pensent qu'il faut laisser les écoliers bouger, en particulier les très jeunes enfants, car le mouvement aide à la concentration. Il renforce également la construction musculaire.",
+        "text": "Les petits Allemands ont de la chance. Depuis quelques années, leurs établissements, de la maternelle au lycée, ont de nouvelles chaises aux formes arrondies et colorées. Ces chaises, pensées pour les besoins des écoliers, répondent à une nouvelle philosophie de l'enseignement. Avant il fallait rester immobile et écouter. Aujourd'hui les psychologues pensent qu'il faut laisser les écoliers bouger, en particulier les très jeunes enfants, car le mouvement aide à la concentration. Il renforce également la construction musculaire.",
         "query": "Pourquoi a-t-on remplacé le mobilier des écoles allemandes ?",
         "options": [
             "Pour accueillir des élèves handicapés.",
@@ -158,7 +158,7 @@
     {
         "id": 13,
         "testId": 157,
-        "text": "Un salon automobile est un lieu de rêve, mais pas le salon de cette année. Voici mon classement des modèles les plus laids :\n\n1. **La VZT0** : un aspirateur sur quatre roues.\n2. **La Tala Aria** : pas chère, mais pas belle non plus.\n3. **Le cabriolet Aurus** : plus large que haute.\n\nVivement l'année prochaine !",
+        "text": "Un salon automobile est un lieu de rêve, mais pas le salon de cette année. Voici mon classement des modèles les plus laids :\n\n1. **La V210** : un aspirateur sur quatre roues.\n2. **La Tata Aria** : pas chère, mais pas belle non plus.\n3. **Le cabriolet Aurus** : plus large que haut.\n\nVivement l'année prochaine !",
         "query": "Quel est le problème de ces voitures ?",
         "options": [
             "Leur couleur.",
@@ -171,8 +171,8 @@
     {
         "id": 14,
         "testId": 157,
-        "text": "Selon une étude, les salariés passent chaque jour en moyenne une heure et demie à surfer au bureau et y consacrent un peu plus d'une demi-heure à un usage professionnel, contre 53 minutes à des fins personnelles. L'étude chiffre cette « chute de productivité » à 12,4%.\n\nConcrètement, l'utilisation personnelle d'internet au travail coûterait 26 jours par an à l'entreprise, soit près d'un mois de travail!\n\nEn comparant les catégories de sites les plus consultants entre 2010 et 2011, on remarque que les sites de jeux en ligne gagnent 5%, tandis que la vidéo progresse, elle, de 3%.",
-        "query": "Qu'apprend-on sur les salariés qui utilisent internet ?",
+        "text": "Selon une étude, les salariés passent chaque jour en moyenne une heure et demie à surfer au bureau et y consacrent un peu plus d'une demi-heure à un usage professionnel, contre 53 minutes à des fins personnelles. L'étude chiffre cette « chute de productivité » à 12,4%.\n\nConcrètement, l'utilisation personnelle d'internet au travail coûterait 26 jours par an à l'entreprise, soit près d'un mois de travail!\n\nEn comparant les catégories de sites les plus consultés entre 2010 et 2011, on remarque que les sites de jeux en ligne gagnent 5%, tandis que la vidéo progresse, elle, de 3%.",
+        "query": "Qu'apprend-on sur les salariés qui utilisent Internet ?",
         "options": [
             "Ils téléchargent des jeux sur leur poste.",
             "Ils trouvent difficilement des informations.",
@@ -197,7 +197,7 @@
     {
         "id": 16,
         "testId": 157,
-        "text": "**«L'art et ses modes de production contribuent à sensibiliser les gens au développement durable», commente Élise Morin, créatrice de l'œuvre Waste Landscape composée de vieux CD.**\n\n«Le recyclage ça ne se passe pas que dans la poubelle», intervient le photographe Joachim Romain, dont le travail est centré sur les affiches promotionnelles. «Les déchets sont partout, on ne peut pas y échapper, on est envahi. Alors pourquoi ne pas m'en servir pour aller plus loin ? Pour montrer aux gens qu'à un moment, ces questions sur l'environnement vont arriver chez eux».",
+        "text": "**«L'art et ses modes de production contribuent à sensibiliser les gens au développement durable», commente Élise Morin, créatrice de l'œuvre Waste Landscape composé de vieux CD.**\n\n«Le recyclage ça ne se passe pas que dans la poubelle», intervient le photographe Joachim Romain, dont le travail est centré sur les affiches promotionnelles. «Les déchets sont partout, on ne peut pas y échapper, on est envahi. Alors pourquoi ne pas m'en servir pour aller plus loin ? Pour montrer aux gens qu'à un moment, ces questions sur l'environnement vont arriver chez eux».",
         "query": "Que proposent ces artistes ?",
         "options": [
             "De diffuser de la musique.",
@@ -223,10 +223,10 @@
     {
         "id": 18,
         "testId": 157,
-        "text": "L'expérience «cours le matin, sport l'après-midi», qui a commencé à la rentrée, concerne 7000 élèves, dans 120 lycées. Les parents affirment que «la santé de leur enfant a peu varié par rapport à l'an dernier». Ils semblent avoir meilleur appétit et «ils parlent plus de leurs activités avec leurs parents». Cependant, il n'y a pas d'influence sur la ponctualité, la concentration ou les résultats scolaires ».",
+        "text": "L'expérience « cours le matin, sport l'après-midi », qui a commencé à la rentrée, concerne 7000 élèves, dans 120 lycées. Les parents affirment que « la santé de leur enfant a peu varié par rapport à l'an dernier ». Ils semblent avoir meilleur appétit et « ils parlent plus de leurs activités avec leurs parents ». Cependant, il n'y a pas « d'influence sur la ponctualité, la concentration ou les résultats scolaires ».",
         "query": "Quels sont les effets de cette expérience ?",
         "options": [
-            "Les échanges en famille s’améliorent.",
+            "Les échanges en famille saméliorent.",
             "L'attention en classe est en hausse.",
             "Les adolescents sont plus en forme.",
             "La réussite aux examens augmente."
@@ -236,7 +236,7 @@
     {
         "id": 19,
         "testId": 157,
-        "text": "## Pipelettes, soyez fières de l'être !\n\nD'après les psychologiques, ce charmant défaut n'en est finalement pas un. S'il irrite parfois notre conjoint, le bavardage peut libérer les tensions et s'avérer aussi efficace qu'une thérapie !\n\nPapoter avec sa voisine de table, la gardienne de l'immeuble où sa coiffeuse, parler de tout et de rien, du beau temps qui s'en va et des vacances qui sont loin, ou encore de dernières tendances de la mode, cela n'a l'air de rien, mais c'est essentiel ! Ces bavardages nous permettent de nous évader du quotidien et d'établir le contact avec les autres. D'autre part, quand les confidences se font plus sérieuses, formuler nos soucis ou nos contrariétés nous aide à les relativiser : cela soulage.",
+        "text": "## Pipelettes, soyez fières de l'être !\n\nD'après les psychologues, ce charmant défaut n'en est finalement pas un. S'il irrite parfois notre conjoint, le bavardage peut libérer les tensions et s'avérer aussi efficace qu'une thérapie !\n\nPapoter avec sa voisine de table, la gardienne de l'immeuble ou sa coiffeuse, parler de tout et de rien, du beau temps qui s'en va et des vacances qui sont loin, ou encore de dernières tendances de la mode, cela n'a l'air de rien, mais c'est essentiel ! Ces bavardages nous permettent de nous évader du quotidien et d'établir le contact avec les autres. D'autre part, quand les confidences se font plus sérieuses, formuler nos soucis ou nos contrariétés nous aide à les relativiser : cela soulage.",
         "query": "D'après ce texte, dans quelle mesure le bavardage est-il positif ?",
         "options": [
             "Il encourage les initiatives.",
@@ -249,7 +249,7 @@
     {
         "id": 20,
         "testId": 157,
-        "text": "## <p style=\"text-align: center;\">MATCH SÈTE - TOURS</p>\n\n<p style=\"text-align: center; font-size: large;\">Mercredi 12 novembre</p>\n\n- Achat des billets aux points de vente habituels : 15 €.\n\n- Réduction pour les étudiants et les détenteurs de carte « Famille nombreuse ».\n\n- Venté aux guichets du stade, le soir même : 20 €.",
+        "text": "# <p style=\"text-align: center;\">MATCH SÈTE - TOURS</p>\n\n *<p style=\"text-align: center; font-size: x-large\">Mercredi 12 novembre</p>*\n\n- Achat des billets aux points de vente habituels : 15 €.\n\n- Réduction pour les étudiants et les détenteurs de carte « Famille nombreuse ».\n\n- Vente aux guichets du stade, le soir même : 20 €.",
         "query": "À quelle condition l'acheteur a-t-il un meilleur prix ?",
         "options": [
             "En achetant les billets à l'avance.",
@@ -262,12 +262,12 @@
     {
         "id": 21,
         "testId": 157,
-        "text": "Les bons vieux bancs verts sur les trottoirs parisiens ont de la concurrence. Depuis le mois de décembre, sur certains boulevards, un nouveau mobilier urbain a fait son apparition, avec 12 modèles de banquettes, chaises et tabourets. Pour la première fois, la ville de Paris recueille l’avis des usagers et des riverains.\n\nLe traditionnel banc en fonte et bois a-t-il encore de l’avenir au milieu de ce mobilier futuriste?",
-        "query": "Quelle est l’originalité de ce projet?",
+        "text": "Les bons vieux bancs verts sur les trottoirs parisiens ont de la concurrence. Depuis le mois de décembre, sur certains boulevards, un nouveau mobilier urbain a fait son apparition, avec 12 modèles de banquettes, chaises et tabourets. Pour la première fois, la Ville de Paris recueille l'avis des usagers et des riverains.\n\nLe traditionnel banc en fonte et bois a-t-il encore de l'avenir au milieu de ce mobilier futuriste ?",
+        "query": "Quelle est l'originalité de ce projet ?",
         "options": [
-            "La priorité donnée à l’aspect écologique",
+            "La priorité donnée à l'aspect écologique.",
             "La prise en compte de l'opinion publique.",
-            "Le caractère provisoire de l’installation.",
+            "Le caractère provisoire de l'installation.",
             "Le choix des matériaux de fabrication."
         ],
         "answer": 1
@@ -340,7 +340,7 @@
     {
         "id": 27,
         "testId": 157,
-        "text": "En écrivant à la main, chacun trouve sa manière de tracer, son rythme et choisit son moment et ses mots. Le monde de la communication par textos, lui, est celui d'une communication homogène. Avec la numération des échanges, on ne connaît plus l'attente d'une lettre ou d'une carte postale. Rendez-vous avec un ami: un SMS pour prévenir qu'on arrive dans cinq minutes, un autre dès qu'on est arrivé, un autre si on est en retard. Bienvenue dans un monde sans attente, où tous les vides doivent être comblés.",
+        "text": "En écrivant à la main, chacun trouve sa manière de tracer, son rythme et choisit son moment et ses mots. Le monde de la communication par textos, lui, est celui d'une communication homogène. Avec la numérisation des échanges, on ne connaît plus l'attente d'une lettre ou d'une carte postale. Rendez-vous avec un ami: un SMS pour prévenir qu'on arrive dans cinq minutes, un autre dès qu'on est arrivé, un autre si on est en retard. Bienvenue dans un monde sans attente, où tous les vides doivent être comblés.",
         "query": "Qu'apprend-on sur la communication numérique ?",
         "options": [
             "Elle appauvrit le lexique courant.",
@@ -379,13 +379,13 @@
     {
         "id": 30,
         "testId": 157,
-        "text": "Chère Madame,\n\nJe vous remercie de votre commande, mais votre règlement ne couvre pas totalement le montant de votre achat. Plutôt que de vous faire supporter des frais supplémentaires, je vous expédie votre colis dès aujourd'hui et je vous demande de me faire parvenir un chèque de 20 euros, à réception.\n\nBien sincèrement.",
+        "text": "Chère Madame,\n\nJe vous remercie de votre commande mais votre règlement ne couvre pas totalement le montant de votre achat. Plutôt que de vous faire supporter des frais supplémentaires, je vous expédie votre colis dès aujourd'hui et je vous demande de me faire parvenir un chèque de 20 euros, à réception.\n\nBien sincèrement.",
         "query": "Quel est l'objet de cette lettre ?",
         "options": [
             "Demander à une cliente de payer l'intégralité de sa commande.",
             "Prévenir une cliente que sa commande sera livrée en retard.",
             "Confirmer à une cliente que sa commande a bien été expédiée.",
-            "Prévenir un client qu’elle devra payer 20 euros de frais d'envoi."
+            "Prévenir une cliente qu'elle devra payer 20 euros de frais d'envoi."
         ],
         "answer": 0
     },
@@ -461,7 +461,7 @@
         "query": "Que fait l'écrivain dans cet extrait ?",
         "options": [
             "Il revit des souvenirs lointains dans le bureau de la maison familiale.",
-            "Il se rappelle une pièce de travail poussiéreuse interdit aux enfants.",
+            "Il se rappelle une pièce de travail poussiéreuse interdite aux enfants.",
             "Il raconte son apprentissage de la lecture auprès de son grand-père.",
             "Il évoque ses rentrées scolaires alors qu’il ne savait pas encore lire."
         ],
@@ -473,10 +473,10 @@
         "text": "Dans leur nouvelle collection, les éditions Nil invitent des auteurs à se livrer à un exercice épistolaire intime en écrivant une lettre pour dire l'indicible. Le modèle est celle que Kafka rédigea à l'intention de son père et qu'il préféra ranger dans un tiroir tant l'accusation portée était peu amène.\n\nAvec *L'autre fille*, missive adressée à sa sœur aînée, morte avant sa naissance, Annie Ernaux inaugure brillamment le concept, fidèle à son écriture tranchante et analytique. Rejetant le terme d'autofiction, l'écrivain se dit fasciné par la réalité, partant à la recherche d'une vérité sur une mort que ses parents lui ont toujours cachée. En demandant à des auteurs de se libérer d'un vieux tourment, la collection souhaite réhabiliter un genre littéraire oublié.",
         "query": "À quel résultat la participation à cette collection conduit-elle Annie Ernaux ?",
         "options": [
-            "À s'acquitter d’un engagement moral.",
-            "À s'affranchir d’une histoire ancienne.",
-            "À se défaire d’un sentiment de culpabilité.",
-            "À se justifier d’une action peu glorieuse."
+            "À s'acquitter d'un engagement moral.",
+            "À s'affranchir d'une histoire ancienne.",
+            "À se défaire d'un sentiment de culpabilité.",
+            "À se justifier d'une action peu glorieuse."
         ],
         "answer": 1
     },
@@ -496,7 +496,7 @@
     {
         "id": 39,
         "testId": 157,
-        "text": "## Depuis l'adolescence, je fréquente assidûment les dictionnaires.\n\nChaque fois que je bute sur un mot, que je suis dans le flou culturel, ils m'apportent la réponse et ouvrent de nouveaux horizons à ma curiosité en me renvoyant souvent à d'autres ouvrages. J'en possède une centaine et chacun est une bibliothèque à lui seul. Tous sont autant de béquilles de ma culture. Par exemple, quand vous cherchez le mot juste, rien de tel qu'un dictionnaire des synonymes! On ouvre un dictionnaire pour se renseigner sur une question précise comme on lirait la notice d'un produit pharmaceutique destiné à soigner ceci ou cela. C'est le self-service de la pensée!\n\n<br/>Jean-Claude Simoën, éditeur",
+        "text": "## Depuis l'adolescence, je fréquente assidûment les dictionnaires.\n\nChaque fois que je bute sur un mot, que je suis dans le flou culturel, ils m'apportent la réponse et ouvrent de nouveaux horizons à ma curiosité en me renvoyant souvent à d'autres ouvrages. J'en possède une centaine et chacun est une bibliothèque à lui seul. Tous sont autant de béquilles de ma culture. Par exemple, quand vous cherchez le mot juste, rien de tel qu'un dictionnaire des synonymes! On ouvre un dictionnaire pour se renseigner sur une question précise comme on lirait la notice d'un produit pharmaceutique destiné à soigner ceci ou cela. C'est le self-service de la pensée!\n\n<br/>Jean-Claude Simoën, éditeur.",
         "query": "Pourquoi Jean-Claude Simoën aime-t-il les dictionnaires?",
         "options": [
             "Pour découvrir de nouvelles références.",

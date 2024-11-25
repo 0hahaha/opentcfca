@@ -47,7 +47,7 @@
             "D'aller à un concert.",
             "D'organiser un voyage.",
             "De déjeuner chez lui.",
-            "De garder les enfants."
+            "De garder ses enfants."
         ],
         "answer": 2
     },
@@ -67,10 +67,10 @@
     {
         "id": 6,
         "testId": 179,
-        "text": "De : cannelle@lilo.com\n\nÀ : Elke@mail.com\n\n<br/>Salut Elke,\n\nC'est bientôt la fête de nos 20 ans de mariage ! Beaucoup d'invités viendront avec leurs enfants. Comme tu adores les petits, pourrais-tu t'occuper d'eux en journée ? Quand ils seront couchés, nous pourrons danser tous ensemble !\n\nMerci, bisous.\n\nCannelle.",
+        "text": "De : cannelle@lilo.com\n\nÀ : Elke@mail.com\n\n<br/>Salut Elke,\n\nC'est bientôt la fête de nos 20 ans de mariage ! Beaucoup d'invités viendront avec leurs enfants. Comme tu adores les petits, pourrais-tu t'occuper d'eux en journée ? Quand ils seront couchés, nous pourrons danser tous ensemble !\n\nMerci, bisous.\n\nCannelle",
         "query": "Que demande Cannelle à son amie ?",
         "options": [
-            "D'écrire aux invites.",
+            "D'écrire aux invités.",
             "D'organiser la fête.",
             "De garder des enfants.",
             "De préparer des danses."
@@ -119,11 +119,11 @@
     {
         "id": 10,
         "testId": 179,
-        "text": "La commune de Saint-Brieuc participe au concours Europan sur le thème « De la gare à la mer». De jeunes architectes ont imaginé la ville de demain, avec de nouveaux espaces publics, un meilleur partage de l'espace entre piétons, vélos et véhicules. Les gagnants présenteront leur projet aux habitants qui choisirent le plus intéressant.",
+        "text": "La commune de Saint-Brieuc participe au concours Europan sur le thème « De la gare à la mer ». De jeunes architectes ont imaginé la ville de demain, avec de nouveaux espaces publics, un meilleur partage de l'espace entre piétons, vélos et véhicules. Les gagnants présenteront leur projet aux habitants qui choisiront le plus intéressant.",
         "query": "Quel est le but du concours Europan ?",
         "options": [
             "Dessiner des bâtiments publics originaux.",
-            "Donner le gout du voyage aux habitants.",
+            "Donner le goût du voyage aux habitants.",
             "Inventer une ville facile à vivre pour tous.",
             "Prévoir de nouveaux moyens de transport."
         ],
@@ -171,7 +171,7 @@
     {
         "id": 14,
         "testId": 179,
-        "text": "Un projet surprenant : José, 13 ans, a gagné le Prix du Climat l'an dernier. Il a imaginé une banque écologique dans son pays. Si chaque mois, un enfant ramasse une certaine quantité de déchets ( plastique, carton...), on lui donne une monnaie qu'il peut échanger contre de l'argent réel.",
+        "text": "Un projet surprenant : José, 13 ans, a gagné le Prix du Climat l'an dernier. Il a imaginé une banque écologique dans son pays. Si chaque mois, un enfant ramasse une certaine quantité de déchets (plastique, carton...), on lui donne une monnaie qu'il peut échanger contre de l'argent réel.",
         "query": "De quoi parle cet article ?",
         "options": [
             "D'une banque pour les mineurs.",
@@ -210,13 +210,13 @@
     {
         "id": 17,
         "testId": 179,
-        "text": "# <p style=\"text-align: center;\">Félicitations !</p>\n\n<p style=\"text-align: center;\">Vous avez gagné <br/> une carte cadeau de 50 €. <br/> Vous pouvez l'utiliser pour acheter <br/> tous nos produits de beauté. <br/> Attention, vous ne pouvez pas <br/> l'échanger contre de l'argent ou la <br/> donner à une autre personne. Si vous <br/> la perdrez, vous n'êtes pas remboursé.</p>",
+        "text": "# <p style=\"text-align: center;\">FÉLICITATIONS !</p>\n\n<p style=\"text-align: center;\">Vous avez gagné <br/> une carte cadeau de 50 €. <br/> Vous pouvez l'utiliser pour acheter <br/> tous nos produits de beauté. <br/> Attention, vous ne pouvez pas <br/> l'échanger contre de l'argent ou la <br/> donner à une autre personne. Si vous <br/> la perdez, vous n'êtes pas remboursé.</p>",
         "query": "Qu'est-ce qu'on peut faire avec cette carte ?",
         "options": [
-            "Avoirs des réductions sur certains articles.",
+            "Avoir des réductions sur certains articles.",
             "Faire des courses dans un magasin.",
             "Offrir une surprise pour un anniversaire.",
-            "Retirer de l'argent a un distributeur."
+            "Retirer de l'argent à un distributeur."
         ],
         "answer": 1
     },
@@ -236,24 +236,24 @@
     {
         "id": 19,
         "testId": 179,
-        "text": "## <p style=\"padding: 15px; color: white; background: #222222;\">PÉDAGOGIE<p>\n\nTwitter dès l'école primaire, pour donner le goût d'écrire, de lire et de l'orthographe. Un instituteur raconte :\n\n*« J'utilise Twitter dans ma classe depuis un an. Les productions d'élèves sont de plus en plus intéressantes. Grâce à Twitter, je peux approfondir les notions de façon concrète.*\n\n*Les activités scolaires paraissent artificielles, hors contexte voire dénuées de sens. Pourquoi essayer de maîtriser l'écriture ? Les enfants n'y songent même pas, car leurs travaux sont cantonnés à des cahiers, eux-mêmes enfermés dans des casiers ou des cartables. Ils n'ont pas l'occasion de partager leurs productions, de les confronter, d'argumenter leurs choix. »*",
-        "query": "D’après cet article, qu'apporte l’utilisation de Twitter aux élèves ?",
+        "text": "## <p style=\"padding: 15px; color: white; background: #222222;\">PÉDAGOGIE<p>\n\nTwitter dès l'école primaire, pour donner le goût d'écrire, de lire et de l'orthographe. Un instituteur raconte :\n\n*« J'utilise Twitter dans ma classe depuis un an. Les productions d'élèves sont de plus en plus intéressantes. Grâce à Twitter, je peux approfondir les notions de façon concrète.*\n\n*Les activités scolaires paraissent artificielles, hors contexte voire dénuées de sens. Pourquoi essayer de maîtriser l'écriture ? Les enfants n'y songent même pas car leurs travaux sont cantonnés à des cahiers, eux-mêmes enfermés dans des casiers ou des cartables. Ils n'ont pas l'occasion de partager leurs productions, de les confronter, d'argumenter leurs choix. »*",
+        "query": "D'après cet article, qu'apporte l'utilisation de Twitter aux élèves ?",
         "options": [
             "Ils apprennent à se servir correctement des réseaux sociaux.",
-            "Ils communiquent plus facilement avec l’instituteur.",
+            "Ils communiquent plus facilement avec l'instituteur.",
             "Ils comprennent mieux l'intérêt des apprentissages proposés.",
-            "Ils sont attentifs après un moment de détente."
+            "Ils sont plus attentifs après un moment de détente."
         ],
         "answer": 2
     },
     {
         "id": 20,
         "testId": 179,
-        "text": "*Dora Bruder*, publié en 1997, est considéré comme l'un des meilleurs romans de Patrick Modiano. L'écrivain aime fouiller l'histoire de la capitale et fréquente de nombreuses bibliothèques. Un jour, il tombe sur une annonce parue le 31 décembre 1941 dans Paris-soir :\n\n>« On recherche une jeune fille, Dora Bruder, 15 ans, 1m 55, visage ovale, yeux gris marron, manteau sport gris. Adresser toute indication à M. et Mme Bruder, 41, boulevard Ornano, Paris ».\n\nModiano va alors s'attacher à lever le mystère de cette disparition en entraînant le lecteur dans les rues du 18<sup>e</sup> arrondissement.",
+        "text": "*Dora Bruder*, publié en 1997, est considéré comme l'un des meilleurs romans de Patrick Modiano. L'écrivain aime fouiller l'histoire de la capitale et fréquente de nombreuses bibliothèques. Un jour, il tombe sur une annonce parue le 31 décembre 1941 dans Paris-soir :\n\n>« On recherche une jeune fille, Dora Bruder, 15 ans, 1m 55, visage ovale, yeux gris marron, manteau sport gris. Adresser toute indication à M. et Mme Bruder, 41, boulevard Ornano, Paris .»\n\nModiano va alors s'attacher à lever le mystère de cette disparition en entraînant le lecteur dans les rues du 18<sup>e</sup> arrondissement.",
         "query": "Que fait le journaliste dans cet extrait ?",
         "options": [
             "Il cite un extrait d'une œuvre de Modiano.",
-            "Il explique l’idée de départ d’un livre de Modiano.",
+            "Il explique l'idée de départ d'un livre de Modiano.",
             "Il présente le métier de Modiano à ses débuts.",
             "Il raconte la rencontre entre Modiano et sa femme."
         ],
@@ -279,11 +279,11 @@
         "query": "Quel est le paradoxe évoqué à propos des consommateurs ?",
         "options": [
             "Acheter les meilleurs produits et dépenser le moins possible.",
-            "Avoir la garantie de la qualité du produit.",
+            "Avoir la garantie de la qualité du produit et ignorer d'où il vient.",
             "Être amateur de viande et militer pour le bien-être animal.",
             "Privilégier les aliments bio et avoir du mal à s’en procurer."
         ],
-        "answer": 2
+        "answer": 1
     },
     {
         "id": 23,
@@ -366,7 +366,7 @@
     {
         "id": 29,
         "testId": 179,
-        "text": "Durant les investigations journalistiques, le recours à la caméra cachée est de plus en plus fréquent. Mais souvent, son utilisation n'est aussi qu'un cache-misère, un moyen de compenser l'absence d'informations dans les reportages, de remplir le vide par des scènes un peu spectaculaires. C'est une manière pour certains aussi de faire des économies. Par ailleurs, cette pratique pose une autre question celle du statut de la personne filmée à son insu. La filmer en caméra cachée, n'est-ce pas supposer qu'elle a quelque chose à se reprocher avant d'avoir commencé à parler?",
+        "text": "Durant les investigations journalistiques, le recours à la caméra cachée est de plus en plus fréquent. Mais souvent, son utilisation n'est aussi qu'un cache-misère, un moyen de compenser l'absence d'informations dans les reportages, de remplir le vide par des scènes un peu spectaculaires. C'est une manière pour certains aussi de faire des économies. Par ailleurs, cette pratique pose une autre question : celle du statut de la personne filmée à son insu. La filmer en caméra cachée, n'est-ce pas supposer qu'elle a quelque chose à se reprocher avant d'avoir commencé à parler ?",
         "query": "D'après ce texte, pourquoi les journalistes utilisent-ils des caméras cachées ?",
         "options": [
             "Pour améliorer la qualité des documentaires.",
@@ -392,8 +392,8 @@
     {
         "id": 31,
         "testId": 179,
-        "text": "Les chutes d'attention et le relâchement musculaire signalent un besoin des plus naturels : dormir. Interrompre sa journée pour ce moment réparateur, c'est compenser les nuits trop courtes et éviter que ce manque de sommeil ne grignote la santé physique et mentale.\n\nMais pourquoi ce remède ancestral est-il à ce point sous-estimé ? En fait, la sieste n'est pas tant incomprise que redoutée. En effet, travailler exige de répondre à des impératifs extérieurs parfois au détriment des besoins intérieurs ou physiologiques et faire la sieste devient une transgression. Rituel de l'été, le petit somme reste inacceptable au travail où le maître mot est la productivité et pourtant, en aidant à rétablir l'équilibre physique, ne pourrait-il pas y contribuer ?",
-        "query": "Que suggère l’auteur au sujet de la sieste ?",
+        "text": "Les chutes d'attention et le relâchement musculaire signalent un besoin des plus naturels : dormir. Interrompre sa journée pour ce moment réparateur, c'est compenser les nuits trop courtes et éviter que ce manque de sommeil ne grignote la santé physique et mentale.\n\nMais pourquoi ce remède ancestral est-il à ce point sous-estimé ? En fait, la sieste n'est pas tant incomprise que redoutée. En effet, travailler exige de répondre à des impératifs extérieurs parfois au détriment des besoins intérieurs ou physiologiques et faire la sieste devient une transgression.\n\nRituel de l'été, le petit somme reste inacceptable au travail où le maître mot est la productivité et pourtant, en aidant à rétablir l'équilibre physique, ne pourrait-il pas y contribuer ?\n\n<br/><p style=\"text-align: right;\">D'après <i>libration.fr</i></p>",
+        "query": "Que suggère l'auteur au sujet de la sieste ?",
         "options": [
             "Elle devrait être réservée aux périodes de congés.",
             "Elle est préconisée par la médecine.",
@@ -405,7 +405,7 @@
     {
         "id": 32,
         "testId": 179,
-        "text": "## Théâtre\n\n---\nJoël Pommerat nous offre un très court spectacle dont à la fois la pureté formelle et le sens nous ont conquis. Le matériau en est constitué par une série de rencontres, auxquelles lui-même et son équipe assistèrent, entre des travailleurs sociaux et des femmes d'origine simple, vivant en cité, et en proie à des problèmes familiaux. De ces confidences relatives aux tensions qu'elles connaissent dans leurs rapports, soit avec leur parents, soit avec leurs enfants. Pommerat a tiré une suite de brèves séquences qui composent une tragédie intense de la souffrance familiale, et particulièrement de la souffrance de la femme. Son regard sur la détresse humaine est d'une bienveillance et d'une tendresse infinies. Il ne nous livre aucun message moral et à peine un message social: il fait simplement appel à notre sensibilité.",
+        "text": "## Théâtre\n\n---\nJoël Pommerat nous offre un très court spectacle dont à la fois la pureté formelle et le sens nous ont conquis. Le matériau en est constitué par une série de rencontres, auxquelles lui-même et son équipe assistèrent, entre des travailleurs sociaux et des femmes d'origine simple, vivant en cité, et en proie à des problèmes familiaux. De ces confidences relatives aux tensions qu'elles connaissent dans leurs rapports, soit avec leurs parents, soit avec leurs enfants. Pommerat a tiré une suite de brèves séquences qui composent une tragédie intense de la souffrance familiale, et particulièrement de la souffrance de la femme. Son regard sur la détresse humaine est d'une bienveillance et d'une tendresse infinies. Il ne nous livre aucun message moral et à peine un message social: il fait simplement appel à notre sensibilité.",
         "query": "Dans quel objectif Joël Pommerat a-t-il créé son spectacle?",
         "options": [
             "Aider les femmes à se battre pour améliorer leur situation familiale.",
@@ -421,7 +421,7 @@
         "text": "Il est important d'alimenter l'imagination des enfants. Dans cette perspective, les matériaux les moins finis sont plus intéressants que les jouets sophistiqués, car ils laissent à l'enfant l'espace nécessaire pour tenter de les transformer et pour développer ses capacités créatives. Il importe également de tenir compte du caractère de chaque enfant. Certains sont entreprenants, d'autres plus contemplatifs. Cela ne signifie pas qu'ils ont un monde intérieur moins riche, mais que leur créativité s'exprime davantage dans la rêverie que dans l'action. Alimenter l'imagination des enfants, c'est leur ménager des moments d'ennui où ils auront à se remplir de leur inspiration.",
         "query": "Selon cet article, que faut-il faire pour stimuler l'imagination des enfants ?",
         "options": [
-            "Leur donner le gout de l’observation.",
+            "Leur donner le goût de l'observation.",
             "Leur permettre d'inventer des activités.",
             "Leur procurer des jeux éducatifs.",
             "Leur proposer des énigmes à résoudre."
@@ -444,7 +444,7 @@
     {
         "id": 35,
         "testId": 179,
-        "text": "L'homme est de noir vêtu. Son crâne, nu, joue avec la lumière. Tout est dit, tout est là, dans ce jeu d'ombre et de clarté qui fait d'un bâtisseur un poète. Jean Nouvel façonne le mystère pour insuffler du vivant aux édifices au cœur de pierre et bâtit sans dénaturer. Cet architecte éclairé n'érige rien, il convie cette émotion, suscite une apparition pour sa dernière création, l'œil découvre une ville-musée aux formes douces, un dôme qui semble né des mains d'une dentellière. Le dôme repose sur quatre piliers pour gagner en légèreté et s'allier au paysage, trait d'union avec les nuages.",
+        "text": "L'homme est de noir vêtu. Son crône, nu, joue avec la lumière. Tout est dit, tout est là, dans ce jeu d'ombre et de clarté qui fait d'un bâtisseur un poète. Jean Nouvel façonne le mystère pour insuffler du vivant aux édifices au cœur de pierre et bâtit sans dénaturer. Cet architecte éclairé n'érige rien, il convie cette émotion, suscite une apparition. Pour sa dernière création, l'œil découvre une ville-musée aux formes douces, un dôme qui semble né des mains d'une dentellière. Le dôme repose sur quatre piliers pour gagner en légèreté et s'allier au paysage, trait d'union avec les nuages.",
         "query": "Quelle particularité de Jean Nouvel est louée dans cet article ?",
         "options": [
             "Sa technique puise dans divers mouvements artistiques.",
@@ -457,11 +457,11 @@
     {
         "id": 36,
         "testId": 179,
-        "text": "Imaginez un instant que nos espaces de travail soient inadaptés à la moitié des salariés : vous trouveriez cela pour le moins troublant, voire inacceptable. C'est pourtant le cas pour les personnes introverties qui, selon des recherches, représentent entre un tiers et la moitié de la population mondiale. Travail de groupe, réseaux sociaux, « open space » : l'économie moderne exige d'interagir, faisant de l'aisance en public un avantage non négligeable dans le milieu professionnel. Les cultures d'entreprises qui mettent constamment en avant les échanges avec autrui finissent par dévaloriser l'identité des introvertis dont les capacités ne sont pas suffisamment sollicitées.",
-        "query": "Que dénonce l’auteur de cet article ?",
+        "text": "Imaginez un instant que nos espaces de travail soient inadaptés à la moitié des salariés : vous trouveriez cela pour le moins troublant, voire inacceptable. C'est pourtant le cas pour les personnes introverties qui, selon des recherches, représentent entre un tiers et la moitié de la population mondiale. Travail de groupe, réseaux sociaux, « open space » : l'économie moderne exige d'interagir, faisant de l'aisance en public un avantage non négligeable dans le milieu professionnel. Les cultures d'entreprises qui mettent constamment en avant les échanges avec autrui finissent par dévaloriser l'identité des introvertis dont les capacités ne sont pas suffisamment sollicitées.\n\nD'après actualites-du-jour.eu",
+        "query": "Que dénonce l'auteur de cet article ?",
         "options": [
-            "La primauté de l’apparence sur les compétences.",
-            "Le corporatisme pousse de certaines sociétés.",
+            "La primauté de l'apparence sur les compétences.",
+            "Le corporatisme poussé de certaines sociétés.",
             "Le manque de formation aux nouvelles technologies.",
             "Les principes actuels d'organisation du travail."
         ],

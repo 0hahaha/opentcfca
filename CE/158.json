@@ -81,7 +81,7 @@
         "id": 7,
         "testId": 158,
         "text": "## <p style=\"text-align: center; font-size: x-large; line-height: 170%; background: #1d1d1d; color: white; padding: 10px; margin: 0 100px;\">GRANDE MARCHE POUR <br/> DÉFENDRE NOS EMPLOIS <br/> MARDI 12 JUIN</p>\n\n# <p style=\"text-align: center;\">VENEZ NOMBREUX !</p>\n\n<p style=\"text-align: center; font-size: x-large; line-height: 150%; background: #1d1d1d; color: white; padding: 20px; margin: 0 100px;\"></p>\n\n<br/><p style=\"text-align: center; font-size: large; line-height: 170%; font-weight: bold;\">DÉPART PLACE DES NATIONS DEVANT <br/> LE CENTRE DES CONGRES À 10 H. <br/> ARRIVÉE PRÉVUE VERS MIDI DEVANT <br/> LA MAISON DES ENTREPRISES. <br/> BOULEVARD DES PLATANES.</p>",
-        "query": "Qu’annonce cette affiche ?",
+        "query": "Qu'annonce cette affiche ?",
         "options": [
             "Un salon des entrepreneurs.",
             "Une compétition sportive.",
@@ -353,7 +353,7 @@
     {
         "id": 28,
         "testId": 158,
-        "text": "## <p style=\"text-align: center;\">DRAGONS CHINOIS À PARIS</p>\n\nC'est avec enthousiasme que le départ des festivités pour célébrer le Nouvel An chinois a été donné hier à 14 h 30 sur la place de l'Hôtel de Ville. Devant une foule joyeuse, éclairés par de petites lumières rouges, les dragons et les tigres ont commencé leurs danse rythmée par les tambours. Si vous avez manqué ce défilé coloré, vous pourrez toujours vous rattraper aujourd'hui, car il y en a un autre de prévu à 11 h 30 au métro Belleville.\n\n<br/>D'après <i>Le Parisien</i>",
+        "text": "## <p style=\"text-align: center;\">DRAGONS CHINOIS À PARIS</p>\n\nC'est avec enthousiasme que le départ des festivités pour célébrer le Nouvel An chinois a été donné hier à 14 h 30 sur la place de l'Hôtel de Ville. Devant une foule joyeuse, éclairés par de petites lumières rouges, les dragons et les tigres ont commencé leur danse rythmée par les tambours. Si vous avez manqué ce défilé coloré, vous pourrez toujours vous rattraper aujourd'hui, car il y en a un autre de prévu à 11 h 30 au métro Belleville.\n\n<br/>D'après <i>Le Parisien</i>",
         "query": "Qu'a-t-on pu voir place de l'Hôtel de Ville ?",
         "options": [
             "Un marché traditionnel.",
@@ -418,7 +418,7 @@
     {
         "id": 33,
         "testId": 158,
-        "text": "Plutôt que de multiplier les tests et les mises en situation, certaines entreprises choisissent de déléguer la responsabilité du recrutement.. à leurs salariés ! « *Personnellement, je suis très favorable à la cooptation, affirme ce responsable. Si vous avez un bon élément dans votre équipe, vous avez une excellente chance qu'il vous amène un autre bon élément, ça permet de limiter les risques.* » Signe des temps, la « cooptation » est aujourd'hui acceptée et revendiquée par tous. Dans certaines entreprises, elle est même encouragée par une prime : 4 000 euros sont versés à tout employé ayant recommandé un candidat recruté à son tour.",
+        "text": "Plutôt que de multiplier les tests et les mises en situation, certaines entreprises choisissent de déléguer la responsabilité du recrutement... à leurs salariés ! « *Personnellement, je suis très favorable à la cooptation, affirme ce responsable. Si vous avez un bon élément dans votre équipe, vous avez une excellente chance qu'il vous amène un autre bon élément, ça permet de limiter les risques.* » Signe des temps, la « cooptation » est aujourd'hui acceptée et revendiquée par tous. Dans certaines entreprises, elle est même encouragée par une prime : 4 000 euros sont versés à tout employé ayant recommandé un candidat recruté à son tour.",
         "query": "En adoptant la cooptation pour le recrutement, que recherchent les entreprises?",
         "options": [
             "À gagner du temps.",
@@ -431,11 +431,11 @@
     {
         "id": 34,
         "testId": 158,
-        "text": "Un cabinet de conseil en énergie annonce que des coupures de courant sont à prévoir cet hiver dans l'hexagone. En effet, l'Allemagne, qui approvisionne la France en électricité, ne sera plus capable de faire face à la demande en raison de la fermeture de certains de ses réacteurs nucléaires. Le gouvernement pourrait appeler au « civisme » des Français, leur demandant de modérer la consommation électrique des foyers, qui atteignent des pics quotidiens autour de 19h, Pourtant, la France possède l'un des plus grands parcs nucléaires du monde, mais elle exporte la Quasi-totalité de l'énergie produite.\n\n<br/>D'après <i>www.geo.fr</i>",
+        "text": "Un cabinet de conseil en énergie annonce que des coupures de courant sont à prévoir cet hiver dans l'Hexagone. En effet, l'Allemagne, qui approvisionne la France en électricité, ne sera plus capable de faire face à la demande en raison de la fermeture de certains de ses réacteurs nucléaires. Le gouvernement pourrait appeler au « civisme » des Français, leur demandant de modérer la consommation électrique des foyers, qui atteint des pics quotidiens autour de 19 h. Pourtant, la France possède l'un des plus grands parcs nucléaires du monde, mais elle exporte la quasi totalité de l'énergie produite.\n\n<br/>D'après <i>www.geo.fr</i>",
         "query": "Pourquoi y a-t-il des risques de coupures de courant ?",
         "options": [
             "Parce que des tests sur les réacteurs nucléaires sont en cours.",
-            "Parce que l’approvisionnement en électricité est compromis.",
+            "Parce que l'approvisionnement en électricité est compromis.",
             "Parce que la production française couvre à peine les besoins nationaux.",
             "Parce que la régulation de la consommation d'énergie est inefficace."
         ],
@@ -447,7 +447,7 @@
         "text": "Sexistes, les jeux vidéo ? Peut-être que oui, peut-être que non. En tout cas, à parcourir les allées de la Paris Games Week, l'œil avisé aura lui-même bien du mal à trouver un personnage principal féminin de jeu vidéo. Il y a bien la célébrissime Lara Croft du jeu vidéo Tomb Raider, aux attributs particulièrement imposants, conçus presque sur mesure pour plaire à un certain nombre de joueurs masculins. Pour le reste, circulez, il n'y a - presque - rien d'autre à voir, si l'on balaye d'un coup de manette de jeu, au mieux, les princesses à sauver, au pire les calls girls de mafioso. Pourtant, l'industrie du jeu vidéo a pris conscience ces dernières années du potentiel du marché des joueuses.",
         "query": "Quel constat est dressé sur les jeux vidéo ?",
         "options": [
-            "La quasi-absence d’héroïnes.",
+            "La quasi-absence d'héroïnes.",
             "L'appel constant à la violence.",
             "L'atténuation des clichés.",
             "L'uniformité des scénarios."
@@ -463,7 +463,7 @@
             "Il permet d'apprendre à lire et à écrire de façon ludique.",
             "Il raconte les aventures d’un professeur d'histoire.",
             "Il ravive l'intérêt des littéraires pour les matières scientifiques.",
-            "I retrace l'improbable parcours de vie d'un ancien cancre."
+            "Il retrace l'improbable parcours de vie d'un ancien cancre."
         ],
         "answer": 3
     },

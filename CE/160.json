@@ -15,7 +15,7 @@
     {
         "id": 2,
         "testId": 160,
-        "text": "## <p style=\"text-align: center;\">Restaurant</p>\n\n# <p style=\"text-align: center;\">La bonne fourchette</p>\n\n### <br/><p style=\"margin: 0 100px; text-transform: uppercase;\">Formule légère <span style=\"float: right;\">9 €</span></p>\n\n<p style=\"margin: 0 120px;\">Salade au choix</p>\n\n### <p style=\"margin: 0 100px; text-transform: uppercase;\">Formule express <span style=\"float: right;\">12,50 €</span></p>\n\n<p style=\"margin: 0 120px;\">Plat du jour</p>\n\n### <p style=\"margin: 0 100px; text-transform: uppercase;\">Formule déjeuner <span style=\"float: right;\">16 €</span></p>\n\n<p style=\"margin: 0 120px;\">(1/2 eau minérale et café compris) <br/> Entrée + plate du jour <br/> &nbsp;&nbsp;ou <br/> Plat du jour + dessert</p>\n\n### <p style=\"margin: 0 100px; text-transform: uppercase;\">Formule plaisir <span style=\"float: right;\">20 €</span></p>\n\n<p style=\"margin: 0 120px;\">Entrée + plate du jour + dessert</p>",
+        "text": "## <p style=\"text-align: center;\">Restaurant</p>\n\n# <p style=\"text-align: center;\">La bonne fourchette</p>\n\n### <br/><p style=\"margin: 0 100px; text-transform: uppercase;\">Formule légère <span style=\"float: right;\">9 €</span></p>\n\n<p style=\"margin: 0 120px;\">Salade au choix</p>\n\n### <p style=\"margin: 0 100px; text-transform: uppercase;\">Formule express <span style=\"float: right;\">12,50 €</span></p>\n\n<p style=\"margin: 0 120px;\">Plat du jour</p>\n\n### <p style=\"margin: 0 100px; text-transform: uppercase;\">Formule déjeuner <span style=\"float: right;\">16 €</span></p>\n\n<p style=\"margin: 0 120px;\">(1/2 eau minérale et café compris) <br/> Entrée + plat du jour <br/> &nbsp;&nbsp;ou <br/> Plat du jour + dessert</p>\n\n### <p style=\"margin: 0 100px; text-transform: uppercase;\">Formule plaisir <span style=\"float: right;\">20 €</span></p>\n\n<p style=\"margin: 0 120px;\">Entrée + plat du jour + dessert</p>",
         "query": "Combien coûte la formule avec boisson ?",
         "options": [
             "9 euros.",
@@ -41,7 +41,7 @@
     {
         "id": 4,
         "testId": 160,
-        "text": "La comédienne franco-suisse Pascale Rocard part tourner un film à Paris. Actrice et réalisatrice à succès, elle est aussi peintre et photographie. Mère de deux enfants, elle vit à Verbier en Suisse.",
+        "text": "La comédienne franco-suisse Pascale Rocard part tourner un film à Paris. Actrice et réalisatrice à succès, elle est aussi peintre et photographe. Mère de deux enfants, elle vit à Verbier en Suisse.",
         "query": "Que va faire Pascale Rocard ?",
         "options": [
             "Avoir un bébé.",
@@ -93,7 +93,7 @@
     {
         "id": 8,
         "testId": 160,
-        "text": "Chers professeurs, <br/> Chers étudiants,\n\n<br/>Venez rencontrer les nouveaux étudiants de la semaine !\n\n<br/>Ce mardi, de 8 h 30 à 10 h 30. <br/> Rendez-vous salle « Les Mimosas »\n\n<br/>J. Lebon, directrice <br/> École de longues ABC.",
+        "text": "Chers professeurs, <br/> Chers étudiants,\n\n<br/>Venez rencontrer les nouveaux étudiants de la semaine !\n\n<br/>Ce mardi, de 8 h 30 à 10 h 30. <br/> Rendez-vous salle « Les Mimosas »\n\n<br/>J. Lebon, directrice <br/> École de langues ABC.",
         "query": "Pourquoi Madame Lebon écrit-elle cette annonce ?",
         "options": [
             "Pour changer un horaire.",
@@ -123,7 +123,7 @@
         "query": "Quelle information est donnée au sujet de la piscine ?",
         "options": [
             "Elle sera fermée au mois de mars.",
-            "Il y aura des travaux à l'extérieur.",
+            "Il y aura des travaux à l'intérieur.",
             "L'entrée se fera par une autre porte.",
             "Le service municipal réparera les lieux."
         ],
@@ -145,7 +145,7 @@
     {
         "id": 12,
         "testId": 160,
-        "text": "La semaine dernière, les écoles de commerce ont organisé leur traditionnel rendez-vous « Avenir jeunesse ». Comme tous les ans, son objectif a été de favoriser la rencontre entre les entreprises qui recrutent et les élèves. Ces derniers ont pu se renseigner sur les différents secteurs d'activité et déposer leur candidature pour les postes qui les intéressent. Des ateliers conseil étaient animés par des professionnels.",
+        "text": "La semaine dernière, les écoles de commerce ont organisé leur traditionnel rendez-vous « Avenir Jeunesse ». Comme tous les ans, son objectif a été de favoriser la rencontre entre les entreprises qui recrutent et les élèves. Ces derniers ont pu se renseigner sur les différents secteurs d'activité et déposer leur candidature pour les postes qui les intéressent. Des ateliers conseil étaient animés par des professionnels.",
         "query": "Quel était le but de l'événement « Avenir jeunesse » ?",
         "options": [
             "Accueillir les étudiants étrangers.",
@@ -197,7 +197,7 @@
     {
         "id": 16,
         "testId": 160,
-        "text": "**<p style=\"padding: 0 120px;\">Pendant tout l'été, votre supermarché organise un concours gratuit pour gagner des milliers d'artistes : livres, places de spectacles pour enfant, diners au restaurant, entrées pour activités en plein air.</p>**\n\n**<p style=\"text-align: center;\">Complétez votre bulletin et envoyez-le à : <br/> special.ete@monsupermarche.com</p>**",
+        "text": "**<p style=\"padding: 0 120px;\">Pendant tout l'été, votre supermarché organise un concours gratuit pour gagner des milliers d'articles : livres, places de spectacles pour enfants, dîners au restaurant, entrées pour activités en plein air.</p>**\n\n**<p style=\"text-align: center;\">Complétez votre bulletin et envoyez-le à : <br/> special.ete@monsupermarche.com</p>**",
         "query": "Qu'est-ce que ce supermarché propose à ses clients ?",
         "options": [
             "Des promotions.",
@@ -372,7 +372,7 @@
             "Ce sont les violons récents qui sont les plus estimés.",
             "Il est difficile de maîtriser les violons anciens.",
             "La qualité des violons évolue avec le temps.",
-            "Voir le violon modifier l'appréciation de l'auditeur."
+            "Voir le violon modifie l'appréciation de l'auditeur."
         ],
         "answer": 0
     },
@@ -392,7 +392,7 @@
     {
         "id": 31,
         "testId": 160,
-        "text": "Ah ! Le bel été ! Par trente-cinq degrés à l'ombre, les enfants réclament le goûter après la baignade et coup de chance, le vendeur de Beigents se profile à l'horizon. Résultat : visite aux urgences car les beignets à la crème avait passé la journée au soleil. Des histoires comme celle-là circulent dans toutes les associations de consommateurs. La direction générale de la répression des fraudes dresse tout de même un bilan encourageant. Peu d'endroits publics échappent aux vérifications et les escroqueries ont diminué. Mais tout de même, en matière d'hygiène le bon sens du consommateur doit prévaloir et lui permettre de prévenir tout incident.",
+        "text": "Ah ! Le bel été ! Par trente-cinq degrés à l'ombre, les enfants réclament le goûter après la baignade et coup de chance, le vendeur de beignets se profile à l'horizon. Résultat : visite aux urgences car les beignets à la crème avait passé la journée au soleil. Des histoires comme celle-là circulent dans toutes les associations de consommateurs. La direction générale de la répression des fraudes dresse tout de même un bilan encourageant. Peu d'endroits publics échappent aux vérifications et les escroqueries ont diminué. Mais tout de même, en matière d'hygiène le bon sens du consommateur doit prévaloir et lui permettre de prévenir tout incident.",
         "query": "Selon la direction générale de la répression des fraudes...",
         "options": [
             "les problèmes liés à l'hygiène sont insolubles.",

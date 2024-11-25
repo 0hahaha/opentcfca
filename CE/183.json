@@ -184,7 +184,7 @@
     {
         "id": 15,
         "testId": 183,
-        "text": "Vous pensez qu'il est un peu fou de partir en bateau avec des enfants ? Clément, Marine et leurs deux filles de six et deux ans devraient vous inspirer. Tous les quatre ou à plusieurs familles, ils maintiennent le rythme d'une croisière par an. « Des vacances où on déconnecte à l'instant même où on pose le pied sur le pont », dit Clément. « Une vie en contact permanent avec la nature, l'océan, les côtes sauvages, les dauphins... » rajoute Marine.",
+        "text": "Vous pensez qu'il est un peu fou de partir en bateau avec des enfants ? Clément, Marine et leurs deux filles de six et deux ans devraient vous inspirer. Tous les quatre ou à plusieurs familles, ils maintiennent le rythme d'une croisière par an.\n\n« Des vacances où on déconnecte à l'instant même où on pose le pied sur le pont », dit Clément. « Une vie en contact permanent avec la nature, l'océan, les côtes sauvages, les dauphins... » rajoute Marine.",
         "query": "Selon Marine et Clément, que permettent des vacances en bateau ?",
         "options": [
             "De faire du sport et de rencontrer des personnes.",
@@ -249,11 +249,11 @@
     {
         "id": 20,
         "testId": 183,
-        "text": "En Provence et sur la Côte d'Azur, les campagnes sont jalonnées d'oliviers, d'orangers et autres pruniers dont les fruits ne sont jamais ramassés. À Grasse, l'association d'insertion Renouer a eu l'excellente idée de valoriser ces denrées pour s'auto-financer. Depuis 2012, la structure intervient dans les vergers de particuliers via des cueillettes dites solidaires. « Nous répertorions des parcelles laissées en friche et nous proposons aux propriétaires de ramasser les fruits à leur place » précise Sophie Allain, bénévole qui coordonne l'opération. Tous les ans, l'action mobilise entre 10 et 15 employés en insertion ainsi que des citoyens séduits par la dimension à la fois sociale et écologique de l'initiative.",
+        "text": "En Provence et sur la Côte d'Azur, les campagnes sont jalonnées d'oliviers, d'orangers et autres pruniers dont les fruits ne sont jamais ramassés. À Grasse, l'association d'insertion Renouer a eu l'excellente idée de valoriser ces denrées pour s'autofinancer. Depuis 2012, la structure intervient dans les vergers de particuliers via des cueillettes dites solidaires. « Nous répertorions des parcelles laissées en friche et nous proposons aux propriétaires de ramasser les fruits à leur place » précise Sophie Allain, bénévole qui coordonne l'opération. Tous les ans, l'action mobilise entre 10 et 15 employés en insertion ainsi que des citoyens séduits par la dimension à la fois sociale et écologique de l'initiative.",
         "query": "Quelle est l'activité de cette association ?",
         "options": [
             "Elle cultive des espaces verts abandonnés.",
-            "Elle réalise de petits services d'entretien.",
+            "Elle réalise des petits services d'entretien.",
             "Elle récolte les produits de terrains privés.",
             "Elle s'occupe de gérer des jardins collectifs."
         ],
@@ -483,7 +483,7 @@
     {
         "id": 38,
         "testId": 183,
-        "text": "Ça pourrait être une tragédie, avec les meilleurs ingrédients du genre : rencontres hasardeuses de personnages abîmés par un lourd passé, malheurs successifs et révélations inattendues... Sauf qu'entre le jeune pompier Roméo et l'infirmière Juliette victime de la cruauté de son compagnon, le chemin tracé par Agnès Ledig dans son roman Pars avec lui est plein de pudeur, riche de personnages ordinaires, mais surprenants, vrais, mais imprévisibles, dans une France provinciale qu'on décrit trop peu. Il y a chez eux une envie de dire, d'avouer ce qui fut trop longtemps caché. Ainsi l'histoire se fait-elle peu à peu libération et rédemption. Avec un art direct et familier de conteuse, l'auteure offre à ses personnages un espoir, un bonheur encore possible.",
+        "text": "Ça pourrait être une tragédie, avec les meilleurs ingrédients du genre : rencontres hasardeuses de personnages abîmés par un lourd passé, malheurs successifs et révélations inattendues... Sauf qu'entre le jeune pompier Roméo et l'infirmière Juliette victime de la cruauté de son compagnon, le chemin tracé par Agnès Ledig dans son roman « Pars avec lui » est plein de pudeur, riche de personnages ordinaires, mais surprenants, vrais, mais imprévisibles, dans une France provinciale qu'on décrit trop peu. Il y a chez eux une envie de dire, d'avouer ce qui fut trop longtemps caché. Ainsi l'histoire se fait-elle peu à peu libération et rédemption. Avec un art direct et familier de conteuse, l'auteure offre à ses personnages un espoir, un bonheur encore possible.",
         "query": "D'après la critique, quel est l'atout principal du roman d'Agnès Ledig ?",
         "options": [
             "L'alternance entre le comique et le drame.",

@@ -2,7 +2,7 @@
     {
         "id": 1,
         "testId": 152,
-        "text": "Chers Amis,\n\nNous sommes heureux de vous annoncer l'arrivée d'un nouveau membre dans notre famille. Il se nomme Adrien et a vu le jour le 1er septembre au matin.\n\nBien à vous.",
+        "text": "Chers Amis,\n\nNous sommes heureux de vous annoncer l'arrivée d'un nouveau membre dans notre famille. Il se nomme Adrien et a vu le jour le 1er septembre au matin.\n\n<br/><p style=\"text-align: right;\">Bien à vous,</p>\n\n<p style=\"text-align: right;\">Alina et Paul</p>",
         "query": "De quel événement s'agit-il ?",
         "options": [
             "D'un anniversaire.",
@@ -54,7 +54,7 @@
     {
         "id": 5,
         "testId": 152,
-        "text": "Une société de production RECHERCHE Pour faire de la FIGURATION dans un film sur le thème parents/enfants, de jeunes mères confrontées à l'éducation de leurs enfants.",
+        "text": "<p style=\"text-align: center; font-size: x-large; line-height: 150%; background: #e1e1e1;\">Une société de production <br/> RECHERCHE pour faire de la <br/> FIGURATION dans un film sur le <br/> thème parents/enfants, de <i>jeunes <br/> mères</i> confrontées à l'éducation de <br/> leurs enfants.</p>",
         "query": "Que recherche la société de production ?",
         "options": [
             "De jeunes enfants.",
@@ -85,7 +85,7 @@
         "options": [
             "Aller à un anniversaire.",
             "Dîner avec son amie.",
-            "Partir en Week-end.",
+            "Partir en week-end.",
             "Regarder des films."
         ],
         "answer": 3
@@ -93,7 +93,7 @@
     {
         "id": 8,
         "testId": 152,
-        "text": "***ÉCOLE FERRANDI***\n\nLes parents peuvent venir chercher leurs enfants après les cours du matin et du soir sauf si les enfants mangent à l'école ou s'ils font des activités après la classe.\n\nTous les enfants doivent avoir quitté l'école à 18h.\n\n***P. Guignoux***",
+        "text": "# <p style=\"text-align: center;\">ÉCOLE FERRANDI</p>\n\n<br/><p style=\"text-align: center; font-size: large; line-height: 150%;\">Les parents peuvent venir chercher <br/> leurs enfants après les cours du matin <br/> et du soir sauf si les enfants mangent à <br/> l'école ou s'ils font des activités après <br/> la classe. <br/><br/> Tous les enfants doivent avoir quitté <br/> l'école à 18h. <br/><br/> <b>P. Guignoux <br/>Directeur</b></p>",
         "query": "De quoi parle le directeur ?",
         "options": [
             "De l'inscription des élèves.",
@@ -106,7 +106,7 @@
     {
         "id": 9,
         "testId": 152,
-        "text": "Que puis-je dire de ce documentaire, moi qui pleure depuis tant d'années sur le manque de saveur de ce que le mange? Je me rappelle du bon goût des pêches et des abricots ! Je comprends mieux la majorité des agriculteurs : ils ne mangeraient pas ce qu'ils vendent, c'est fou! J'ai apprécié d'avoir le point de vue des différentes personnes concernées : agriculteurs, consommateurs, enseignants, cuisiniers",
+        "text": "Que puis-je dire de ce documentaire, moi qui pleure depuis tant d'années sur le manque de saveur de ce que je mange? Je me rappelle du bon goût des pêches et des abricots ! Je comprends mieux la majorité des agriculteurs : ils ne mangeraient pas ce qu'ils vendent, c'est fou! J'ai apprécié d'avoir le point de vue des différentes personnes concernées : agriculteurs, consommateurs, enseignants, cuisiniers.",
         "query": "Quel est le thème du documentaire ?",
         "options": [
             "L'alimentation.",
@@ -119,7 +119,7 @@
     {
         "id": 10,
         "testId": 152,
-        "text": "Partagez vos prises de vue (portraits, paysages, etc). Qui montrent que l'Europe fait partie de votre vie. Participez au concours « Europe en images »\n\n<u>***À Gagner***</u> : Un séjour à Bruxelles où un atelier cuisine.",
+        "text": "<p style=\"text-align: center; font-size: 80pt;\">🇪🇺</p>\n\n<br/><br/><p style=\"text-align: center; font-weight: bold; font-size: x-large; line-height: 150%; color: white; text-shadow: 2px 2px black, -2px -2px black, 2px -2px black, -2px 2px black, 0 0 5px black, 0 0 10px black, 0 0 10px black;\">Vous mangez italien, dansez le flamenco ou <br/> apprenez le suédois ?</p>\n\n<p style=\"text-align: center; font-size: x-large; line-height: 150%;\">Partagez vos prises de vue (portraits, paysages, etc.) <br/> qui montrent que l'Europe fait partie de votre vie. <br/>Participez au concours « Europe en images ».</p>\n\n<br/><p style=\"text-align: center; font-size: x-large; line-height: 150%;\"><span style=\"font-weight: bold; font-size: 30pt;color: white; text-shadow: 2px 2px black, -2px -2px black, 2px -2px black, -2px 2px black, 0 0 5px black, 0 0 10px black, 0 0 10px black;\">À GAGNER</span> : un séjour à Bruxelles où un <br/> atelier cuisine.</p>",
         "query": "Que propose ce concours ?",
         "options": [
             "D'envoyer des photos.",
@@ -132,7 +132,7 @@
     {
         "id": 11,
         "testId": 152,
-        "text": "L'école Jean Monnet organise sa « Journée Portes Ouvertes » samedi prochain, de 9h 00 à 16h 00. Tous les parents d'élèves sont invités. Ce sera l'occasion de rencontrer les professeurs et l'équipe administrative qui se tiennent prêts à répondre à vos questions.\n\n***<p style=\"text-align: right;\">La direction de l'école J. Monnet</p>***",
+        "text": "L'école Jean Monnet organise sa « **Journée Portes Ouvertes** » samedi prochain, de 9h 00 à 16h 00. Tous les parents d'élèves sont invités.\n\nCe sera l'occasion de rencontrer les professeurs et l'équipe administrative qui se tiennent prêts à répondre à vos questions.\n\n<br/>La direction de l'école J. Monnet",
         "query": "Que pourront faire les parents pendant cette journée ?",
         "options": [
             "Dialoguer avec le personnel enseignant.",
@@ -145,7 +145,7 @@
     {
         "id": 12,
         "testId": 152,
-        "text": "On savait déjà que le chocolat était bon pour la tension. Les scientifiques affirment maintenant « qu'une consommation de chocolat pourrait être une stratégie efficace de protection contre les rayons du soleil ». Pour cela, il n'est pas nécessaire de recouvrir son corps de cacao: d'après les chercheurs, il suffirait de consommer trois carrés par jour pour bénéficier des bienfaits du chocolat. Cela n'empêche pas de se protéger avec de la crème solaire et d'avoir une bonne alimentation",
+        "text": "On savait déjà que le chocolat était bon pour la tension. Les scientifiques affirment maintenant qu' « **une consommation de chocolat pourrait être une stratégie efficace de protection contre les rayons du soleil** ». Pour cela, il n'est pas nécessaire de recouvrir son corps de cacao: d'après les chercheurs, il suffirait de consommer trois carrés par jour pour bénéficier des bienfaits du chocolat. Cela n'empêche pas de se protéger avec de la crème solaire et d'avoir une bonne alimentation.",
         "query": "Que conseillent ces chercheurs pour se protéger du soleil ?",
         "options": [
             "D'utiliser des crèmes solaires à base de chocolat.",
@@ -171,11 +171,11 @@
     {
         "id": 14,
         "testId": 152,
-        "text": "« Avec un Master Commerce en poche, je ne pensais pas qu'il serait à ce point difficile de trouver mon premier emploi. Et pourtant... quel chemin semé d'embûches ! Tout le monde me disait « Ne t'inquiète pas, dans deux ou trois mois tu auras trouvé ! » Sept mois plus tard toujours rien en vue. À 26 ans, je me retrouve sans emploi, toujours chez mes parents. L'avenir ? Je le vois ailleurs, je prépare activement mon départ pour L'Angleterre.»\n\nAmandine n'est pas une exception chez les jeunes. Les diplômes ne suffisent plus à assurer une situation stable en France et beaucoup de jeunes décident de partir à l'étranger pour obtenir un emploi",
-        "query": "De quoi est-il dans cet article ?",
+        "text": "«Avec un Master Commerce en poche, je ne pensais pas qu'il serait à ce point difficile de trouver mon premier emploi. Et pourtant... quel chemin semé d'embûches! Tout le monde me disait \"Ne t'inquiète pas, dans deux ou trois mois tu auras trouvé!\" Sept mois plus tard toujours rien en vue. À 26 ans, je me retrouve sans emploi, toujours chez mes parents. L'avenir ? Je le vois ailleurs, je prépare activement mon départ pour l'Angleterre.»\n\n<br/>**Amandine n'est pas une exception chez les jeunes. Les diplômes ne suffisent plus à assurer une situation stable en France et beaucoup de jeunes décident de partir à l'étranger pour obtenir un emploi.**",
+        "query": "De quoi est-il question dans cet article ?",
         "options": [
-            "La difficulté de trouver un stage à étranger.",
-            "La nécessite de s’exiler pour pouvoir travailler.",
+            "La difficulté de trouver un stage à l'étranger.",
+            "La nécessité de s’exiler pour pouvoir travailler.",
             "Le manque de formation des jeunes diplômés.",
             "Le niveau trop faible des salaires proposés."
         ],
@@ -223,10 +223,10 @@
     {
         "id": 18,
         "testId": 152,
-        "text": "La question de l'orientation est fondamentale et se pose inévitablement au moment de commencer des études universitaires. Comment faire le bon choix ? Sur quelles bases ? Quel parcours sera le mieux adapté à la personnalité scolaire et psychologique, aux capacités de l'étudiant ? Un livre, édité par le magazine l'Étudiant, propose une démarche progressive qui aide à définir un projet en fonction des goûts et d'un objectif professionnel.",
+        "text": "La question de l'orientation est fondamentale et se pose inévitablement au moment de commencer des études universitaires. Comment faire le bon choix ? Sur quelles bases ? Quel parcours sera le mieux adapté à la personnalité scolaire et psychologique, aux capacités de l'étudiant ? Un livre, édité par le magazine *L'Étudiant*, propose une démarche progressive qui aide à définir un projet en fonction des goûts et d'un objectif professionnel.",
         "query": "Que peut-on trouver dans ce livre ?",
         "options": [
-            "Des idées de stages en entreprises.",
+            "Des idées de stages en entreprise.",
             "Un guide des démarches d'inscription.",
             "Une méthode pour choisir une formation.",
             "Une sélection des meilleures universités."
@@ -262,12 +262,12 @@
     {
         "id": 21,
         "testId": "152",
-        "text": "Les bons vieux banc verts sur les trottoirs parisiens ont de la concurrence. Depuis le mois de décembre, sur certains boulevards, un nouveau mobilier urbain a fait son apparition, avec 12 modèles de banquettes, chaises et tabourets. Pour la première fois, la ville de Paris recueille l’avis des usagers et des riverains. Le traditionnel banc en fonte et bois a-t-il encore de l’avenir au milieu de ce mobilier futuriste?",
-        "query": "Quelle est l’originalité de ce projet?",
+        "text": "Les bons vieux bancs verts sur les trottoirs parisiens ont de la concurrence. Depuis le mois de décembre, sur certains boulevards, un nouveau mobilier urbain a fait son apparition, avec 12 modèles de banquettes, chaises et tabourets. Pour la première fois, la Ville de Paris recueille l'avis des usagers et des riverains.\n\nLe traditionnel banc en fonte et bois a-t-il encore de l'avenir au milieu de ce mobilier futuriste ?",
+        "query": "Quelle est l'originalité de ce projet ?",
         "options": [
-            "La priorité donnée à l’aspect écologique",
-            "La Prise en compte de l'opinion publique.",
-            "Le caractère provisoire de l’installation.",
+            "La priorité donnée à l'aspect écologique.",
+            "La prise en compte de l'opinion publique.",
+            "Le caractère provisoire de l'installation.",
             "Le choix des matériaux de fabrication."
         ],
         "answer": 1
@@ -275,8 +275,8 @@
     {
         "id": 22,
         "testId": "152",
-        "text": "Le smartphone participe à l’entretien d’un lien pathologique de plus en plus répandu, le désir de mainmise des parents sur les adolescents. La crise d’adolescence confronte les parents au désir d’autonomie de l’adolescent, et les oblige à faire le deuil de leur position de parent. Cela suppose qu’ils lâchent prise et fassent confiance à leur enfant. Mais de plus en plus de parents souhaitent que leur ado reste à la maison. Le smartphone, qui permet de rester en lien avec ses copains, arrange donc les parents.",
-        "query": "Quel constat fait l’auteur à propos des smartphones?",
+        "text": "Le smartphone participe à l'entretien d'un lien pathologique de plus en plus répandu, le désir de mainmise des parents sur les adolescents. La crise d'adolescence confronte les parents au désir d'autonomie de l'adolescent, et les oblige à faire le deuil de leur position de parent. Cela suppose qu'ils lâchent prise et fassent confiance à leur enfant. Mais de plus en plus de parents souhaitent que leur ado reste à la maison. Le smartphone, qui permet de rester en lien avec ses copains, arrange donc les parents.\n\n<p style=\"text-align: right;\">D'après <i>lexpress.fr</i></p>",
+        "query": "Quel constat fait l'auteur à propos des smartphones ?",
         "options": [
             "Ils éloignent les jeunes du monde des adultes.",
             "Ils entraînent des comportements de type addictif.",
@@ -288,13 +288,13 @@
     {
         "id": 23,
         "testId": "152",
-        "text": "**<h3 style=\"text-align: center;\"><u>Les Art Premiers Au Musée.</u></h3>**\n\nSi cette renaissance sonne comme un cri de victoire, c’est qu’elle marque l’issue d’un combat idéaliste qui n’a fait d’autres victimes que l’arrogance et les préjugés. Le signal en fut donné par Guillaume Apollinaire en 1909: «le Louvre devrait recueillir certains chefs-d'œuvre exotiques dont l’aspect n’est pas moins émouvant que celui des beaux spécimens de la statuaire occidentale ». Près d’un siècle plus tard, le vœu du poète est enfin comblé: plus d’une centaine de sculptures primitives d’Afrique, d’Asie, d’Océanie et des Amériques, jusqu’alors confinées dans des réserves ethnographiques, prennent place dans le temple de l’Art, jusqu’alors réservé à l’Europe et à ses sources.",
+        "text": "## <p style=\"text-align: center;\">Les arts premiers au musée !</p>\n\nSi cette reconnaissance sonne comme un cri de victoire, c'est qu'il marque l'issue d'un combat idéaliste qui n'a fait d'autres victimes que l'arrogance et les préjugés. Le signal en fut donné par Guillaume Apollinaire en 1909 : « le Louvre devrait recueillir certains chefs-d'œuvre exotiques dont l'aspect n'est pas moins émouvant que celui des beaux spécimens de la statuaire occidentale ». Près d'un siècle plus tard, le vœu du poète est enfin comblé : plus d'une centaine de sculptures primitives d'Afrique, d'Asie, d'Océanie et des Amériques, jusqu'alors confinées dans des réserves ethnographiques, prennent place dans le temple de l'Art, jusqu'alors réservé à l'Europe et à ses sources.",
         "query": "Cet événement est présenté comme…",
         "options": [
-            "Le résultat d'une lutte menée par des gens orgueilleux et intolérants",
-            "Le triomphe d'une opinion émise par Apollinaire mais autrefois combattue",
-            "Un miracle dû à la persévérance des archéologues sur plusieurs continents.",
-            "La consécration des œuvres européennes jusqu'alors remisées dans les musées"
+            "le résultat d'une lutte menée par des gens orgueilleux et intolérants.",
+            "le triomphe d'une opinion émise par Apollinaire mais autrefois combattue.",
+            "un miracle dû à la persévérance des archéologues sur plusieurs continents.",
+            "la consécration des œuvres européennes jusqu'alors remisées dans les musées."
         ],
         "answer": 1
     },
@@ -327,8 +327,8 @@
     {
         "id": 26,
         "testId": "152",
-        "text": "Le rapport de l’Agence internationale de l’énergie se concentre sur les données de la dernière conférence climatique. Il contient une information intéressante: d’après l’agence, les réserves mondiales de gaz sont plus importantes que prévues. Le marché mondial serait même sous la menace d’un excédent massif, en raison de l’essor de la production américaine et d’une chute de la demande liée à la crise.",
-        "query": "Qu’a révélé le rapport de l’Agence internationale de l’énergie?",
+        "text": "Le rapport de l'Agence internationale de l'énergie se concentre sur les données de la dernière conférence climatique. Il contient une information intéressante : d'après l'agence, les réserves mondiales de gaz sont plus importantes que prévues. Le marché mondial serait même sous la menace d'un excédent massif, en raison de l'essor de la production américaine et d'une chute de la demande liée à la crise.",
+        "query": "Qu'a révélé le rapport de l'Agence internationale de l'énergie?",
         "options": [
             "La consommation de gaz dans le monde augmente.",
             "La demande croissante en gaz a des effets sur le climat.",
@@ -340,7 +340,7 @@
     {
         "id": 27,
         "testId": "152",
-        "text": "Une étude récente révèle que la concentration de déchets plastiques flottant à la surface du pacifique nord a été multipliée par cent en quarante ans.\n\nCe constat, émis par les pêcheurs en haute mer, est alarmant car cette pollution a des conséquences écologiques. La gigantesque plaque de déchets flottant sur l’océan Pacifique, épaisse par endroits de plusieurs dizaines de mètres, constitue un milieu favorable à la reproduction d’une espèce d’araignée d’eau. Cet insecte est en train de se multiplier dans le Pacifique nord. Si la densité des plastiques continue à augmenter, certaines espèces pourraient continuer à se multiplier, risquant de déséquilibrer l’écosystème du Pacifique.",
+        "text": "Une étude récente révèle que la concentration de déchets plastiques flottant à la surface du Pacifique nord a été multipliée par cent en quarante ans.\n\nCe constat, émis par les pêcheurs en haute mer, est alarmant car cette pollution a des conséquences écologiques. La gigantesque plaque de déchets flottant sur l'océan Pacifique, épaisse par endroits de plusieurs dizaines de mètres, constitue un milieu favorable à la reproduction d'une espèce d'araignée d'eau. Cet insecte est en train de se multiplier dans le Pacifique nord. Si la densité des plastiques continue à augmenter, certaines espèces pourraient continuer à se multiplier, risquant de déséquilibrer l'écosystème du Pacifique.",
         "query": "Quel danger représentent ces déchets?",
         "options": [
             "Un obstacle pour les bateaux de pêche.",
@@ -353,7 +353,7 @@
     {
         "id": 28,
         "testId": "152",
-        "text": "Avez-vous déjà observé des familles en train de remplir des sachets de bonbons sur un stand de confiserie? Un chercheur américain, a montré qu’elles en achètent plus quand les bonbons sont de couleurs différentes. De nombreuses observations similaires prouvent que les entreprises agroalimentaires connaissent nos comportements et la manière dont nous prenons certaines de nos décision. Par exemple, elles exploitent notre préférence innée pour le sucre, à tous les âges. Elles savent que l’éducation nutritionnelle des enfants et des jeunes est défaillante dans certaines familles et en profitent.",
+        "text": "Avez-vous déjà observé des familles en train de remplir des sachets de bonbons sur un stand de confiserie ? Un chercheur américain a montré qu'elles en achètent plus quand les bonbons sont de couleurs différentes. De nombreuses observations similaires prouvent que les entreprises agroalimentaires connaissent nos comportements et la manière dont nous prenons certaines de nos décisions. Par exemple, elles exploitent notre préférence innée pour le sucre, à tous les âges. Elles savent que l'éducation nutritionnelle des enfants et des jeunes est défaillante dans certaines familles et en profitent.",
         "query": "Que dénonce l’auteur de cet article?",
         "options": [
             "La manipulation des clients par les industriels.",
@@ -379,8 +379,8 @@
     {
         "id": 30,
         "testId": "152",
-        "text": "Parcourir les routes d’Europe l’été, beaucoup de touristes le font sans forcément connaître les règles en vigueur dans chacun des pays. Ce qu’il faut savoir, c’est qu’il existe des différences qui peuvent être notables selon les législations. Alors que la vitesse maximal sur autoroute est de 130km/h en France, elle n’est que de 120km/h en Belgique, en Espagne ou au Portugal. Quant au taux d’alcoolémie toléré, il varie de 0,8g/l en Irlande à zéro en République tchèque.",
-        "query": "Que fait l’auteur de cet article?",
+        "text": "Parcourir les routes d'Europe l'été, beaucoup de touristes le font sans forcément connaître les règles en vigueur dans chacun des pays. Ce qu'il faut savoir, c'est qu'il existe des différences qui peuvent être notables selon les législations. Alors que la vitesse maximale sur autoroute est de 130 km/h en France, elle n'est que de 120 km/h en Belgique, en Espagne ou au Portugal. Quant au taux d'alcoolémie toléré, il varie de 0,8 g/l en Irlande à zéro en République tchèque.",
+        "query": "Que fait l'auteur de cet article ?",
         "options": [
             "Il commente une loi.",
             "Il donne un conseil.",
@@ -392,8 +392,8 @@
     {
         "id": 31,
         "testId": "152",
-        "text": "On s’est habitué depuis belle lurette à ne plus rencontrer de poinçonneurs dans le métro ni de pompistes dans les stations-service. Mais la liste de professions en voie de disparition ne cesse de s’allonger. Caissières dans les supermarchés, guichetiers dans les banques, hôtesses dans les cinémas… Tous remplacés par des machines? Pas si simple.\n\nComme l’analyse Thibaut Carpentier, directeur du cabinet de conseil Obstand, la tentation industrielle de réduire les frais de personnel est grande mais cette logique se heurte à celle des consommateurs qui ont mal à se passer d’une présence humaine. D’ailleurs, toutes les entreprises concernées l’ont bien compris: pas de suppression de postes mais des redéploiements avec élargissement des compétences. ",
-        "query": "Quel obstacle rencontre l’automatisation des services?",
+        "text": "**On s'est habitué depuis belle lurette à ne plus rencontrer de poinçonneurs dans le métro ni de pompistes dans les stations-service. Mais la liste de professions en voie de disparition ne cesse de s'allonger. Caissières dans les supermarchés, guichetiers dans les banques, hôtesses dans les cinémas... Tous remplacés par des machines ? Pas si simple.**\n\nComme l'analyse Thibaut Carpentier, directeur du cabinet de conseil Obstand, la tentation industrielle de réduire les frais de personnel est grande mais cette logique se heurte à celle des consommateurs qui ont du mal à se passer d'une présence humaine. D'ailleurs, toutes les entreprises concernées l'ont bien compris: pas de suppression de postes mais des redéploiements avec élargissement des compétences.",
+        "query": "Quel obstacle rencontre l'automatisation des services?",
         "options": [
             "Les coûts élevés des investissements.",
             "Les faibles qualifications des employés.",
@@ -405,21 +405,21 @@
     {
         "id": 32,
         "testId": "152",
-        "text": "**<h3 style=\"text-align: center;\"><u>Théâtre.</u></h3>**\n\nJoël Pommerat nous offre un très court spectacle dont à la fois ta pureté formelle et ton sens nous ont conquis. Le matériau en est constitué par une série de rencontres, auxquelles lui-même et son équipe assistèrent, entre des travailleurs sociaux et des femmes d’origine simple, vivant en cité, et en proie à des problèmes familiaux. De ces confiances relatives aux tentions qu’elles connaissent dans leurs rapports, soit avec leur parents, soit avec leurs enfants, Pommerat a tiré une suite de brèves séquences qui composent une tragédie intense de la souffrance familiale, et particulièrement de la souffrance de la femmes. Son regard sur la détresse humaine est d’une bienveillance et d’une tendresse infinies, Il ne nous livre aucun message moral et à peine un message social: il fait simplement un appel à notre sensibilité.",
+        "text": "## Théâtre\n\n---\nJoël Pommerat nous offre un très court spectacle dont à la fois la pureté formelle et le sens nous ont conquis. Le matériau en est constitué par une série de rencontres, auxquelles lui-même et son équipe assistèrent, entre des travailleurs sociaux et des femmes d'origine simple, vivant en cité, et en proie à des problèmes familiaux. De ces confidences relatives aux tensions qu'elles connaissent dans leurs rapports, soit avec leurs parents, soit avec leurs enfants. Pommerat a tiré une suite de brèves séquences qui composent une tragédie intense de la souffrance familiale, et particulièrement de la souffrance de la femme. Son regard sur la détresse humaine est d'une bienveillance et d'une tendresse infinies. Il ne nous livre aucun message moral et à peine un message social: il fait simplement appel à notre sensibilité.",
         "query": "Dans quel objectif Joël Pommerat a-t-il créé son spectacle?",
         "options": [
             "Aider les femmes à se battre pour améliorer leur situation familiale.",
             "Amener les spectateurs à s'émouvoir d'un quotidien douloureux.",
             "Démontrer que la condition de la femme dans les cités est désastreuse.",
-            "Informer des difficultés que peuvent rencontrer les enfants des cités"
+            "Informer des difficultés que peuvent rencontrer les enfants des cités."
         ],
         "answer": 1
     },
     {
         "id": 33,
         "testId": "152",
-        "text": "Plancher sur la réforme des rythmes scolaires, comme le fera la «conférence» installée aujourd’hui par le ministre de l’éducation, c’est prendre en compte toute une série de paramètres qui n’ont rien à voir, ou si peu, avec l’école primaire. C’est s’intéresser aux évolutions de la famille et à la multiplication des horaires de travail dits «atypique». C’est examiner, du point de vue des collectivités locales, les conséquences financières et pratiques (transport scolaire, cantine, centres de loisirs) de tout changement éventuel dans l’organisation de la semaine. C’est encore accueillir l’avis des experts de la circulation routière et entendre les préoccupations des professionnels du tourisme… Autant dire que l’intérêt de l’enfant se trouve plus ou moins sacrifié sur l’autel du compromis.",
-        "query": "Quel constat dresse le journaliste à propos de la réforme des rythmes scolaire?",
+        "text": "Plancher sur la réforme des rythmes scolaires, comme le fera la «conférence» installée aujourd'hui par le ministre de l'éducation, c'est prendre en compte toute une série de paramètres qui n'ont rien à voir, ou si peu, avec l'école primaire. C'est s'intéresser aux évolutions de la famille et à la multiplication des horaires de travail dits «atypiques». C'est examiner, du point de vue des collectivités locales, les conséquences financières et pratiques (transport scolaire, cantine, centres de loisirs) de tout changement éventuel dans l'organisation de la semaine. C'est encore recueillir l'avis des experts de la circulation routière et entendre les préoccupations des professionnels du tourisme... Autant dire que l'intérêt de l'enfant se trouve plus ou moins sacrifié sur l'autel du compromis.",
+        "query": "Quel constat dresse le journaliste à propos de la réforme des rythmes scolaires ?",
         "options": [
             "Les familles sont opposées à toute modification.",
             "Les impacts financiers demeurent insurmontables.",
@@ -444,21 +444,21 @@
     {
         "id": 35,
         "testId": "152",
-        "text": "Plutôt que de multiplier les tests et les mise en situation, certaines entreprises choisissent de déléguer la responsabilité du recrutement à leurs salariés. «Personnellement, je suis très favorable à la cooptation, affirme ce responsable. Si vous avez un bon élément dans votre équipe, vous avez une excellente chance qu’il vous amène un autre bon élément, ça permet de limiter les risques.» Signe des temps, la «cooptation» est aujourd’hui acceptée et revendiquée par tous. Dans certaines entreprises, elle est même encouragée par une prime: 4000 euros sont versés à tout employé ayant recommandé un candidat recruté à son tour.",
+        "text": "Plutôt que de multiplier les tests et les mises en situation, certaines entreprises choisissent de déléguer la responsabilité du recrutement... à leurs salariés ! « *Personnellement, je suis très favorable à la cooptation, affirme ce responsable. Si vous avez un bon élément dans votre équipe, vous avez une excellente chance qu'il vous amène un autre bon élément, ça permet de limiter les risques.* » Signe des temps, la « cooptation » est aujourd'hui acceptée et revendiquée par tous. Dans certaines entreprises, elle est même encouragée par une prime : 4 000 euros sont versés à tout employé ayant recommandé un candidat recruté à son tour.",
         "query": "En adoptant la cooptation pour le recrutement, que recherchent les entreprises?",
         "options": [
             "À gagner du temps.",
             "À minimiser les aléas.",
             "À réduire les frais.",
-            "À Simplifier les procédures."
+            "À simplifier les procédures."
         ],
         "answer": 1
     },
     {
         "id": 36,
         "testId": "152",
-        "text": "Le discours écologique actuel est très factuel, «pratico-practique» comme si on n’osait pas parler de cette beauté dont nous avons pourtant besoin pour nous épanouir. C’est peut-être l’une des raisons pour laquelle l’écologie politique ne rallie pas tant que ça. Si on n’est pas sensible à la terre, aux végétaux, on devient un technicien de l’écologie, on emploie un language neutre et rassurant, fait d’environnement et de développement durable. Mais il faut pouvoir parler de la beauté spécifique de la nature qui nous enchante, qui nous fait vibrer. Nous avons besoin de nous nourrir de sa splendeur, de son mystère, et pas seulement de ses aspects matériels, pratiques, biologiques.",
-        "query": "Selon l’intervenant, qu’est-ce qui caractérise le discours écologique actuel?",
+        "text": "Le discours écologique actuel est très factuel, «pratico-pratique», comme si on n'osait pas parler de cette beauté dont nous avons pourtant besoin pour nous épanouir. C'est peut-être l'une des raisons pour laquelle l'écologie politique ne rallie pas tant que ça. Si on n'est pas sensible à la terre, aux végétaux, on devient un technicien de l'écologie, on emploie un langage neutre et rassurant, fait d'«environnement» et de «développement durable». Mais il faut pouvoir parler de la beauté spécifique de la nature qui nous enchante, qui nous fait vibrer. Nous avons besoin de nous nourrir de sa splendeur, de son mystère, et pas seulement de ses aspects matériels, pratiques, biologiques.",
+        "query": "Selon l'intervenant, qu'est-ce qui caractérise le discours écologique actuel ?",
         "options": [
             "Il apaise les tensions de la société.",
             "Il insiste sur le point de vue matériel.",

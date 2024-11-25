@@ -15,7 +15,7 @@
     {
         "id": 2,
         "testId": 182,
-        "text": "## <p style=\"text-align: center;\">Restaurant</p>\n\n# <p style=\"text-align: center;\">La bonne fourchette</p>\n\n### <br/><p style=\"margin: 0 100px; text-transform: uppercase;\">Formule légère <span style=\"float: right;\">9 €</span></p>\n\n<p style=\"margin: 0 120px;\">Salade au choix</p>\n\n### <p style=\"margin: 0 100px; text-transform: uppercase;\">Formule express <span style=\"float: right;\">12,50 €</span></p>\n\n<p style=\"margin: 0 120px;\">Plat du jour</p>\n\n### <p style=\"margin: 0 100px; text-transform: uppercase;\">Formule déjeuner <span style=\"float: right;\">16 €</span></p>\n\n<p style=\"margin: 0 120px;\">(1/2 eau minérale et café compris) <br/> Entrée + plate du jour <br/> &nbsp;&nbsp;ou <br/> Plat du jour + dessert</p>\n\n### <p style=\"margin: 0 100px; text-transform: uppercase;\">Formule plaisir <span style=\"float: right;\">20 €</span></p>\n\n<p style=\"margin: 0 120px;\">Entrée + plate du jour + dessert</p>",
+        "text": "## <p style=\"text-align: center;\">Restaurant</p>\n\n# <p style=\"text-align: center;\">La bonne fourchette</p>\n\n### <br/><p style=\"margin: 0 100px; text-transform: uppercase;\">Formule légère <span style=\"float: right;\">9 €</span></p>\n\n<p style=\"margin: 0 120px;\">Salade au choix</p>\n\n### <p style=\"margin: 0 100px; text-transform: uppercase;\">Formule express <span style=\"float: right;\">12,50 €</span></p>\n\n<p style=\"margin: 0 120px;\">Plat du jour</p>\n\n### <p style=\"margin: 0 100px; text-transform: uppercase;\">Formule déjeuner <span style=\"float: right;\">16 €</span></p>\n\n<p style=\"margin: 0 120px;\">(1/2 eau minérale et café compris) <br/> Entrée + plat du jour <br/> &nbsp;&nbsp;ou <br/> Plat du jour + dessert</p>\n\n### <p style=\"margin: 0 100px; text-transform: uppercase;\">Formule plaisir <span style=\"float: right;\">20 €</span></p>\n\n<p style=\"margin: 0 120px;\">Entrée + plat du jour + dessert</p>",
         "query": "Combien coûte la formule avec boisson ?",
         "options": [
             "9 euros.",
@@ -145,7 +145,7 @@
     {
         "id": 12,
         "testId": 182,
-        "text": "Vous travaillez à la mairie de Rouen, vous êtes musicien et vous jouez d'un instrument depuis plusieurs années ? Rejoignez l'orchestre des agents de la ville de Rouen !\n\nLes répétitions reprennent en septembre (à la fin des congés d'été) et ont lieu les jeudis entre 12h et 13 h30 au conservatoire de la ville.",
+        "text": "Vous travaillez à la mairie de Rouen, vous êtes musicien et vous jouez d'un instrument depuis plusieurs années ? Rejoignez l'orchestre des agents de la ville de Rouen !\n\nLes répétitions reprennent en septembre (à la fin des congés d'été) et ont lieu les jeudis entre 12 h et 13 h 30 au conservatoire de la ville.",
         "query": "Qu'est-ce qui est proposé aux agents de la mairie ?",
         "options": [
             "D'assister à un concert à Rouen.",
@@ -184,13 +184,13 @@
     {
         "id": 15,
         "testId": 182,
-        "text": "Ah ! Le bel été ! Par trente-cinq degrés à l'ombre, les enfants réclament le goûter après la baignade et coup de chance, le vendeur de Beigents se profile à l'horizon. Résultat : visite aux urgences car les beignets à la crème avait passé la journée au soleil. Des histoires comme celle-là circulent dans toutes les associations de consommateurs. La direction générale de la répression des fraudes dresse tout de même un bilan encourageant. Peu d'endroits publics échappent aux vérifications et les escroqueries ont diminué. Mais tout de même, en matière d'hygiène le bon sens du consommateur doit prévaloir et lui permettre de prévenir tout incident.",
-        "query": "L'anecdote racontée dans cet article dénonce :",
+        "text": "Ah ! Le bel été ! Par trente-cinq degrés à l'ombre, les enfants réclament le goûter après la baignade et coup de chance, le vendeur de beignets se profile à l'horizon. Résultat : visite aux urgences car les beignets à la crème avait passé la journée au soleil. Des histoires comme celle-là circulent dans toutes les associations de consommateurs. La direction générale de la répression des fraudes dresse tout de même un bilan encourageant. Peu d'endroits publics échappent aux vérifications et les escroqueries ont diminué. Mais tout de même, en matière d'hygiène le bon sens du consommateur doit prévaloir et lui permettre de prévenir tout incident.",
+        "query": "L'anecdote racontée dans cet article dénonce …",
         "options": [
-            "Le grand nombre de vendeurs ambulants.",
-            "Les dangers des aliments mal conservés.",
-            "Les méfaits des collations après le bain.",
-            "L'inconscience des enfants imprudents."
+            "le grand nombre de vendeurs ambulants.",
+            "les dangers des aliments mal conservés.",
+            "les méfaits des collations après le bain.",
+            "l'inconscience des enfants imprudents."
         ],
         "answer": 1
     },
@@ -500,7 +500,7 @@
         "query": "Qu'explique l'auteur sur les inégalités sociales ?",
         "options": [
             "Elles diminuent dans toutes les organisations.",
-            "Elles résultent du fonctionnement d’une société.",
+            "Elles résultent du fonctionnement d'une société.",
             "Elles se combattent mieux avec de la sincérité.",
             "Elles se justifient par des arguments fallacieux."
         ],

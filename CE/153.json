@@ -15,7 +15,7 @@
     {
         "id": 2,
         "testId": 153,
-        "text": "### <p style=\"text-align: center;\">France 5</p>\n\n- 19 h 55 SÉRIE DOCUMENTAIRE 🠲 Bonjour la Bretagne\n- 20 H 35 MAGAZINES 🠲 La grande libraire Présentation. François Bunel\n- 21 h 35 DOCUMENTAIRES 🠲 Arman, portrait d'un peintre et d'un sculpteur\n- 23 h 55 SÉRIE DOCUMENTAIRE 🠲 J'irai dormir chez vous « Maroc »",
+        "text": "### <p style=\"text-align: center;\">France 5</p>\n\n- 19 h 55 SÉRIE DOCUMENTAIRE 🠲 Bonjour la Bretagne\n- 20 h 35 MAGAZINES 🠲 La grande libraire Présentation. François Bunel\n- 21 h 35 DOCUMENTAIRES 🠲 Arman, portrait d'un peintre et d'un sculpteur\n- 23 h 55 SÉRIE DOCUMENTAIRE 🠲 J'irai dormir chez vous « Maroc »",
         "query": "À quelle heure est-ce qu'on peut voir une émission sur l'art ?",
         "options": [
             "À 19 h 55.",
@@ -54,21 +54,21 @@
     {
         "id": 5,
         "testId": 153,
-        "text": "À bord du Tip Top, le plus grand bateau du bassin d'Arcachon, laissez-vous guider pour 2h30 de promenade au gré des vents et des courants marins.\n\nDépart de la jetée Thiers tous les jours en juillet et août, en fonction des horaires de la marée. Renseignez-vous la veille.\n\nPrix: **25** euros par personne. 28 passagers maximums par croisière.",
+        "text": "### <p style=\"line-height: 150%\"><u>À bord du Tip Top, le plus grand bateau du bassin d'Arcachon, laissez-vous guider pour 2 h 30 de promenade au gré des vents et des courants marins.</u></p>\n\nDépart de la jetée Thiers tous les jours en juillet et août, en fonction des horaires de la marée. Renseignez-vous la veille.\n\nPrix: 25 euros par personne, 28 passagers maximums par croisière.",
         "query": "Que propose ce document ?",
         "options": [
             "La visite d’un bateau.",
             "Une promenade en mer.",
             "Une promenade en ville.",
-            "La visite de la part Arcachon."
+            "La visite du port d'Arcachon."
         ],
         "answer": 1
     },
     {
         "id": 6,
         "testId": 153,
-        "text": "Le centre de Branféré a ouvert ses portes au printemps dernier dans un parc de Bretagne. Des classes du primaire y sont invitées. Les élèves y apprennent, pendant quelques jours, à connaitre et respecter la nature.",
-        "query": "Qu'apprenant sur le centre de Branféré ?",
+        "text": "Le centre de Branféré a ouvert ses portes au printemps dernier dans un parc de Bretagne. Des classes du primaire y sont invitées. Les élèves y apprennent, pendant quelques jours, à connaître et respecter la nature.",
+        "query": "Qu'apprend-on sur le centre de Branféré ?",
         "options": [
             "Il accueille les élèves et leurs parents.",
             "Il est ouvert seulement au printemps.",
@@ -80,23 +80,23 @@
     {
         "id": 7,
         "testId": 153,
-        "text": "***Cher Monsieur Damier,***\n\nNous avons le plaisir de vous annoncer que vous êtes l'heureux gagnant de notre grand jeu de l'été. Vous pouvez dès maintenant venir chercher votre prix dans votre magasin préféré où nos soldes d'automne ont déjà commencé !\n\n***Bien cordialement***",
-        "query": "Que va recevoir monsieur Damier ?",
+        "text": "Cher **Monsieur Damier**,\n\n<br/>Nous avons le plaisir de vous annoncer que vous êtes **<span style=\"background: #e1e1e1; padding: 4px;\">l'heureux gagnant</span>** de notre grand jeu de l'été.\n\nVous pouvez dès maintenant venir chercher votre prix dans votre magasin préféré où nos soldes d'automne ont déjà commencé !\n\n<br/>Bien cordialement,\n\n<br/>Solange Lafert (relations clients)",
+        "query": "Que va recevoir Monsieur Damier ?",
         "options": [
             "Un cadeau.",
+            "Une lettre.",
             "Une publicité.",
-            "Une visite.",
-            "Une lettre."
+            "Une visite."
         ],
         "answer": 0
     },
     {
         "id": 8,
         "testId": 153,
-        "text": "**<h3 style=\"text-align: center;\">GRAND JEU JARDIMARCHÉ</h2>**\n\nVous pensez avoir le plus jardin ?\n\n Envoyer une photo à grandjeu@jardimarche.com. Trois gagnants recevront un chèque de **500 euros** valable dans tous nos magasins.",
+        "text": "## <p style=\"text-align: center;\">• GRAND JEU JARDIMARCHÉ •</p>\n\n<p style=\"text-align: center; font-size: x-large; line-height: 150%;\">Vous pensez avoir le plus beau <br/> jardin ? Envoyez une photo à <br/> grandjeu@jardimarche.com. <br/> Trois gagnants recevront un <br/> chèque de 500 euros valable <br/> dans tous nos magasins.</p>",
         "query": "Que propose Jardimarché ?",
         "options": [
-            "D'acheter des plates à bon prix.",
+            "D'acheter des plantes à bon prix.",
             "De faire des courses en ligne.",
             "De participer à un concours.",
             "De recevoir des outils gratuits."
@@ -106,13 +106,13 @@
     {
         "id": 9,
         "testId": 153,
-        "text": "***Bonjour Ahmed***,\n\nCe message pour te rappeler la réunion de lundi. Nous commanderons des paniers-repas pour le midi, car la séance peut durer longtemps : les dossiers à traiter sont nombreux. Peux-tu en informer les personnes des services concernés ? Merci d'avance.\n\n***À lundi,***\n\n***Pierre***",
+        "text": "Bonjour Ahmed,\n\nCe message pour te rappeler la réunion de lundi. Nous commanderons des paniers repas pour le midi car la séance peut durer longtemps : les dossiers à traiter sont nombreux. Peux-tu en informer les personnes des services concernés ? Merci d'avance. À lundi.\n\nPierre",
         "query": "Que demande Pierre à Ahmed ?",
         "options": [
             "D'apporter le déjeuner.",
-            "D’avancer le rendez-vous.",
+            "D'avancer le rendez-vous.",
             "De consulter les documents.",
-            "De prévenir ses collègues."
+            "De prévenir les collègues."
         ],
         "answer": 3
     },
@@ -132,8 +132,8 @@
     {
         "id": 11,
         "testId": 153,
-        "text": "### *Vous avez entre 16 et 25 ans et vous souhaitez travailler rapidement ?*\n\nVenez rencontrer des chefs d'entreprise et connaitre les formations existantes au salon de l'entreprise, du 3 au 9 avril prochain.",
-        "query": "Qu'est-ce qu’on peut faire dans ce salon ?",
+        "text": "## <p style=\"text-align: center; line-height: 150%;\">Vous avez entre 16 et 25 ans <br/> et vous souhaitez travailler <br/> rapidement ?</p>\n\n### <p style=\"text-align: center;\">Venez rencontrer des chefs d'entreprise <br/> et connaître les formations existantes <br/> au Salon de l'entreprise, du 3 au 9 avril <br/>prochain.</p>",
+        "query": "Qu'est-ce qu'on peut faire dans ce salon ?",
         "options": [
             "Participer à un stage de plusieurs jours.",
             "S'informer sur le monde professionnel.",
@@ -161,7 +161,7 @@
         "text": "### <p style=\"text-align:center;\">Ne dites plus dépendance, dites autonomie</p>\n\nLes mots changent, le problème demeure. Ce problème et celui d'une population qui vit de plus en plus longtemps, grâce aux progrès de la médecine, mais dont les dernières années nécessitent très souvent une assistance à domicile ou un hébergement en maison de retraite médicalisée.",
         "query": "Selon ce texte, quelle difficulté rencontrent les personnes âgées ?",
         "options": [
-            "Elles ont besoin d’accompagnante.",
+            "Elles ont besoin d'accompagnement.",
             "Elles ont peur de quitter leur logement.",
             "Elles souffrent de grande solitude.",
             "Elles suivent des traitements coûteux."
@@ -171,7 +171,7 @@
     {
         "id": 14,
         "testId": 153,
-        "text": "Les vacanciers français ont trouvé cet été le bonheur chez eux, avec une nette préférence pour les côtes ensoleillées, tandis que les étrangers européens ou non, qui n'avaient pas choisi la France l'an dernier, sont revenus. Globalement, La fréquentation touristique a légèrement progressé, selon des données statistiques recueillies. La montagne a connu une belle saison aussi des taux de réservation dans les résidences de tourisme en hausse de 9% en Savoie et Haute-Savoie, dans les Alpes.",
+        "text": "Les vacanciers français ont trouvé cet été le bonheur chez eux, avec une nette préférence pour les côtes ensoleillées, tandis que les étrangers européens ou non, qui n'avaient pas choisi la France l'an dernier, sont revenus. Globalement, la fréquentation touristique a légèrement progressé, selon des données statistiques recueillies. La montagne a connu une belle saison aussi avec des taux de réservation dans les résidences de tourisme en hausse de 4% en Savoie et Haute-Savoie, dans les Alpes.",
         "query": "Où les Français ont-ils préféré passer leurs vacances d'été ?",
         "options": [
             "À l'étranger.",
@@ -211,11 +211,11 @@
         "id": 17,
         "testId": 153,
         "text": "### <p style=\"text-align: center;\"><u>Job d'été, la première expérience</u></p>\n\nQuand une entreprise fait appel pour la première fois à un jeune, elle n'a pas d'attente vis-à-vis de ses compétences professionnelles, c'est donc sur son comportement que vont se porter ses critères d'évaluation. Même saisonnier, il faut montrer qu'on a vraiment envie de décrocher un job. Les jeunes sans expérience ont tout intérêt à parler de leur passion et à démontrer leur motivation. Pour un employeur, c'est ce qui reste souvent le critère le plus important.",
-        "query": "Selon l’article, que faut-il faire pour trouver un job d'été ?",
+        "query": "Selon l'article, que faut-il faire pour trouver un job d'été ?",
         "options": [
             "Exposer l’ensemble de ses qualités professionnelles.",
             "Faire la preuve de son désir de travailler.",
-            "Parler avec enthousiasme de ses projets.",
+            "Parler avec enthousiasme de ses projets de formation.",
             "Parler des emplois qu’on a déjà occupés."
         ],
         "answer": 1
@@ -223,10 +223,10 @@
     {
         "id": 18,
         "testId": 153,
-        "text": "### *<p style=\"text-align: center;\">MATCH SÈTE - TOURS</p>*\n\n### *<p style=\"text-align: center;\">Mercredi 12 novembre</p>*\n\n- Achat des billets aux points de vente habituels : 15 €.\n\n- Réduction pour les étudiants et les détenteurs de carte « Famille nombreuse ».\n\n- Venté aux guichets du stade, le soir même : 20 €.",
+        "text": "# <p style=\"text-align: center;\">MATCH SÈTE - TOURS</p>\n\n *<p style=\"text-align: center; font-size: x-large\">Mercredi 12 novembre</p>*\n\n- Achat des billets aux points de vente habituels : 15 €.\n\n- Réduction pour les étudiants et les détenteurs de carte « Famille nombreuse ».\n\n- Vente aux guichets du stade, le soir même : 20 €.",
         "query": "À quelle condition l'acheteur a-t-il un meilleur prix ?",
         "options": [
-            "En achetant les billets en avance.",
+            "En achetant les billets à l'avance.",
             "En choisissant des places pour quatre matchs.",
             "En prenant des billets pour un groupe.",
             "En présentant une carte de club de sport."
@@ -236,7 +236,7 @@
     {
         "id": 19,
         "testId": 153,
-        "text": "### <p style=\"text-align: center;\">LA NEO-RURAUTÉ EST DEVENUE UN PHÉNOMÈNE DE SOCIÉTÉ.</p>\n\nCette dénomination date des années 70 : c'est « le retour à la terre ». Alors que la désertification des campagnes se poursuit, un mouvement de population inverse s'opère. Il concerne des personnes jeunes, sans enfant, portant les valeurs contestataires de mai 68. Issues de toutes les classes sociales, elles ne recherchent pas spécialement le confort. Elles veulent avant tout vivre une expérience, ce qui les différencie de la population locale et ne facilite pas leur intégration.",
+        "text": "### <p style=\"text-align: center;\">LA NÉO-RURALITÉ EST DEVENUE UN PHÉNOMÈNE DE SOCIÉTÉ.</p>\n\nCette dénomination date des années 70 : c'est « le retour à la terre ». Alors que la désertification des campagnes se poursuit, un mouvement de population inverse s'opère. Il concerne des personnes jeunes, sans enfant, portant les valeurs contestataires de mai 68. Issues de toutes les classes sociales, elles ne recherchent pas spécialement le confort. Elles veulent avant tout vivre une expérience, ce qui les différencie de la population locale et ne facilite pas leur intégration.",
         "query": "Que veulent les néo-ruraux ?",
         "options": [
             "Accéder à la propriété privée.",
@@ -301,12 +301,12 @@
     {
         "id": 24,
         "testId": "153",
-        "text": "### Fixer des limites strictes à la pêche, c’est l’action que va mener l’Australie afin de protéger la vie aquatique.\n\n«Il est temps que la planète franchisse une nouvelle étape dans la protection des océans» a déclaré le ministre australien de l’environnement. La création d’un réseau de parcs naturels aura un impact sur le secteur de la pêche commerciale qui devrait recevoir 79,2 millions d’euros en contrepartie. La fondation australienne pour la protection de l’environnement a qualifié cette annonce d’historique mais elle a souligné que plusieurs zones restaient menacées par l’exploitation humaine des ressources naturelles.",
+        "text": "### Fixer des limites strictes à la pêche, c'est l'action que va mener l'Australie afin de protéger la vie aquatique.\n\n« Il est temps que la planète franchisse une nouvelle étape dans la protection des océans » a déclaré le ministre australien de l'environnement. La création d'un réseau de parcs naturels aura un impact sur le secteur de la pêche commerciale qui devrait recevoir 79,2 millions d'euros en contrepartie. La fondation australienne pour la protection de l'environnement a qualifié cette annonce d'« historique » mais elle a souligné que plusieurs zones restaient menacées par l'exploitation humaine des ressources naturelles.\n\n<br/><p style=\"text-align: right;\">D'après <i>www.lavoixdunord.fr</i></p>",
         "query": "Que projette le gouvernement australien?",
         "options": [
-            "D’aménager des réserves restreignant la pêche.",
-            "D’encourager une politique mondiale de la pêche.",
-            "D’organiser des contrôles pour surveiller la pêche.",
+            "D'aménager des réserves restreignant la pêche.",
+            "D'encourager une politique mondiale de la pêche.",
+            "D'organiser des contrôles pour surveiller la pêche.",
             "De créer des taxes sur les produits de la pêche."
         ],
         "answer": 0
@@ -314,12 +314,12 @@
     {
         "id": 25,
         "testId": "153",
-        "text": "L’Éducation nationale française vient d’inscrire aux programmes scolaires une initiation à la programmation informatique, appelée «code». Le but n’est pas de faire tous les enfants des informaticiens mais il est clair que se limiter à être uniquement un utilisateur passif constituera, par la suite, un handicap professionnel. Le chantier est immense car il faut introduire cette nouvelle matière sans compter sur suffisamment de professeurs formés pour cela. En effet, la vitesse à laquelle les technologies numériques ont changé a été bien supérieure à celle de l’évolution de la formation des équipes pédagogiques.",
+        "text": "L'éducation nationale française vient d'inscrire aux programmes scolaires une initiation à la programmation informatique, appelée « code ». Le but n'est pas de faire de tous les enfants des informaticiens mais il est clair que se limiter à être uniquement un utilisateur passif constituera, par la suite, un handicap professionnel. Le chantier est immense car il faut introduire cette nouvelle matière sans compter sur suffisamment de professeurs formés pour cela. En effet, la vitesse à laquelle les technologies numériques ont changé a été bien supérieure à celle de l'évolution de la formation des équipes pédagogiques.",
         "query": "Qu’apprend-on au sujet de l’enseignement du code à l’école?",
         "options": [
             "Les enfants ont des difficultés de concentration dans ce domaine.",
             "Les équipements informatiques des écoles sont devenus obsolètes.",
-            "Les établissements doivent se doter d’une connexion illimitée",
+            "Les établissements doivent se doter d’une connexion illimitée.",
             "Les professeurs avec les compétences nécessaires sont rares."
         ],
         "answer": 3
@@ -327,10 +327,10 @@
     {
         "id": 26,
         "testId": "153",
-        "text": "### <p style=\"text-align: center;\"><u>Futur manager, soyez gentil !</u></p>\n\nDepuis les scandales des traders, les grandes écoles ont été mises au plan des accusés: Ce qu’elles transmettaient se limitait à du savoir technique, directement exploitable par les entreprises. Myopie sociale et absence d’esprit critique menaçaient les futurs managers du monde économique. L’éthique est maintenant à la mode dans toutes les grandes écoles de management. Il n’y est question que de «social business» ou de «développement durable». À côté des activités associatives traditionnelles, les actions humanitaires ont fleuri et de plus en plus d’étudiants s’y investissent chaque année. Désormais, un étudiant doit avoir fait du soutien scolaire en banlieue ou monté du microcrédit en Afrique.",
-        "query": "D’après ce texte, Quelle est la nouvelle orientation des grandes écoles?",
+        "text": "### <p style=\"text-align: center;\"><u>Futur manager, soyez gentil !</u></p>\n\nDepuis les scandales des traders, les grandes écoles ont été mises au banc des accusés : ce qu'elles transmettaient se limitait à du savoir technique, directement exploitable par les entreprises. Myopie sociale et absence d'esprit critique menaçaient les futurs managers du monde économique.\n\nL'éthique est maintenant à la mode dans toutes les grandes écoles de management. Il n'y est question que de « social business » ou de « développement durable ». À côté des activités associatives traditionnelles, les actions humanitaires ont fleuri et de plus en plus d'étudiants s'y investissent chaque année. Désormais, un étudiant doit avoir fait du soutien scolaire en banlieue ou monté du microcrédit en Afrique.",
+        "query": "D'après ce texte, quelle est la nouvelle orientation des grandes écoles?",
         "options": [
-            "Créer des partenaires avec le milieu associatif.",
+            "Créer des partenariats avec le milieu associatif.",
             "Former des jeunes défavorisés au management.",
             "Intégrer des valeurs sociales et environnementales.",
             "Préparer des techniciens aux dangers de la finance."
@@ -340,13 +340,13 @@
     {
         "id": 27,
         "testId": "153",
-        "text": "D’abord surpris par la naïveté du film, puis sceptique face aux clichés habituels et gentillets de ce genre de longs métrages potaches. On se laisse progressivement porter par la réalisation décalée du cinéaste et par l’interprétation savoureuse de la distribution. S’il manque parfois de rythme et s’il a un peu vieilli, ce film ne demeure pas moins réussi dans sa capacité à savoir capter l’esprit bohème et bon enfant des échanges Erasmus! Après, ça n’est bien sûr pas le chef-d’oeuvre de l’année, mais il est tellement rare aujourd’hui de voir un film français proposer quelque chose d’assez original et drôle sans se départir d’une certaine simplicité et d’une réelle justesse. Qu’on ne peut que saluer le travail du réalisateur et de sa sympathique équipe.",
-        "query": "Quelle critique négative ce spectateur émet-il sur ce film?",
+        "text": "D'abord surpris par la naïveté du film, puis sceptique face aux clichés habituels et gentillets de ce genre de longs métrages potaches, on se laisse progressivement porter par la réalisation décalée du cinéaste et par l'interprétation savoureuse de la distribution. S'il manque parfois de rythme et s'il a un peu vieilli, ce film n'en demeure pas moins réussi dans sa capacité à savoir capter l'esprit bohème et bon enfant des échanges Erasmus ! Après, ça n'est bien sûr pas le chef-d'œuvre de l'année, mais il est tellement rare aujourd'hui de voir un film français proposer quelque chose d'assez original et drôle sans se départir d'une certaine simplicité et d'une réelle justesse, qu'on ne peut que saluer le travail du réalisateur et de sa sympathique équipe.",
+        "query": "Quelle critique négative ce spectateur émet-il sur ce film ?",
         "options": [
-            "La réalisation de l’œuvre manque de maîtrise.",
+            "La réalisation de l'œuvre manque de maîtrise.",
             "Le film tombe dans les stéréotypes du genre.",
             "Le jeu des comédiens lui semble plutôt médiocre.",
-            "Le scenario du film est maladroitement construite."
+            "Le scénario du film est maladroitement construit."
         ],
         "answer": 1
     },
@@ -418,10 +418,10 @@
     {
         "id": 33,
         "testId": "153",
-        "text": "### <p style=\"text-align: center;\"><u>C’est un joli coup de peinture… avant fermeture!</u></p>\n\nLe vieil hôpital psychiatrique du Mans, construit en 1828 et classé aux Monuments historiques depuis 2004, a vu l’arrivée de drôles de troupes. Promis à la destruction et à la rénovation, le bâtiment a été investi par des artistes. L’occasion était belle pour le collectif associatif «Espace provisoire» d’envahir les salles et de leur redonner une seconde vie. Plus de 2000 m² ont été occupés par une soixantaine d’artistes: musiciens, peintres, sculpteurs, photographes…, tous prêts à accueillir des visiteurs, des curieux. L’objectif, non avoué, est de prouver que la culture est à sa place partout.",
+        "text": "### <p style=\"text-align: center;\"><u>C’est un joli coup de peinture… avant fermeture!</u></p>\n\nLe vieil hôpital psychiatrique du Mans, construit en 1828 et classé aux Monuments historiques depuis 2004, a vu l’arrivée de drôles de troupes. Promis à la destruction et à la rénovation, le bâtiment a été investi par des artistes. L’occasion était belle pour le collectif associatif «*Espace provisoire*» d’envahir les salles et de leur redonner une seconde vie. Plus de 1000 m2 ont été occupés par une soixantaine d’artistes: musiciens, peintres, sculpteurs, photographes…, tous prêts à accueillir des visiteurs, des curieux. L’objectif, non avoué, est de prouver que la culture est à sa place partout.",
         "query": "Que cherche à faire le collectif « Espace provisoire »?",
         "options": [
-            "Convertir les lieux en maison de culture.",
+            "Convertir les lieux en maison de la culture.",
             "Diffuser l’art dans des endroits inattendus.",
             "Ouvrir un centre de formation artistique.",
             "Rénover les anciens locaux en les décorant."
@@ -431,11 +431,11 @@
     {
         "id": 34,
         "testId": "153",
-        "text": "### <p style=\"text-align: center;\"><u>«Le fait du roi»</u></p>\n\n<p style=\"text-align: center; color:grey;\">Un roman d'A. Thonon</p>\n\nC’est l’histoire d’un homme qui prend l’identité d’un autre, mort, en se glissant dans sa peau, dans sa vie, dans sa maison… Rien ne sert de raconter l’intrigue de ce roman tant elle est simple et sans surprise. L’écriture de l’auteur reste cependant toujours aussi piquante et agréable à lire. Le héros principal, quant à lui, est dépeint avec une certaine profondeur.",
-        "query": "Sur quel point porte la critique négative faites à ce livre?",
+        "text": "## <p style=\"text-align: center;\">«Le fait du roi»,</p>\n\n<p style=\"text-align: center; color:grey;\">Un roman d'A. Thonon</p>\n\nC’est l’histoire d’un homme qui prend l’identité d’un autre, mort, en se glissant dans sa peau, dans sa vie, dans sa maison… Rien ne sert de raconter l’intrigue de ce roman tant elle est simple et sans surprise. L’écriture de l’auteur reste cependant toujours aussi piquante et agréable à lire. Le héros principal, quant à lui, est dépeint avec une certaine profondeur.",
+        "query": "Sur quel point porte la critique négative faite à ce livre?",
         "options": [
-            "la description du personnage.",
-            "la longueur de texte.",
+            "La description du personnage.",
+            "La longueur du texte.",
             "La qualité de l’écriture.",
             "Le déroulement des événements."
         ],
@@ -444,26 +444,26 @@
     {
         "id": 35,
         "testId": "153",
-        "text": "### <p style=\"text-align: center;\"><u>L’ambition de cet auteur</u></p>\n\nChanger l’art d’écrire, rien de moins. Mais cela est dit sans emphase, d’un ton dubitatif, fataliste presque «Changer l’art d’écrire, chaque écrivain le fait à sa façon. Je voudrais le faire de façon absolue, radicale, en abolissant totalement les histoires, l’intrigue, bien qu’il y ait toujours, en fait, des sortes de micros-narrations dans mes livres. J’ai l’idée qu’il est encore trop tôt pour savoir ce que j’ai apporté ou pas. Cela dit, lorsque vous écrivez, vous êtes tellement occupé à essayer de résoudre les problèmes techniques qui se posent à chaque instant que vous n’avez pas le temps d’avoir beaucoup d’idées générales.»",
+        "text": "### <p style=\"text-align: center;\">L'ambition de cet auteur :</p>\n\nchanger l'art d'écrire, rien de moins. Mais cela est dit sans emphase, d'un ton dubitatif, fataliste presque : «Changer l'art d'écrire, chaque écrivain le fait à sa façon. Je voudrais le faire de façon absolue, radicale, en abolissant totalement les histoires, l'intrigue, bien qu'il y ait toujours, en fait, des sortes de micro-narrations dans mes livres. J'ai l'idée qu'il est encore trop tôt pour savoir ce que j'ai apporté ou pas. Cela dit, lorsque vous écrivez, vous êtes tellement occupé à essayer de résoudre les problèmes techniques qui se posent à chaque instant que vous n'avez pas le temps d'avoir beaucoup d'idées générales.»",
         "query": "De quelle manière cet auteur veut-il réaliser son ambition?",
         "options": [
             "En abandonnant les codes traditionnels du roman.",
-            "En cherchant des sources d’inscription médités.",
+            "En cherchant des sources d'inspiration inédites.",
             "En proposant de nouveaux concepts universels.",
-            "En se jouant des difficultés liées a l’écriture."
+            "En se jouant des difficultés liées à l'écriture."
         ],
         "answer": 0
     },
     {
         "id": 36,
         "testId": "153",
-        "text": "Dans leur nouvelle collection, les éditions Nil invitent des auteurs à se livrer à un exercice épistolaire intime en écrivant une lettre pour dire l’indicible. Le modèle est celle que Kafka rédigea à l’intention de son père et qu’il préféra ranger dans un tiroir tant l’accusation portée était peu amène.\n\nAvec l’autre fille, missive adressé à sa sœur aînée, morte avant sa naissance, Annie Ernaux inaugure brillamment le concept, fidèle à son écriture tranchante et analytique. Rejetant le ternie d’autofiction, l’écrivain se dit fascinée par la réalité, partant à la recherche d’une vérité sur une mort que ses parents lui ont toujours cachée. En demandant à des auteurs de se libérer d’un vieux uniment, la collection souhaite réhabiliter un genre littéraire oublié.",
-        "query": "À quel résultat la participation à cette collection conduit-elle Annie Ernaux?",
+        "text": "Dans leur nouvelle collection, les éditions Nil invitent des auteurs à se livrer à un exercice épistolaire intime en écrivant une lettre pour dire l'indicible. Le modèle est celle que Kafka rédigea à l'intention de son père et qu'il préféra ranger dans un tiroir tant l'accusation portée était peu amène.\n\nAvec *L'autre fille*, missive adressée à sa sœur aînée, morte avant sa naissance, Annie Ernaux inaugure brillamment le concept, fidèle à son écriture tranchante et analytique. Rejetant le terme d'autofiction, l'écrivain se dit fasciné par la réalité, partant à la recherche d'une vérité sur une mort que ses parents lui ont toujours cachée. En demandant à des auteurs de se libérer d'un vieux tourment, la collection souhaite réhabiliter un genre littéraire oublié.",
+        "query": "À quel résultat la participation à cette collection conduit-elle Annie Ernaux ?",
         "options": [
-            "À s’acquitter d’un engagement moral.",
-            "À s’affranchir d’une histoire ancienne.",
-            "À se défaire d’un sentiment de culpabilité.",
-            "À se justifier d’une action peu glorieuse."
+            "À s'acquitter d'un engagement moral.",
+            "À s'affranchir d'une histoire ancienne.",
+            "À se défaire d'un sentiment de culpabilité.",
+            "À se justifier d'une action peu glorieuse."
         ],
         "answer": 1
     },

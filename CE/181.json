@@ -57,7 +57,7 @@
         "text": "## Les silences du Général\n\nDécouvrez les secrets de la vie du général de Gaulle sur Politike, la chaîne de la vie politique française, vendredi à 20 h. Un documentaire étonnant, suivi de la diffusion du film *L'Armée des ombres* réalisé par Jean-Pierre Melville.",
         "query": "Quel média va donner des informations sur le général de Gaulle ?",
         "options": [
-            "L’Internet.",
+            "L'Internet.",
             "La presse.",
             "La radio.",
             "La télévision."
@@ -80,7 +80,7 @@
     {
         "id": 7,
         "testId": 181,
-        "text": "### Martine\n\nJe ne connaissais pas www.lamode.com, mais sur un forum, j'ai lu des avis positifs. Alors, je suis allée sur le site et j'ai trouvé une jolie robe pas chère du tout. Je l'ai commandée et je la portais 5 jours après. Je suis ravie !",
+        "text": "### Martine\n\nJe ne connaissais pas www.lamode.com mais sur un forum, j'ai lu des avis positifs. Alors, je suis allée sur le site et j'ai trouvé une jolie robe pas chère du tout. Je l'ai commandée et je la portais 5 jours après. Je suis ravie !",
         "query": "Qu'explique cette personne ?",
         "options": [
             "Comment elle a acheté un article en ligne.",
@@ -93,7 +93,7 @@
     {
         "id": 8,
         "testId": 181,
-        "text": "## <p style=\"line-height:120%;\">Ne dites plus dépendance, <br/> dites autonomie</p>\n\nLes mots changent, le problème demeure. Ce problème et celui d'une population qui vit de plus en plus longtemps, grâce aux progrès de la médecine, mais dont les dernières années nécessitent très souvent une assistance à domicile ou un hébergement en maison de retraite médicalisée.",
+        "text": "## <p style=\"line-height:120%;\">Ne dites plus dépendance, <br/> dites autonomie</p>\n\nLes mots changent, le problème demeure. Ce problème est celui d'une population qui vit de plus en plus longtemps, grâce aux progrès de la médecine mais dont les dernières années nécessitent très souvent une assistance à domicile ou un hébergement en maison de retraite médicalisée.",
         "query": "Selon ce texte, quelle difficulté rencontrent les personnes âgées ?",
         "options": [
             "Elles ont besoin d'accompagnement.",
@@ -119,7 +119,7 @@
     {
         "id": 10,
         "testId": 181,
-        "text": "## <p style=\"text-align: center; line-height: 150%;\">SAMEDI 29 JUIN, <br/> VENEZ COURIR 10 KM <br/> POUR AIDER L'ASSOCIATION <br/> « TOUS ENSEMBLE POUR LA PAIX »<p/>\n\n## <br/><p style=\"text-align: center; line-height: 150%;\">RENDEZ-VOUS À 10H, AU PARC DE <br/> VINCENNES.</p>\n\n## <br/><p style=\"text-align: center; line-height: 150%;\">AMBIANCE SYMPATHIQUE ET REPAS <br/> OFFERT POUR LES SPORTIFS, <br/> VENEZ NOMBREUX !</p>",
+        "text": "## <p style=\"text-align: center; line-height: 150%;\">SAMEDI 29 JUIN, <br/> VENEZ COURIR 10 KM <br/> POUR AIDER L'ASSOCIATION <br/> « TOUS ENSEMBLE POUR LA PAIX »<p/>\n\n## <br/><p style=\"text-align: center; line-height: 150%;\">RENDEZ-VOUS À 10 H, AU PARC DE <br/> VINCENNES.</p>\n\n## <br/><p style=\"text-align: center; line-height: 150%;\">AMBIANCE SYMPATHIQUE ET REPAS <br/> OFFERT POUR LES SPORTIFS, <br/> VENEZ NOMBREUX !</p>",
         "query": "Qu'est-ce que cette annonce propose ?",
         "options": [
             "D'aider à organiser une fête.",
@@ -158,7 +158,7 @@
     {
         "id": 13,
         "testId": 181,
-        "text": "### Connaître deux langues <br/> présentes des avantages.\n\nLa gymnastique mentale du passage d'une langue à une autre est aussi une gymnastique des émotions et du comportement: quand on change de langue, on change de culture. Quand le bilingue utilise une langue, la deuxième est aussi activée dans le cerveau, comme pour une traduction. Cette activité mentale est bénéfique pour le cerveau : elle aide à lutter contre certaines maladies.",
+        "text": "### Connaître deux langues <br/> présente des avantages !\n\nLa gymnastique mentale du passage d'une langue à une autre est aussi une gymnastique des émotions et du comportement: quand on change de langue, on change de culture. Quand le bilingue utilise une langue, la deuxième est aussi activée dans le cerveau, comme pour une traduction. Cette activité mentale est bénéfique pour le cerveau : elle aide à lutter contre certaines maladies.",
         "query": "Selon cet article, qu'apporte la pratique de deux langues ?",
         "options": [
             "Elle est bonne pour la santé.",
@@ -332,7 +332,7 @@
         "options": [
             "Les producteurs évitent de prendre des risques.",
             "Les réalisateurs sont à la recherche d'idées neuves.",
-            "Les scénaristes font preuve d’une imagination limitée.",
+            "Les scénaristes font preuve d'une imagination limitée.",
             "Les spectateurs privilégient les créations classiques."
         ],
         "answer": 0

@@ -15,7 +15,7 @@
     {
         "id": 2,
         "testId": 162,
-        "text": "## Evangélina\n\n- Choux\n- Paris-Brest\n- Eclairs au café\n- Tartes aux pommes\n\nSur place ou à emporter. Faites votre choix",
+        "text": "# Evangélina\n\n- Choux\n- Paris-Brest\n- Eclairs au café\n- Tartes aux pommes\n\n*Sur place ou à emporter. Faites votre choix !*",
         "query": "Que peut-on acheter à Evangélina ?",
         "options": [
             "Des billets de train.",
@@ -67,7 +67,7 @@
     {
         "id": 6,
         "testId": 162,
-        "text": "Le restaurant **« L'Esquinade »** a réussi son pari: Introduire l'atmosphère espagnole dans ses plats. Si vous voulez goûter à l'Espagne contemporaine pour votre pause déjeuner, cet endroit est pour vous ! Tapas, cœurs de canard, jambon serrano et foie gras s'y rencontrent dans une ambiance chaleureuse, nous faisant voyager entre le sud-ouest de la France et l'Espagne.",
+        "text": "Le restaurant **« L'Esquinade »** a réussi son pari: introduire l'atmosphère espagnole dans ses plats. Si vous voulez goûter à l'Espagne contemporaine pour votre pause déjeuner, cet endroit est pour vous ! Tapas, cœurs de canard, jambon serrano et foie gras s'y rencontrent dans une ambiance chaleureuse, nous faisant voyager entre le sud-ouest de la France et l'Espagne.",
         "query": "Que propose ce restaurant ?",
         "options": [
             "D'apprendre à cuisiner des plats étrangers.",
@@ -80,7 +80,7 @@
     {
         "id": 7,
         "testId": 162,
-        "text": "## <p style=\"text-align: center;\">Jardin de la Fontaine</p>\n\n### <p style=\"text-align: center;\">Ouverture - Fermeture</p>\n\n<p style=\"text-align: center;\">Du 1er septembre au 31 mars</p>\n\n<p style=\"text-align: center;\">7 h 30 - 18 h 30</p>\n\n<p style=\"text-align: center;\">Du 1er avril 30 juin</p>\n\n<p style=\"text-align: center;\">7 h 30 - 20 h 30</p>\n\n<p style=\"text-align: center;\">Du 1er juillet au 31 août</p>\n\n<p style=\"text-align: center;\">7 h 00 - 22 h 30</p>",
+        "text": "## <p style=\"text-align: center;\">Jardin de la Fontaine</p>\n\n### <p style=\"text-align: center;\">Ouverture - Fermeture</p>\n\n<p style=\"text-align: center;\">Du 1<sup>er</sup> septembre au 31 mars <br/> 7 h 30 - 18 h 30 <br/> Du 1<sup>er</sup> avril 30 juin <br/> 7 h 30 - 20 h 30 <br/> Du 1<sup>er</sup> juillet au 31 août <br/> 7 h 00 - 22 h 30</p>",
         "query": "Quand peut-on se promener dans le parc après 18 h 30?",
         "options": [
             "En décembre.",
@@ -106,7 +106,7 @@
     {
         "id": 9,
         "testId": 162,
-        "text": "## <p style=\"text-align: center;\">Studio Céline</p>\n\n<p style=\"text-align: center;\">L'école de danse « Studio Céline » ouvre ses portes au public le 16 septembre.</p>\n\n<p style=\"text-align: center;\"><b>C'EST GRATUIT</b> : venez essayer nos cours toute la journée. AU programme : salsa, tango, danse moderne et un goûter (boissons et gâteaux) !</p>",
+        "text": "# <p style=\"text-align: center;\">Studio Céline</p>\n\n<p style=\"text-align: center;\">L'école de danse « Studio Céline » ouvre ses <br/> portes au public le 16 septembre.</p>\n\n<br/><p style=\"text-align: center;\"><b>C'EST GRATUIT</b> : venez essayer nos cours toute la journée. <br/> Au programme : salsa, tango, danse <br/> moderne et un goûter (boissons et gâteaux) !</p>",
         "query": "Qu'est-ce que cette école de danse propose ?",
         "options": [
             "De participer à un concours.",
@@ -184,11 +184,11 @@
     {
         "id": 15,
         "testId": 162,
-        "text": "« Avec un Master Commerce en poche, je ne pensais pas qu'il serait à ce point difficile de trouver mon premier emploi. Et pourtant... quel chemin semé d'embûches ! Tout le monde me disait \" Ne t'inquiète pas, dans deux ou trois mois tu auras trouvé ! \" Sept mois plus tard toujours rien en vue. À 26 ans, je me retrouve sans emploi, toujours chez mes parents. L'avenir ? Je le vois ailleurs, je prépare activement mon départ pour L'Angleterre.»\n\nAmandine n'est pas une exception chez les jeunes. Les diplômes ne suffisent plus à assurer une situation stable en France et beaucoup de jeunes décident de partir à l'étranger pour obtenir un emploi.",
+        "text": "«Avec un Master Commerce en poche, je ne pensais pas qu'il serait à ce point difficile de trouver mon premier emploi. Et pourtant... quel chemin semé d'embûches! Tout le monde me disait \"Ne t'inquiète pas, dans deux ou trois mois tu auras trouvé!\" Sept mois plus tard toujours rien en vue. À 26 ans, je me retrouve sans emploi, toujours chez mes parents. L'avenir ? Je le vois ailleurs, je prépare activement mon départ pour l'Angleterre.»\n\n<br/>**Amandine n'est pas une exception chez les jeunes. Les diplômes ne suffisent plus à assurer une situation stable en France et beaucoup de jeunes décident de partir à l'étranger pour obtenir un emploi.**",
         "query": "De quoi est-il question dans cet article ?",
         "options": [
             "La difficulté de trouver un stage à l'étranger.",
-            "La nécessite de s’exiler pour pouvoir travailler.",
+            "La nécessité de s’exiler pour pouvoir travailler.",
             "Le manque de formation des jeunes diplômés.",
             "Le niveau trop faible des salaires proposés."
         ],
@@ -236,11 +236,11 @@
     {
         "id": 19,
         "testId": 162,
-        "text": "*Dora Bruder*, publié en 1997, est considéré comme l'un des meilleurs romans de Patrick Modiano. L'écrivain aime fouiller l'histoire de la capitale et fréquente de nombreuses bibliothèques. Un jour, il tombe sur une annonce parue le 31 décembre 1941 dans Paris-soir :\n\n>« On recherche une jeune fille, Dora Bruder, 15 ans, 1m 55, visage ovale, yeux gris marron, manteau sport gris. Adresser toute indication à M. et Mme Bruder, 41, boulevard Ornano, Paris ».\n\nModiano va alors s'attacher à lever le mystère de cette disparition en entraînant le lecteur dans les rues du 18° arrondissement.",
+        "text": "*Dora Bruder*, publié en 1997, est considéré comme l'un des meilleurs romans de Patrick Modiano. L'écrivain aime fouiller l'histoire de la capitale et fréquente de nombreuses bibliothèques. Un jour, il tombe sur une annonce parue le 31 décembre 1941 dans Paris-soir :\n\n>« On recherche une jeune fille, Dora Bruder, 15 ans, 1m 55, visage ovale, yeux gris marron, manteau sport gris. Adresser toute indication à M. et Mme Bruder, 41, boulevard Ornano, Paris .»\n\nModiano va alors s'attacher à lever le mystère de cette disparition en entraînant le lecteur dans les rues du 18<sup>e</sup> arrondissement.",
         "query": "Que fait le journaliste dans cet extrait ?",
         "options": [
-            "Il cite un extrait d’une œuvre de Modiano.",
-            "Il explique l’idée de départ d’un livre de Modiano.",
+            "Il cite un extrait d'une œuvre de Modiano.",
+            "Il explique l'idée de départ d'un livre de Modiano.",
             "Il présente le métier de Modiano à ses débuts.",
             "Il raconte la rencontre entre Modiano et sa femme."
         ],
@@ -314,7 +314,7 @@
     {
         "id": 25,
         "testId": 162,
-        "text": "## <p style=\"text-align: center;\">Au cœur de l’Histoire</p>\n\nRevisiter l'histoire de France à la lumière de la société contemporaine, c'est le concept du nouveau magazine proposé par la chaîne de télévision France 5. Les citoyens sont invités à interagir avec la présentatrice et ses invités en communiquant leurs propres témoignages et documents. L'émission se décline en deux temps, avec un documentaire suivi d'un débat en public entre témoins anonymes et acteurs de l'Histoire. Ce débat est construit en amont grâce à des récits d'internautes sur le site de l'émission. Tous ceux qui le souhaitent peuvent poster sur la Toile vidéo, photos et anecdotes personnelles afin de croiser la petite et la grande Histoire.",
+        "text": "## <p style=\"text-align: center;\">Au cœur de l’Histoire</p>\n\nRevisiter l'histoire de France à la lumière de la société contemporaine, c'est le concept du nouveau magazine proposé par la chaîne de télévision France 5. Les citoyens sont invités à interagir avec la présentatrice et ses invités en communiquant leurs propres témoignages et documents. L'émission se décline en deux temps, avec un documentaire suivi d'un débat en public entre témoins anonymes et acteurs de l'Histoire. Ce débat est construit en amont grâce à des récits d'internautes sur le site de l'émission. Tous ceux qui le souhaitent peuvent poster sur la Toile vidéos, photos et anecdotes personnelles afin de croiser la petite et la grande Histoire.\n\n<br/>D'après Direct Matin",
         "query": "De quelle façon peut-on contribuer à cette nouvelle émission ?",
         "options": [
             "En envoyant des courriels sur la plateforme de l'émission.",
@@ -327,10 +327,10 @@
     {
         "id": 26,
         "testId": 162,
-        "text": "## <p style=\"text-align: center;\">Il veut réhabiliter la charcuterie</p>\n\n Le métier, bien sûr, mais aussi le produit. « On s'imagine un gros bonhomme avec un tablier taché de sang travaillant dans le froid, ironise Ludovic. C'est tout le contraire ! On travaille avec des matières nobles, dans des labos modernes. On s'éclate en cuisinant, on ne s'ennuie jamais. Quand elle est naturelle, la charcuterie est un excellent aliment, les nutritionnistes devraient faire preuve de discernement. » Autre obsession de ce puriste : la frontière des métiers. « Comment peut-on se prétendre à la fois boucher, charcutier et traiteur ? C'est un non-sens ! ».",
+        "text": "## <p style=\"text-align: center;\">Il veut réhabiliter la charcuterie.</p>\n\nLe métier, bien sûr, mais aussi le produit. « On s'imagine un gros bonhomme avec un tablier taché de sang travaillant dans le froid, ironise Ludovic. C'est tout le contraire ! On travaille avec des matières nobles, dans des labos modernes. On s'éclate en cuisinant, on ne s'ennuie jamais. Quand elle est naturelle, la charcuterie est un excellent aliment, les nutritionnistes devraient faire preuve de discernement. » Autre obsession de ce puriste : la frontière des métiers. « Comment peut-on se prétendre à la fois boucher, charcutier et traiteur ? C'est un non-sens ! ».",
         "query": "Quel message cet homme veut-il transmettre ?",
         "options": [
-            "L'avenir de son travail est menacé par l’industrie agroalimentaire.",
+            "L'avenir de son travail est menacé par l'industrie agroalimentaire.",
             "La qualité des produits charcutiers est reconnue par les médecins.",
             "Le passage d’un métier de bouche à un autre se fait facilement.",
             "L'image attachée à sa profession est stéréotypée et peu valorisante."
@@ -353,7 +353,7 @@
     {
         "id": 28,
         "testId": 162,
-        "text": "### <p style=\"text-align: center;\">L'huile de palme est l'huile la plus produite au monde.</p>\n\nUn tiers de nos produits de consommation courante en contiennent. Or, on lui reproche beaucoup de choses. Elle serait responsable du cholestérol. Autre problème, environnemental cette fois: la culture du palmier à huile étant très rentable, les surfaces de plantation ne cessent d'augmenter, souvent en lieu et place des forêts. Il existe pourtant d'autres huiles qui peuvent la remplacer mais c'est une solution plus onéreuse pour les industriels du secteur agro-alimentaire.",
+        "text": "### <p style=\"text-align: center;\">L'huile de palme est l'huile la plus produite au monde.</p>\n\nUn tiers de nos produits de consommation courante en contiennent. Or, on lui reproche beaucoup de choses. Elle serait responsable du cholestérol. Autre problème, environnemental cette fois : la culture du palmier à huile étant très rentable, les surfaces de plantation ne cessent d'augmenter, souvent en lieu et place des forêts. Il existe pourtant d'autres huiles qui peuvent la remplacer mais c'est une solution plus onéreuse pour les industriels du secteur agro-alimentaire.\n\n<br/>D'après *www.liberation.fr*",
         "query": "Pourquoi l'huile de palme est-elle produite massivement ?",
         "options": [
             "C'est un produit recherché par les consommateurs.",
@@ -366,7 +366,7 @@
     {
         "id": 29,
         "testId": 162,
-        "text": "Deux mondes s'affrontent: ceux de l'ancienne agriculture et de la nouvelle. Le productivisme soutenu par la chimie a fait progresser comme jamais les rendements agricoles, nourri la planète et abaissé le prix des denrées. Mais il a fait son temps. Les tenants du passé, dont on peut comprendre les motivations, tant les agriculteurs travaillent sous la pression éreintante de la compétitivité, soutiennent qu'il n'existe pas d'autre solution. Notre enquête montre le contraire: l'alliance de la technologie et de l'écologie pour remplacer des substances nocives par une panoplie de techniques inédites offre une alternative originale, crédible et soutenable à la dispersion incontrôlée de composants chimiques nuisibles à tous. C'est la voie de la sagesse autant que de la modernité.",
+        "text": "Deux mondes s'affrontent : ceux de l'ancienne agriculture et de la nouvelle. Le productivisme soutenu par la chimie a fait progresser comme jamais les rendements agricoles, nourri la planète et abaissé le prix des denrées. Mais il a fait son temps. Les tenants du passé, dont on peut comprendre les motivations, tant les agriculteurs travaillent sous la pression éreintante de la compétitivité, soutiennent qu'il n'existe pas d'autre solution. Notre enquête montre le contraire : l'alliance de la technologie et de l'écologie pour remplacer des substances nocives par une panoplie de techniques inédites offre une alternative originale, crédible et soutenable à la dispersion incontrôlée de composants chimiques nuisibles à tous. C'est la voie de la sagesse autant que de la modernité.\n\n<br/><p style=\"text-align: right;\">D'après <i>Libération.fr</p>",
         "query": "Que défend le journaliste ?",
         "options": [
             "L'accès universel à des aliments bon marché.",
@@ -447,17 +447,17 @@
         "text": "Très controversée, la semaine de quatre jours à l'école est dénoncée dans un rapport parlementaire. Les députés proposent de revenir à la semaine de quatre journées et demie et de réduire la période des vacances estivales. La mission parlementaire livre des conclusions sévères à l'encontre du rythme scolaire actuel, qui serait « aberrant » et « délirant » pour les écoliers. Selon un député, on peut dire, a posteriori, que c'est une erreur, « on a privilégié le rythme des parents et des enseignants au détriment de celui des enfants », dit-il. En France, la scolarisation annuelle est de 144 jours, contre une moyenne de 180 pour les pays développés. « Il faut laisser le temps scolaire », estime une experte.",
         "query": "Que reprochent les députés à la semaine de quatre jours ?",
         "options": [
-            "De laisser trop de temps à l’oisiveté.",
+            "De laisser trop de temps à l'oisiveté.",
             "De s'écarter du modèle éducatif légal.",
             "De satisfaire avant tous les adultes.",
-            "D'être à l’origine de l'échec scolaire."
+            "D'être à l'origine de l'échec scolaire."
         ],
         "answer": 2
     },
     {
         "id": 36,
         "testId": 162,
-       "text": "Un vingt-sixième album de François Hardy. La pluie sans parapluie, est forcément un événement. On sait que le public qui achète encore des disque passe volontiers à la caisse, pour montrer sa fidélité, ou simplement son envie de vibrer avec cette voix unique et si familière avec laquelle elle semble d’ailleurs plus en confiance que jamais. Elle module, appuie, interprète, joue avec souplesse de son phrasé, alors que les aficionados se contenteraient juste de ce grain unique et révéré. C’est un album pour ceux qui ont le temps, qui ne consomment pas la musique en tant qu’application sonore de la vie actuelle. Il faut se retrancher pour en saisir la saveur et la goûter. Un disque comme autrefois, avec un son soigné et de l’émotion. Mais surtout une élégance comme on n’en fait plus.",
+        "text": "Un vingt-sixième album de François Hardy. La pluie sans parapluie, est forcément un événement. On sait que le public qui achète encore des disque passe volontiers à la caisse, pour montrer sa fidélité, ou simplement son envie de vibrer avec cette voix unique et si familière avec laquelle elle semble d’ailleurs plus en confiance que jamais. Elle module, appuie, interprète, joue avec souplesse de son phrasé, alors que les aficionados se contenteraient juste de ce grain unique et révéré. C’est un album pour ceux qui ont le temps, qui ne consomment pas la musique en tant qu’application sonore de la vie actuelle. Il faut se retrancher pour en saisir la saveur et la goûter. Un disque comme autrefois, avec un son soigné et de l’émotion. Mais surtout une élégance comme on n’en fait plus.",
         "query": "Selon le journaliste, quel type de public pourrait s’intéresser au dernier album de F. Hardy?",
         "options": [
             "Les acheteurs opposés au téléchargement illégal.",
@@ -483,7 +483,7 @@
     {
         "id": 38,
         "testId": 162,
-        "text": "Mara Maudet, à son arrivée en France, constate que la politique d'insertion des foyers démunis et celle dédiée à la petite enfance sont déconnectées l’une de l'autre. Pour cette Brésilienne « un parent sans emploi doit être prioritaire pour obtenir une place en crèche. Tout le contraire des critères actuels. Elle crée alors l'IEPC (Institut d'éducation et des pratiques citoyennes) et constitue un réseau de crèches associatives dont le principe est qu'en échange d'une place pour son enfant sur une plage horaire de 13 heures, le parent célibataire - le plus souvent des mères - s'engage à trouver un emploi dans les mois suivants. Il bénéficie alors, dans les locaux de la crèche, d'un accompagnement professionnel personnalisé.",
+        "text": "Mara Maudet, à son arrivée en France, constate que la politique d'insertion des foyers démunis et celle dédiée à la petite enfance sont déconnectées l’une de l'autre. Pour cette Brésilienne « un parent sans emploi doit être prioritaire pour obtenir une place en crèche.» Tout le contraire des critères actuels. Elle crée alors l'IEPC (Institut d'éducation et des pratiques citoyennes) et constitue un réseau de crèches associatives dont le principe est qu'en échange d'une place pour son enfant sur une plage horaire de 13 heures, le parent célibataire - le plus souvent des mères - s'engage à trouver un emploi dans les mois suivants. Il bénéficie alors, dans les locaux de la crèche, d'un accompagnement professionnel personnalisé.",
         "query": "Quel est l'objectif de l'IEPC ?",
         "options": [
             "Embaucher des parents défavorisés.",
@@ -500,8 +500,8 @@
         "query": "Selon cette critique, quel est l'apport de ce dernier ensemble de courts-métrages ?",
         "options": [
             "Il constitue une création artistique novatrice.",
-            "Il établit des ponts avec d’autres auteurs.",
-            "Il fait connaître les travaux d’un écrivain.",
+            "Il établit des ponts avec d'autres auteurs.",
+            "Il fait connaître les travaux d'un écrivain.",
             "Il ouvre la voie à de prochaines réalisations."
         ],
         "answer": 2

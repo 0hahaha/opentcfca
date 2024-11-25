@@ -2,7 +2,7 @@
     {
         "id": 1,
         "testId": 156,
-        "text": "- **500 euros/mois**: Location deux pièces, cuisine, vue sur mer.",
+        "text": "- **500 euros/mois**: location deux pièces, cuisine, vue sur mer.",
         "query": "Que présente cette annonce ?",
         "options": [
             "Un appartement.",
@@ -15,11 +15,11 @@
     {
         "id": 2,
         "testId": 156,
-        "text": "### <p style=\"text-align: center;\">ÉTUDIANTS INTERNATIONAUX : NE RESTEZ PAS SEULS !</p>\n\n<p style=\"text-align: center;\">Inscrivez-vous dans l'association de l'Université pour :</p>\n\n- Discuter avec des étudiants français ;\n- Participer à des groupes de conversation ;\n- Faire des activités ensemble : sport, shopping, visites, sorties...\n\n<p style=\"text-align: center;\">ET TOUT EST GRATUIT !</p>",
+        "text": "---\n### <p style=\"text-align: center;\">ÉTUDIANTS INTERNATIONAUX : NE RESTEZ PAS SEULS !</p>\n\n<br/>Inscrivez-vous dans l'association de l'Université pour:\n\n- discuter avec des étudiants français;\n- participer à des groupes de conversation;\n- faire des activités ensemble: sport, shopping, visite, sorties...\n\n### <p style=\"text-align: center;\">ET TOUT EST GRATUIT !</p>\n---",
         "query": "Que propose cette association ?",
         "options": [
             "Des cours particuliers.",
-            "Des jobs pendant le Week-end.",
+            "Des jobs pendant le week-end.",
             "Des rencontres entre jeunes.",
             "Des voyages à l'étranger."
         ],
@@ -54,8 +54,8 @@
     {
         "id": 5,
         "testId": 156,
-        "text": "**Salut Paul,**\n\n<br/>Je t'écris du Canada. J'ai rencontré un étudiant mexicain. Je suis contente de parler ma langue avec lui, car l'Espagne me manque beaucoup ! En juin, nous suivons ensemble une formation en Italie. Je t'appelle bientôt.\n\n<br/>Bises,\n\n<br/>**Elsa**",
-        "query": "Quelle est la nationalité d’Elsa ?",
+        "text": "Salut Paul,\n\n<br/>Je t'écris du Canada. J'ai rencontré un étudiant mexicain. Je suis contente de parler ma langue avec lui, car l'Espagne me manque beaucoup ! En juin, nous suivons ensemble une formation en Italie. Je t'appelle bientôt.\n\n<br/>Bises,\n\n<br/>**Elsa**",
+        "query": "Quelle est la nationalité d'Elsa ?",
         "options": [
             "Canadienne.",
             "Espagnole.",
@@ -158,10 +158,10 @@
     {
         "id": 13,
         "testId": 156,
-        "text": "Je ne suis pas journaliste, mais quand on aime quelque chose, on veut le faire découvrir aux autres. Mon émission consacrée au jazz et au blues existe depuis sept ans! C'est avant tout une façon d'amener les gens sur son terrain, sur les choses qu'on aime et de leur faire comprendre pourquoi on les aime, leur donner envie d'en savoir plus. Et voilà, j'ai trouvé la radio comme vecteur et j'aime ça mais je ne suis qu'un simple musicien-animateur.",
+        "text": "Je ne suis pas journaliste, mais quand on aime quelque chose, on veut le faire découvrir aux autres. Mon émission consacrée au jazz et au blues existe depuis sept ans! C'est avant tout une façon d'amener les gens sur son terrain, sur les choses qu'on aime et de leur faire comprendre pourquoi on les aime, leur donner envie d'en savoir plus. Et voilà, j'ai trouvé la radio comme vecteur et j'aime ça, mais je ne suis qu'un simple musicien-animateur.",
         "query": "Pour quelle raison cet homme fait-il de la radio ?",
         "options": [
-            "C’est son mode de communication favori.",
+            "C'est son mode de communication favori.",
             "Il a entamé une formation de journaliste.",
             "Il peut partager sa passion avec un public.",
             "Pour répondre aux attentes de son public."
@@ -223,7 +223,7 @@
     {
         "id": 18,
         "testId": 156,
-        "text": "Notre association peut aider les étudiants qui habitent seuls et les personnes qui ne gagnent pas beaucoup d'argent à payer leur loyer. Cette aide peut aller jusqu'à 75% de votre loyer et vous permet d'obtenir une réduction sur les frais d'électricité et de gaz. Pour savoir si vous pouvez recevoir cette aide, plusieurs solutions s'offrent à vous :\n\n1. Vous rencontrez un des conseillers de notre association qui ouvrira un dossier de demande avec vous.\n2. Vous remplissez le questionnaire allocation logement sur notre site internet.",
+        "text": "Notre association peut aider les étudiants qui habitent seuls et les personnes qui ne gagnent pas beaucoup d'argent à payer leur loyer. Cette aide peut aller jusqu'à 75% de votre loyer et vous permet d'obtenir une réduction sur les frais d'électricité et de gaz. Pour savoir si vous pouvez recevoir cette aide, plusieurs solutions s'offrent à vous :\n\n1. vous rencontrez un des conseillers de notre association qui ouvrira un dossier de demande avec vous;\n2. vous remplissez le questionnaire allocation logement sur notre site internet.",
         "query": "À qui s'adresse ce message ?",
         "options": [
             "Aux familles qui ont des factures élevées.",
@@ -236,11 +236,11 @@
     {
         "id": 19,
         "testId": 156,
-        "text": "*Dora Bruder*, publié en 1997, est considéré comme l'un des meilleurs romans de Patrick Modiano. L'écrivain aime fouiller l'histoire de la capitale et fréquente de nombreuses bibliothèques. Un jour, il tombe sur une annonce parue le 31 décembre 1941 dans Paris-soir :\n\n>« On recherche une jeune fille, Dora Bruder, 15 ans, 1m 55, visage ovale, yeux gris marron, manteau sport gris. Adresser toute indication à M. et Mme Bruder, 41, boulevard Ornano, Paris ».\n\nModiano va alors s'attacher à lever le mystère de cette disparition en entraînant le lecteur dans les rues du 18<sup>e</sup> arrondissement.",
+        "text": "*Dora Bruder*, publié en 1997, est considéré comme l'un des meilleurs romans de Patrick Modiano. L'écrivain aime fouiller l'histoire de la capitale et fréquente de nombreuses bibliothèques. Un jour, il tombe sur une annonce parue le 31 décembre 1941 dans Paris-soir :\n\n>« On recherche une jeune fille, Dora Bruder, 15 ans, 1m 55, visage ovale, yeux gris marron, manteau sport gris. Adresser toute indication à M. et Mme Bruder, 41, boulevard Ornano, Paris .»\n\nModiano va alors s'attacher à lever le mystère de cette disparition en entraînant le lecteur dans les rues du 18<sup>e</sup> arrondissement.",
         "query": "Que fait le journaliste dans cet extrait ?",
         "options": [
-            "Il cite un extrait d’une œuvre de Modiano.",
-            "Il explique l’idée de départ d’un livre de Modiano.",
+            "Il cite un extrait d'une œuvre de Modiano.",
+            "Il explique l'idée de départ d'un livre de Modiano.",
             "Il présente le métier de Modiano à ses débuts.",
             "Il raconte la rencontre entre Modiano et sa femme."
         ],
@@ -249,7 +249,7 @@
     {
         "id": 20,
         "testId": 156,
-        "text": "Ralentissement du traitement de l'information, baisse de l'attention et de notre mémorisation à court terme... Avec l'âge, le vieillissement du cerveau semble inévitable. Pourtant, notre santé cognitive dépend aussi de notre mode de vie. Il est ainsi primordial, après la soixantaine, de conserver une vie active, physiquement par une pratique sportive régulière et aussi intellectuellement en sollicitant nos fonctions mentales par un apprentissage permanent. Pour cela, il est essentiel de garder une vie sociale riche d'interaction avec les autres et également de cultiver des activités, associatives ou sportives, par exemple.",
+        "text": "Ralentissement du traitement de l'information, baisse de l'attention et de notre mémorisation à court terme... Avec l'âge, le vieillissement du cerveau semble inévitable. Pourtant, notre santé cognitive dépend aussi de notre mode de vie. Il est ainsi primordial, après la soixantaine, de conserver une vie active, physiquement par une pratique sportive régulière et aussi intellectuellement en sollicitant nos fonctions mentales par un apprentissage permanent. Pour cela, il est essentiel de garder une vie sociale riche d'interactions avec les autres et également de cultiver des activités, associatives ou sportives, par exemple.",
         "query": "Quel est l'objectif des conseils donnés dans cet article ?",
         "options": [
             "Améliorer les capacités physiques.",
@@ -288,8 +288,8 @@
     {
         "id": 23,
         "testId": 156,
-        "text": "Le smartphone participe à l’entretien d’un lien pathologique de plus en plus répandu, le désir de mainmise des parents sur les adolescents. La crise d’adolescence confronte les parents au désir d’autonomie de l’adolescent, et les oblige à faire le deuil de leur position de parent. Cela suppose qu’ils lâchent prise et fassent confiance à leur enfant. Mais de plus en plus de parents souhaitent que leur ado reste à la maison. Le smartphone, qui permet de rester en lien avec ses copains, arrange donc les parents.",
-        "query": "Quel constat fait l’auteur à propos des smartphones ?",
+        "text": "Le smartphone participe à l'entretien d'un lien pathologique de plus en plus répandu, le désir de mainmise des parents sur les adolescents. La crise d'adolescence confronte les parents au désir d'autonomie de l'adolescent, et les oblige à faire le deuil de leur position de parent. Cela suppose qu'ils lâchent prise et fassent confiance à leur enfant. Mais de plus en plus de parents souhaitent que leur ado reste à la maison. Le smartphone, qui permet de rester en lien avec ses copains, arrange donc les parents.\n\n<p style=\"text-align: right;\">D'après <i>lexpress.fr</i></p>",
+        "query": "Quel constat fait l'auteur à propos des smartphones ?",
         "options": [
             "Ils éloignent les jeunes du monde des adultes.",
             "Ils entraînent des comportements de type addictif.",
@@ -302,12 +302,12 @@
         "id": 24,
         "testId": 156,
         "text": "### <p style=\"text-align: center;\">Dans le monde de l'éducation, la mode est au</p>\n\n# <p style=\"text-align: center;\">« Ludique »</p>\n\nPas une description d'un nouveau matériel informatique sans l'utilisation de cet adjectif miraculeux. N'ayant rien de mieux à offrir, les publicitaires insistent sur le côté « ludique » et neutre de leur matériel, sous-entendant ainsi que les difficultés des enfants sont liées uniquement au côté poussiéreux de la présentation d'exercices et à l'ennui qu'ils suscitent. En changeant l'apparence, on suscitera l'intérêt et la réussite sera assurée. La rééducation risque d'être perçue comme la modernisation de la pédagogie sans autre questionnement sur l'échec de la pédagogie traditionnelle.",
-        "query": "Que reproche l’auteur du texte à la mode du ludique ?",
+        "query": "Que reproche l'auteur du texte à la mode du ludique ?",
         "options": [
             "Elle demande des connaissances techniques poussées.",
             "Elle empêche les jeunes utilisateurs de se concentrer.",
             "Elle masque les problèmes pédagogiques essentiels.",
-            "Elle sert sans succès d’argument commercial."
+            "Elle sert sans succès d'argument commercial."
         ],
         "answer": 2
     },
@@ -393,7 +393,7 @@
         "id": 31,
         "testId": 156,
         "text": "Paul Bocuse n'était pas le plus créatif, ni le meilleur technicien de cette génération de chefs d'exception qui a vu éclore des cuisiniers de renommée internationale. Mais il avait une vision, du culot et un véritable talent de meneur.\n\nHistoire de donner une stature plus imposante aux cuisiniers, il a lancé la mode de la fameuse veste blanche « grand chef », avec le nom brodé sur la poitrine et le port de la toque démesurée qui évoque la coiffe des pharaons.\n\nDès ses débuts, sa personnalité et son sens de la formule ont fait mouche auprès de la presse, qui a publié de nombreux portraits flatteurs, faisant affluer les clients dans son restaurant.",
-        "query": "D’après ce journaliste, quelle a été la clé du succès de Paul Bocuse?",
+        "query": "D'après ce journaliste, quelle a été la clé du succès de Paul Bocuse?",
         "options": [
             "Sa connaissance des médias.",
             "Ses méthodes ancestrales.",
@@ -405,7 +405,7 @@
     {
         "id": 32,
         "testId": 156,
-        "text": "Au début de l'adolescence, vers 11-12 ans, les enfants aspirent à l'autonomie. C'est à cette période que les écrans jouent un rôle important au niveau de leur intégration sociale mais aussi que les risques d'excès se profilent. «*Les parents doivent abandonner leur position de prescription et passer à une position d'accompagnement*». Le docteur Huerre leur recommande donc d'explorer avec leur enfant les jeux qui l'intéressent et la manière qu'il a de circuler sur la toile, afin de faciliter les échanges. «*Au lieu d'avoir peur des jeux vidéo, demandez-lui de vous le montrer et n'hésitez pas à jouer avec lui. Certains procurent un réel plaisir visuel et esthétique*», conseille-t-il.",
+        "text": "Au début de l'adolescence, vers 11-12 ans, les enfants aspirent à l'autonomie. C'est à cette période que les écrans jouent un rôle important au niveau de leur intégration sociale mais aussi que les risques d'excès se profilent. «*Les parents doivent abandonner leur position de prescription et passer à une position d'accompagnement*». Le docteur Huerre leur recommande donc d'explorer avec leur enfant les jeux qui l'intéressent et la manière qu'il a de circuler sur la toile, afin de faciliter les échanges. «*Au lieu d'avoir peur des jeux vidéo, demandez-lui de vous les montrer et n'hésitez pas à jouer avec lui. Certains procurent un réel plaisir visuel et esthétique*», conseille-t-il.",
         "query": "Que préconise le médecin aux parents?",
         "options": [
             "De participer à l'exploration du monde numérique.",
@@ -444,8 +444,8 @@
     {
         "id": 35,
         "testId": 156,
-        "text": "Le discours écologique actuel est très factuel, «pratico-pratique» comme si on n’osait pas parler de cette beauté dont nous avons pourtant besoin pour nous épanouir. C’est peut-être l’une des raisons pour laquelle l’écologie politique ne rallie pas tant que ça. Si on n’est pas sensible à la terre, aux végétaux, on devient un technicien de l’écologie, on emploie un langage neutre et rassurant, fait d’«environnement» et de «développement durable». Mais il faut pouvoir parler de la beauté spécifique de la nature qui nous enchante, qui nous fait vibrer. Nous avons besoin de nous nourrir de sa splendeur, de son mystère, et pas seulement de ses aspects matériels, pratiques, biologiques.",
-        "query": "Selon l’intervenant, qu’est-ce qui caractérise le discours écologique actuel?",
+        "text": "Le discours écologique actuel est très factuel, «pratico-pratique», comme si on n'osait pas parler de cette beauté dont nous avons pourtant besoin pour nous épanouir. C'est peut-être l'une des raisons pour laquelle l'écologie politique ne rallie pas tant que ça. Si on n'est pas sensible à la terre, aux végétaux, on devient un technicien de l'écologie, on emploie un langage neutre et rassurant, fait d'«environnement» et de «développement durable». Mais il faut pouvoir parler de la beauté spécifique de la nature qui nous enchante, qui nous fait vibrer. Nous avons besoin de nous nourrir de sa splendeur, de son mystère, et pas seulement de ses aspects matériels, pratiques, biologiques.",
+        "query": "Selon l'intervenant, qu'est-ce qui caractérise le discours écologique actuel ?",
         "options": [
             "Il apaise les tensions de la société.",
             "Il insiste sur le point de vue matériel.",
@@ -457,7 +457,7 @@
     {
         "id": 36,
         "testId": 156,
-        "text": "On connait Cézanne surtout pour ses paysages, mais le Musée d'Orsay montre, pour la première fois, une partie méconnue de l'œuvre de l'artisan. On y croisera ainsi le visage de son épouse, seul motif autant étudié par le peintre que la montagne Sainte-victoire. Au fil des versions, Hortense Fiquet devient l'objet d'une recherche plastique, de mise en scène et de géométrisation des formes. Mais Cézanne peut aussi avoir le pinceau cruel. Dès ses débuts, les figures de son père et de sa mère sont tourmentées. Lui-même se représente à 27 ans, patibulaire et le regard injecté de sang. À la fin de sa vie, Cézanne choisit des anonymes du monde rural. Ses tableaux ne sont alors qu'une autre forme de paysage.",
+        "text": "On connait Cézanne surtout pour ses paysages, mais le Musée d'Orsay montre, pour la première fois, une partie méconnue de l'œuvre de l'artiste. On y croisera ainsi le visage de son épouse, seul motif autant étudié par le peintre que la montagne Sainte-Victoire. Au fil des versions, Hortense Fiquet devient l'objet d'une recherche plastique, de mise en scène et de géométrisation des formes. Mais Cézanne peut aussi avoir le pinceau cruel. Dès ses débuts, les figures de son père et de sa mère sont tourmentées. Lui-même se représente à 27 ans, patibulaire et le regard injecté de sang. À la fin de sa vie, Cézanne choisit des anonymes du monde rural. Ses tableaux ne sont alors qu'une autre forme de paysage.",
         "query": "Que souligne cette exposition sur Paul Cézanne ?",
         "options": [
             "L'influence de ses contemporains.",
@@ -470,8 +470,8 @@
     {
         "id": 37,
         "testId": 156,
-        "text": "Suite à un accident chimique sur un site minier, les pouvoirs publics ont décidé d'obliger les sociétés minières à financer des programmes de recherche et à replanter les surfaces exploitées. Et de fait, les compagnies minières jouent très bien le jeu. Comme il serait bien naïf de penser que leurs dirigeants soient tout à coup devenus philanthropes, il faut chercher la raison de cet intérêt ailleurs. Il se trouve qu'un scientifique, Anthony Van der Hent, a prouvé que des « super-plantes » avaient la faculté d'extraire du sol des métaux économiquement exploitables. C'est donc la possibilité d'allier la régénération de sites industriels à des assurances de gains financiers supplémentaires qui motivent tant les industriels.",
-        "query": "Sur quel point porte le scepticisme du journaliste?",
+        "text": "Suite à un accident chimique sur un site minier, les pouvoirs publics ont décidé d'obliger les sociétés minières à financer des programmes de recherche et à replanter les surfaces exploitées. Et de fait, les compagnies minières jouent très bien le jeu. Comme il serait bien naïf de penser que leurs dirigeants soient tout à coup devenus philanthropes, il faut chercher la raison de cet intérêt ailleurs. Il se trouve qu'un scientifique, Anthony Van der Hent, a prouvé que des « super-plantes » avaient la faculté d'extraire du sol des métaux économiquement exploitables. C'est donc la possibilité d'allier la régénération de sites industriels à des assurances de gains financiers supplémentaires qui motive tant les industriels.\n\n<br/><p style=\"text-align: right;\">D'après <i>Fruits et abeilles</i></p>",
+        "query": "Sur quel point porte le scepticisme du journaliste ?",
         "options": [
             "La capacité des plantes à nettoyer les sols.",
             "La rentabilité d’un nouveau système d'extraction.",
@@ -500,8 +500,8 @@
         "query": "Selon cette critique, quel est l'apport de ce dernier ensemble de courts-métrages ?",
         "options": [
             "Il constitue une création artistique novatrice.",
-            "Il établit des ponts avec d’autres auteurs.",
-            "Il fait connaître les travaux d’un écrivain.",
+            "Il établit des ponts avec d'autres auteurs.",
+            "Il fait connaître les travaux d'un écrivain.",
             "Il ouvre la voie à de prochaines réalisations."
         ],
         "answer": 2

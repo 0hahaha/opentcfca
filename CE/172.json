@@ -106,7 +106,7 @@
     {
         "id": 9,
         "testId": 172,
-        "text": "De : jean.Roussel@epicesexotiques.com\n\nA: georges.Rouault@epicesexotiques.com\n\nGeorges, je reste à Montélimar une semaine de plus parce que les ventes sur les marchés sont très bonnes. Est-ce que tu peux rencontrer les gens des magasins Biotopia à ma place ? Appelle-moi si tu as besoin.\n\nJean",
+        "text": "De : Jean.Roussel@epicesexotiques.com\n\nA: georges.Rouault@epicesexotiques.com\n\nGeorges, je reste à Montélimar une semaine de plus parce que les ventes sur les marchés sont très bonnes. Est-ce que tu peux rencontrer les gens des magasins Biotopia à ma place ? Appelle-moi si tu as besoin.\n\nJean",
         "query": "Que va faire Jean Roussel ?",
         "options": [
             "Continuer ses ventes.",
@@ -158,7 +158,7 @@
     {
         "id": 13,
         "testId": 172,
-        "text": "Bonjour, j'ai commandé une robe (réf. 35100) sur votre site « mamode.com » il y a deux mois. Je devais le recevoir le 5 octobre. Or nous sommes le 5 novembre et, malgré mes nombreuses réclamations, je ne l'ai toujours pas reçue. Je vous demande de me rembourser le plus rapidement possible. Un geste commercial sous la forme d'un cadeau serait bienvenu. Merci.",
+        "text": "Bonjour, j'ai commandé une robe (réf. 35100) sur votre site « mamode.com » il y a deux mois. Je devais la recevoir le 5 octobre. Or nous sommes le 5 novembre et, malgré mes nombreuses réclamations, je ne l'ai toujours pas reçue. Je vous demande de me rembourser le plus rapidement possible. Un geste commercial sous la forme d'un cadeau serait bienvenu. Merci.",
         "query": "Que veut la cliente ?",
         "options": [
             "Annuler son achat.",
@@ -171,7 +171,7 @@
     {
         "id": 14,
         "testId": 172,
-        "text": "Après les cartes de cinéma illimitées, la carte Scène+ ! Paris est la première ville à tester cette formule : des places à tarifs réduits à utiliser quand on veut, dans quarante théâtres environ, pour aller voir plus de 150 pièces. On achète la carte, valable un mois ou un semestre et on peut aller dans les petites scènes de théâtre parisiennes qui accueillent surtout des comédies populaires plutôt que des pièces classiques.",
+        "text": "# Scène+\n\nLa nouvelle carte Scène+\n\nAprès les cartes de cinéma illimitées, la carte Scène+ ! Paris est la première ville à tester cette formule : des places à tarifs réduits à utiliser quand on veut, dans quarante théâtres environ, pour aller voir plus de 150 pièces. On achète la carte, valable un mois ou un semestre et on peut aller dans les petites scènes de théâtre parisiennes qui accueillent surtout des comédies populaires plutôt que des pièces classiques.\n\n<br/><p style=\"text-align: right;\">D'après <i>Télérama</i></p>",
         "query": "Que peut-on faire avec la carte Scène+ ?",
         "options": [
             "Assister à des spectacles.",
@@ -184,8 +184,8 @@
     {
         "id": 15,
         "testId": 172,
-        "text": "Delphine Peras a enquêté sur les clubs de lecture pour notre magazine. Elle a eu des difficultés à les trouver, car il s'agit souvent de groupes privés. Il fallait faire une liste des clubs durables, car beaucoup suivent la mode et ont une durée de vie très courte. Ce n'est pas le cas de *Voix au chapitre* qui existe depuis 1986 ! Les rencontres fonctionnent suivantes une formule simple : autour d'un café, chaque participant donne son avis sur un livre puis tous en discutent.",
-        "query": "Quelle difficulté Delphine Peras a-t-elle rencontre lors de son enquête ?",
+        "text": "Delphine Peras a enquêté sur les clubs de lecture pour notre magazine. Elle a eu des difficultés à les trouver, car il s'agit souvent de groupes privés. Il fallait faire une liste des clubs durables, car beaucoup suivent la mode et ont une durée de vie très courte. Ce n'est pas le cas de *Voix au chapitre* qui existe depuis 1986 ! Les rencontres fonctionnent suivantes une formule simple : autour d'un café, chaque participant donne son avis sur un livre puis tous en discutent.\n\n<br/><p style=\"text-align: right;\">D'après Lire</p>",
+        "query": "Quelle difficulté Delphine Peras a-t-elle rencontrée lors de son enquête ?",
         "options": [
             "Les clubs disparaissaient vite après leur création.",
             "Les groupes concernés étaient trop nombreux.",
@@ -210,7 +210,7 @@
     {
         "id": 17,
         "testId": 172,
-        "text": "Mal de tête, de ventre où de dos, allergies... Combien de fois ces petits désagréments du quotidien vous ont-ils conduit à consulter votre médecin ? Un neurochirurgien parisien a imaginé une application capable de fournir un pré-diagnostic et de conseiller la personne sur la marche à suivre à partir d'une série de questions. « *Bien sûr, il ne s'agit pas de remplacer les médecins généralistes ou les spécialistes, rassure le créateur. L'idée est simplement de faire un tri entre les petits maux du quotidien, qui peuvent être traités par les gens eux-mêmes, et les maladies plus graves qui ne nécessitent une visite médicale.* »\n\n\n\n<br/><p style=\"text-align: right;\">D'après <i>Sciences Humaines</i></p>",
+        "text": "Mal de tête, de ventre où de dos, allergies... Combien de fois ces petits désagréments du quotidien vous ont-ils conduit à consulter votre médecin ? Un neurochirurgien parisien a imaginé une application capable de fournir un pré-diagnostic et de conseiller la personne sur la marche à suivre à partir d'une série de questions. « *Bien sûr, il ne s'agit pas de remplacer les médecins généralistes ou les spécialistes, rassure le créateur. L'idée est simplement de faire un tri entre les petits maux du quotidien, qui peuvent être traités par les gens eux-mêmes, et les maladies plus graves qui ne nécessitent une visite médicale.* »\n\n<br/><p style=\"text-align: right;\">D'après <i>Sciences Humaines</i></p>",
         "query": "Que permet cette application ?",
         "options": [
             "D'acheter des médicaments sans ordonnance.",
@@ -249,7 +249,7 @@
     {
         "id": 20,
         "testId": 172,
-        "text": "La Ligue de Football Professionnel vient d'annoncer que l'assistance vidéo sera prochainement introduite en première ligue. Mais la polémique demeure sur sa nécessité « *Quand il y aura un but dans un stade, les gens devront attendre* », s'inquiète un ancien défenseur de première ligue. Pour lui, « *on oublie l'essence même du football, qui est la joie, la folie. On ne va même plus profiter des buts* ». Généralement, un arrêt de jeu ne doit pas dépasser 30 secondes, or « *actuellement on est souvent à 50 secondes parce que le système n'est pas encore tout à fait performant.* »\n\n<br/><p style=\"text-align: right;\">D'après <i>capital.fr</i></p>",
+        "text": "La Ligue de Football Professionnel vient d'annoncer que l'assistance vidéo sera prochainement introduite en première ligue. Mais la polémique demeure sur sa nécessité. « *Quand il y aura un but dans un stade, les gens devront attendre* », s'inquiète un ancien défenseur de première ligue. Pour lui, « *on oublie l'essence même du football, qui est la joie, la folie. On ne va même plus profiter des buts* ». Généralement, un arrêt de jeu ne doit pas dépasser 30 secondes, or « *actuellement on est souvent à 50 secondes parce que le système n'est pas encore tout à fait performant.* »\n\n<br/><p style=\"text-align: right;\">D'après <i>capital.fr</i></p>",
         "query": "Quelle est la conséquence de l'assistance vidéo pour le football ?",
         "options": [
             "Un manque d'intérêt du grand public.",
@@ -327,7 +327,7 @@
     {
         "id": 26,
         "testId": 172,
-        "text": "La revue *Science et Avenir* cite une étude de l'université de Cambridge dans lequel des chercheurs en psychologie et en éducation rapportaient les attitudes des écoliers à l'égard des mathématiques. Les scientifiques décrivent chez les petits Britanniques un sentiment de dégoût, de frustration ou de peur. Des observations qui reflètent exactement ce qui se passe en France. De nombreux enfants sont confrontés à un véritable blocage en manifestant tous les signes du stress, ce qui entraîne des effets négatifs sur les fonctions cognitives. Selon certains professeurs, les mathématiques apparaissent beaucoup trop techniques et déconnectées du monde qui nous entoure, alors que pour réconcilier les écoliers avec les maths, il faudrait les enseigner comme un outil de réflexion ancré dans le quotidien.",
+        "text": "La revue *Science et Avenir* cite une étude de l'université de Cambridge dans laquelle des chercheurs en psychologie et en éducation rapportaient les attitudes des écoliers à l'égard des mathématiques. Les scientifiques décrivent chez les petits Britanniques un sentiment de dégoût, de frustration ou de peur. Des observations qui reflètent exactement ce qui se passe en France. De nombreux enfants sont confrontés à un véritable blocage en manifestant tous les signes du stress, ce qui entraîne des effets négatifs sur les fonctions cognitives. Selon certains professeurs, les mathématiques apparaissent beaucoup trop techniques et déconnectées du monde qui nous entoure, alors que pour réconcilier les écoliers avec les maths, il faudrait les enseigner comme un outil de réflexion ancré dans le quotidien.",
         "query": "Qu'explique ce texte à propos de l'enseignement des mathématiques ?",
         "options": [
             "De nouvelles pédagogies semblent nécessaires.",
@@ -340,12 +340,12 @@
     {
         "id": 27,
         "testId": 172,
-        "text": "Pourrait-on nourrir les 9 milliards d'humains que comptera la Terre en 2050 uniquement par l'agriculture biologique ? Oui, répondent certains chercheurs. Mais selon eux, la tâche sera difficile, car pour se défaire des pesticides, des engrais de synthèse et des OGM, il faudrait absolument diminuer la consommation de viande et le gaspillage alimentaire. Et même à ces conditions, il resterait encore des obstacles au « tout bio ». Alors, agriculture biologique ou conventionnelle ? Les incertitudes scientifiques demeurent quant à leurs réels impacts sur les rendements et les prédictions sur ce sujet sont encore floues.",
+        "text": "Pourrait-on nourrir les 9 milliards d'humains que comptera la Terre en 2050 uniquement par l'agriculture biologique ? Oui, répondent certains chercheurs. Mais selon eux, la tâche sera difficile car pour se défaire des pesticides, des engrais de synthèse et des OGM, il faudrait absolument diminuer la consommation de viande et le gaspillage alimentaire. Et même à ces conditions, il resterait encore des obstacles au « tout bio ». Alors, agriculture biologique ou conventionnelle ? Les incertitudes scientifiques demeurent quant à leurs réels impacts sur les rendements et les prédictions sur ce sujet sont encore floues.",
         "query": "Sur quoi insiste l'auteur de ce texte ?",
         "options": [
-            "Les conséquences d’un régime végétarien.",
+            "Les conséquences d'un régime végétarien.",
             "Les doutes sur les méthodes de production.",
-            "Les effets de l’usage de produits chimiques.",
+            "Les effets de l'usage de produits chimiques.",
             "Les problèmes causés par la surpopulation."
         ],
         "answer": 1
@@ -379,10 +379,10 @@
     {
         "id": 30,
         "testId": 172,
-        "text": "Les recherches actuelles sur la motivation indiquent que la confiance en ses capacités permet d'agir efficacement et joue un rôle crucial dans l'engagement et les performances d'un élève. Cette confiance peut varier d'un domaine à l'autre ainsi que d'une matière scolaire à l'autre. Tout comme on peut se sentir très à l'aise avec des instruments de musique, mais maladroit sur un terrain de basket, on peut se sentir très compétent en français, mais peu brillant en mathématiques. Les recherches ont montré que les élèves confiants en leurs capacités dans une matière choisissent de préférence des activités présentant pour eux un défi et leur donnant l'occasion de développer leurs habiletés. Inversement, ils ont tendance à se désintéresser des activités dans lesquelles ils se sentent peu efficaces.",
+        "text": "Les recherches actuelles sur la motivation indiquent que la confiance en ses capacités permet d'agir efficacement et joue un rôle crucial dans l'engagement et les performances d'un élève. Cette confiance peut varier d'un domaine à l'autre ainsi que d'une matière scolaire à l'autre. Tout comme on peut se sentir très à l'aise avec des instruments de musique mais maladroit sur un terrain de basket, on peut se sentir très compétent en français mais peu brillant en mathématiques. Les recherches ont montré que les élèves confiants en leurs capacités dans une matière choisissent de préférence des activités présentant pour eux un défi et leur donnant l'occasion de développer leurs habiletés. Inversement, ils ont tendance à se désintéresser des activités dans lesquelles ils se sentent peu efficaces.",
         "query": "Comment réagissent les élèves qui sont à l'aise dans certaines disciplines ?",
         "options": [
-            "Ils finissent par maîtriser l’ensemble des matières.",
+            "Ils finissent par maîtriser l'ensemble des matières.",
             "Ils font des efforts dans les autres matières étudiées.",
             "Ils négligent les matières trop faciles pour eux.",
             "Ils se fixent des objectifs élevés dans ces matières."
@@ -405,7 +405,7 @@
     {
         "id": 32,
         "testId": 172,
-        "text": "Au début de l'adolescence, vers 11-12 ans, les enfants aspirent à l'autonomie. C'est à cette période que les écrans jouent un rôle important au niveau de leur intégration sociale mais aussi que les risques d'excès se profilent. «*Les parents doivent abandonner leur position de prescription et passer à une position d'accompagnement*». Le docteur Huerre leur recommande donc d'explorer avec leur enfant les jeux qui l'intéressent et la manière qu'il a de circuler sur la toile, afin de faciliter les échanges. «*Au lieu d'avoir peur des jeux vidéo, demandez-lui de vous le montrer et n'hésitez pas à jouer avec lui. Certains procurent un réel plaisir visuel et esthétique*», conseille-t-il.",
+        "text": "Au début de l'adolescence, vers 11-12 ans, les enfants aspirent à l'autonomie. C'est à cette période que les écrans jouent un rôle important au niveau de leur intégration sociale mais aussi que les risques d'excès se profilent. «*Les parents doivent abandonner leur position de prescription et passer à une position d'accompagnement*». Le docteur Huerre leur recommande donc d'explorer avec leur enfant les jeux qui l'intéressent et la manière qu'il a de circuler sur la toile, afin de faciliter les échanges. «*Au lieu d'avoir peur des jeux vidéo, demandez-lui de vous les montrer et n'hésitez pas à jouer avec lui. Certains procurent un réel plaisir visuel et esthétique*», conseille-t-il.",
         "query": "Que préconise le médecin aux parents?",
         "options": [
             "De participer à l'exploration du monde numérique.",
@@ -473,10 +473,10 @@
         "text": "La bataille de Bouvines, remportée le 27 juillet 1214 par le roi de France Philippe Auguste sur un empereur allemand, est l'un des actes fondateurs de la dynastie capétienne et l'un des épisodes les plus célèbres du « roman national » français. Du XIII<sup>e</sup> siècle à nos jours, elle a été à l'origine de multiples légendes que le spécialiste du monde médiéval, Dominique Barthélemy, confronte à la réalité des faits. À l'issue d'une enquête approfondie, il décrit un affrontement plus modeste et moins épique que celui construit et enrichi au gré des nécessités politiques. Ainsi, il nous invite à poursuivre la réflexion sur l'idée que les Français se font d'eux-mêmes.",
         "query": "Selon l'article, que fait Dominique Barthélemy ?",
         "options": [
-            "Il analyse l'établissement d’une dynastie royale.",
-            "Il explique l'origine d’une légende médiévale.",
+            "Il analyse l'établissement d'une dynastie royale.",
+            "Il explique l'origine d'une légende médiévale.",
             "Il explore la construction identitaire des Français.",
-            "Il renforce de mythe de la bataille de Bouvines."
+            "Il renforce le mythe de la bataille de Bouvines."
         ],
         "answer": 2
     },
@@ -496,7 +496,7 @@
     {
         "id": 39,
         "testId": 172,
-        "text": "Aujourd'hui, de nombreux enfants cumulent les activités en dehors des cours. Selon une étude, l'origine de cette tendance serait liée aux mutations sociales contemporaines. Ainsi, recourir à de telles activités serait un moyen pour les parents de palier l'absence des mères- de plus en plus souvent actives- et de développer les compétences des enfants pour les armer face à la compétitivité du marché du travail. Cependant, coûteuses en temps et en énergie, ces activités empiètent sur le quotidien de la maison et épuisent les enfants. Elles n'en apparaissent pas moins aux parents comme des marqueurs de leur bonne parentalité. Un phénomène qui s'entretient par l'expansion constante de l'offre ainsi par la surenchère qui s'instaure entre les foyers.",
+        "text": "Aujourd'hui, de nombreux enfants cumulent les activités en dehors des cours. Selon une étude, l'origine de cette tendance serait liée aux mutations sociales contemporaines. Ainsi, recourir à de telles activités serait un moyen pour les parents de pallier l'absence des mères- de plus en plus souvent actives- et de développer les compétences des enfants pour les armer face à la compétitivité du marché du travail. Cependant, coûteuses en temps et en énergie, ces activités empiètent sur le quotidien de la maison et épuisent les enfants. Elles n'en apparaissent pas moins aux parents comme des marqueurs de leur bonne parentalité. Un phénomène qui s'entretient par l'expansion constante de l'offre ainsi que par la surenchère qui s'instaure entre les foyers.",
         "query": "Que veulent faire les parents ?",
         "options": [
             "Améliorer les résultats scolaires.",

@@ -67,7 +67,7 @@
     {
         "id": 6,
         "testId": 175,
-        "text": "## <p style=\"text-align: center;\">Vous avez peur en avion ?</p>\n\nVous n'êtes pas le seul ! Les statistiques montrent qu'un quart des passagers sont inquiets quand ils prennent l'avion ! L'avion n'est pas un jeu ! Des stages peuvent vous aider à montrer dans un avion sans avoir peur ! Pour en savoir plus, contactez **Airplus** au 09 48 36 22 11.",
+        "text": "## <p style=\"text-align: center;\">Vous avez peur en avion ?</p>\n\nVous n'êtes pas le seul ! Les statistiques montrent qu'un quart des passagers sont inquiets quand ils prennent l'avion ! L'avion n'est pas un jeu ! Des stages peuvent vous aider à monter dans un avion sans avoir peur ! Pour en savoir plus, contactez **Airplus** au 09 48 36 22 11.",
         "query": "Que propose la société Airplus ?",
         "options": [
             "Des avions.",
@@ -145,7 +145,7 @@
     {
         "id": 12,
         "testId": 175,
-        "text": "La semaine dernière, les écoles de commerce ont organisé leur traditionnel rendez-vous « Avenir jeunesse ». Comme tous les ans, son objectif a été de favoriser la rencontre entre les entreprises qui recrutent et les élèves. Ces derniers ont pu se renseigner sur les différents secteurs d'activité et déposer leur candidature pour les postes qui les intéressent. Des ateliers conseil étaient animés par des professionnels.",
+        "text": "La semaine dernière, les écoles de commerce ont organisé leur traditionnel rendez-vous « Avenir Jeunesse ». Comme tous les ans, son objectif a été de favoriser la rencontre entre les entreprises qui recrutent et les élèves. Ces derniers ont pu se renseigner sur les différents secteurs d'activité et déposer leur candidature pour les postes qui les intéressent. Des ateliers conseil étaient animés par des professionnels.",
         "query": "Quel était le but de l'événement « Avenir jeunesse » ?",
         "options": [
             "Accueillir les étudiants étrangers.",
@@ -158,8 +158,8 @@
     {
         "id": 13,
         "testId": 175,
-        "text": "Nous vivons dans une grande maison à 15 minutes du centre de Marseille. Nos enfants ont quitté la maison et nous souhaitons louer une chambre à un(e) étudiant(e) pour 150€ par mois. Si vous êtes intéressé(e), écrivez-nous à «alouer@mailnet.com ».",
-        "query": "Qu'est-ce qui proposera dans cette annone ?",
+        "text": "Nous vivons dans une grande maison à 15 minutes du centre de Marseille. Nos enfants ont quitté la maison et nous souhaitons louer une chambre à un(e) étudiant(e) pour 150€ par mois. Si vous êtes intéressé(e), écrivez-nous à « alouer@mailnet.com ».",
+        "query": "Qu'est-ce qui est proposé dans cette annonce ?",
         "options": [
             "Un échange de maison.",
             "Un studio en centre-ville.",
@@ -392,8 +392,8 @@
     {
         "id": 31,
         "testId": 175,
-        "text": "Deux petites saisons et puis s'en vont. Sur les plates-formes de streaming vidéo par abonnement, les séries ont beau être reines, elles n'en sont pas moins soumises à rude concurrence. Et leur durée de vie peut se révéler bien plus courte que sur les chaînes traditionnelles. Cette stratégie ne doit rien au hasard. Dans leur objectif de conquête de nouveaux abonnés, les plates-formes accordent en effet plus de vertus à la nouveauté qu'à la longévité. Quitte à décevoir certains fans qui payent un service de streaming spécialisé dont le baromètre de satisfaction devrait en théorie être plus important que celui de l'audimat.",
-        "query": "D'après l’article, que privilégient les plates-formes de streaming ?",
+        "text": "Deux petites saisons et puis s'en vont. Sur les plates-formes de streaming vidéo par abonnement, les séries ont beau être reines, elles n'en sont pas moins soumises à rude concurrence. Et leur durée de vie peut se révéler bien plus courte que sur les chaînes traditionnelles. Cette stratégie ne doit rien au hasard. Dans leur objectif de conquête de nouveaux abonnés, les plates-formes accordent en effet plus de vertus à la nouveauté qu'à la longévité. Quitte à décevoir certains fans qui payent un service de streaming spécialisé dont le baromètre de satisfaction devrait en théorie être plus important que celui de l'audimat.\n\n<br/><p style=\"text-align: right;\">D'après <i>lemonde.fr</i></p>",
+        "query": "D'après l'article, que privilégient les plates-formes de streaming ?",
         "options": [
             "La longévité des programmes.",
             "La qualité des services offerts.",
@@ -457,12 +457,12 @@
     {
         "id": 36,
         "testId": 175,
-        "text": "Instaurer un grand oral pour réformer le baccalauréat est un nouveau défi à relever pour le système éducatif français. L'oral a autant d'importance que l'écrit. Il a ses règles propres et ses méthodes d'apprentissage : selon moi, une quinzaine d'heures suffit avec douze élèves pour arriver à parler debout devant les autres de façon argumentée. Bien loin d'être un discriminant social, l'oral peut être une formidable opportunité de réussite pour tous les élèves, à condition qu'il s'agisse bien d'une épreuve orale et non d'un écrit transposé à l'oral. Contrairement aux idées reçues, je ne pense que l'oral ne demande quasiment pas de prérequis ni un quelconque talent de naissance venu d'une fée - y compris sociale - qui se serait penchée sur le bureau.",
+        "text": "Instaurer un grand oral pour réformer le baccalauréat est un nouveau défi à relever pour le système éducatif français. L'oral a autant d'importance que l'écrit. Il a ses règles propres et ses méthodes d'apprentissage : selon moi, une quinzaine d'heures suffit avec douze élèves pour arriver à parler debout devant les autres de façon argumentée. Bien loin d'être un discriminant social, l'oral peut être une formidable opportunité de réussite pour tous les élèves, à condition qu'il s'agisse bien d'une épreuve orale et non d'un écrit transposé à l'oral. Contrairement aux idées reçues, je pense que l'oral ne demande quasiment pas de prérequis ni un quelconque talent de naissance venu d'une fée - y compris sociale - qui se serait penchée sur le berceau.",
         "query": "Selon l'auteur, quel est l'intérêt d'une épreuve orale au baccalauréat ?",
         "options": [
             "Elle favorise l'égalité des chances.",
             "Elle prépare à la vie professionnelle.",
-            "Elle remplace l’évaluation continue.",
+            "Elle remplace l'évaluation continue.",
             "Elle simplifie le travail des enseignants."
         ],
         "answer": 0

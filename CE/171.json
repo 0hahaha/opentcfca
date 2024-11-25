@@ -80,7 +80,7 @@
     {
         "id": 7,
         "testId": 171,
-        "text": "Chers professeurs, <br/> Chers étudiants,\n\n<br/>Venez rencontrer les nouveaux étudiants de la semaine !\n\n<br/>Ce mardi, de 8 h 30 à 10 h 30. <br/> Rendez-vous salle « Les Mimosas »\n\n<br/>J. Lebon, directrice <br/> École de longues ABC.",
+        "text": "Chers professeurs, <br/> Chers étudiants,\n\n<br/>Venez rencontrer les nouveaux étudiants de la semaine !\n\n<br/>Ce mardi, de 8 h 30 à 10 h 30. <br/> Rendez-vous salle « Les Mimosas »\n\n<br/>J. Lebon, directrice <br/> École de langues ABC.",
         "query": "Pourquoi Madame Lebon écrit-elle cette annonce ?",
         "options": [
             "Pour changer un horaire.",
@@ -222,14 +222,13 @@
     },
     {
         "id": 18,
-        "testId": 171,
-        "text": "## <p style=\"padding: 15px; color: white; background: #222222;\">PÉDAGOGIE<p>\n\nTwitter dès l'école primaire, pour donner le goût d'écrire, de lire et de l'orthographe. Un instituteur raconte :\n\n*« J'utilise Twitter dans ma classe depuis un an. Les productions d'élèves sont de plus en plus intéressantes. Grâce à Twitter, je peux approfondir les notions de façon concrète.*\n\n*Les activités scolaires paraissent artificielles, hors contexte voire dénuées de sens. Pourquoi essayer de maîtriser l'écriture ? Les enfants n'y songent même pas, car leurs travaux sont cantonnés à des cahiers, eux-mêmes enfermés dans des casiers ou des cartables. Ils n'ont pas l'occasion de partager leurs productions, de les confronter, d'argumenter leurs choix. »*",
-        "query": "D'après cet article, qu'apporte l’utilisation de Twitter aux élèves ?",
+        "text": "## <p style=\"padding: 15px; color: white; background: #222222;\">PÉDAGOGIE<p>\n\nTwitter dès l'école primaire, pour donner le goût d'écrire, de lire et de l'orthographe. Un instituteur raconte :\n\n*« J'utilise Twitter dans ma classe depuis un an. Les productions d'élèves sont de plus en plus intéressantes. Grâce à Twitter, je peux approfondir les notions de façon concrète.*\n\n*Les activités scolaires paraissent artificielles, hors contexte voire dénuées de sens. Pourquoi essayer de maîtriser l'écriture ? Les enfants n'y songent même pas car leurs travaux sont cantonnés à des cahiers, eux-mêmes enfermés dans des casiers ou des cartables. Ils n'ont pas l'occasion de partager leurs productions, de les confronter, d'argumenter leurs choix. »*",
+        "query": "D'après cet article, qu'apporte l'utilisation de Twitter aux élèves ?",
         "options": [
             "Ils apprennent à se servir correctement des réseaux sociaux.",
-            "Ils communiquent plus facilement avec l’instituteur.",
+            "Ils communiquent plus facilement avec l'instituteur.",
             "Ils comprennent mieux l'intérêt des apprentissages proposés.",
-            "Ils sont attentifs après un moment de détente."
+            "Ils sont plus attentifs après un moment de détente."
         ],
         "answer": 2
     },
@@ -393,7 +392,7 @@
         "id": 31,
         "testId": 171,
         "text": "\"Il faut te le dire en quelle langue ?\" Cette question, que des milliers de mères posent à leur enfant lorsqu'elles veulent se faire écouter, est en fait très sensée (comme tout ce que disent les mères). Des travaux scientifiques récents ont en effet démontré une réalité étonnante : nous réfléchissons et prenons des décisions différemment lorsque nous traitons l'information dans une autre langue que notre langue maternelle. Nous comprenons tout aussi bien l'idée ou le problème mais, lorsque nous utilisons une autre langue, le résultat est plus réfléchi, moins dicté par les émotions, plus orienté vers l'utilité.",
-        "query": "Que permet l'utilisation d’une langue autre que la langue maternelle ?",
+        "query": "Que permet l'utilisation d'une langue autre que la langue maternelle ?",
         "options": [
             "D'attirer l'attention de l'interlocuteur.",
             "D'imaginer des solutions originales.",
@@ -431,25 +430,25 @@
     {
         "id": 34,
         "testId": 171,
-        "text": "Souvent critiquée pour la qualité de son service, la société berlinoise des transports en commun a fait parler d'elle, en proposant 500 paires de « chaussures-billets » aux couleurs des banquettes du métro berlinois. Vendus 180 euros, ces baskets incluent un abonnement annuel métro - bus - tram (hors trains de banlieue), contre 761 euros pour un forfait classique. Les consommateurs séduits par ce concept commercial qui permet de voyager presque gratuitement sur une partie du réseau ont formé une longue file d'attente. Certains ont même tenté de revendre en ligne leur paire « collecter », à un tarif de base quintuplé.\n\n<br/><p style=\"text-align: right;\">D'après <i>lexpress.fr</i></p>",
+        "text": "Souvent critiquée pour la qualité de son service, la société berlinoise des transports en commun a fait parler d'elle, en proposant 500 paires de « chaussures-billets » aux couleurs des banquettes du métro berlinois. Vendues 180 euros, ces baskets incluent un abonnement annuel métro - bus - tram (hors trains de banlieue), contre 761 euros pour un forfait classique. Les consommateurs séduits par ce concept commercial qui permet de voyager presque gratuitement sur une partie du réseau ont formé une longue file d'attente. Certains ont même tenté de revendre en ligne leur paire « collector », à un tarif de base quintuplé.\n\n<br/><p style=\"text-align: right;\">D'après <i>lexpress.fr</i></p>",
         "query": "Quel est l'objectif de la société berlinoise des transports ?",
         "options": [
-            "Attirer l’attention grâce à un coup de publicité.",
+            "Attirer l'attention grâce à un coup de publicité.",
             "Concurrencer les autres moyens de locomotion.",
-            "Multiplier le nombre de souscripteurs par internet.",
-            "Permettre de voyager extramuros à moindres frais."
+            "Multiplier le nombre de souscriptions par Internet.",
+            "Permettre de voyager extramuros à moindre frais."
         ],
         "answer": 0
     },
     {
         "id": 35,
         "testId": 171,
-        "text": "« Un produit qui ne s'userait pas serait une tragédie pour les affaires », lisait-on dans une ancienne revue américaine. Des années plus tard, le concept d'obsolescence programmée n'a pas pris une ride ! Il s'agit pour les fabricants de réduire volontairement la durée de vie ou d'emploi d'un produit afin d'en augmenter le taux de remplacement. Ici se cache le cœur de la course à la consommation. Le bilan écologique est également sans appel : les matières que contiennent nos appareils finissent en grande partie en déchets incinérés ou enfouis. L'exemple du téléphone portable en dit long : dans un rapport, une sénatrice ne souligne que « la conception des téléphones est délibérément défavorable au réemploi et au recyclage ».",
+        "text": "« *Un produit qui ne s'userait pas serait une tragédie pour les affaires* », lisait-on dans une ancienne revue américaine. Des années plus tard, le concept d'obsolescence programmée n'a pas pris une ride ! Il s'agit pour les fabricants de réduire volontairement la durée de vie ou d'emploi d'un produit afin d'en augmenter le taux de remplacement. Ici se cache le cœur de la course à la consommation. Le bilan écologique est également sans appel : les matières que contiennent nos appareils finissent en grande partie en déchets incinérés ou enfouis. L'exemple du téléphone portable en dit long : dans un rapport, une sénatrice souligne que « *la conception des téléphones est délibérément défavorable au réemploi et au recyclage* ».",
         "query": "Que constate ce journaliste à propos des articles proposés par les fabricants ?",
         "options": [
             "Ils se détériorent après un certain temps.",
             "Ils sont dangereux pour la santé.",
-            "Ils sont nuisibles pour l’environnement.",
+            "Ils sont nuisibles pour l'environnement.",
             "Ils sont vendus à des prix élevés."
         ],
         "answer": 0
@@ -470,7 +469,7 @@
     {
         "id": 37,
         "testId": 171,
-        "text": "Maintenant elles étaient là. Non plus en éveil, en méfiance, et rassemblées sous l'influence de la crainte par troupes, hardes, files et bandes, selon la race, la tribu, la famille, mais confondues et mêlées au sein d'une sécurité ineffable dans la trêve du l'eau, en paix avec la brousse, elles-mêmes et l'aurore. À la distance où je me trouvais, il n'était pas possible de distinguer l'inflexion des mouvements, ou l'harmonie des couleurs, mais cette distance ne m'empêchait pas de voir que les bêtes se comptaient par centaines et centaines, que toutes les espèces voisinaient, et que cet instant de leur vie ne connaissait pas la peur ou la hâte. Gazelles, antilopes, girafes, gnous, zèbres, rhinocéros, buffles, éléphants - les animaux s'arrêtaient ou se déplaçaient au pas du loisir au gré de la soif, au goût du hasard.\n\n<br/><p style=\"text-align: right;\">Joseph Kessel, <i>Le lion</i>, éd. Gallimard 1958</p>",
+        "text": "Maintenant elles étaient là. Non plus en éveil, en méfiance, et rassemblées sous l'influence de la crainte par troupes, hardes, files et bandes, selon la race, la tribu, la famille, mais confondues et mêlées au sein d'une sécurité ineffable dans la trêve de l'eau, en paix avec la brousse, elles-mêmes et l'aurore. À la distance où je me trouvais, il n'était pas possible de distinguer l'inflexion des mouvements, ou l'harmonie des couleurs, mais cette distance ne m'empêchait pas de voir que les bêtes se comptaient par centaines et centaines, que toutes les espèces voisinaient, et que cet instant de leur vie ne connaissait pas la peur ou la hâte. Gazelles, antilopes, girafes, gnous, zèbres, rhinocéros, buffles, éléphants - les animaux s'arrêtaient ou se déplaçaient au pas du loisir, au gré de la soif, au goût du hasard.\n\n<br/><p style=\"text-align: right;\">Joseph Kessel, <i>Le lion</i>, éd. Gallimard 1958</p>",
         "query": "Quelle phrase résume exactement cet extrait de roman ?",
         "options": [
             "Je ressentais pleinement l'anxiété des bêtes.",

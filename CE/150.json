@@ -5,10 +5,10 @@
         "text": "Vous voulez découvrir d'autres cultures ? vous voulez parler anglais, français, espagnol ?\n\nLeçons à la maison ou au centre Bernardisilmo.\n\nInformation au 01 03 02 06 65",
         "query": "Qu'est ce que propose cette publicité ?",
         "options": [
-            "Des cours",
-            "Des emplois",
-            "Des livres",
-            "Des voyages"
+            "Des cours.",
+            "Des emplois.",
+            "Des livres.",
+            "Des voyages."
         ],
         "answer": 0
     },
@@ -18,23 +18,23 @@
         "text": "Faites confiance à l'entreprise pour tous vous envois urgents.\n\nNous prenons vos paquets à domicile ou dans les bureaux de poste et nous les envoyons dans le monde entier.",
         "query": "Que propose cette entreprise ?",
         "options": [
-            "De stocker des marchandises",
-            "De transporter des colis",
-            "De vendre des cartons",
-            "De voyager à l'étranger"
+            "De stocker des marchandises.",
+            "De transporter des colis.",
+            "De vendre des cartons.",
+            "De voyager à l'étranger."
         ],
         "answer": 1
     },
     {
         "id": 3,
         "testId": "150",
-        "text": "Je suis bien arrivé chez moi. Je t'appelle demain pour aller voir le film. Je t'embrasse.\n\nCristian.",
-        "query": "Où est Cristian ?",
+        "text": "Je suis bien arrivé chez moi. Je t'appelle demain pour aller voir le film. Je t'embrasse.\n\nCyprien.",
+        "query": "Où est Cyprien ?",
         "options": [
-            "À la gare",
-            "À la maison",
-            "Au cinéma",
-            "Au travail"
+            "À la gare.",
+            "À la maison.",
+            "Au cinéma.",
+            "Au travail."
         ],
         "answer": 1
     },
@@ -44,49 +44,49 @@
         "text": "Pierre, n'oubliez pas notre déjeuner au restaurant. Je vous attends devant l'ascenseur.\n\nAlice",
         "query": "Pourquoi est-ce qu'Alice attend Pierre ?",
         "options": [
-            "Pour des courses",
-            "Pour un repas",
-            "Pour un travail",
-            "Pour une réunion"
+            "Pour des courses.",
+            "Pour un repas.",
+            "Pour un travail.",
+            "Pour une réunion."
         ],
         "answer": 1
     },
     {
         "id": 5,
         "testId": "150",
-        "text": "François,\n\nPouvons-nous nous rencontrer dans ton bureau demain matin ?\n\nAriane",
+        "text": "Françoise,\n\nPouvons-nous nous rencontrer dans ton bureau demain matin ?\n\nAriane.",
         "query": "Pourquoi Ariane écrit-elle ce message ?",
         "options": [
-            "Elle doit partir une journée",
-            "Elle propose un déjeuner",
-            "Elle souhaite parler à François",
-            "Elle veut visiter une entreprise"
+            "Elle doit partir une journée.",
+            "Elle propose un déjeuner.",
+            "Elle souhaite parler à Françoise.",
+            "Elle veut visiter une entreprise."
         ],
         "answer": 2
     },
     {
         "id": 6,
         "testId": "150",
-        "text": "Le forum de paris s'adresse aux jeunes de moins de trente ans, avec ou sans diplôme. Des milliers d'offres sont disponibles dans près de 300 métiers. Chaque année, un grand nombre de jeunes signent un contrat de travail du Salon.",
+        "text": "Le Forum de Paris s'adresse aux jeunes de moins de trente ans, avec ou sans diplôme. Des milliers d'offres sont disponibles dans près de 300 métiers. Chaque année, un grand nombre de jeunes signent un contrat de travail lors du salon.",
         "query": "Pourquoi le Forum de Paris est-il utile aux jeunes ?",
         "options": [
-            "Il les renseigne sur des informations",
-            "Il leur permet de trouver un emploi",
-            "Il leur présente des stages en entreprise",
-            "Il leur propose des logements étudiants"
+            "Il les renseigne sur des informations.",
+            "Il leur permet de trouver un emploi.",
+            "Il leur présente des stages en entreprise.",
+            "Il leur propose des logements étudiants."
         ],
         "answer": 1
     },
     {
         "id": 7,
         "testId": "150",
-        "text": "***Jardin de la Fontaine***\n\n***Ouverture-Fermeture***\n\nDu ler septembre au 31 mars 7h30-18h30\n\nDu ler avril au 30 juin 7h30-20h30\n\nDu ler juillet au 31 aout 7h00-22h30",
-        "query": "Quand peut-on se promener dans le parc après 18h30 ?",
+        "text": "## <p style=\"text-align: center;\">Jardin de la Fontaine</p>\n\n### <p style=\"text-align: center;\">Ouverture - Fermeture</p>\n\n<p style=\"text-align: center;\">Du 1<sup>er</sup> septembre au 31 mars <br/> 7 h 30 - 18 h 30 <br/> Du 1<sup>er</sup> avril 30 juin <br/> 7 h 30 - 20 h 30 <br/> Du 1<sup>er</sup> juillet au 31 août <br/> 7 h 00 - 22 h 30</p>",
+        "query": "Quand peut-on se promener dans le parc après 18 h 30 ?",
         "options": [
-            "En décembre",
-            "En février",
-            "En mai",
-            "En mars"
+            "En décembre.",
+            "En février.",
+            "En mai.",
+            "En mars."
         ],
         "answer": 2
     },
@@ -96,35 +96,35 @@
         "text": "1kg de pommes\n\nSalade\n\nMouchoirs en papier",
         "query": "Où trouve-t-on ces produits?",
         "options": [
-            "Dans une boucherie",
-            "Dans une boulangerie",
-            "Dans une épicerie",
-            "Dans une poissonnerie"
+            "Dans une boucherie.",
+            "Dans une boulangerie.",
+            "Dans une épicerie.",
+            "Dans une poissonnerie."
         ],
         "answer": 2
     },
     {
         "id": 9,
         "testId": "150",
-        "text": "***Bonjour Ahmed***,\n\nCe message pour te rappeler la réunion de lundi. Nous commanderons des paniers-repas pour le midi, car la séance peut durer longtemps : les dossiers à traiter sont nombreux. Peux-tu en informer les personnes des services concernés ? Merci d'avance.\n\n***À lundi,***\n\n***Pierre***",
-        "query": "Que demande Ayoub à Ahmed ?",
+        "text": "Bonjour Ahmed,\n\nCe message pour te rappeler la réunion de lundi. Nous commanderons des paniers repas pour le midi car la séance peut durer longtemps : les dossiers à traiter sont nombreux. Peux-tu en informer les personnes des services concernés ? Merci d'avance. À lundi.\n\nPierre",
+        "query": "Que demande Pierre à Ahmed ?",
         "options": [
-            "D'apporter le déjeuner",
-            "D'avancer le rendez-vous",
-            "De consulter les documents",
-            "De prévenir les collègues"
+            "D'apporter le déjeuner.",
+            "D'avancer le rendez-vous.",
+            "De consulter les documents.",
+            "De prévenir les collègues."
         ],
         "answer": 3
     },
     {
         "id": 10,
         "testId": "150",
-        "text": "***Madame, Monsieur,***\n\nEn raison de travaux rue Paul Vaillant, l'accès à la piscine municipale se fera coté boulevard Camélinat, du 15 au 26 mars inclus. Veuillez nous excuser pour la gêne occasionnée.\n\n***<div style=\"text-align: right;\">Le service municipal.</div>***",
+        "text": "Madame, Monsieur,\n\n<br/>En raison de travaux rue Paul Vaillant, l'accès à la piscine municipale se fera côté boulevard Camélinat, du 15 au 26 mars inclus. Veuillez nous excuser pour la gêne occasionnée.\n\n<br/>Le service municipal.",
         "query": "Quelle information est donnée au sujet de la piscine ?",
         "options": [
             "Elle sera fermée au mois de mars.",
-            "Il y aura des travaux à l'extérieur.",
-            "L'entrée se fera par une autre porte",
+            "Il y aura des travaux à l'intérieur.",
+            "L'entrée se fera par une autre porte.",
             "Le service municipal réparera les lieux."
         ],
         "answer": 2
@@ -132,26 +132,26 @@
     {
         "id": 11,
         "testId": "150",
-        "text": "***Chers amis,***\n\nNous aimerions vous avoir à notre soirée pour fêter la nouvelle année. Soyez là pour 21h00 en tenue décontractée. Nous sommes entre amis.\n\n***<div style=\"text-align: right;\">Céline et Redah</div>***",
-        "query": "Pourquoi Céline et Redah invitent-ils des amis ?",
+        "text": "**Chers amis,**\n\nNous aimerions vous avoir à notre soirée pour fêter la nouvelle année. Soyez là pour 21 h 00 en tenue décontractée, nous sommes entre amis.\n\n**<p style=\"text-align: right;\">Céline et Redha</p>**",
+        "query": "Pourquoi Céline et Redha invitent-ils des amis ?",
         "options": [
-            "Pour un anniversaire",
-            "Pour un mariage",
-            "Pour un réveillon",
-            "Pour un spectacle"
+            "Pour un anniversaire.",
+            "Pour un mariage.",
+            "Pour un réveillon.",
+            "Pour un spectacle."
         ],
         "answer": 2
     },
     {
         "id": 12,
         "testId": "150",
-        "text": "Clément et Pierre vont participer au tour automobile 4L Trophy au Maroc. Ils vont apporter 40kg de matériel et 10kg de nourriture à une école. Les deux amis recherchent des solutions pour payer leur voyage. Vous voulez les aider ?\n\nclp@4ltrophy.fr",
+        "text": "Clément et Pierre vont participer au tour automobile 4L Trophy au Maroc. Ils vont apporter 40kg de matériel et 10kg de nourriture à une école. Les deux amis recherchent des solutions pour payer leur voyage. Vous voulez les aider ? [c&p@4Ltrophy.fr]()",
         "query": "De quoi ont besoin Clément et Pierre ?",
         "options": [
-            "D'argent pour la course",
-            "De livres pour les enfants",
-            "De produits pour les repas",
-            "D'une voiture pour le transport"
+            "D'argent pour la course.",
+            "De livres pour les enfants.",
+            "De produits pour les repas.",
+            "D'une voiture pour le transport."
         ],
         "answer": 0
     },
@@ -161,10 +161,10 @@
         "text": "***Chers collègues,***\n\nVeuillez rendre au plus tard vendredi midi votre feuille de demande de congés. Nous vous rappelons qu'il est essentiel pour le bon fonctionnement de notre société pendant la période estivale et pour satisfaire toutes vos demandes que ces feuilles soient dument complétées et remises le plus tôt possible à votre responsable. Nous vous remercions de votre collaboration et nous vous souhaitons une bonne semaine.\n\n***<div style=\"text-align: right;\">La direction des ressources humaines.</div>***",
         "query": "Dans ce message électronique, que demande -t-on aux employés ?",
         "options": [
-            "De participer à la vie de l’entreprise",
-            "De poser leurs jours de vacances",
-            "De remplir un formulaire en ligne",
-            "De respecter les règles de sécurité"
+            "De participer à la vie de l’entreprise.",
+            "De poser leurs jours de vacances.",
+            "De remplir un formulaire en ligne.",
+            "De respecter les règles de sécurité."
         ],
         "answer": 1
     },
@@ -174,10 +174,10 @@
         "text": "***« L'internaute.fr » vous informe sur la protection de l'environnement.***\n\nChaque année, c'est environ un million de tonnes de courriers non adressés qui arrivent dans les boites aux lettres des Français. Ces courriers sont des publicités de supermarchés ou des journaux gratuits. Or, il vaudrait mieux limiter la production de papier inutile. La meilleure méthode consiste à poser un autocollant « Stop Pub », disponible gratuitement sur le site du ministère de l'Écologie. Lorsqu'il s'agit de courrier adressé à votre nom, vous pouvez solliciter la liste Robinson pour demander de ne plus recevoir de courrier envoyé par les listes de marketing.",
         "query": "Quel est l'objectif de l’article de « L'internaute.fr » ?",
         "options": [
-            "Alerter les clients sur les fausses publicités des magasins",
-            "Donner des conseils pour arrêter de recevoir des publicités",
-            "Présenter le résumé d’une étude sur les effets de la publicité",
-            "Vendre l’autocollant « Stop Pub » du ministère de l'Écologie"
+            "Alerter les clients sur les fausses publicités des magasins.",
+            "Donner des conseils pour arrêter de recevoir des publicités.",
+            "Présenter le résumé d’une étude sur les effets de la publicité.",
+            "Vendre l’autocollant « Stop Pub » du ministère de l'Écologie."
         ],
         "answer": 1
     },
@@ -187,23 +187,23 @@
         "text": "Des ingénieurs travaillent très sérieusement à la réalisation d'un bus, semblable à un tramway tunnel qui circulera au-dessus des files de voitures pour dégager le trafic dans les zones urbaines. L'engin sera entièrement électrique et pourra transporter 1200 personnes à une vitesse de 60 km/heure. Pour que les automobilistes « au-dessous » évoluent sans danger, des feux places dans la partie inférieure du bus signaleront ses changements de direction.",
         "query": "Quel sera l’atout de ce moyen de transport ?",
         "options": [
-            "Il modifiera son parcours à la demande des usagers",
-            "Il permettra d'éviter les embouteillages en ville",
-            "Il sera équipé d’un nouveau système de sécurité",
-            "Il sera très facile d'entretien et peu coûteux"
+            "Il modifiera son parcours à la demande des usagers.",
+            "Il permettra d'éviter les embouteillages en ville.",
+            "Il sera équipé d’un nouveau système de sécurité.",
+            "Il sera très facile d'entretien et peu coûteux."
         ],
         "answer": 1
     },
     {
         "id": 16,
         "testId": "150",
-        "text": "Pas facile de trouver le juste équilibre entre respect et liberté. Le principal du lycée Charles-de-Gaulle a décidé de demander à ses élèves de ne plus porter de vêtements de sport en cours. Le principal estime que c'est une question de respect et de propreté. Un survêtement, ce n'est pas assez habillé pour venir au lycée. Les élèves qui n'étaient pas du même avis n'ont pas été acceptés en cours.",
+        "text": "Pas facile de trouver le juste équilibre entre respect et liberté. Le principal du lycée Charles-de-Gaulle a décidé de demander à ses élèves de ne plus porter de vêtements de sport en cours. Les survêtements sont réservés aux cours de sport. Le principal estime que « c'est une question de respect et de propreté. Un survêtement, ce n'est pas assez habillé pour venir au lycée ». Les élèves qui n'étaient pas du même avis n'ont pas été accepté en cours.",
         "query": "Pourquoi la direction de cet établissement interdit-elle la tenue de sport en classe ?",
         "options": [
-            "Pour aider les élèves à ne pas s’enrhumer",
-            "Pour enseigner le droit à la tolérance",
-            "Pour respecter des normes d'hygiène",
-            "Pour supprimer les différences sociales"
+            "Pour aider les élèves à ne pas s’enrhumer.",
+            "Pour enseigner le droit à la tolérance.",
+            "Pour respecter des normes d'hygiène.",
+            "Pour supprimer les différences sociales."
         ],
         "answer": 2
     },
@@ -213,23 +213,23 @@
         "text": "Courir les 42,195 km du marathon de Paris ne s'improvise pas. C'est une course qui nécessite de s'entraîner régulièrement et d'être capable de surmonter le « mur de douleur » qui survient chez tous les marathoniens entre le 32ᵉ et le 37ᵉ kilomètre. « Pour espérer terminer l'épreuve, il faut courir depuis au moins un an et dans les dix dernières semaines, faire trois à quatre heures d'entrainement hebdomadaires réparties en autant de séances », insiste un organisateur de stages de préparation.",
         "query": "Quel est le conseil de cet organisateur avant de participer au marathon ?",
         "options": [
-            "Avoir comme seul objectif de terminer l'épreuve",
-            "Pratiquer la course à pied plusieurs fois par semaine",
-            "Prendre régulièrement des médicaments anti-douleur",
-            "Se donner de longues périodes de récupération"
+            "Avoir comme seul objectif de terminer l'épreuve.",
+            "Pratiquer la course à pied plusieurs fois par semaine.",
+            "Prendre régulièrement des médicaments anti-douleur.",
+            "Se donner de longues périodes de récupération."
         ],
         "answer": 1
     },
     {
         "id": 18,
         "testId": "150",
-        "text": "Pour trouver des personnalités sortant du lot a fort potentiel d'évolution, un cabinet de recrutement organise des entretiens individuels sans consulter au préalable le dossier des candidats. Confrontés à une étude des cas, une discussion d'idées ou un questionnaire croisé, ils peuvent se démarquer grâce à leur savoir-être ou à un talent particulier.\n\nLes entretiens n'ont pas pour enjeu de poste précis, ils visent à constituer une réserve de talents, dans laquelle il sera possible de puiser.",
+        "text": "Pour trouver des personnalités sortant du lot à fort potentiel d'évolution, un cabinet de recrutement organise des entretiens individuels sans consulter au préalable le dossier des candidats. Confrontés à une étude de cas, une discussion d'idées ou un questionnaire croisé, ils peuvent se démarquer grâce à leur savoir-être ou à un talent particulier.\n\nLes entretiens n'ont pas pour enjeu de poste précis, ils visent à constituer une réserve de talents, dans laquelle il sera possible de puiser.\n\nUn cadre ayant testé ce système voit le recrutement différemment : « On se retrouve en position d'égal à égal ».",
         "query": "Quelle est la méthode de recrutement retenue par le cabinet ?",
         "options": [
-            "Auditionner plusieurs candidats en même temps",
-            "Faire mener l’entrevue des candidats par un futur collègue",
-            "Laisser les candidats s'exprimer sans les interrompre",
-            "Rencontrer les candidats sans rien savoir d'eux"
+            "Auditionner plusieurs candidats en même temps.",
+            "Faire mener l’entrevue des candidats par un futur collègue.",
+            "Laisser les candidats s'exprimer sans les interrompre.",
+            "Rencontrer les candidats sans rien savoir d'eux."
         ],
         "answer": 3
     },
@@ -239,48 +239,48 @@
         "text": "**<div align=\"center\"><u>Avis de Sonia sur www.village.vacances.fr</u></div>**\n\nC'était notre première expérience en Villages Vacances. Nous avons découvert un produit complet: (hébergement, restauration, activités et services). Des activités sont prévues durant la journée pour les parents et les enfants. Notre petite Mathilde a fait gratuitement de la natation et du cheval !",
         "query": "Que proposent les Villages Vacances aux enfants ?",
         "options": [
-            "De découvrir la région",
-            "De goûter des spécialités",
-            "De pratiquer un sport",
-            "D'organiser un spectacle"
+            "De découvrir la région.",
+            "De goûter des spécialités.",
+            "De pratiquer un sport.",
+            "D'organiser un spectacle."
         ],
         "answer": 2
     },
     {
         "id": 20,
         "testId": "150",
-        "text": "**<div align=\"center\">Le Diamant D’Espelette</div>**\n\nLe piment d’Espelette, qui célèbre actuellement sa fête, est probablement aujourd’hui le produit le plus emblématique de Pays basque. Il a pourtant failli devenir un produit banal, c’est-à-dire le contraire absolu de ce qu’il est vraiment. Au début des années 90, on trouvait en effet et on produisait du piment, dit d’Espelette, en Afrique du Nord, en Corse, en Espagne… Bref partout où on aime ce goût puissant et peu piquant qui fait sa légitime réputation. Or les Basques n’aiment pas se faire voler leurs traditions. Ils ont donc obtenu en juin 2000 l’appellation d’origine contrôlée (AOC) interdisant tout plagiat. Aujourd’hui le diamant rouge d’Espelette est particulièrement apprécié de certains grands chefs qui l’utilisent pour faire «exploser» les saveurs.",
-        "query": "L’appellation d’origine contrôlée accordée au piment d’Espelette permet aux Basques….",
+        "text": "## <p align=\"center\">LE DIAMANT D'ESPELETTE</p>\n\n<br/>Le piment d'Espelette, qui célèbre actuellement sa fête, est probablement aujourd'hui le produit le plus emblématique du Pays basque. Il a pourtant failli devenir un produit banal, c'est-à-dire le contraire absolu de ce qu'il est vraiment. Au début des années 90, on trouvait en effet et on produisait du piment, dit d'Espelette, en Afrique du Nord, en Corse, en Espagne… Bref partout où on aime ce goût puissant et peu piquant qui fait sa légitime réputation. Or les Basques n'aiment pas se faire voler leurs traditions. Ils ont donc obtenu en juin 2000 l'appellation d'origine contrôlée (AOC) interdisant tout plagiat. Aujourd'hui le diamant rouge d'Espelette est particulièrement apprécié de certains grands chefs qui l'utilisent pour faire «exploser» les saveurs.",
+        "query": "L'appellation d'origine contrôlée accordée au piment d'Espelette permet aux Basques…",
         "options": [
-            "De lutter contre les imitations.",
-            "D’en accroître la production.",
+            "de lutter contre les imitations.",
+            "d'en accroître la production.",
             "de développer sa saveur.",
-            "De le faire davantage connaître."
+            "de le faire davantage connaître."
         ],
         "answer": 0
     },
     {
         "id": 21,
         "testId": "150",
-        "text": "Théo, la poupée «inter-affective». Théo a deux ans. Il mesure 52 cm et communique spontanément avec sa maman. Lancé par Berchet, ce robot est bourré d’électronique et de capteurs pour interagir avec l’enfant. Ainsi, Théo dort lorsqu’il fait nuit, se réveille au lever du jour, réclame à manger ou à boire et même à aller au pot. Sa voix numérisée est d’un naturel confondant. Surtout, il s’adapte aux capacités de jeux de chaque enfant: plus il manifestera son désir de jouer, plus le jouet sera réactif.",
-        "query": "La voix numérisée de Théo est d’un « naturel confondant », ce qui signifie qu’elle..",
+        "text": "Théo, la poupée « inter-affective ». Théo a deux ans. Il mesure 52 cm et communique spontanément avec sa maman. Lancé par Berchet, ce robot est bourré d'électronique et de capteurs pour interagir avec l'enfant. Ainsi, Théo dort lorsqu'il fait nuit, se réveille au lever du jour, réclame à manger ou à boire et même à aller au pot. Sa voix numérisée est d'un naturel confondant. Surtout, il s'adapte aux capacités de jeux de chaque enfant : plus il manifestera son désir de jouer, plus le jouet sera réactif.",
+        "query": "La voix numérisée de Théo est d'un \"naturel confondant\", ce qui signifie qu'elle...",
         "options": [
-            "A un timbre qui n’existe pas naturellement.",
-            "Se confond avec la voix de l’enfant qui joue.",
-            "Enregistre et reproduit les voix entendues.",
-            "Imite à la perfection la voix d’un enfant."
+            "a un timbre qui n'existe pas naturellement.",
+            "se confond avec la voix de l'enfant qui joue.",
+            "enregistre et reproduit les voix entendues.",
+            "imite à la perfection la voix d’un enfant."
         ],
         "answer": 3
     },
     {
         "id": 22,
         "testId": "150",
-        "text": "***<div align=\"center\"><u>Erasmus</u></div>***\n\nLe programme d’échange d’étudiants entre les universités européennes a du plomb dans l’aile. Au point qu’en France près de quatre mile bourses n’ont pas trouvé preneur. Ce phénomène n’est pas spécifique à la France puisque une baisse de dix pour cent aurait été enregistrée dans une dizaine de pays. Toutes les études traduisent une absence de désir de mobilité chez les jeunes. Parmi les explications avancées, le coût mais surtout une préférence marquée pour les stages en entreprise. Voilà le grand concurrent d’Erasmus depuis quelques années: l’attention portée à l’insertion professionnelle.",
-        "query": "Qu’explique le texte au sujet du programme Erasmus?",
+        "text": "# Erasmus,\n\nLe programme d'échange d'étudiants entre les universités européennes a du plomb dans l'aile. Au point qu'en France près de quatre mille bourses n'ont pas trouvé preneur. Ce phénomène n'est pas spécifique à la France puisqu'une baisse de dix pour cent aurait été enregistrée dans une dizaine de pays. Toutes les études traduisent une absence de désir de mobilité chez les jeunes. Parmi les explications avancées, le coût mais surtout une préférence marquée pour les stages en entreprise. Voilà le grand concurrent d'Erasmus depuis quelques années: l’attention portée à l'insertion professionnelle.",
+        "query": "Qu'explique le texte au sujet du programme Erasmus?",
         "options": [
             "Il est financé par des universités publiques.",
             "Il est remplacé par un autre programme.",
-            "Il facilite l’accès au monde de l’entreprise.",
+            "Il facilite l'accès au monde de l'entreprise.",
             "Son succès auprès des étudiants se dégrade."
         ],
         "answer": 3
@@ -301,8 +301,8 @@
     {
         "id": 24,
         "testId": "150",
-        "text": "Le château de la Bussière est une demeure du 17e siècle située dans le Loiret. Surnommé «le château des Pêcheurs» il possède des collections d’objets rares sur la pêche. Sans oublier un superbe parc. Aujourd’hui, ce monument est confronté à un fléau: un champignon ronge ses édifices.\n\nLes propriétaires ont déjà lancé une campagne de restauration mais le champignon s’attaque aussi à d’autres parties du domaine.\n\nLes maîtres des lieux souhaitent que le bâtiment retrouve son éclat en sollicitant les internautes. À partir de 15 euros, les contributeurs pourront recevoir des entrées gratuites, l’inscription de leur nom sur une plaque dans le château ou bien encore un diner avec les propriétaires.",
-        "query": "D’après l’article, à quoi les internautes sont-ils encouragés?",
+        "text": "Le château de la Bussière est une demeure du 17e siècle, située dans le Loiret. Surnommé le « château des Pêcheurs », il possède des collections d'objets rares sur la pêche. Sans oublier un superbe parc. Aujourd'hui, ce monument est confronté à un fléau : un champignon ronge ses édifices.\n\nLes propriétaires ont déjà lancé une campagne de restauration mais le champignon s'attaque aussi à d'autres parties du domaine.\n\nLes maîtres des lieux souhaitent que le bâtiment retrouve son éclat en sollicitant les internautes. À partir de 15€, les contributeurs pourront recevoir des entrées gratuites, l'inscription de leur nom sur une plaque dans le château ou bien encore un dîner avec les propriétaires.",
+        "query": "D'après l’article, à quoi les internautes sont-ils encouragés ?",
         "options": [
             "À aider à la rénovation en travaillant au château.",
             "À entrer en contact avec les occupants du château.",
@@ -314,8 +314,8 @@
     {
         "id": 25,
         "testId": "150",
-        "text": "Sandrine Mercier et Michel Fonovic ont le voyage dans la peau. Les deux journalistes ont longtemps exploré le monde avant d’écrire un livre ensemble. *«Ils sont partis vivre ailleurs»* est constitué des histoires d’une trentaine d’expatriés et d’autant de destins et de trajectoires. Les auteurs sont aller chercher les personnages tous très différents mais toujours touchants et sincères en racontant leurs parcours lointains rappel du large, les premiers pas, les déceptions, le rapport à la France, la découverte des autres… C’est certainement ce qui unit tous ces Français du bout du monde; par-delà leurs différences et leurs expériences: une ouverture d’esprit, une volonté de partager et, au final, une richesse et une joie de vivre communicative.",
-        "query": "D’après l’auteur de cet article, quelle est la particularité de cet ouvrage?",
+        "text": "Sandrine Mercier et Michel Fonovich ont le voyage dans la peau. Les deux journalistes ont longtemps exploré le monde avant d'écrire un livre ensemble. *Ils sont partis vivre ailleurs* est constitué des histoires d'une trentaine d'expatriés et d'autant de destins et de trajectoires. Les auteurs sont allés chercher des personnages tous très différents mais toujours touchants et sincères en racontant leurs parcours lointains-l'appel du large, les premiers pas, les déceptions, le rapport à la France, la découverte des autres... C'est certainement ce qui unit tous ces Français du bout du monde, par-delà leurs différences et leurs expériences : une ouverture d'esprit, une volonté de partager et, au final, une richesse et une joie de vivre communicative.",
+        "query": "D'après l'auteur de cet article, quelle est la particularité de cet ouvrage ?",
         "options": [
             "L'originalité des pays visités.",
             "La description des habitudes quotidiennes.",
@@ -327,8 +327,8 @@
     {
         "id": 26,
         "testId": "150",
-        "text": "***<div align=\"center\">Longtemps délaissées, les algues semblent peu à peu séduire les consommateurs.</div>***\n\nEn raison de leur confusion avec les algues vertes qui polluent le littoral, ces légumes de mer sont parfois mal considères. Pourtant si les algues ne font pas encore partie de notre univers culturel alimentaire, leur consommation est en progression. «Les occidentaux sont-ils prêts à en faire un produit courant?» questionne le docteur Arnaud Cocaul. Pas sûr. «Malgré leurs bienfaits nutritionnels, leur consommation restera sans doute limitée» estime ce nutritionniste.",
-        "query": "Quelle place occupent les algues en France?",
+        "text": "# <p style=\"line-height: 120%\">Longtemps délaissées, les algues semblent peu à peu séduire les consommateurs</p>\n\n---\n\nEn raison de leur confusion avec les algues vertes qui polluent le littoral, ces légumes de mer sont parfois mal considérés. Pourtant, si les algues ne font pas encore partie de notre univers culturel alimentaire, leur consommation est en progression. « Les Occidentaux sont-ils prêts à en faire un produit courant ? » questionne le docteur Arnaud Cocaul. Pas sûr. « Malgré leurs bienfaits nutritionnels, leur consommation restera sans doute limitée », estime ce nutritionniste.",
+        "query": "Quelle place occupent les algues en France ?",
         "options": [
             "Elles font partie de la gastronomie régionale.",
             "Les gens en mangent plus que par le passé.",
@@ -366,8 +366,8 @@
     {
         "id": 29,
         "testId": "150",
-        "text": "Durant les investigations journalistiques, le recours à la caméra cachée est de plus en plus fréquent. Mais souvent, son utilisation n’est aussi qu’un cache-misère, un moyen de compenser l’absence d’informations dans les reportages, de remplir le vide par des scènes un peu spectaculaires. C’est une manière pour certains aussi de faire des économies. Par ailleurs, cette pratique pose une autre question celle du statut de la personne filmée à son insu. La filmer en caméra cachée, n’est-ce pas supposer qu’elle a quelque chose à se reprocher avant d’avoir commencé à parler?",
-        "query": "D’après ce texte, pourquoi les journalistes utilisent-ils des caméras cachées?",
+        "text": "Durant les investigations journalistiques, le recours à la caméra cachée est de plus en plus fréquent. Mais souvent, son utilisation n'est aussi qu'un cache-misère, un moyen de compenser l'absence d'informations dans les reportages, de remplir le vide par des scènes un peu spectaculaires. C'est une manière pour certains aussi de faire des économies. Par ailleurs, cette pratique pose une autre question : celle du statut de la personne filmée à son insu. La filmer en caméra cachée, n'est-ce pas supposer qu'elle a quelque chose à se reprocher avant d'avoir commencé à parler ?",
+        "query": "D'après ce texte, pourquoi les journalistes utilisent-ils des caméras cachées ?",
         "options": [
             "Pour améliorer la qualité des documentaires.",
             "Pour dissimuler la pauvreté des contenus.",
@@ -392,8 +392,8 @@
     {
         "id": 31,
         "testId": "150",
-        "text": "Après avoir été fermé au public pendant douze ans, la grotte préhistorique d’Altamira, située en Espagne doit rouvrir ses portes, mais de manière expérimentale. Il s’agit d’une expérience réservée à un groupe de cinq personnes tirées au hasard parmi les visiteurs du musée du site, qui vont pouvoir contempler les peintures rupestres originales. Cette expérience se déroulera une fois par semaine pendant huit mois afin de permettre à une équipe de scientifiques d’évaluer l’impact des visites sur l’ensemble du site et de donner son avis sur une réouverture complète.",
-        "query": "Qu’évoque-t-on dans cet article?",
+        "text": "Après avoir été fermée au public pendant douze ans, la grotte préhistorique d'Altamira, située en Espagne, doit rouvrir ses portes mais de manière expérimentale. Il s'agit d'une expérience réservée à un groupe de cinq personnes tirées au hasard parmi les visiteurs du musée du site, qui vont pouvoir contempler les peintures rupestres originales. Cette expérience se déroulera une fois par semaine pendant huit mois afin de permettre à une équipe de scientifiques d'évaluer l'impact des visites sur l'ensemble du site et de donner son avis sur une réouverture complète.",
+        "query": "Qu'évoque-t-on dans cet article?",
         "options": [
             "L'inauguration d'une exposition temporaire.",
             "L'inscription d'une œuvre au patrimoine mondial.",
@@ -431,7 +431,7 @@
     {
         "id": 34,
         "testId": "150",
-        "text": "Quel visage Paris pourrait-il prendre en 2100? C’est ce que le collectif d’architectes «Et alors…» a imaginé au travers de vingt cartes postales géantes, exposées à Paris. Ce qui donne un résultat surprenant, parfois utopique, parfois réaliste. Ainsi l’idée d’une centrale hydrothermique pour chauffer et refroidir tout un quartier, projet de la Compagnie Parisienne du Chauffage Urbain. Des potagers «partagés» au pied des immeuble en plein centre-ville, cela ressemble plus à un clin d’œil malicieux… Le vélo a également la part belle: les architectes imaginent des voies rapides sur les toits de Paris, au milieu de toiture végétalisées et de jardins.",
+        "text": "Quel visage Paris pourrait-il prendre en 2100? C’est ce que le collectif d’architectes «Et alors…» a imaginé au travers de vingt cartes postales géantes, exposées à Paris. Ce qui donne un résultat surprenant, parfois utopique, parfois réaliste.\n\n Ainsi l’idée d’une centrale hydrothermique pour chauffer et refroidir tout un quartier, projet de la Compagnie Parisienne du Chauffage Urbain. Des potagers «partagés» au pied des immeubles en plein centre-ville, cela ressemble plus à un clin d’œil malicieux…\n\nLe vélo a également la part belle: les architectes imaginent des voies rapides sur les toits de Paris, au milieu de toiture végétalisées et de jardins.",
         "query": "Quel projet est présenté comme réaliste?",
         "options": [
             "L'extension d'un système de climatisation à tout un quartier.",
@@ -444,8 +444,8 @@
     {
         "id": 35,
         "testId": "150",
-        "text": "Il faut se rendre à l’évidence: le «jour» n’est plus l’unité de temps d’un journal. Un quotidien papier ne peut pas rivaliser avec la vitesse à laquelle les sites web, les blogs, les réseaux sociaux, les journaux en ligne, les radios et télés, les «news» des grands serveurs diffusent les nouvelles du jour. Aussi, au moment où il est en kiosques. se condamne-t-il à apparaître comme «le journal de la veille» perdant progressivement ses lecteurs qui, bombardés de scoops tous azimuts, sont déçus de n’y trouver que ce qu’ils savent déjà.",
-        "query": "Quelle est la position de l’auteur de l’article?",
+        "text": "Il faut se rendre à l'évidence : le «jour» n'est plus l'unité de temps d'un journal. Un quotidien papier ne peut pas rivaliser avec la vitesse à laquelle les sites web, les blogs, les réseaux sociaux, les journaux en ligne, les radios et télés, les «news» des grands serveurs diffusent les nouvelles du jour. Aussi, au moment où il est en kiosques, se condamne-t-il à apparaître comme «le journal de la veille» - perdant progressivement ses lecteurs qui, bombardés de scoops tous azimuts, sont déçus de n'trouver que ce qu'ils savent déjà.\n\n<br/><p style=\"text-align: right;\">D'après <i>Libération</i></p>",
+        "query": "Quelle est la position de l'auteur de l'article?",
         "options": [
             "Il conteste la fiabilité des sources d'Internet.",
             "Il critique la surabondance de l'information.",
@@ -470,8 +470,8 @@
     {
         "id": 37,
         "testId": "150",
-        "text": "Dans leur nouvelle collection, les éditions Nil invitent des auteurs à se livrer à un exercice épistolaire intime en écrivant une lettre pour dire l’indicible. Le modèle est celle que Kafka rédigea à l’intention de son père et qu’il préféra ranger dans un tiroir tant l’accusation portée était peu amène.\n\nAvec l’autre fille, missive adressé à sa sœur aînée, morte avant sa naissance, Annie Ernaux inaugure brillamment le concept, fidèle à son écriture tranchante et analytique. Rejetant le ternie d’autofiction, l’écrivain se dit fascinée par la réalité, partant à la recherche d’une vérité sur une mort que ses parents lui ont toujours cachée. En demandant à des auteurs de se libérer d’un vieux uniment, la collection souhaite réhabiliter un genre littéraire oublié.",
-        "query": "À quel résultat la participation à cette collection conduit-elle Annie Ernaux?",
+        "text": "Dans leur nouvelle collection, les éditions Nil invitent des auteurs à se livrer à un exercice épistolaire intime en écrivant une lettre pour dire l'indicible. Le modèle est celle que Kafka rédigea à l'intention de son père et qu'il préféra ranger dans un tiroir tant l'accusation portée était peu amène.\n\nAvec *L'autre fille*, missive adressée à sa sœur aînée, morte avant sa naissance, Annie Ernaux inaugure brillamment le concept, fidèle à son écriture tranchante et analytique. Rejetant le terme d'autofiction, l'écrivain se dit fasciné par la réalité, partant à la recherche d'une vérité sur une mort que ses parents lui ont toujours cachée. En demandant à des auteurs de se libérer d'un vieux tourment, la collection souhaite réhabiliter un genre littéraire oublié.",
+        "query": "À quel résultat la participation à cette collection conduit-elle Annie Ernaux ?",
         "options": [
             "À s'acquitter d'un engagement moral.",
             "À s'affranchir d'une histoire ancienne.",
@@ -496,7 +496,7 @@
     {
         "id": 39,
         "testId": "150",
-        "text": "### Depuis l’adolescence, je fréquente assidûment les dictionnaires.\n\nChaque fois que je bute sur un mot, que je suis dans le flou culturel, ils m’apportent la réponse et ouvrent de nouveaux horizons à ma curiosité en me renvoyant souvent à d’autre ouvrages. Je possède une centaine et chacun est une bibliothèque à lui seul. Tous sont autant de béquilles de ma culture. Par example, guano vous cherchez le mot juste, rien de tel qu’un dictionnaire des synonymes! On ouvre un dictionnaire pour se renseigner sur une question précise comme on brait la notice d’un produit pharmaceutique destiné à soigner ceci ou cela. C’est le self-service de la pensée.\n\n**Jean-Claude Simoën, éditeur.**",
+        "text": "## Depuis l'adolescence, je fréquente assidûment les dictionnaires.\n\nChaque fois que je bute sur un mot, que je suis dans le flou culturel, ils m'apportent la réponse et ouvrent de nouveaux horizons à ma curiosité en me renvoyant souvent à d'autres ouvrages. J'en possède une centaine et chacun est une bibliothèque à lui seul. Tous sont autant de béquilles de ma culture. Par exemple, quand vous cherchez le mot juste, rien de tel qu'un dictionnaire des synonymes! On ouvre un dictionnaire pour se renseigner sur une question précise comme on lirait la notice d'un produit pharmaceutique destiné à soigner ceci ou cela. C'est le self-service de la pensée!\n\n<br/>Jean-Claude Simoën, éditeur.",
         "query": "Pourquoi Jean-Claude Simoën aime-t-il les dictionnaires?",
         "options": [
             "Pour découvrir de nouvelles références.",

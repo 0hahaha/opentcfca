@@ -28,21 +28,21 @@
     {
         "id": 3,
         "testId": 155,
-        "text": "## Vie pratique\n\nConsommez cinq fruits et Légumes par jour. Limitez la quantité de viande rouge, de beurre, de sucre et de sel et buvez au moins huit verres d'eau par jour ! Vous ferez le plein d'énergie !",
+        "text": "## Vie pratique\n\nConsommez cinq fruits et légumes par jour, limitez la quantité de viande rouge, de beurre, de sucre et de sel et buvez au moins huit verres d'eau par jour ! Vous ferez le plein d'énergie !",
         "query": "Que permet le conseil de « Vie pratique » ?",
         "options": [
             "De faire des économies.",
             "De pratiquer un sport.",
             "De rester en bonne santé.",
-            "De trouver des produits bios."
+            "De trouver des produits bio."
         ],
         "answer": 2
     },
     {
         "id": 4,
         "testId": 155,
-        "text": "## <p style=\"text-align: center;\">Vous souhaitez améliorer votre niveau en langue étrangère ?</p>\n\nLe Conseil de l'Europe offre à ses salariés des formations dans les langues des pays de l'Union Européenne. Inscrivez-vous dès maintenant pour les cours d'italien et d'allemand.",
-        "query": "Qu'est-ce que le Conseil de l’Europe propose à ses employés ?",
+        "text": "## <p style=\"text-align: center;\">Vous souhaitez améliorer votre <br/> niveau en langue étrangère ?</p>\n\nLe Conseil de l'Europe offre à ses salariés des formations dans les langues des pays de l'Union européenne. Inscrivez-vous dès maintenant pour les cours d'italien et d'allemand.",
+        "query": "Qu'est-ce que le Conseil de l'Europe propose à ses employés ?",
         "options": [
             "Des cours gratuits.",
             "Des postes à l'étranger.",
@@ -54,7 +54,7 @@
     {
         "id": 5,
         "testId": 155,
-        "text": "## <p style=\"text-align: center;\">Examen de biologie</p>\n\n<p style=\"text-align: center;\">██████ Juin à 15h30 en salle 454.</p",
+        "text": "## <p style=\"text-align: center;\">Examen de biologie</p>\n\n<p style=\"text-align: center;\">██████ Juin à 15h30 en salle 454.</p>",
         "query": "Quelle information manque au sujet de cet examen ?",
         "options": [
             "La date.",
@@ -67,7 +67,7 @@
     {
         "id": 6,
         "testId": 155,
-        "text": "**Stéphane,**\n\nTu peux apporter le dessert jeudi soir ? Claude s'occupe des entrées, Dominique des boissons et moi du plat principal.\n\nEn invités-surprise, d'autres copains de notre terminale S3.\n\nC'est super de se retrouver tous, dix ans après le lycée.\n\n**Maryse**",
+        "text": "Stéphane,\n\nTu peux apporter le dessert jeudi soir ? Claude s'occupe des entrées, Dominique des boissons et moi du plat principal.\n\nEn invités-surprise, d'autres copains de notre terminale S3.\n\nC'est super de se retrouver tous, dix ans après le lycée.\n\nMaryse",
         "query": "Qu'est-ce que Maryse organise ?",
         "options": [
             "Un concours de cuisine entre amis.",
@@ -93,7 +93,7 @@
     {
         "id": 8,
         "testId": 155,
-        "text": "### <p style=\"text-align: right;\">Lundi 20 juin</p>\n\nMme Rico sera absente de son bureau exceptionnellement aujourd'hui, lundi. Pour avoir un rendez-vous, vous pourrez la contacter demain à partir de 14 heures. Merci de votre compréhension.",
+        "text": "<p style=\"text-align: center; font-size: x-large; line-height: 150%;\">Lundi 20 juin <br/> Mme Rico sera absente de son <br/> bureau exceptionnellement <br/> aujourd'hui, lundi. <br/> Pour avoir un rendez-vous, vous <br/> pourrez la contacter demain à <br/> partir de 14 heures. <br/> Merci de votre compréhension.</p>",
         "query": "Quand madame Rico sera-t-elle disponible ?",
         "options": [
             "Dans la journée.",
@@ -106,7 +106,7 @@
     {
         "id": 9,
         "testId": 155,
-        "text": "**Cher confrère,**\n\nCi-joint notre catalogue de boissons pour cette année. En espérant que vous pourrez satisfaire votre clientèle, nous vous remercions pour vos futurs achats.\n\nAvec nos salutations les plus cordiales.\n\n**<p style=\"text-align: right;\">Entreprise Labayle et Chandon.</p>**",
+        "text": "Cher confrère,\n\n<br/>Ci-joint notre catalogue de boissons pour cette année. En espérant que vous pourrez satisfaire votre clientèle, nous vous remercions pour vos futurs achats.\n\nAvec nos salutations les plus cordiales,\n\n<br/><p style=\"text-align: right;\">Entreprise Labayle et Chandon.</p>",
         "query": "Quel est l'objet de ce courrier ?",
         "options": [
             "Demander des informations sur des produits.",
@@ -119,7 +119,7 @@
     {
         "id": 10,
         "testId": 155,
-        "text": "## <p style=\"text-align: center;\">Noël Approche !</p>\n\nPour que vos colis arrivent avant les fêtes, nous vous proposons de les transporter en mode express.\n\nRenseignez-vous auprès de nos conseillers où rendez-vous directement au guichet.",
+        "text": "# <p style=\"text-align: center;\">Noël Approche !</p>\n\n<p style=\"font-size: x-large; text-align: center; line-height: 150%;\">Pour que vos colis arrivent avant les fêtes, <br/> nous vous proposons de les transporter en <br/> mode express.<br/><br/>Renseignez-vous auprès de nos conseillers <br/> ou rendez-vous directement au guichet.</p>",
         "query": "À quoi sert ce service ?",
         "options": [
             "À acheter des cadeaux.",
@@ -145,7 +145,7 @@
     {
         "id": 12,
         "testId": 155,
-        "text": "Fini les souvenirs de voyage trop flous. Pour s'entraîner, direction Lyon pour un week-end. Sur place, une jeune agence spécialisée vous propose un stage pour découvrir la ville autrement. L'objectif : sur une journée, travailler la photographie et découvrir en même temps avec un guide les monuments historiques de la ville. Vous profitez toute la journée des conseils d'un professionnel qui vous montre les endroits secrets de Lyon. Il vous explique comment utiliser la lumière naturelle.",
+        "text": "Fini les souvenirs de voyages trop flous. Pour s'entraîner, direction Lyon pour un week-end. Sur place, une jeune agence spécialisée vous propose un stage pour découvrir la ville autrement. L'objectif : sur une journée, travailler la photographie et découvrir en même temps avec un guide les monuments historiques de la ville. Vous profitez toute la journée des conseils d'un professionnel qui vous montre les endroits secrets de Lyon. Il vous explique comment utiliser la lumière naturelle.\n\n<br/><p style=\"text-align: right; font-size: small;\">Inspiré de <i>www.directmatin.fr</i></p>",
         "query": "Que propose cette agence ?",
         "options": [
             "D'apprendre à s'orienter dans la ville.",
@@ -158,10 +158,10 @@
     {
         "id": 13,
         "testId": 155,
-        "text": "## Chers Clients,\n\nVotre supermarché vous accueille depuis 60 ans. Le propriétaire et son équipe vous invitent à une semaine de festivités. À partir du 10 août, plus de 1000 **OFFRES EXCEPTIONNELLES** et des réductions **JUSQU’ À 50%** sur les articles vous attendent.",
+        "text": "<svg viewBox=\"0 0 500 150\"><path id=\"curve\" fill=\"transparent\" d=\"M50,100 C130,20 370,20 450,100\" /><text width=\"500\" fill=\"#000000\" style=\"font-size: 40pt;\"><textPath xlink:href=\"#curve\" startOffset=\"50%\"  text-anchor=\"middle\">Chers Clients,</textPath></text></svg>\n\n<p style=\"text-align: center; line-height: 150%; font-size: x-large;font-weight: bold; margin-top: -80px;\">Votre supermarché vous accueille <br/> depuis 60 ans. Le propriétaire et <br/> son équipe vous invitent à une <br/> semaine de festivités. <br/> À partir du 10 août, plus de 1000 <br/> OFFRES EXCEPTIONNELLES et des <br/> réductions JUSQU'À 50% sur les <br/> articles vous attendent.</p>",
         "query": "Qu'est-ce qu'on fête ?",
         "options": [
-            "L'anniversaire d’un magasin.",
+            "L'anniversaire d'un magasin.",
             "L'augmentation des ventes.",
             "L'ouverture d’un commerce.",
             "Le début des soldes d'été."
@@ -236,7 +236,7 @@
     {
         "id": 19,
         "testId": 155,
-        "text": "Les repas servis dans les avions de ligne ont toujours été tristement réputés pour leur fadeur. Mais il semblerait que les chefs n'y soient pour rien. D'après une étude, les nuisance sonores importantes peuvent en effet réduire la sensibilité des palais, rendant la nourriture peu savoureuse. Le vrombissement des réacteurs expliquerait le peu d'enthousiasme des passagers pour les plateaux servis à bord. Les chercheurs ont aussi découvert que des sons agréables pouvaient faire mieux apprécier les mets.",
+        "text": "Les repas servis dans les avions de ligne ont toujours été tristement réputés pour leur fadeur. Mais il semblerait que les chefs n'y soient pour rien. D'après une étude, les nuisances sonores importantes peuvent en effet réduire la sensibilité des palais, rendant la nourriture peu savoureuse. Le vrombissement des réacteurs expliquerait le peu d'enthousiasme des passagers pour les plateaux servis à bord. Les chercheurs ont aussi découvert que des sons agréables pouvaient faire mieux apprécier les mets.",
         "query": "Quelle est la conclusion de cette étude ?",
         "options": [
             "L'anxiété en avion diminue la sensation de faim.",
@@ -249,8 +249,8 @@
     {
         "id": 20,
         "testId": 155,
-        "text": "<p style=\"text-align: right;\">Paris, le mars</p>\n\n**Madame, Monsieur,**\n\n&nbsp;&nbsp;&nbsp;&nbsp; Ce courrier fait suite à mon achat d'un téléphone le 5 mars dernier. Après réflexion, je souhaiterais le rendre, car j'ai finalement décidé d'acheter un appareil avec messagerie intégrée.\n\n&nbsp;&nbsp;&nbsp;&nbsp; Ainsi, je vous prie de bien vouloir me restituer la somme de 80 euros, correspondant à la somme versée le 5 mars par chèque.\n\n&nbsp;&nbsp;&nbsp;&nbsp; Dans l'attente de votre réponse, je vous transmets, Madame, Monsieur, mes meilleures salutations.\n\n***<p style=\"text-align: right;\">André Cellier</p>***",
-        "query": "Quel est l’objet de la lettre de monsieur Cellier ?",
+        "text": "<p style=\"text-align: right;\">Paris, le 13 mars</p>\n\n<br/>Madame, Monsieur,\n\n<br/>&nbsp;&nbsp;&nbsp;&nbsp; Ce courrier fait suite à mon achat d'un téléphone le 5 mars dernier. Après réflexion, je souhaiterais le rendre car j'ai finalement décidé d'acheter un appareil avec messagerie intégrée.\n\n<br/>&nbsp;&nbsp;&nbsp;&nbsp; Ainsi, je vous prie de bien vouloir me restituer la somme de 80 euros, correspondant à la somme versée le 5 mars par chèque.\n\n<br/>&nbsp;&nbsp;&nbsp;&nbsp; Dans l'attente de votre réponse, je vous transmets, Madame, Monsieur, mes meilleures salutations.\n\n<br/>*<p style=\"text-align: right;\">André Cellier</p>*",
+        "query": "Quel est l'objet de la lettre de monsieur Cellier ?",
         "options": [
             "Le remboursement de son article.",
             "L'échange de son téléphone.",
@@ -262,13 +262,13 @@
     {
         "id": 21,
         "testId": 155,
-        "text": "Pendant un an, la journaliste allemande Greta Taubert a décidé de quitter la société de consommation sans quitter son appartement berlinois. Pendant cette expérience, elle bu, mangé, s'est habillée sans payer : elle a échangé jupes et pantalons avec ses voisines, planté des légumes dans un jardin collectif. Pour ses vacances, elle est allée chez des amis en faisant de l'auto-stop. « Aujourd'hui, je suis contente de ne plus vivre aussi radicalement, c'était difficile mais je cherche à intégrer dans mon quotidien ce que j'ai appris », explique-t-elle.",
+        "text": "Pendant un an, la journaliste allemande Greta Taubert a décidé de quitter la société de consommation sans quitter son appartement berlinois. Pendant cette expérience, elle a bu, mangé, s'est habillée sans payer : elle a échangé jupes et pantalons avec ses voisines, planté des légumes dans un jardin collectif. Pour ses vacances, elle est allée chez des amis en faisant de l'auto-stop. « Aujourd'hui, je suis contente de ne plus vivre aussi radicalement, c'était difficile mais je cherche à intégrer dans mon quotidien ce que j'ai appris », explique-t-elle.\n\n<br/><p style=\"text-align: right;\">D'après <i>linternaute.com</i></p>",
         "query": "Quel est le constat de Greta Taubert après cette expérience ?",
         "options": [
-            "C'est possible à la compagne.",
-            "C’est possible avec du temps.",
+            "C'est possible à la campagne.",
+            "C'est possible avec du temps.",
             "C'est possible mais pénible.",
-            "C’est possible pour tous."
+            "C'est possible pour tous."
         ],
         "answer": 2
     },
@@ -288,13 +288,13 @@
     {
         "id": 23,
         "testId": 155,
-        "text": "## <p style=\"text-align: center;\">Éducation numérique</p>\n\nIl n'y presque plus aujourd'hui de manuel scolaire qui paraisse sans avoir une double traduction, numérique et en ligne. C'est devenu le standard de la production au terme d'une mutation très rapide. Mais cependant, nous restons en proximité forte avec le manuel classique. De nouvelles applications qui seraient déconnectées du livre papier ne nous paraissent pas encore à ce stade conformes à notre mission, ni répondre aux attentes de la majorité des enseignants. En outre, cela ne correspond pas à l'équipement de la très grande majorité des établissements. Autrement dit, les conditions d'un changement d'ensemble ne sont pas réunies.\n\n**M. Huet, éditeur de manuels scolaires**",
+        "text": "## <p style=\"text-align: center;\">Éducation numérique</p>\n\nIl n'y presque plus aujourd'hui de manuel scolaire qui paraisse sans avoir une double traduction, numérique et en ligne. C'est devenu le standard de la production au terme d'une mutation très rapide. Mais cependant, nous restons en proximité forte avec le manuel classique. De nouvelles applications qui seraient déconnectées du livre papier ne nous paraissent pas encore à ce stade conformes à notre mission, ni répondre aux attentes de la majorité des enseignants. En outre, cela ne correspond pas à l'équipement de la très grande majorité des établissements. Autrement dit, les conditions d'un changement d'ensemble ne sont pas réunies.\n\nM. Huet, éditeur de manuels scolaires",
         "query": "Quelle est la position de cet éditeur de manuels sur la croissance du support numérique ?",
         "options": [
-            "Il considère que l’ère du support papier est définitivement terminée.",
+            "Il considère que l'ère du support papier est définitivement terminée.",
             "Il estime qu'il reste du travail à faire pour mieux préparer cette évolution.",
-            "Il juge indispensable de n’utiliser que les supports électroniques.",
-            "Il pense qu’il faut privilégier le contact des élèves avec l'outil internet."
+            "Il juge indispensable de n'utiliser que les supports électroniques.",
+            "Il pense qu'il faut privilégier le contact des élèves avec l'outil internet."
         ],
         "answer": 1
     },
@@ -305,7 +305,7 @@
         "query": "Quel développement connaît le covoiturage ?",
         "options": [
             "Il devient la solution idéale des voyages organisés à la dernière minute.",
-            "Il est accessible à un nombre croissant d'utilisateurs grâce à internet.",
+            "Il est accessible à un nombre croissant d'utilisateurs grâce à Internet.",
             "Il occupe une place grandissante dans les petites annonces des journaux.",
             "Il s'impose comme le moyen de déplacement à la mode chez les jeunes."
         ],
@@ -366,15 +366,15 @@
     {
         "id": 29,
         "testId": 155,
-        "text": "Aux débuts d'internet, je me souviens d'avoir lu, éberluée, dans un magazine féminin « Mon mari était absent, il passait tout son temps sur le chat » et j'en étais à tenter de visualiser ce triste état de fait lorsque je compris ma méprise : avoir confondu le chat, le félidé, avec le chat, la discussion sur Internet. Depuis ce jour, aucun progrès sur cette équivoque terrible de la langue, alors que l'usage informatique du mot souris démultiplie les sources de confusions. Le bon sens voudrait que la phonétique l'emporte et que l'on écrive « tchat ». Au lieu de cette solution évidente, le Petit Larousse laissé entrer en 2003 dans le dictionnaire le monstrueux mot-valise « clavardage »",
-        "query": "Qu'est-ce qui dérange l’auteur de ce texte ?",
+        "text": "Aux débuts d'internet, je me souviens d'avoir lu, éberluée, dans un magazine féminin « Mon mari était absent, il passait tout son temps sur le chat », et j'en étais à tenter de visualiser ce triste état de fait lorsque je compris ma méprise : avoir confondu le chat, le félidé, avec le chat, la discussion sur Internet. Depuis ce jour, aucun progrès sur cette équivoque terrible de la langue, alors que l'usage informatique du mot souris démultiplie les sources de confusions. Le bon sens voudrait que la phonétique l'emporte et que l'on écrive « tchat ». Au lieu de cette solution évidente, le Petit Larousse a laissé entrer en 2004 dans le dictionnaire le monstrueux mot-valise « clavardage ».",
+        "query": "Qu'est-ce qui dérange l'auteur de ce texte ?",
         "options": [
-            "L'abus d’anglicisme en langage informatique.",
-            "L'ambiguïté du néologisme « chat » à l'écrire.",
+            "L'abus d'anglicismes en langage informatique.",
+            "L'ambiguïté du néologisme « chat » à l'écrit.",
             "Le laxisme orthographique dans les forums.",
             "Le manque d'imagination des lexicologues."
         ],
-        "answer": 3
+        "answer": 1
     },
     {
         "id": 30,
@@ -392,13 +392,13 @@
     {
         "id": 31,
         "testId": 155,
-        "text": "**De : Marc@radiocanada.com**\n\n**Objet : Remerciements**\n\n**Chers tous,**\n\nAmis, techniciens, auditeurs, animateurs, président de notre radio, vous qui avez toujours été là pour Des Airs, je voulais vous dire un très grand merci ! Je le répéterai le 1er juillet pour la dernière fois sur les ondes à l'occasion de la 200ᵉ : notre radio été pour moi un merveilleux espace de liberté ! Laissez-moi remercier encore notre président qui continue à la faire vivre. Quel bonheur de vous avoir eu tous autour de moi samedi !\n\n**Merci encore,**\n\n**Pascale**",
+        "text": "**De: pascale@radioair.fr**\n\n**Objet: Remerciements**\n\n---\nChers tous,\n\n<br/>Amis, techniciens, auditeurs, animateurs, président de notre radio, vous qui avez toujours été là pour **Des Airs**, je voulais vous dire un très grand merci ! Je le répéterai le 1<sup>er</sup> juillet pour la dernière fois sur les ondes à l'occasion de la 200<sup>e</sup> : notre radio a été pour moi un merveilleux espace de liberté ! Laissez-moi remercier encore notre président qui continue à la faire vivre.\n\nQuel bonheur de vous avoir eu tous autour de moi samedi!\n\nMerci encore,\n\n<br/>Pascale.",
         "query": "Qu'ont-ils tous fêté samedi ?",
         "options": [
-            "L’anniversaire d’une radio.",
-            "La 200 e édition d’une émission.",
-            "Le départ d’une animatrice.",
-            "Le travail d’un directeur."
+            "L'anniversaire d'une radio.",
+            "La 200e édition d'une émission.",
+            "Le départ d'une animatrice.",
+            "Le travail d'un directeur."
         ],
         "answer": 2
     },
@@ -431,7 +431,7 @@
     {
         "id": 34,
         "testId": 155,
-        "text": "Monsieur et Madame Martin n'ont pas un emploi du temps également captivant. Quand monsieur se rend au travail, madame manie l'aspirateur. Quand il est au bureau, elle achète des surgelés au supermarché. Quand il se cale devant la télé, l'épouse modèle se colle aux fourneaux. Une illustration exhumée d'un manuel des années 1950 ? Non, les images d'un exercice pour une classe de CP afin de «comprendre la simultanéité» en étudiant les moments de «la journée d'une famille». Quand Virginie Sassoon est tombée sur ce document ultra-stéréotypé dans le classeur de sa fille, cette maman est tombée des nues. «Cette fiche dévoile une forme de violence symbolique qui persiste dans notre société et qui relève, selon moi, de la responsabilité collective.»",
+        "text": "Monsieur et Madame Martin n'ont pas un emploi du temps également captivant. Quand Monsieur se rend au travail, Madame manie l'aspirateur. Quand il est au bureau, elle achète des surgelés au supermarché. Quand il se cale devant la télé, l'épouse modèle se colle aux fourneaux. Une illustration exhumée d'un manuel des années 1950 ? Non, les images d'un exercice pour une classe de CP afin de « comprendre la simultanéité » en étudiant les moments de la « journée d'une famille ». Quand Virginie Sassoon est tombée sur ce document ultra-stéréotypé dans le classeur de sa fille, cette maman est tombée des nues. « Cette fiche dévoile une forme de violence symbolique qui persiste dans notre société et qui relève, selon moi, de la responsabilité collective. »",
         "query": "Pourquoi Virginie Sassoon est-elle choquée par les exercices proposés dans la classe de sa fille ?",
         "options": [
             "Ils correspondent à des programmes scolaires obsolètes.",
@@ -444,12 +444,12 @@
     {
         "id": 35,
         "testId": 155,
-        "text": "Ceux qui l'ont vu cet été aux Francofolies n'en sont pas revenus. Trente ans après ses débuts, le chanteur Joseph Many a subjugué l'assistance. Il lui fallu du temps pour se convaincre que monter sur scène pour y pousser la chansonnette était encore de son âge. Les ritournelles des années 1970 l'avaient propulsé à son époque sur le devant de la scène, avec l'image d'un artiste terriblement proche de la jeunesse d'alors. Puis sa brillante carrière d'écrivain l'avait convaincu de se consacrer à l'écriture, jusqu'à ce que l'inspiration musicale revienne. Preuve en est son nouvel album. Une ode à la vie, à l'amour, aux femmes. Les atmosphères sont délicieuses. Au fil des ballades, on redevient, pour quelques minutes, adolescent.",
+        "text": "Ceux qui l'ont vu cet été aux Francofolies n'en sont pas revenus. Trente ans après ses débuts, le chanteur Joseph Many a subjugué l'assistance. Il lui a fallu du temps pour se convaincre que monter sur scène pour y pousser la chansonnette était encore de son âge. Les ritournelles des années 1970 l'avaient propulsé à son époque sur le devant de la scène, avec l'image d'un artiste terriblement proche de la jeunesse d'alors. Puis sa brillante carrière d'écrivain l'avait convaincu de se consacrer à l'écriture, jusqu'à ce que l'inspiration musicale revienne. Preuve en est son nouvel album. Une ode à la vie, à l'amour, aux femmes. Les atmosphères sont délicieuses. Au fil des ballades, on redevient, pour quelques minutes, adolescent.",
         "query": "Pourquoi Joseph Many a-t-il tardé à revenir sur scène ?",
         "options": [
             "Il se sentait trop vieux pour les tournées.",
             "Il voulait fuir son image d’idole des jeunes.",
-            "Le public préférait l’écrivain au chanteur.",
+            "Le public préférait l'écrivain au chanteur.",
             "Ses chansons étaient passées de mode."
         ],
         "answer": 0
@@ -457,13 +457,13 @@
     {
         "id": 36,
         "testId": 155,
-        "text": "## <p style=\"text-align: center;\">La bioéthique fait l'objet d'une polémique qui confronte deux écoles.</p>\n\nPour la première, composée de chercheurs et de rationaliste, le progrès scientifique ne saurait être limité. La recherche entraîner l'éradication des maladies génétiques et permettre même de les prévoir. On en viendra à un eugénisme contrôlé qui améliorer l'espèce humaine et les dépenses de santé publique seront allégées. La seconde école, des philosophes ou des ecclésiastiques, affirme ses craintes en ce qui concerne la pratique d'un eugénisme scientifique: il permettra la sélection efficace des embryons et ouvrira de plus en plus largement ses critères de choix à des exigences non pathologiques. Pour eux, il est impossible de déterminer les tares inconciliables avec l'humain, puisque certains individus en ont fait l'origine même de leur génie.",
+        "text": "## <p style=\"text-align: center; line-height: 120%;\">La bioéthique fait l'objet d'une <br/> polémique qui confronte deux écoles.</p>\n\nPour la première, composée de chercheurs et de rationalistes, le progrès scientifique ne saurait être limité. La recherche entraînera l'éradication des maladies génétiques et permettra même de les prévoir. On en viendra à un eugénisme contrôlé qui améliorera l'espèce humaine et les dépenses de santé publique seront allégées. La seconde école, des philosophes ou des ecclésiastiques, affirme ses craintes en ce qui concerne la pratique d'un eugénisme scientifique : il permettra la sélection efficace des embryons et ouvrira de plus en plus largement ses critères de choix à des exigences non pathologiques. Pour eux, il est impossible de déterminer les tares inconciliables avec l'humain, puisque certains individus en ont fait l'origine même de leur génie.",
         "query": "Sur quoi portent les réserves des partisans de la seconde école ?",
         "options": [
             "Le coût social élevé de prise en charge des maladies génétiques.",
             "Le développement de traitements curatifs de pathologies génétiques.",
             "Le mode de financement de la recherche génétique fondamentale.",
-            "Les dérives induites par l’amélioration du patrimoine génétique."
+            "Les dérives induites par l'amélioration du patrimoine génétique."
         ],
         "answer": 3
     },
@@ -496,7 +496,7 @@
     {
         "id": 39,
         "testId": 155,
-        "text": "Panache et arrogance, élégance et futilité, galanterie et gauloiserie: s'il existe, et à condition que cette notion ait encore un sens à l'ère de la mondialisation, l'esprit français tire son essence particulière du fragile équilibre entre ces oppositions. Amateur de grands principe, du coup de sang et de bons mots, c'est l'esprit français. Quoi que nous en disions, il nous obsède. Que nous exaltions le génie national ou l'exception culturelle, les racines ou l'universel, le particularisme local ou l'intérêt général, il ne s'agit toujours, au fond, que de lui. La mondialisation va-t-elle le dissoudre, et nous renvoyer au triste rang de pays ordinaire ?",
+        "text": "Panache et arrogance, élégance et futilité, galanterie et gauloiserie : s'il existe, et à condition que cette notion ait encore un sens à l'ère de la mondialisation, l'esprit français tire son essence particulière du fragile équilibre entre ces oppositions. Amateur de grands principes, de coups de sang et de bons mots, c'est l'esprit français. Quoi que nous en disions, il nous obsède. Que nous exaltions le génie national ou l'exception culturelle, les racines ou l'universel, le particularisme local ou l'intérêt général, il ne s'agit toujours, au fond, que de lui. La mondialisation va-t-elle le dissoudre, et nous renvoyer au triste rang de pays ordinaire ?",
         "query": "Selon l’auteur, qu'est-ce que l'esprit français ?",
         "options": [
             "Des attitudes contradictoires forgeant une identité.",

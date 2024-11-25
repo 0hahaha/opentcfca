@@ -210,7 +210,7 @@
     {
         "id": 17,
         "testId": 161,
-        "text": "## <p style=\"text-align: center;\">Draisienne du XXI<sup>e</sup> siècle</p>\n\nÀ 88 ans, Jacques Blosseville est le participant le plus âgé de la 110<sup>e</sup> édition du concours Lépine, qui récompense les inventeurs. il a choisi de transformer la draisienne, un vélo sans pédale pour enfant inventé au début du XIX<sup>e</sup> siècle. «Il y a trois ans, j'ai commencé à me déplacer avec peine. On m'a proposé une canne, puis fauteuil roulant, mais ça ne me convenait pas... La draisienne vous permet de ne pas avoir à supporter votre poids », explique le concurrent.",
+        "text": "## <p style=\"text-align: center;\">Draisienne du XXI<sup>e</sup> siècle</p>\n\nÀ 88 ans, Jacques Blosseville est le participant le plus âgé de la 110<sup>e</sup> édition du concours Lépine, qui récompense les inventeurs. Il a choisi de transformer la draisienne, un vélo sans pédale pour enfant inventé au début du XIX<sup>e</sup> siècle. «Il y a trois ans, j'ai commencé à me déplacer avec peine. On m'a proposé une canne, puis fauteuil roulant, mais ça ne me convenait pas... La draisienne vous permet de ne pas avoir à supporter votre poids », explique le concurrent.",
         "query": "Dans quel but Jacques Blosseville a-t-il modernisé la draisienne ?",
         "options": [
             "Pour éviter de conduire.",
@@ -249,12 +249,12 @@
     {
         "id": 20,
         "testId": 161,
-        "text": "Le jour viendra où un fonds de pension ou un groupe alimentaire mondial investira dans l'entreprise d'un cuisinier reconnu pour orchestrer son développement international. Bien sûr, on ne peut qu'avoir de la nostalgie pour les temps héroïques où une bande de copains inventait les codes de la nouvelle cuisine. Aujourd'hui, n'importe quel jeune cuisinier est prêt à payer très cher pour le privilège d'un stage de six mois chez un «grand chef». Il rentabilisera vite cet investissement en s'autoproclamant « élève de... », de car les marques des grands chefs ne cessent de prendre de la valeur.",
-        "query": "Qu’apprend-on sur les grands chefs?",
+        "text": "Le jour viendra où un fonds de pension ou un groupe alimentaire mondial investira dans l'entreprise d'un cuisinier reconnu pour orchestrer son développement international. Bien sûr, on ne peut qu'avoir de la nostalgie pour les temps héroïques où une bande de copains inventait les codes de la nouvelle cuisine. Aujourd'hui, n'importe quel jeune cuisinier est prêt à payer très cher pour le privilège d'un stage de six mois chez un « grand chef ». Il rentabilisera vite cet investissement en s'autoproclamant « élève de... », de car les marques des grands chefs ne cessent de prendre de la valeur.",
+        "query": "Qu'apprend-on sur les grands chefs?",
         "options": [
             "Leur conception de la cuisine est passée de mode.",
             "Leur créativité leur assure une célébrité mondiale.",
-            "Leur nom s’est transformé en label de prestige.",
+            "Leur nom s'est transformé en label de prestige.",
             "Leurs établissements sont cotés en bourse."
         ],
         "answer": 2
@@ -262,7 +262,7 @@
     {
         "id": 21,
         "testId": 161,
-        "text": "<p style=\"text-align: right;\">Paris, le 13 mars</p>\n\n<br/>Madame, Monsieur,\n\n<br/>&nbsp;&nbsp;&nbsp;&nbsp; Ce courrier fait suite à mon achat d'un téléphone le 5 mars dernier. Après réflexion, je souhaiterais le rendre, car j'ai finalement décidé d'acheter un appareil avec messagerie intégrée.\n\n<br/>&nbsp;&nbsp;&nbsp;&nbsp; Ainsi, je vous prie de bien vouloir me restituer la somme de 80 euros, correspondant à la somme versée le 5 mars par chèque.\n\n<br/>&nbsp;&nbsp;&nbsp;&nbsp; Dans l'attente de votre réponse, je vous transmets, Madame, Monsieur, mes meilleures salutations.\n\n<br/>*<p style=\"text-align: right;\">André Cellier</p>*",
+        "text": "<p style=\"text-align: right;\">Paris, le 13 mars</p>\n\n<br/>Madame, Monsieur,\n\n<br/>&nbsp;&nbsp;&nbsp;&nbsp; Ce courrier fait suite à mon achat d'un téléphone le 5 mars dernier. Après réflexion, je souhaiterais le rendre car j'ai finalement décidé d'acheter un appareil avec messagerie intégrée.\n\n<br/>&nbsp;&nbsp;&nbsp;&nbsp; Ainsi, je vous prie de bien vouloir me restituer la somme de 80 euros, correspondant à la somme versée le 5 mars par chèque.\n\n<br/>&nbsp;&nbsp;&nbsp;&nbsp; Dans l'attente de votre réponse, je vous transmets, Madame, Monsieur, mes meilleures salutations.\n\n<br/>*<p style=\"text-align: right;\">André Cellier</p>*",
         "query": "Quel est l'objet de la lettre de monsieur Cellier ?",
         "options": [
             "Le remboursement de son article.",
@@ -392,8 +392,8 @@
     {
         "id": 31,
         "testId": 161,
-        "text": "\"Il faut te le dire en quelle langue ?\" Cette question, que des milliers de mères posent à leur enfant lorsqu'elles veulent se faire écouter, est en fait très sensée (comme tout ce que disent les mères). Des travaux scientifiques récents ont en effet démontré une réalité étonnante nous réfléchissons et prenons des décisions différemment lorsque nous traitons l'information dans une autre langue que notre langue maternelle. Nous comprenons tout aussi bien l'idée ou le problème mais, lorsque nous utilisons une autre langue, le résultat est plus réfléchi, moins dicté par les émotions, plus orienté vers l'utilité.",
-        "query": "Que permet l'utilisation d’une langue autre que la langue maternelle ?",
+        "text": "\"Il faut te le dire en quelle langue ?\" Cette question, que des milliers de mères posent à leur enfant lorsqu'elles veulent se faire écouter, est en fait très sensée (comme tout ce que disent les mères). Des travaux scientifiques récents ont en effet démontré une réalité étonnante : nous réfléchissons et prenons des décisions différemment lorsque nous traitons l'information dans une autre langue que notre langue maternelle. Nous comprenons tout aussi bien l'idée ou le problème mais, lorsque nous utilisons une autre langue, le résultat est plus réfléchi, moins dicté par les émotions, plus orienté vers l'utilité.",
+        "query": "Que permet l'utilisation d'une langue autre que la langue maternelle ?",
         "options": [
             "D'attirer l'attention de l'interlocuteur.",
             "D'imaginer des solutions originales.",
@@ -460,7 +460,7 @@
         "text": "Sexistes, les jeux vidéo ? Peut-être que oui, peut-être que non. En tout cas, à parcourir les allées de la Paris Games Week, l'œil avisé aura lui-même bien du mal à trouver un personnage principal féminin de jeu vidéo. Il y a bien la célébrissime Lara Croft du jeu vidéo Tomb Raider, aux attributs particulièrement imposants, conçus presque sur mesure pour plaire à un certain nombre de joueurs masculins. Pour le reste, circulez, il n'y a - presque - rien d'autre à voir, si l'on balaye d'un coup de manette de jeu, au mieux, les princesses à sauver, au pire les calls girls de mafioso. Pourtant, l'industrie du jeu vidéo a pris conscience ces dernières années du potentiel du marché des joueuses.",
         "query": "Quel constat est dressé sur les jeux vidéo ?",
         "options": [
-            "La quasi-absence d’héroïnes.",
+            "La quasi-absence d'héroïnes.",
             "L'appel constant à la violence.",
             "L'atténuation des clichés.",
             "L'uniformité des scénarios."

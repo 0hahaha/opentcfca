@@ -28,7 +28,7 @@
     {
         "id": 3,
         "testId": 151,
-        "text": "Visite d'un musée des beaux-arts vendredi prochain.\n\nMerci de donner deux tickets de métro à votre enfant.\n\nLe professeur.",
+        "text": "Visite d'un musée des Beaux-Arts vendredi prochain.\n\nMerci de donner deux tickets de métro à votre enfant.\n\nLe professeur.",
         "query": "Qu'est-ce que les parents payent pour cette activité ?",
         "options": [
             "L'entrée.",
@@ -80,7 +80,7 @@
     {
         "id": 7,
         "testId": 151,
-        "text": "Monsieur et Madame Moreau\n\nMonsieur l'Ambassadeur de France a le plaisir de vous inviter à diner qu'il donnera en sa résidence, le jeudi 14 juillet à 20 heures à l'occasion de la fête nationale.\n\nTenue de soirée exigée.\n\nRéponse: [sécrétariat-ambafrancea@gmail.com]()",
+        "text": "Madame et Monsieur Moreau,\n\n<br/>Monsieur l'Ambassadeur de France a le plaisir de vous inviter au dîner qu'il donnera en sa résidence, le jeudi 14 juillet à 20 h, à l'occasion de la Fête nationale.\n\n<br/>Tenue de soirée exigée.\n\n<br/><p style=\"text-align: right;\">Réponse : <i><a href=\"#null\">secrétariat-amb.france@gmail.com</a></i></p>",
         "query": "À quoi sont conviés Madame et M. Moreau ?",
         "options": [
             "À un repas officiel.",
@@ -93,8 +93,8 @@
     {
         "id": 8,
         "testId": 151,
-        "text": "## <p style=\"text-align: center;\">GRANDE MARCHE POUR DÉFENDRE NOS EMPLOIS</p>\n\n## <p style=\"text-align: center;\">MARDI 12 JUIN</p>\n\n### <p style=\"text-align: center;\">VENEZ NOMBREUX !</p>\n\n<p style=\"text-align: center;\">DÉPART PLACE DES NATIONS DEVANT LE CENTRE DES CONGRES À 10 H.</p>\n\n<p style=\"text-align: center;\">ARRIVÉE PRÉVUE VERS MIDI DEVANT LA MAISON DES ENTREPRISES.</p>\n\n<p style=\"text-align: center;\">BOULEVARD DES PLATANES.</p>",
-        "query": "Qu’annonce cette affiche ?",
+        "text": "## <p style=\"text-align: center; font-size: x-large; line-height: 170%; background: #1d1d1d; color: white; padding: 10px; margin: 0 100px;\">GRANDE MARCHE POUR <br/> DÉFENDRE NOS EMPLOIS <br/> MARDI 12 JUIN</p>\n\n# <p style=\"text-align: center;\">VENEZ NOMBREUX !</p>\n\n<p style=\"text-align: center; font-size: x-large; line-height: 150%; background: #1d1d1d; color: white; padding: 20px; margin: 0 100px;\"></p>\n\n<br/><p style=\"text-align: center; font-size: large; line-height: 170%; font-weight: bold;\">DÉPART PLACE DES NATIONS DEVANT <br/> LE CENTRE DES CONGRES À 10 H. <br/> ARRIVÉE PRÉVUE VERS MIDI DEVANT <br/> LA MAISON DES ENTREPRISES. <br/> BOULEVARD DES PLATANES.</p>",
+        "query": "Qu'annonce cette affiche ?",
         "options": [
             "Un salon des entrepreneurs.",
             "Une compétition sportive.",
@@ -106,7 +106,7 @@
     {
         "id": 9,
         "testId": 151,
-        "text": "Vous venez d'arriver à Lyon pour suivre des cours à l'université, mais vous ne connaissez pas la ville ? Profitez des conseils de Clémence, lyonnaise, qui vous donne ses adresses pour diner ou faire la fête le soir.\n\n[Lesconseilsdeclémence-lyon.fr]()",
+        "text": "Vous venez d'arriver à Lyon pour suivre des cours à l'université, mais vous ne connaissez pas la ville ? Profitez des conseils de Clémence, Lyonnaise, qui vous donne ses adresses pour diner ou faire la fête le soir.\n\n[lesconseilsdeclemence-lyon.fr]()",
         "query": "Que peut-on faire dans les endroits que propose Clémence ?",
         "options": [
             "Cuisiner.",
@@ -119,7 +119,7 @@
     {
         "id": 10,
         "testId": 151,
-        "text": "### <p style=\"text-align: center;\">Semaine du 6 au 10 septembre:</p>\n\n<p style=\"text-align: center;\">Le restaurant universitaire Vous propose des recettes régionales variées au tarif normal.</p>\n\n### <p style=\"text-align: center;\">Rendez-vous de 11 h 15 à 13 h dans la salle du premier étage.</p>\n\n## <p style=\"text-align: center;\">Bon appétit !</p>",
+        "text": "### <p style=\"text-align: center;\">Semaine du 6 au 10 septembre:</p>\n\n<br/><p style=\"text-align: center; font-size: large;\">Le restaurant universitaire vous propose des recettes <br/> régionales variées au tarif normal.</p>\n\n## <p style=\"text-align: center; line-height: 150%;\">Rendez-vous de 11 h 15 à 13 h <br/> dans la salle du premier étage.</p>\n\n# <p style=\"text-align: center;\">Bon appétit !</p>",
         "query": "Que nous propose le restaurant du 6 au 10 septembre ?",
         "options": [
             "Des cours de cuisine.",
@@ -145,7 +145,7 @@
     {
         "id": 12,
         "testId": 151,
-        "text": "Un salon automobile est un lieu de rêve, mais pas le salon de cette année. Voici mon classement des modèles les plus laids.\n\n1. **La VZT0** : un aspirateur sur quatre roues.\n2. **La Tala Aria** : pas chère, mais pas belle non plus.\n3. **Le cabriolet Augustin** : plus large que haute.\n\n**Vivement l'année prochaine !**",
+        "text": "Un salon automobile est un lieu de rêve, mais pas le salon de cette année. Voici mon classement des modèles les plus laids :\n\n1. **La V210** : un aspirateur sur quatre roues.\n2. **La Tata Aria** : pas chère, mais pas belle non plus.\n3. **Le cabriolet Aurus** : plus large que haut.\n\nVivement l'année prochaine !",
         "query": "Quel est le problème de ces voitures ?",
         "options": [
             "Leur couleur.",
@@ -158,8 +158,8 @@
     {
         "id": 13,
         "testId": 151,
-        "text": "### <p style=\"text-align: center;\">Connaitre deux langues présentes des avantages.</p>\n\nLa gymnastique mentale du passage d'une langue à une autre est aussi une gymnastique des émotions et du comportement : quand on change de langue, on change de culture.\n\nQuand le bilingue utilise une langue, la deuxième est aussi activée dans le cerveau, comme pour une traduction. Cette activité mentale est bénéfique pour le cerveau : elle aide à lutter contre certaines maladies.",
-        "query": "Selon cet article qu’apporte la pratique de deux langues ?",
+        "text": "### Connaître deux langues <br/> présente des avantages !\n\nLa gymnastique mentale du passage d'une langue à une autre est aussi une gymnastique des émotions et du comportement: quand on change de langue, on change de culture. Quand le bilingue utilise une langue, la deuxième est aussi activée dans le cerveau, comme pour une traduction. Cette activité mentale est bénéfique pour le cerveau : elle aide à lutter contre certaines maladies.",
+        "query": "Selon cet article, qu'apporte la pratique de deux langues ?",
         "options": [
             "Elle est bonne pour la santé.",
             "Elle facilite la socialisation.",
@@ -184,12 +184,12 @@
     {
         "id": 15,
         "testId": 151,
-        "text": "**Madame,**\n\nJe suis étudiant en français langue étrangère. Je suis passionné par la lecture et les arts. J'aimerais faire un stage dans votre maison d'édition afin de mieux connaître ce domaine professionnel. J'ai déjà plusieurs expériences comme libraire dans mon pays d’origine, la Norvège. Je suis responsable, dynamique et motivé.\n\nDans l'attente d'une réponse de votre part, veuillez accepter l'expression de mes sincères salutations.\n\n**<p style=\"text-align: right;\">Jörg Hans</p>**",
+        "text": "Madame,\n\n<br/>Je suis étudiant en français langue étrangère. Je suis passionné par la lecture et les arts. J'aimerais faire un stage dans votre maison d'édition afin de mieux connaître ce domaine professionnel. J'ai déjà plusieurs expériences comme libraire dans mon pays d'origine, la Norvège. Je suis responsable, dynamique et motivé.\n\n<br/>Dans l'attente d'une réponse de votre part, veuillez accepter l'expression de mes sincères salutations.\n\n<br/><p style=\"text-align: right;\">Jörg Hans</p>",
         "query": "Que souhaite Jörg ?",
         "options": [
             "Obtenir un poste chez un libraire.",
-            "Se spécialiser dans l’art et la culture.",
-            "S'inscrire pour cours de langue.",
+            "Se spécialiser dans l'art et la culture.",
+            "S'inscrire à un cours de langue.",
             "Travailler dans une maison d'édition."
         ],
         "answer": 3
@@ -210,26 +210,26 @@
     {
         "id": 17,
         "testId": 151,
-        "text": "### Vous n'avez plus le courage d'ouvrir un magazine. Vous ne prenez plus le temps de lire, votre emploi du temps est surchargé, vous passez du temps dans les transports...\n\nAlors, retrouvez le plaisir de la lecture différemment, Socrate Édition transforme la presse écrite en presse audio et garantie la qualité de la lecture grâce à des comédiens. Vous suivez ainsi l'actualité et vous continuez à vous informer. Retrouvez nos offres sur notre site internet.",
+        "text": "### Vous n'avez plus le courage d'ouvrir un magazine, vous ne prenez plus le temps de lire, votre emploi du temps est surchargé, vous passez du temps dans les transports...\n\nAlors, retrouvez le plaisir de la lecture différemment. Socrate Éditions transforme la presse écrite en presse audio et garantit la qualité de la lecture grâce à des comédiens. Vous suivez ainsi l'actualité et vous continuez à vous informer. Retrouvez nos offres sur notre site Internet.",
         "query": "Que propose cet éditeur ?",
         "options": [
-            "Des enregistrements sonores d'article de journal.",
+            "Des enregistrements sonores d'articles de journaux.",
             "Des extraits choisis de romans classiques.",
-            "Des publications résumées des contenus de sites web.",
-            "Des sélections de répliques de théâtres célèbres."
+            "Des publications résumées de contenus de sites web.",
+            "Des sélections de répliques de théâtre célèbres."
         ],
         "answer": 0
     },
     {
         "id": 18,
         "testId": 151,
-        "text": "Notre association peut aider les étudiants qui habitent seuls et les personnes qui ne gagnent pas beaucoup d'argent à payer leur loyer. Cette aide peut aller jusqu'à 75% de votre loyer et vous permet d'obtenir une réduction sur les frais d'électricité et de gaz. Pour savoir si vous pouvez recevoir cette aide, plusieurs solutions s'offrent à vous :\n\n1. Vous rencontrez un des conseillers de notre association qui ouvrira un dossier de demande avec vous.\n2. Vous remplissez le questionnaire allocation logement sur notre site web.",
+        "text": "Notre association peut aider les étudiants qui habitent seuls et les personnes qui ne gagnent pas beaucoup d'argent à payer leur loyer. Cette aide peut aller jusqu'à 75% de votre loyer et vous permet d'obtenir une réduction sur les frais d'électricité et de gaz. Pour savoir si vous pouvez recevoir cette aide, plusieurs solutions s'offrent à vous :\n\n1. vous rencontrez un des conseillers de notre association qui ouvrira un dossier de demande avec vous;\n2. vous remplissez le questionnaire allocation logement sur notre site internet.",
         "query": "À qui s'adresse ce message ?",
         "options": [
             "Aux familles qui ont des factures élevées.",
             "Aux jeunes qui veulent vivre en colocation.",
             "Aux locataires qui ont de faibles revenus.",
-            "Aux personnes qui cherchent un logement."
+            "Aux personnes qui achètent un logement."
         ],
         "answer": 2
     },
@@ -249,8 +249,8 @@
     {
         "id": 20,
         "testId": 151,
-        "text": "Ralentissement du traitement de l'information, baisse de l'attention et de notre mémorisation à court terme...\n\nAvec l'âge le vieillissement du cerveau semble inévitable. Pourtant, notre santé cognitive dépend aussi de mode de vie. Il est ainsi primordial, après la soixantaine de conserver une vie active, physiquement par une pratique sportive régulière et aussi intellectuellement en sollicitant nos fonctions mentales par un apprentissage permanent. Pour cela, il est essentiel de garder une vie sociale riche d'interactions avec les autres et également de cultiver les activités, associatives ou sportives, par exemple.",
-        "query": "Quel est l'objectif des conseils donnés dans ce texte ?",
+        "text": "Ralentissement du traitement de l'information, baisse de l'attention et de notre mémorisation à court terme... Avec l'âge, le vieillissement du cerveau semble inévitable. Pourtant, notre santé cognitive dépend aussi de notre mode de vie. Il est ainsi primordial, après la soixantaine, de conserver une vie active, physiquement par une pratique sportive régulière et aussi intellectuellement en sollicitant nos fonctions mentales par un apprentissage permanent. Pour cela, il est essentiel de garder une vie sociale riche d'interactions avec les autres et également de cultiver des activités, associatives ou sportives, par exemple.",
+        "query": "Quel est l'objectif des conseils donnés dans cet article ?",
         "options": [
             "Améliorer les capacités physiques.",
             "Découvrir de nouveaux types de sports.",
@@ -275,8 +275,8 @@
     {
         "id": 22,
         "testId": 151,
-        "text": "Un jour, en réfléchissant aux raisons qui m'avaient éloigné d'une carrière universitaire pourtant bien partie afin de me consacrer à mon travail de médecin praticien, j'ai compris que mon choix tenait en partie du fait que l'on riait beaucoup plus ou contact des êtres humains plongés dans la vie qu'à celui des chercheurs. Comme un animal qui migre vers le sud en hiver, j'avais suivi le soleil de cette vibration qui fabrique du bonheur, du lien, de la santé. Je ne l'ai jamais regretté.",
-        "query": "Qu'est-ce qui a guidé l’auteur dans ses choix professionnels ?",
+        "text": "Un jour, en réfléchissant aux raisons qui m'avaient éloigné d'une carrière universitaire pourtant bien partie afin de me consacrer à mon travail de médecin praticien, j'ai compris que mon choix tenait en partie au fait que l'on riait beaucoup plus au contact des êtres humains plongés dans la vie qu'à celui des chercheurs. Comme un animal qui migre vers le sud en hiver, j'avais suivi le soleil de cette vibration qui fabrique du bonheur, du lien, de la santé. Je ne l'ai jamais regretté.",
+        "query": "Qu'est-ce qui a guidé l'auteur dans ses choix professionnels ?",
         "options": [
             "L'attirance pour les études.",
             "L'appel des pays chauds.",
@@ -327,12 +327,12 @@
     {
         "id": 26,
         "testId": 151,
-        "text": "Suite au peu d'intérêt porté à la formation professionnelle à Montréal, cinq comités scolaires ont décidé de lancer un projet pour encourager les élèves à choisir cette vois plutôt que celle des études longues. Ils ont ainsi créé un guide organisationnel et pédagogique régional, un outil qui servira aux enseignants à faire connaitre aux élèves les différentes possibilités de carrière dans la formation en apprentissage « d'ici dix ans 30% des besoins de main-d'œuvre vont exiger des compétences professionnelles. Pas des diplômes universitaires » a rappelé Antonio Bernard, l'un des principaux créateurs du projet.",
-        "query": "Quel est l'objectif de ce projet ?",
+        "text": "Suite au peu d'intérêt porté à la formation professionnelle à Montréal, cinq comités scolaires ont décidé de lancer un projet pour encourager les élèves à choisir cette voie plutôt que celle des études longues. Ils ont ainsi créé un Guide organisationnel et pédagogique régional, un outil qui servira aux enseignants à faire connaître aux élèves les différentes possibilités de carrière dans la formation en apprentissage. « D'ici dix ans, 30% des besoins de main-d'œuvre vont exiger des compétences professionnelles. Pas des diplômes universitaires ! » a rappelé Antonio Bernardelli, l'un des principaux créateurs du projet.",
+        "query": "Quel est l'objectif de ce guide ?",
         "options": [
-            "Faire la promotion de l'apprentissage d'un métier auprès des jeunes.",
+            "Faire la promotion de l'apprentissage d’un métier auprès des jeunes.",
             "Former les professeurs à de nouvelles méthodes d'enseignement.",
-            "Présenter les opportunités de stages en entreprise dans la région.",
+            "Présenter les opportunités de stage en entreprise dans la région.",
             "Proposer aux étudiants des stratégies de recherche d'emploi."
         ],
         "answer": 0
@@ -340,7 +340,7 @@
     {
         "id": 27,
         "testId": 151,
-        "text": "En écrivant à la main, chacun trouve son moyen de tracer son rythme et choisit son moment et ses mots. Le monde de la communication par textos, lui est celui d'une communication homogène. Avec la numération des échanges, on ne connait plus l'attente d'une lettre ou d'une carte postale. Rendez-vous avec un ami: un SMS pour qu'on arrive dans cinq minutes, un autre dès qu'on est arrivé, un autre si on est en retard. Bienvenue dans un monde sans attente, où tous les vides doivent être comblés.",
+        "text": "En écrivant à la main, chacun trouve sa manière de tracer, son rythme et choisit son moment et ses mots. Le monde de la communication par textos, lui, est celui d'une communication homogène. Avec la numérisation des échanges, on ne connaît plus l'attente d'une lettre ou d'une carte postale. Rendez-vous avec un ami: un SMS pour prévenir qu'on arrive dans cinq minutes, un autre dès qu'on est arrivé, un autre si on est en retard. Bienvenue dans un monde sans attente, où tous les vides doivent être comblés.",
         "query": "Qu'apprend-on sur la communication numérique ?",
         "options": [
             "Elle appauvrit le lexique courant.",
@@ -353,7 +353,7 @@
     {
         "id": 28,
         "testId": 151,
-        "text": "**<span style=\"font-size: xx-large;\">Marilyn Monroe</span>** était une grande actrice mais aussi une énigme. Ce qui est frappant c'est que tout le monde l'aime. Il y a toujours toutes générations confondues, une tendresse, une compréhension, un attachement à son égard. Son souvenir reste vif. Elle voulait que ce soit toujours mieux, toujours plus intense. Elle était en quête de l'absolu, ce qui se traduisait à l'écran par un don de soi total. Elle ne comptait pas. Et Marilyn Monroe continue de hanter les consciences parce qu'elle a donné plus que d'autres.",
+       "text": "**<span style=\"font-size: xx-large;\">Marilyn Monroe</span>** était une grande actrice et aussi une vraie énigme. Ce qui est frappant c'est que tout le monde l'aime. Il y a toujours toutes générations confondues, une tendresse, une compréhension, un attachement à son égard. Son souvenir reste vif. Elle voulait que ce soit toujours mieux, toujours plus intense. Elle était en quête d'absolu, ce qui se traduisait à l'écran, par un don de soi total. Elle ne comptait pas. Et Marilyn Monroe continue de hanter les consciences parce qu'elle a donné plus que d'autres.",
         "query": "Selon l’auteur qu'est-ce qui explique la passion du public pour l'actrice Marilyn Monroe ?",
         "options": [
             "L’affection qu’elle portait à ses admirateurs.",
@@ -406,7 +406,7 @@
         "id": 32,
         "testId": 151,
         "text": "La Commission européenne s'était penchée sur la demande d'adhésion à l'Union de l'Islande moins de deux semaines après la requête, preuve que le pays possédait des atouts indéniables. Jusqu'alors, l'Islande avait été peu disposée à entrer dans l'Union. Toutefois, suite à l'effondrement de ses principaux établissement financiers et à la chute du cours de la couronne, la monnaie islandaise, le pays avait vu dans cette adhésion et dans l'adoption de l'euro un moyen de stabiliser son économie. Pour le président de l'Union, cette volonté d'intégrer l'espace européen renforçait la crédibilité du projet communautaire de l'ancien continent. L'Islande avait fini par retirer sa demande suite à un changement de gouvernement et pour éviter des sujets épineux comme les quotas de pêche.",
-        "query": "Selon cet article, pourquoi l'Islande avait-elle souhaité entrer dans l’Union Européenne ?",
+        "query": "Selon cet article, pourquoi l'Islande avait-elle souhaité entrer dans l'Union Européenne ?",
         "options": [
             "Pour bénéficier des aides financières de l'Union.",
             "Pour mieux contrôler ses établissements financiers.",
@@ -432,10 +432,10 @@
         "id": 34,
         "testId": 151,
         "text": "Des chercheurs mettent en doute l'idée répandue que la langue dont nous parlons influence notre façon de penser. Ils présentent une recherche sur l'ordre des mots dans la phrase: Sujet, Verbe, Objet pour certaines langues; Sujet, Objet, Verbe pour d'autres. Leurs 40 sujets, locuteurs d'anglais, d'espagnol, de mandarin, de truc, ont décrit des séquences vidéo dans leur langue d'abord, puis en utilisant des gestes. Si les descriptions verbales différaient dans l'ordre des mots selon les langues, les descriptions faites avec les mains reprenaient toutes le même ordre (sujet, objet, verbe), suivant celui des langues des signes inventés par des locuteurs sourds.",
-        "query": "Quel est le résultat de l’article présenté par ce texte ?",
+        "query": "Quel est le résultat de l'article présenté par ce texte ?",
         "options": [
-            "Les gestes révéleraient systématiquement la langue maternelle des locuteurs.",
-            "Il existerait un ordre universel de la pensée, indépendamment de l'ordre linguistique.",
+            "Les gestes révèleraient systématiquement la langue maternelle des locuteurs.",
+            "Il existerait un ordre universel de la pensée, indépendant de l’ordre linguistique.",
             "Il y aurait autant de façons de penser que de structures de langue différentes.",
             "Les structures des langues seraient dépendantes de notre expérience du monde."
         ],
@@ -447,20 +447,20 @@
         "text": "Très controversée, la semaine de quatre jours à l'école est dénoncée dans un rapport parlementaire. Les députés proposent de revenir à la semaine de quatre journées et demie et de réduire la période des vacances estivales. La mission parlementaire livre des conclusions sévères à l'encontre du rythme scolaire actuel, qui serait « aberrant » et « délirant » pour les écoliers. Selon un député, on peut dire, a posteriori, que c'est une erreur, « on a privilégié le rythme des parents et des enseignants au détriment de celui des enfants », dit-il. En France, la scolarisation annuelle est de 144 jours, contre une moyenne de 180 pour les pays développés. « Il faut laisser le temps scolaire », estime une experte.",
         "query": "Que reprochent les députés à la semaine de quatre jours ?",
         "options": [
-            "De laisser trop de temps à l’oisiveté.",
+            "De laisser trop de temps à l'oisiveté.",
             "De s'écarter du modèle éducatif légal.",
             "De satisfaire avant tous les adultes.",
-            "D'être à l’origine de l'échec scolaire."
+            "D'être à l'origine de l'échec scolaire."
         ],
         "answer": 2
     },
     {
         "id": 36,
         "testId": 151,
-        "text": "J'ai commencé ma vie comme je la finirais sans doute: au milieu des livres. Dans le bureau de mon grand-père, il y en avait partout; défense était faite de les épousseter sauf une fois l'an, avant la rentrée d'octobre je ne savais pas encore lire que, déjà je les révérais. Je les touchais en cachette pour honorer mes mains de leur poussière mais je ne savais trop qu'en faire. Mon grand-père maniait ses objets culturels avec une dextérité d'officiant. Je l'ai vu mille fois se lever d'un air absent, faire le tour de sa table, traverser la pièce en deux enjambées, prendre un volume sans hésiter, le feuilleter en regagnant son fauteuil puis, à peine assis l'ouvrit d'un coup sec à la bonne page.",
+        "text": "J'ai commencé ma vie comme je la finirai sans doute : au milieu des livres. Dans le bureau de mon grand-père, il y en avait partout; défense était faite de les épousseter sauf une fois l'an, avant la rentrée d'octobre. Je ne savais pas encore lire que, déjà, je les révérais. Je les touchais en cachette pour honorer mes mains de leur poussière mais je ne savais trop qu'en faire. Mon grand-père maniait ces objets culturels avec une dextérité d'officiant. Je l'ai vu mille fois se lever d'un air absent, faire le tour de sa table, traverser la pièce en deux enjambées, prendre un volume sans hésiter, le feuilleter en regagnant son fauteuil puis, à peine assis, l'ouvrir d'un coup sec à la bonne page.",
         "query": "Que fait l'écrivain dans cet extrait ?",
         "options": [
-            "Il revit les souvenirs lointains dans le bureau de la maison familiale.",
+            "Il revit des souvenirs lointains dans le bureau de la maison familiale.",
             "Il se rappelle une pièce de travail poussiéreuse interdite aux enfants.",
             "Il raconte son apprentissage de la lecture auprès de son grand-père.",
             "Il évoque ses rentrées scolaires alors qu’il ne savait pas encore lire."
@@ -470,7 +470,7 @@
     {
         "id": 37,
         "testId": 151,
-        "text": "*Le Monde de l'éducation* a atteint son ambition, devenir la référence nationale en matière d'enseignement. Un succès confirmé par une récente enquête qui nous crédite d'un taux de satisfaction exceptionnellement élevé. Mais nos abonnés sont souvent des établissements scolaires...où *Le Monde de l'éducation* est le magazine français le plus « photocopillé ». Environ 4000 exemplaires vendus pour plus d'un million cent mille lecteurs ! Un écart vente-lectorat devenu insupportable. Depuis 1974, *Le Monde de l'éducation* a accompli de nombreuses transformations. Après 34 ans au service de l'éducation, votre magazine va vivre sa mue la plus importante. De mensuel payant vendu en kiosques ou par abonnement, il va devenir un supplément gratuit proposé avec le quotidien.",
+        "text": "*Le Monde de l'éducation* a atteint son ambition : devenir la référence nationale en matière d'enseignement. Un succès confirmé par une récente enquête qui nous crédite d'un taux de satisfaction exceptionnellement élevé. Mais nos abonnés sont souvent des établissements scolaires... où *Le Monde de l'éducation* est le magazine français le plus « photocopillé » : environ 4000 exemplaires vendus pour plus d'un million cent mille lecteurs ! Un écart vente-lectorat devenu insupportable. Depuis 1974, *Le Monde de l'éducation* a accompli de nombreuses transformations. Après trente-quatre ans au service de l'éducation, votre magazine va vivre sa mue la plus importante. De mensuel payant vendu en kiosques ou par abonnement, il va devenir un supplément gratuit proposé avec le quotidien *Le Monde*.\n\n<br/>D'après www.lemonde.fr",
         "query": "Qu'est-ce qui a justifié la transformation du Monde de l'éducation ?",
         "options": [
             "Une adéquation avec l'attente des lecteurs.",
@@ -483,12 +483,12 @@
     {
         "id": 38,
         "testId": 151,
-        "text": "### Utiliser la comédie, le mime ou la danse pour sensibiliser les riverains, les responsables des établissements, les usagers de la nuit aux nuisances sonores?\n\nTelle est la mission des pierrots de la nuit, ces nouvelles « brigades d'intervention artistique nocturnes » qui sensibilisent le public de nuit. L'originalité de la méthode interpelle les noctambules s'interrogent : qui sont les pierrots de la nuit ? Que font-ils et pourquoi ? L'art de rue n'est pas ressenti comme une agression, en revanche, il force l'écoute et le respecte. Le silence n'est pas une répression, mais une forme de partage.",
+        "text": "### Utiliser la comédie, le mime ou la danse pour sensibiliser les riverains, les responsables des établissements, les usagers de la nuit aux nuisances sonores?\n\nTelle est la mission novatrice des Pierrots de la nuit, ces nouvelles « brigades d'intervention artistiques nocturnes » qui sensibilisent le public de nuit. L'originalité de la méthode interpelle, les noctambules s'interrogent : qui sont les Pierrots de la nuit ? Que font-ils et pourquoi ? L'art de rue n'est pas ressenti comme une agression, en revanche il force l'écoute et le respect. Le silence n'est pas une répression mais une forme de partage.",
         "query": "Quel est l'objectif poursuivi par les Pierrots de la nuit ?",
         "options": [
             "Améliorer la cohabitation entre les habitants et les noctambules.",
             "Attirer les spectateurs parisiens vers les spectacles de rue.",
-            "Développer un nouveau concept des lieux silencieux.",
+            "Développer un nouveau concept de lieux silencieux.",
             "Relancer la fréquentation nocturne des quartiers réservés."
         ],
         "answer": 0

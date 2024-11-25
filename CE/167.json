@@ -197,12 +197,12 @@
     {
         "id": 16,
         "testId": 167,
-        "text": "La Ville de Paris lance un concours mondial de créations urbaines innovantes. Ouvert à tous, professionnel ou citoyen, du moment qu'un architecte est associé au projet, le concours a pour objectif d'imaginer le Paris de demain en innovant.\n\n« Faire autrement, explique l'adjoint en charge de l'urbanisme, c'est utiliser plus de matière grise pour consommer moins de matière première, choisir de bons matériaux, tendre vers le zéro déchet, produire localement, co-construire la ville avec les citoyens en s'inspirant des idées des riverains ».",
+        "text": "La Ville de Paris lance un concours mondial de créations urbaines innovantes. Ouvert à tous, professionnel ou citoyen, du moment qu'un architecte est associé au projet, le concours a pour objectif d'imaginer le Paris de demain en innovant.\n\n« *Faire autrement*, explique l'adjoint en charge de l'urbanisme, *c'est utiliser plus de matière grise pour consommer moins de matière première, sélectionner les bons matériaux, tendre vers le zéro déchet, produire localement, co-construire la ville avec les citoyens en s'inspirant des idées des riverains* .»",
         "query": "Que propose la mairie de Paris au public ?",
         "options": [
             "De développer des projets collectifs pour la ville.",
             "De donner un avis sur les nouveaux bâtiments.",
-            "De participer à des débats sur l’environnement.",
+            "De participer à des débats sur l'environnement.",
             "De visiter des expositions dans des lieux insolites."
         ],
         "answer": 0
@@ -249,11 +249,11 @@
     {
         "id": 20,
         "testId": 167,
-        "text": "*Dora Bruder*, publié en 1997, est considéré comme l'un des meilleurs romans de Patrick Modiano. L'écrivain aime fouiller l'histoire de la capitale et fréquente de nombreuses bibliothèques. Un jour, il tombe sur une annonce parue le 31 décembre 1941 dans Paris-soir :\n\n>« On recherche une jeune fille, Dora Bruder, 15 ans, 1m 55, visage ovale, yeux gris marron, manteau sport gris. Adresser toute indication à M. et Mme Bruder, 41, boulevard Ornano, Paris ».\n\nModiano va alors s'attacher à lever le mystère de cette disparition en entraînant le lecteur dans les rues du 18<sup>e</sup> arrondissement.",
+        "text": "*Dora Bruder*, publié en 1997, est considéré comme l'un des meilleurs romans de Patrick Modiano. L'écrivain aime fouiller l'histoire de la capitale et fréquente de nombreuses bibliothèques. Un jour, il tombe sur une annonce parue le 31 décembre 1941 dans Paris-soir :\n\n>« On recherche une jeune fille, Dora Bruder, 15 ans, 1m 55, visage ovale, yeux gris marron, manteau sport gris. Adresser toute indication à M. et Mme Bruder, 41, boulevard Ornano, Paris .»\n\nModiano va alors s'attacher à lever le mystère de cette disparition en entraînant le lecteur dans les rues du 18<sup>e</sup> arrondissement.",
         "query": "Que fait le journaliste dans cet extrait ?",
         "options": [
-            "Il cite un extrait d’une œuvre de Modiano.",
-            "Il explique l’idée de départ d’un livre de Modiano.",
+            "Il cite un extrait d'une œuvre de Modiano.",
+            "Il explique l'idée de départ d'un livre de Modiano.",
             "Il présente le métier de Modiano à ses débuts.",
             "Il raconte la rencontre entre Modiano et sa femme."
         ],
@@ -327,11 +327,11 @@
     {
         "id": 26,
         "testId": 167,
-        "text": "## FILM DOCUMENTAIRE\n\n« TISSEUSES DE RÊVES »\n\nMères, filles, grand-mères, une poignée de femmes berbères travaillent dur aux tâches domestiques comme à la fabrication de tapis traditionnels. Dans une économie autarcique, elles restent sans autonomie financière, ni reconnaissance de leur talent. Elles veulent farouchement s'arracher à leur condition et offrir études et avenir à leurs enfants. D'Essaouira sur la côte atlantique, leur parviennent les nouvelles de femmes, semblables à elles, qui ont créé des coopératives de production d'huile d'Argan et changé leurs vies. Taaborth et Erkia partent en exploratrices et éblouies, rapportent à leurs sœurs les images de ce premier voyage hors de leurs montagnes et un espoir.",
+        "text": "## FILM DOCUMENTAIRE\n\n« TISSEUSES DE RÊVES »\n\nMères, filles, grand-mères, une poignée de femmes berbères travaillent dur aux tâches domestiques comme à la fabrication de tapis traditionnels. Dans une économie autarcique, elles restent sans autonomie financière, ni reconnaissance de leur talent. Elles veulent farouchement s'arracher à leur condition et offrir études et avenir à leurs enfants. D'Essaouira, sur la côte atlantique, leur parviennent les nouvelles de femmes, semblables à celles, qui ont créé des coopératives de production d'huile d'Argan et changé leurs vies. Taaborth et Erkia partent en exploratrices et éblouies, rapportent à leurs sœurs les images de ce premier voyage hors de leurs montagnes et un espoir.\n\nD'après amc2-production",
         "query": "De quoi traite le documentaire sur les femmes berbères ?",
         "options": [
             "De l'éducation des plus jeunes.",
-            "De la transmission d’un savoir-faire.",
+            "De la transmission d'un savoir-faire.",
             "De la volonté d'émancipation.",
             "Du rapport entre les générations."
         ],
@@ -463,7 +463,7 @@
             "Elle a été adaptée pour la télévision.",
             "Elle s'inspire de la vie des jeunes.",
             "La clé de l'énigme sera éditée plus tard.",
-            "L'auteur a imaginé différents scenarios."
+            "L'auteur a imaginé différents scénarios."
         ],
         "answer": 3
     },
@@ -483,7 +483,7 @@
     {
         "id": 38,
         "testId": 167,
-        "text": "Ça pourrait être une tragédie, avec les meilleurs ingrédients du genre : rencontres hasardeuses de personnages abîmés par un lourd passé, malheurs successifs et révélations inattendues... Sauf qu'entre le jeune pompier Roméo et l'infirmière Juliette victime de la cruauté de son compagnon, le chemin tracé par Agnès Ledig dans son roman Pars avec lui est plein de pudeur, riche de personnages ordinaires, mais surprenants, vrais, mais imprévisibles, dans une France provinciale qu'on décrit trop peu. Il y a chez eux une envie de dire, d'avouer ce qui fut trop longtemps caché. Ainsi l'histoire se fait-elle peu à peu libération et rédemption. Avec un art direct et familier de conteuse, l'auteure offre à ses personnages un espoir, un bonheur encore possible.",
+        "text": "Ça pourrait être une tragédie, avec les meilleurs ingrédients du genre : rencontres hasardeuses de personnages abîmés par un lourd passé, malheurs successifs et révélations inattendues... Sauf qu'entre le jeune pompier Roméo et l'infirmière Juliette victime de la cruauté de son compagnon, le chemin tracé par Agnès Ledig dans son roman « Pars avec lui » est plein de pudeur, riche de personnages ordinaires, mais surprenants, vrais, mais imprévisibles, dans une France provinciale qu'on décrit trop peu. Il y a chez eux une envie de dire, d'avouer ce qui fut trop longtemps caché. Ainsi l'histoire se fait-elle peu à peu libération et rédemption. Avec un art direct et familier de conteuse, l'auteure offre à ses personnages un espoir, un bonheur encore possible.",
         "query": "D'après la critique, quel est l'atout principal du roman d'Agnès Ledig ?",
         "options": [
             "L'alternance entre le comique et le drame.",

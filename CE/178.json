@@ -28,7 +28,7 @@
     {
         "id": 3,
         "testId": 178,
-        "text": "## <p style=\"text-align: center;\">Restaurant</p>\n\n# <p style=\"text-align: center;\">La bonne fourchette</p>\n\n### <br/><p style=\"margin: 0 100px; text-transform: uppercase;\">Formule légère <span style=\"float: right;\">9 €</span></p>\n\n<p style=\"margin: 0 120px;\">Salade au choix</p>\n\n### <p style=\"margin: 0 100px; text-transform: uppercase;\">Formule express <span style=\"float: right;\">12,50 €</span></p>\n\n<p style=\"margin: 0 120px;\">Plat du jour</p>\n\n### <p style=\"margin: 0 100px; text-transform: uppercase;\">Formule déjeuner <span style=\"float: right;\">16 €</span></p>\n\n<p style=\"margin: 0 120px;\">(1/2 eau minérale et café compris) <br/> Entrée + plate du jour <br/> &nbsp;&nbsp;ou <br/> Plat du jour + dessert</p>\n\n### <p style=\"margin: 0 100px; text-transform: uppercase;\">Formule plaisir <span style=\"float: right;\">20 €</span></p>\n\n<p style=\"margin: 0 120px;\">Entrée + plate du jour + dessert</p>",
+        "text": "## <p style=\"text-align: center;\">Restaurant</p>\n\n# <p style=\"text-align: center;\">La bonne fourchette</p>\n\n### <br/><p style=\"margin: 0 100px; text-transform: uppercase;\">Formule légère <span style=\"float: right;\">9 €</span></p>\n\n<p style=\"margin: 0 120px;\">Salade au choix</p>\n\n### <p style=\"margin: 0 100px; text-transform: uppercase;\">Formule express <span style=\"float: right;\">12,50 €</span></p>\n\n<p style=\"margin: 0 120px;\">Plat du jour</p>\n\n### <p style=\"margin: 0 100px; text-transform: uppercase;\">Formule déjeuner <span style=\"float: right;\">16 €</span></p>\n\n<p style=\"margin: 0 120px;\">(1/2 eau minérale et café compris) <br/> Entrée + plat du jour <br/> &nbsp;&nbsp;ou <br/> Plat du jour + dessert</p>\n\n### <p style=\"margin: 0 100px; text-transform: uppercase;\">Formule plaisir <span style=\"float: right;\">20 €</span></p>\n\n<p style=\"margin: 0 120px;\">Entrée + plat du jour + dessert</p>",
         "query": "Combien coûte la formule avec boisson ?",
         "options": [
             "9 euros.",
@@ -54,7 +54,7 @@
     {
         "id": 5,
         "testId": 178,
-        "text": "### Salon gastronomique le 17 mars.\n\nVenez à la rencontre des agriculteurs producteurs et chefs de votre région !\n\nVous pourrez discuter avec eux et goûter leurs délicieux produits : pommes, fromages, beurre, miel, etc. !\n\n<br/> Participez au concours de la meilleure recette !",
+        "text": "### Salon gastronomique le 17 mars.\n\nVenez à la rencontre des agriculteurs, producteurs et chefs de votre région !\n\nVous pourrez discuter avec eux et goûter leurs délicieux produits : pommes, fromages, beurre, miel, etc. !\n\n<br/> Participez au concours de la meilleure recette !",
         "query": "Qu'est-ce qu'on peut faire dans ce salon ?",
         "options": [
             "Découvrir la nourriture locale.",
@@ -132,7 +132,7 @@
     {
         "id": 11,
         "testId": 178,
-        "text": "***Marché facile*** est une application pour téléphone portable qui vous conseille les bons fruits et légumes de saison dans les supermarchés. Elle donne aussi des informations sur le fromage, la viande et le poisson.",
+        "text": "**Marché facile** est une application pour téléphone portable qui vous conseille les bons fruits et légumes de saison dans les supermarchés. Elle donne aussi des informations sur le fromage, la viande et le poisson.",
         "query": "À quoi sert cette application ?",
         "options": [
             "À acheter sur internet.",
@@ -184,8 +184,8 @@
     {
         "id": 15,
         "testId": 178,
-        "text": "En Sardaigne (Italie), les piétons qui traversent tout en regardant leur téléphone peuvent recevoir une amende. Cette mesure fait suite à une augmentation de nombre d'accidents entre des véhicules et des piétons inattentifs. En effet, ils n'attendent pas les voitures parce qu'ils sont concentrés sur leur écran au lieu de regarder autour d'eux.",
-        "query": "De quoi est ce qu'on parle dans cet article ?",
+        "text": "En Sardaigne (Italie), les piétons qui traversent tout en regardant leur téléphone peuvent recevoir une amende. Cette mesure fait suite à une augmentation du nombre d'accidents entre des véhicules et des piétons inattentifs. En effet, ils n'entendent pas les voitures parce qu'ils sont concentrés sur leur écran au lieu de regarder autour d'eux.",
+        "query": "De quoi est-ce qu'on parle dans cet article ?",
         "options": [
             "De l'utilisation du portable.",
             "De la sécurité au volant.",
@@ -197,20 +197,20 @@
     {
         "id": 16,
         "testId": 178,
-        "text": "# <p style=\"text-align: center;\">Félicitations !</p>\n\n<p style=\"text-align: center;\">Vous avez gagné <br/> une carte cadeau de 50 €. <br/> Vous pouvez l'utiliser pour acheter <br/> tous nos produits de beauté. <br/> Attention, vous ne pouvez pas <br/> l'échanger contre de l'argent ou la <br/> donner à une autre personne. Si vous <br/> la perdrez, vous n'êtes pas remboursé.</p>",
+        "text": "# <p style=\"text-align: center;\">FÉLICITATIONS !</p>\n\n<p style=\"text-align: center;\">Vous avez gagné <br/> une carte cadeau de 50 €. <br/> Vous pouvez l'utiliser pour acheter <br/> tous nos produits de beauté. <br/> Attention, vous ne pouvez pas <br/> l'échanger contre de l'argent ou la <br/> donner à une autre personne. Si vous <br/> la perdez, vous n'êtes pas remboursé.</p>",
         "query": "Qu'est-ce qu'on peut faire avec cette carte ?",
         "options": [
-            "Avoirs des réductions sur certains articles.",
+            "Avoir des réductions sur certains articles.",
             "Faire des courses dans un magasin.",
             "Offrir une surprise pour un anniversaire.",
-            "Retirer de l'argent a un distributeur."
+            "Retirer de l'argent à un distributeur."
         ],
         "answer": 1
     },
     {
         "id": 17,
         "testId": 178,
-        "text": "## DU 4 AU 26 JUIN <br/><p style=\"margin-left:95px; font-size: 12pt;\">venez visiter</p>\n\n# <p style=\"line-height: 120%; display: inline-block; padding: 10px; padding-left: 30px; background: #eeeeee;\">LE SALON DE <br/> L'AGRICULTURE <br/> À STRASBOURG\n\n- Ateliers pour les adultes, balades avec des animaux pour les enfants.\n- Stands de nourriture et boissons sur place.\n- Tarif spécial pour les groupes et enfants de moins de 12 ans.\n\n**Informations sur salon agriculture-strasbourg.fr**",
+        "text": "## DU 4 AU 26 JUIN <br/><p style=\"margin-left:95px; font-size: 12pt;\">venez visiter</p>\n\n# <p style=\"line-height: 120%; display: inline-block; padding: 10px; padding-left: 30px; background: #eeeeee;\">LE SALON DE <br/> L'AGRICULTURE <br/> À STRASBOURG\n\n- Ateliers pour les adultes, balades avec des animaux pour les enfants.\n- Stands de nourriture et boissons sur place.\n- Tarif spécial pour les groupes et enfants de moins de 12 ans.\n\n**Informations sur salon-agriculture-strasbourg.fr**",
         "query": "Qu'est-ce que cette annonce propose ?",
         "options": [
             "De découvrir un parc d'animation.",
@@ -236,11 +236,11 @@
     {
         "id": 19,
         "testId": 178,
-        "text": "Des études de marché récentes montrent que les frites signent leur grand retour. Leur cote de popularité ne se dément pas, mais elles doivent être préparées dans les règles de l'art : pour des frites dorées, moelleuses dedans, croquantes dehors, il faut les cuire, puis les frire en deux temps.\n\nSi la Belgique et la France s'en disputent la paternité, on n'en a toujours pas trouvé l'origine. Avec le bond spectaculaire du burger dont elles sont l'accompagnement idéal, les frites sont fortement consommées au restaurant.",
+        "text": "Des études de marché récentes montrent que les frites signent leur grand retour. Leur cote de popularité ne se dément pas mais elles doivent être préparées dans les règles de l'art : pour des frites dorées, moelleuses dedans, croquantes dehors, il faut les cuire, puis les frire en deux temps.\n\nSi la Belgique et la France s'en disputent la paternité, on n'en a toujours pas trouvé l'origine. Avec le bond spectaculaire du burger dont elles sont l'accompagnement idéal, les frites sont fortement consommées au restaurant.",
         "query": "Que révèle cet article sur les frites ?",
         "options": [
             "L'origine historique de la recette.",
-            "Le secret d’une bonne préparation.",
+            "Le secret d'une bonne préparation.",
             "Les adresses où les consommer.",
             "Les raisons de leur popularité."
         ],
@@ -249,11 +249,11 @@
     {
         "id": 20,
         "testId": 178,
-        "text": "*Dora Bruder*, publié en 1997, est considéré comme l'un des meilleurs romans de Patrick Modiano. L'écrivain aime fouiller l'histoire de la capitale et fréquente de nombreuses bibliothèques. Un jour, il tombe sur une annonce parue le 31 décembre 1941 dans Paris-soir :\n\n>« On recherche une jeune fille, Dora Bruder, 15 ans, 1m 55, visage ovale, yeux gris marron, manteau sport gris. Adresser toute indication à M. et Mme Bruder, 41, boulevard Ornano, Paris ».\n\nModiano va alors s'attacher à lever le mystère de cette disparition en entraînant le lecteur dans les rues du 18<sup>e</sup> arrondissement.",
+        "text": "*Dora Bruder*, publié en 1997, est considéré comme l'un des meilleurs romans de Patrick Modiano. L'écrivain aime fouiller l'histoire de la capitale et fréquente de nombreuses bibliothèques. Un jour, il tombe sur une annonce parue le 31 décembre 1941 dans Paris-soir :\n\n>« On recherche une jeune fille, Dora Bruder, 15 ans, 1m 55, visage ovale, yeux gris marron, manteau sport gris. Adresser toute indication à M. et Mme Bruder, 41, boulevard Ornano, Paris .»\n\nModiano va alors s'attacher à lever le mystère de cette disparition en entraînant le lecteur dans les rues du 18<sup>e</sup> arrondissement.",
         "query": "Que fait le journaliste dans cet extrait ?",
         "options": [
             "Il cite un extrait d'une œuvre de Modiano.",
-            "Il explique l’idée de départ d’un livre de Modiano.",
+            "Il explique l'idée de départ d'un livre de Modiano.",
             "Il présente le métier de Modiano à ses débuts.",
             "Il raconte la rencontre entre Modiano et sa femme."
         ],
@@ -262,8 +262,8 @@
     {
         "id": 21,
         "testId": 178,
-        "text": "<p style=\"text-align: right;\">Paris, le 13 mars</p>\n\n<br/>Madame, Monsieur,\n\n<br/>&nbsp;&nbsp;&nbsp;&nbsp; Ce courrier fait suite à mon achat d'un téléphone le 5 mars dernier. Après réflexion, je souhaiterais le rendre, car j'ai finalement décidé d'acheter un appareil avec messagerie intégrée.\n\n<br/>&nbsp;&nbsp;&nbsp;&nbsp; Ainsi, je vous prie de bien vouloir me restituer la somme de 80 euros, correspondant à la somme versée le 5 mars par chèque.\n\n<br/>&nbsp;&nbsp;&nbsp;&nbsp; Dans l'attente de votre réponse, je vous transmets, Madame, Monsieur, mes meilleures salutations.\n\n<br/>*<p style=\"text-align: right;\">André Cellier</p>*",
-        "query": "Quel est l'objet de la lettre de Monsieur Cellier ?",
+        "text": "<p style=\"text-align: right;\">Paris, le 13 mars</p>\n\n<br/>Madame, Monsieur,\n\n<br/>&nbsp;&nbsp;&nbsp;&nbsp; Ce courrier fait suite à mon achat d'un téléphone le 5 mars dernier. Après réflexion, je souhaiterais le rendre car j'ai finalement décidé d'acheter un appareil avec messagerie intégrée.\n\n<br/>&nbsp;&nbsp;&nbsp;&nbsp; Ainsi, je vous prie de bien vouloir me restituer la somme de 80 euros, correspondant à la somme versée le 5 mars par chèque.\n\n<br/>&nbsp;&nbsp;&nbsp;&nbsp; Dans l'attente de votre réponse, je vous transmets, Madame, Monsieur, mes meilleures salutations.\n\n<br/>*<p style=\"text-align: right;\">André Cellier</p>*",
+        "query": "Quel est l'objet de la lettre de monsieur Cellier ?",
         "options": [
             "Le remboursement de son article.",
             "L'échange de son téléphone.",
@@ -276,7 +276,7 @@
         "id": 22,
         "testId": 178,
         "text": "En Belgique, un studio de technologie créative propose au public de se livrer à une expérience artistique d'un genre inédit : coiffés d'un casque spécial, les participants doivent se remémorer une histoire personnelle durant trente à soixante secondes. Des données ressortent alors sous forme d'algorithmes et sont analysées par un système de mesure émotionnelle, ce qui permet de leur donner forme et couleur. Ainsi, des peintures virtuelles sont créées à partir des émotions de chacun. Et comme chaque histoire est unique, chaque œuvre l'est aussi !",
-        "query": "Quel est le rôle des participants dans cette expérience ?",
+        "query": "Quel est le rôle des participants à cette expérience ?",
         "options": [
             "Effectuer un calcul.",
             "Évoquer un fait divers.",
@@ -301,8 +301,8 @@
     {
         "id": 24,
         "testId": 178,
-        "text": "**Localiser un boucher, trouver un hôtel, calculer son itinéraire, observer sa maison par satellite... Les cartes fleurissent sur le web et les internautes y sont accros.**\n\nPlus de 13 millions de Français consultent régulièrement des sites de localisation sur Internet. Sans oublier le succès phénoménal des photos-satellites mises en ligne. Ces services gratuits pour les internautes cachent un véritable business. De grandes sociétés rémunèrent les sites de localisation pour être bien placées sur les cartes. C'est d'autant plus efficace que les utilisateurs ne perçoivent pas immédiatement ces liens sponsorisés comme une publicité, mais comme un service.",
-        "query": "Qu'apprend-on sur les services de localisation sur internet ?",
+        "text": "**Localiser un boucher, trouver un hôtel, calculer son itinéraire, observer sa maison par satellite... Les cartes fleurissent sur le web et les internautes y sont accros.**\n\nPlus de 13 millions de Français consultent régulièrement des sites de localisation sur Internet. Sans oublier le succès phénoménal des photos-satellite mises en ligne. Ces services gratuits pour les internautes cachent un véritable business. De grandes sociétés rémunèrent les sites de localisation pour être bien placées sur les cartes. C'est d'autant plus efficace que les utilisateurs ne perçoivent pas immédiatement ces liens sponsorisés comme une publicité, mais comme un service.",
+        "query": "Qu'apprend-on sur les services de localisation sur Internet ?",
         "options": [
             "Ce sont des réseaux de commerçants qui les ont créés.",
             "Ils sont financés discrètement par des entreprises.",
@@ -366,12 +366,12 @@
     {
         "id": 29,
         "testId": 178,
-        "text": "Soyez vous-même, ou sinon, devenez-le ! La rentrée de septembre voit s'afficher dans les couloirs du métro parisien et les vitrines des libraires les couvertures de livres de développement personnel et autres introductions à la méditation, destinés à faire passer la pilule du retour au bureau des corps vacanciers.\n\nLe nouveau film de Cédric Klapisch participe à sa manière à cette vague de bien-être sur fond de grisaille. Vous y verrez défiler votre vie monotone, heureusement suspendue à la promesse d'un grand bonheur croisé in extremis. La référence principale du film reste la psychanalyse. La sérénité est au bout du chemin, avec son secret : apprendre à s'aimer pour aimer quelqu'un d'autre.",
+        "text": "Soyez vous-mêmes, ou sinon, devenez-le ! La rentrée de septembre voit s'afficher dans les couloirs du métro parisien et les vitrines des libraires les couvertures de livres de développement personnel et autres introductions à la méditation, destinés à faire passer la pilule du retour au bureau des corps vacanciers.\n\nLe nouveau film de Cédric Klapisch participe à sa manière à cette vague de bien-être sur fond de grisaille. Vous y verrez défiler votre vie monotone, heureusement suspendue à la promesse d'un grand bonheur croisé in extremis. La référence principale du film reste la psychanalyse. La sérénité est au bout du chemin, avec son secret : apprendre à s'aimer pour aimer quelqu'un d'autre.",
         "query": "Quelle tendance est dans l'air du temps ?",
         "options": [
             "Commencer une thérapie.",
             "Multiplier les passe-temps.",
-            "Rechercher l’âme sœur.",
+            "Rechercher l'âme sœur.",
             "Travailler sur soi-même."
         ],
         "answer": 3
@@ -432,12 +432,12 @@
         "id": 34,
         "testId": 178,
         "text": "Un nouveau mot se banalise sur les campus américains : « microagression ». Qualifiant les blessures subtiles qui affectent les individus exposés à une forme de dévalorisation par le langage, il alimente le débat sur la liberté d'expression. Forgé dans les années 1970, le terme a été développé à partir de 2007 par Derald Wing Sue qui le définit ainsi : des insultes ou attitudes intentionnelles ou non qui communiquent des messages hostiles ou méprisants envers des personnes sur la seule base de leur appartenance à un groupe marginalisé. Des universités ont mis en place des mécanismes de prévention et de dénonciation de ces microagressions mais certains redoutent que l'excès de précaution ne vienne tuer le débat d'idées.\n\n<br/><p style=\"text-align: right;\">D'après <i>Idées Le Monde</i></p>",
-        "query": "Qu’apprend-on sur les microagressions ?",
+        "query": "Qu'apprend-on sur les microagressions ?",
         "options": [
             "Ce sont des blessures corporelles superficielles.",
             "Elles sont commises par des groupes minoritaires.",
             "Les autorités universitaires s’en préoccupent peu.",
-            "Lutter contre elle peut nuire à certaines libertés."
+            "Lutter contre elles peut nuire à certaines libertés."
         ],
         "answer": 3
     },

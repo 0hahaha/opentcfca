@@ -249,11 +249,11 @@
     {
         "id": 20,
         "testId": 180,
-        "text": "En Provence et sur la Côte d'Azur, les campagnes sont jalonnées d'oliviers, d'orangers et autres pruniers dont les fruits ne sont jamais ramassés. À Grasse, l'association d'insertion Renouer a eu l'excellente idée de valoriser ces denrées pour s'auto-financer. Depuis 2012, la structure intervient dans les vergers de particuliers via des cueillettes dites solidaires. « Nous répertorions des parcelles laissées en friche et nous proposons aux propriétaires de ramasser les fruits à leur place » précise Sophie Allain, bénévole qui coordonne l'opération. Tous les ans, l'action mobilise entre 10 et 15 employés en insertion ainsi que des citoyens séduits par la dimension à la fois sociale et écologique de l'initiative.",
+        "text": "En Provence et sur la Côte d'Azur, les campagnes sont jalonnées d'oliviers, d'orangers et autres pruniers dont les fruits ne sont jamais ramassés. À Grasse, l'association d'insertion Renouer a eu l'excellente idée de valoriser ces denrées pour s'autofinancer. Depuis 2012, la structure intervient dans les vergers de particuliers via des cueillettes dites solidaires. « Nous répertorions des parcelles laissées en friche et nous proposons aux propriétaires de ramasser les fruits à leur place » précise Sophie Allain, bénévole qui coordonne l'opération. Tous les ans, l'action mobilise entre 10 et 15 employés en insertion ainsi que des citoyens séduits par la dimension à la fois sociale et écologique de l'initiative.",
         "query": "Quelle est l'activité de cette association ?",
         "options": [
             "Elle cultive des espaces verts abandonnés.",
-            "Elle réalise de petits services d'entretien.",
+            "Elle réalise des petits services d'entretien.",
             "Elle récolte les produits de terrains privés.",
             "Elle s'occupe de gérer des jardins collectifs."
         ],
@@ -301,7 +301,7 @@
     {
         "id": 24,
         "testId": 180,
-        "text": "Plus de trente monnaies locales circulent en France, la plupart sont créées et pilotées par des groupes de citoyens. En version papier ou exclusivement numériques, elles dessinent une nouvelle carte économique des villes, fondées sur le développement local des entreprises et la promotion des circuits courts. Ces nouveaux moyens de paiement complémentaires de l'euro se veulent aussi des outils de réappropriation de l'économie locale par les habitants. Si leurs effets sur l'environnement sont moins mesurables que les impacts économiques et sociaux, les monnaies locales restent des outils intéressants pour encourager l'adoption de comportements plus écologiques. Elles orientent ainsi le consommateur vers des acteurs économiques plus respectueux de la planète.",
+        "text": "Plus de trente monnaies locales circulent en France, la plupart sont créées et pilotées par des groupes de citoyens. En version papier ou exclusivement numériques, elles dessinent une nouvelle carte économique des villes, fondée sur le développement local des entreprises et la promotion des circuits courts. Ces nouveaux moyens de paiement complémentaires de l'euro se veulent aussi des outils de réappropriation de l'économie locale par les habitants. Si leurs effets sur l'environnement sont moins mesurables que les impacts économiques et sociaux, les monnaies locales restent des outils intéressants pour encourager l'adoption de comportements plus écologiques. Elles orientent ainsi le consommateur vers des acteurs économiques plus respectueux de la planète.",
         "query": "Selon cet article, quel intérêt présentent les monnaies locales ?",
         "options": [
             "Elles concurrencent le marché numérique.",
@@ -358,7 +358,7 @@
         "options": [
             "Démontrer les dégâts des méthodes de culture intensive.",
             "Prouver l'efficacité des insectes contre les parasites.",
-            "Recommander des procédés de gestion durable de l’eau.",
+            "Recommander des procédés de gestion durable de l'eau.",
             "Vulgariser des techniques de rendement des terres."
         ],
         "answer": 0
@@ -444,10 +444,10 @@
     {
         "id": 35,
         "testId": 180,
-        "text": "Il faut se rendre à l'évidence: le «jour» n'est plus l'unité de temps d'un journal. Un quotidien papier ne peut pas rivaliser avec la vitesse à laquelle les sites web, les blogs, les réseaux sociaux, les journaux en ligne, les radios et télés, les «news» des grands serveurs diffusent les nouvelles du jour. Aussi, au moment où il est en kiosques, se condamne-t-il à apparaître comme «le journal de la veille» perdant progressivement ses lecteurs qui, bombardés de scoops tous azimuts, sont déçus de n'trouver que ce qu'ils savent déjà.",
+        "text": "Il faut se rendre à l'évidence : le «jour» n'est plus l'unité de temps d'un journal. Un quotidien papier ne peut pas rivaliser avec la vitesse à laquelle les sites web, les blogs, les réseaux sociaux, les journaux en ligne, les radios et télés, les «news» des grands serveurs diffusent les nouvelles du jour. Aussi, au moment où il est en kiosques, se condamne-t-il à apparaître comme «le journal de la veille» - perdant progressivement ses lecteurs qui, bombardés de scoops tous azimuts, sont déçus de n'trouver que ce qu'ils savent déjà.\n\n<br/><p style=\"text-align: right;\">D'après <i>Libération</i></p>",
         "query": "Quelle est la position de l'auteur de l'article?",
         "options": [
-            "Il conteste la fiabilité des sources d'internet.",
+            "Il conteste la fiabilité des sources d'Internet.",
             "Il critique la surabondance de l'information.",
             "Il dénonce la médiocrité de la presse écrite.",
             "Il doute de l'intérêt des médias traditionnels."
@@ -460,7 +460,7 @@
         "text": "Sexistes, les jeux vidéo ? Peut-être que oui, peut-être que non. En tout cas, à parcourir les allées de la Paris Games Week, l'œil avisé aura lui-même bien du mal à trouver un personnage principal féminin de jeu vidéo. Il y a bien la célébrissime Lara Croft du jeu vidéo Tomb Raider, aux attributs particulièrement imposants, conçus presque sur mesure pour plaire à un certain nombre de joueurs masculins. Pour le reste, circulez, il n'y a - presque - rien d'autre à voir, si l'on balaye d'un coup de manette de jeu, au mieux, les princesses à sauver, au pire les calls girls de mafioso. Pourtant, l'industrie du jeu vidéo a pris conscience ces dernières années du potentiel du marché des joueuses.",
         "query": "Quel constat est dressé sur les jeux vidéo ?",
         "options": [
-            "La quasi-absence d’héroïnes.",
+            "La quasi-absence d'héroïnes.",
             "L'appel constant à la violence.",
             "L'atténuation des clichés.",
             "L'uniformité des scénarios."
@@ -473,8 +473,8 @@
         "text": "La bataille de Bouvines, remportée le 27 juillet 1214 par le roi de France Philippe Auguste sur un empereur allemand, est l'un des actes fondateurs de la dynastie capétienne et l'un des épisodes les plus célèbres du « roman national » français. Du XIII<sup>e</sup> siècle à nos jours, elle a été à l'origine de multiples légendes que le spécialiste du monde médiéval, Dominique Barthélemy, confronte à la réalité des faits. À l'issue d'une enquête approfondie, il décrit un affrontement plus modeste et moins épique que celui construit et enrichi au gré des nécessités politiques. Ainsi, il nous invite à poursuivre la réflexion sur l'idée que les Français se font d'eux-mêmes.",
         "query": "Selon l'article, que fait Dominique Barthélemy ?",
         "options": [
-            "Il analyse l'établissement d’une dynastie royale.",
-            "Il explique l'origine d’une légende médiévale.",
+            "Il analyse l'établissement d'une dynastie royale.",
+            "Il explique l'origine d'une légende médiévale.",
             "Il explore la construction identitaire des Français.",
             "Il renforce le mythe de la bataille de Bouvines."
         ],
