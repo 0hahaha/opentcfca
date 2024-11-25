@@ -1,0 +1,512 @@
+[
+    {
+        "id": 1,
+        "testId": 160,
+        "text": "A. C'est une bonne idée de peindre des enfants.\n\nB. Cette sculpture est très intéressante.\n\nC. Il y a beaucoup de visiteurs aujourd'hui.\n\nD. J'aime les couleurs de ce tableau.",
+        "audio": "/mp3/160/1.mp3",
+        "img": "/mp3/160/1_ai.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 2,
+        "testId": 160,
+        "text": "A. Donne-moi un verre de lait.\n\nB. Elle est belle, votre viande.\n\nC. Je voudrais un kilo de tomates.\n\nD. Pardon, je cherche le marché.",
+        "img": "/mp3/160/2_ai.jpg",
+        "audio": "/mp3/160/2.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 3,
+        "testId": 160,
+        "text": "A. Essaye une taille plus grande.\n\nB. La couleur de ta robe est très jolie.\n\nC. Mets tes chaussures.\n\nD. Toutes les cabines sont occupées.",
+        "audio": "/mp3/160/3.mp3",
+        "img": "/mp3/160/3_ai.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 4,
+        "testId": 160,
+        "text": "Où se passe l'examen d'anglais?\n\nA. C'est difficile.\n\nB. C'est en juin.\n\nC. C'est en salle 8.\n\nD. C'est en oral.",
+        "audio": "/mp3/160/4.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 5,
+        "testId": 160,
+        "text": "Est-ce que c'est un bon restaurant?\n\nA. Il est très bien décoré.\n\nB. Je mange en terrasse.\n\nC. La cuisine est excellente.\n\nD. Les serveurs sont gentils.",
+        "audio": "/mp3/160/5.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 6,
+        "testId": 160,
+        "text": "Je ne suis pas en forme, j'ai souvent mal au dos. Tu penses que je vais aller mieux si je fais du sport ?\n\nA. Oui, ce serait bien que tu manges mieux.\n\nB. Oui, il faut que tu te reposes plus.\n\nC. Oui, prends un rendez-vous chez le médecin.\n\nD. Oui, tu devrais t'inscrire à la piscine.",
+        "audio": "/mp3/160/6.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 7,
+        "testId": 160,
+        "text": "À quelle heure part le prochain avion pour Rio de Janeiro, s'il vous plaît ?\n\nA. À demain matin.\n\nB. À 22h37.\n\nC. Le lendemain.\n\nD. Pour 17h.",
+        "audio": "/mp3/160/7.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 8,
+        "testId": 160,
+        "text": "Salut Sylvie, ça va ? T'as l'air fatiguée. Quand est-ce que tu pars en vacances ?\n\nA. J'ai mon vol mardi prochain.\n\nB. Je reste 5 jours sur place.\n\nC. Je vais visiter l'Italie.\n\nD. Je voyage avec mes collègues.",
+        "audio": "/mp3/160/8.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 9,
+        "testId": 160,
+        "text": "Bonjour, je voudrais réserver deux places pour le film «Neige éternelle» à 20h. Où va la femme?",
+        "audio": "/mp3/160/9.mp3",
+        "options": [
+            "À l'opéra.",
+            "Au cabaret.",
+            "Au cinéma.",
+            "Au théâtre."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 10,
+        "testId": 160,
+        "text": "— Excusez-moi, madame, mais je suis complètement perdu. Je ne trouve pas la gare et mon train part dans 5 minutes, à l'hôtel, on m'a dit de passer par là.\n\n— Montrez-moi votre plan, mais vous le regardez à l'envers. Le musée est au bout de la rue et la gare, juste derrière.\n\n— Ah, merci beaucoup.\n\nQue veut faire cet homme ?",
+        "audio": "/mp3/160/10.mp3",
+        "options": [
+            "Acheter un plan.",
+            "Prendre un train.",
+            "Trouver un hôtel.",
+            "Visiter un musée."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 11,
+        "testId": 160,
+        "text": "— Conservatoire de Toulouse, bonjour.\n\n— Bonjour, j'aimerais inscrire ma fille de 10 ans au cours de violon pour la rentrée prochaine.\n\n— Désolé madame, mais toutes les inscriptions se font en ligne à partir du mois de juin.\n\n— Ah bon, d'accord. Merci, au revoir.\n\n— Je vous en prie, au revoir.\n\nQue faut-il pour s'inscrire?",
+        "audio": "/mp3/160/11.mp3",
+        "options": [
+            "S’inscrire sur place.",
+            "Téléphoner.",
+            "Envoyer un courrier.",
+            "Utiliser internet."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 12,
+        "testId": 160,
+        "text": "— Bonjour, je suis étudiant ici. Je voudrais travailler en salle informatique pour le cours de commerce international. C'est possible?\n\n— Oui, vous avez votre carte d'étudiant?\n\n— Oui, mais il n'y a pas encore de photo dessus.\n\n— Ce n'est pas grave pour la photo. Il faut votre carte d'étudiant pour vous connecter. Le code d'accès est écrit dessus. Vous pouvez vous installés au poste 30.\n\n— Merci beaucoup.\n\nQue souhaite l'étudiant?",
+        "audio": "/mp3/160/12.mp3",
+        "options": [
+            "Utiliser la salle informatique.",
+            "Mettre à jour sa carte d’étudiant.",
+            "Prendre une photo pour sa carte d’étudiant.",
+            "Trouver le code d’accès à la salle."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 13,
+        "testId": 160,
+        "text": "Allô, Alex ? C'est Lara. N'oublie pas de prendre tes lunettes pour la séance de ciné ce soir. La dernière fois, tu ne voyais rien et tu as dormi pendant deux heures. On se retrouve comme prévu ? Salut !\n\nPourquoi Lara téléphone-t-elle à Alex ?",
+        "audio": "/mp3/160/13.mp3",
+        "options": [
+            "Pour lui conseiller d’aller voir un médecin.",
+            "Pour lui dire qu’elle sera un peu en retard.",
+            "Pour lui proposer un film qu’elle veut voir.",
+            "Pour lui rappeler une chose importante."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 14,
+        "testId": 160,
+        "text": "La banque recrute des jeunes en alternance issues de différents cursus. Nous allons recruter des jeunes bacheliers qui vont préparer pour deux ans un BTS en alternance. Nous pouvons recruter des jeunes ayant obtenu leur diplôme du baccalauréat plus deux années d'études supérieures qui se préparent à une naissance professionnelle par exemple. Nous pouvons enfin recruter des jeunes qui ont obtenu un baccalauréat plus trois années d'études supérieures et qui poursuivent un cursus à bac plus quatre années, voire bac plus cinq années. Quelle est la condition à remplir pour faire une formation en alternance dans une banque?",
+        "audio": "/mp3/160/14.mp3",
+        "options": [
+            "Être inscrit dans une université.",
+            "Avoir le Baccalauréat.",
+            "Avoir terminé des études de master.",
+            "Avoir une expérience professionnelle préalable."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 15,
+        "testId": 160,
+        "text": "— Et Sophia, elle vient ?\n\n— Non, elle ne pourra pas venir avec nous au cinéma. Elle m'a demandé de vous prévenir.\n\n— Pourquoi ? Elle a une sortie avec ses collègues. Ils ont réservé une table pour 19h.\n\n— C'est dommage. Peut-être qu'elle pourra nous rejoindre plus tard.\n\nOù sera Sophia à 19h ?",
+        "audio": "/mp3/160/15.mp3",
+        "options": [
+            "Au bureau.",
+            "Au cinéma.",
+            "Au restaurant.",
+            "Au théâtre."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 16,
+        "testId": 160,
+        "text": "— Allo, bonjour, je vous appelle encore une fois parce que j'ai commandé un canapé lit il y a 6 semaines et que je n'ai toujours pas reçu. Je suis M. Marceau et mon numéro de commande est le 3802. Que se passe-t-il?\n\n— Je regarde, ne quittez pas. Oui, en effet, je vois que votre canapé est encore à l'usine. Je pense que la livraison devrait se faire bientôt. Vous avez un numéro de téléphone? Je vais me renseigner et je vous rappelle.\n\n— J'ai déjà appelé cinq fois. Je veux des explications, tout de suite!\n\nPourquoi le client téléphone-t-il?",
+        "audio": "/mp3/160/16.mp3",
+        "options": [
+            "Pour commander un nouveau canapé-lit.",
+            "Pour exiger l’annulation de sa commande.",
+            "Pour demander un échange de marchandise.",
+            "Pour se plaindre d’une commande non livrée."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 17,
+        "testId": 160,
+        "text": "— Février est l'un des mois les plus maussades au niveau de la météo. C'est souvent le mois le plus gris et le plus froid de l'année. Du coup, les gens ont tendance d'une part à surchauffer leur chambre et aussi à moins l'aérer. Or, tous les spécialistes le disent, une température intérieure au-dessus de 19°C et le manque d'air frais sont néfastes à la qualité du sommeil.\n\n— Et cette fatigue au mois de février serait uniquement due au problème de sommeil?\n\n— Non, il se trouve qu'en février, enfin en hiver, l'organisme est plus vulnérable, d'autant qu'il est mis en rude épreuve, notamment avec tous les virus qui circulent. Et puis il y a aussi le manque de lumière, un peu comme en octobre-novembre où de nombreuses personnes font la fameuse dépression saisonnière.\n\nQu'explique la journaliste ?",
+        "audio": "/mp3/160/17.mp3",
+        "options": [
+            "Comment diminuer la consommation d’énergie.",
+            "Comment il faut appliquer les conseils des experts.",
+            "Comment la santé est influencée par le calendrier.",
+            "Comment se protège des maladies contagieuses."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 18,
+        "testId": 160,
+        "text": "— La rencontre avec les représentants du personnel est bien prévue aujourd'hui?\n\n— Oui, monsieur. À 15h dans la salle du rez-de-chaussée.\n\n— Et il faut les prévenir que je ne serai pas à l'heure. J'attends un appel très important d'un de nos importateurs.\n\n— D'accord, mais je croyais que vous lui aviez parlé hier.\n\n— Non, il n'a pas pu me téléphoner.\n\nQue demande le directeur?",
+        "audio": "/mp3/160/18.mp3",
+        "options": [
+            "D’annuler une réunion.",
+            "D’informer de son retard.",
+            "De recevoir un client.",
+            "De reporter un entretien."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 19,
+        "testId": 160,
+        "text": "Ah, j'ai commencé dans l'entreprise, cela fait quand même 30 ans, à l'époque où on ne s'embarrassait pas avec le recrutement. Je me souviens, dès le soir où j'ai fini ma formation, mon patron de stage m'a proposé de rester, et pour mes copains de formation, pareil. Ah, c'est sûr, on n'embauche plus si facilement. Maintenant, je suis un ancien. Je dois recruter les jeunes qui arrivent, et je trouve ça incroyable. Ils accumulent les diplômes, ont fait plein de stages, sont 150 à postuler. Cela ne doit pas être drôle. Que constate cet employé ?",
+        "audio": "/mp3/160/19.mp3",
+        "options": [
+            "Les conditions de recrutement sont plus difficiles aujourd’hui.",
+            "Les étudiants ignorent le fonctionnement de l’entreprise.",
+            "Les jeunes étaient préparés plus sérieusement dans le passé.",
+            "Les patrons actuels ont un degré d’exigence trop élevé."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 20,
+        "testId": 160,
+        "text": "— Vous avez vu l'heure?\n\n— Oui, je sais, il est un peu tard.\n\n— C'est la troisième fois que vous arrivez en retard cette semaine.\n\n— Je m'excuse.\n\n— Écoutez-moi bien, votre période d'essai se termine dans 15 jours. Dorénavant, arrivez à l'heure si vous voulez être embauché.\n\nQu'annonce le directeur à l'employé?",
+        "audio": "/mp3/160/20.mp3",
+        "options": [
+            "Il est possible qu'il soit renvoyé.",
+            "Il est renvoyé définitivement.",
+            "Il va commencer sa période d’essai.",
+            "Il va être embauché définitivement."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 21,
+        "testId": 160,
+        "text": "— Bonjour monsieur, je viens transférer ma ligne téléphonique. J'emménage demain dans les logements neufs de la rue de l'université.\n\n— Oh là là, ça ne sera pas fini avant dix jours. Les travaux ne sont pas encore terminés. Le promoteur a eu du retard. Nous attendons son autorisation pour installer le réseau.\n\n— Dix jours ? Mais comment je fais sans téléphone moi ? J'en ai besoin pour mon travail.\n\n— Je suis désolé monsieur, mais vous n'êtes pas le seul dans ce cas et on ne peut pas aller plus vite que les travaux.\n\nPourquoi le client n'obtient-il pas le transfert de sa ligne téléphonique ?",
+        "audio": "/mp3/160/21.mp3",
+        "options": [
+            "Le promoteur a oublié de prévenir la compagnie de téléphone.",
+            "Le réseau téléphonique du nouvel immeuble est déjà saturé.",
+            "Les travaux nécessaires ne sont pas encore achevés.",
+            "La compagnie de téléphone manque de personnel pour le faire."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 22,
+        "testId": 160,
+        "text": "— Au fait, est-ce que je peux compter sur toi pour garder Moki pendant les vacances? Promis, c'est la dernière fois que je te demande un tel service.\n\n— Jamais de la vie, c'est hors de question cette fois-ci. La dernière fois que je l'ai gardé, il a été insupportable.\n\n— Oh non, comment je vais faire? Je croyais pouvoir compter sur toi.\n\nQuelle est la réaction de la femme?",
+        "audio": "/mp3/160/22.mp3",
+        "options": [
+            "Elle accepte de garder le chien.",
+            "Elle refuse de garder le chien.",
+            "Elle propose de trouver une autre solution.",
+            "Elle demande des excuses."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 23,
+        "testId": 160,
+        "text": "— Allô, Jenny ? C'est Joanne ! Merci pour ta carte. Alors tes vacances en célibataire? T'es parti tout seul faire du golf, c'est ça ?\n\n— Oui, j'avais envie de connaître le golf. C'était super. Pas facile, mais super!\n\n— Non! Ah bon ? Mais t'es pas vraiment sportif, toi! Le golf ! Quand j'ai vu ta carte, j'en revenais pas.\n\n— Non, mais j'ai bien l'intention de recommencer. Pas toute l'année, hein. Un stage l'été, c'est suffisant.\n\n— Eh ben, à ce rythme, tu vas pas être bon très très vite, hein ?\n\n— Qu'est-ce que tu crois ? Je suis pas si mauvais.\n\nQu'est-ce qui fait rire la femme ?",
+        "audio": "/mp3/160/23.mp3",
+        "options": [
+            "Que l’homme soit parti seul en vacances.",
+            "Que l’homme ait progressé au golf.",
+            "Que l’homme lui ait envoyé une carte.",
+            "Que l’homme se soit mis à faire du sport."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 24,
+        "testId": 160,
+        "text": "— ...autonome.\n\n— Oui, différents modèles de véhicules sans conducteur étaient à essayer dans les rues de Las Vegas la semaine dernière. Pour le moment, il s'agit seulement d'expérimentations. En attendant une réglementation, le secteur s'intéresse à ce que l'on fera dans ses voitures quand elles conduiront, vraiment toutes seules, persuadées que c'est l'intérieur de la voiture et les services proposés qui feront la différence demain, bien plus que le moteur. Plusieurs concepts d'habitacle futuriste étaient présentés sur le salon. Des voitures avec des écrans partout, intégrées dans les vitres ou faisant toute la largeur du tableau de bord. Des véhicules qui se personnaliseront en fonction de leurs passagers.\n\nSur quel aspect travaillent les concepteurs des voitures autonomes ?",
+        "audio": "/mp3/160/24.mp3",
+        "options": [
+            "L’écologie.",
+            "La puissance.",
+            "La sécurité.",
+            "Les équipements."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 25,
+        "testId": 160,
+        "text": "— Ce que vous dites, c'est que le temps, le temps passé par un parent avec son enfant, ça fait partie aujourd'hui des besoins psychiques essentiels à la construction de l'enfant?\n\n— Le temps, oui. Vraiment. Parce qu'il faut dire tout de suite que le temps passé par les enfants devant la télévision notamment, plusieurs heures par jour, on sait que plus tard, ce sont des défauts de concentration, ce sont des problématiques à l'école. Donc savoir avoir ce temps-là, c'est d'abord regarder son enfant comme un être à part, comme un être en développement, et c'est donc regarder le type de tempérament qu'il a, le type de caractère.\n\nPourquoi les parents doivent-ils passer du temps avec leurs enfants?",
+        "audio": "/mp3/160/25.mp3",
+        "options": [
+            "Pour limiter le temps passé devant la télévision.",
+            "Pour améliorer les performances scolaires de l’enfant.",
+            "Pour respecter les obligations légales de parentalité.",
+            "Pour façonner la personnalité de l’enfant."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 26,
+        "testId": 160,
+        "text": "— Allô, bonjour madame, c'est M. Etienne. J'ai reçu mon relevé bancaire et je vois que mon abonnement au service en ligne est augmenté de 5%. C'est pas beaucoup, certes, mais est-ce normal ?\n\n— Oui, oui, je vous rassure, c'est bien normal. Tous nos tarifs ont subi une augmentation au 1er janvier.\n\n— Peut-être, mais je n'ai reçu aucun courrier pour m'avertir.\n\n— Vous avez raison, mais nos conditions tarifaires sont affichées à l'agence.\n\n— Cela ne justifie pas que vous n'avertissez pas vos clients ! Alors je vous demande de résilier cet abonnement au plus vite !\n\nPourquoi le client demande-t-il la résiliation de son abonnement bancaire ?",
+        "audio": "/mp3/160/26.mp3",
+        "options": [
+            "Il trouve que cela lui coûte trop cher.",
+            "Il pense que cela ne lui est plus utile.",
+            "Il trouve que l'augmentation est injustifiée.",
+            "Il pense qu'il aurait dû être prévenu."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 27,
+        "testId": 160,
+        "text": "— Comment est né votre film?\n\n— Ça faisait longtemps que je voulais faire un film sur l'école, rester entre les murs et montrer par des moments d'école ce que vivent les élèves. Le jour de la sortie de mon précédent film «En Route», j'ai participé à une émission de radio à laquelle était également invité François Rufus, qui venait de sortir son livre. Et au cours de l'émission, je me suis aperçu qu'il traitait tous les thèmes que je voulais aborder de la manière dont je voulais le faire, sans sortir du collège, avec une démarche minimaliste et très descriptive. Dans l'ascenseur, je lui ai demandé s'il était intéressé par une adaptation. Il m'a donné son livre, et trois jours après, je signais.\n\nQuel est le point commun entre l'écrivain et le réalisateur?\n\n<br>**Options generated by chatgpt.**\n\n<br/>**Bref: L'identité entre les thèmes // L'unité de leurs thèmes. // Les avis qu'ils partagent au sujet de l'école.**<br/><br/>Le point commun entre l'écrivain et le réalisateur est l'identité de leurs thématiques sur la vie scolaire en la décrivant de manière réaliste, sans sortir de l'enceinte de l'école.\n\n<br>Other options could be:\n\n<br/>**A. L'identité entre leurs thèmes sur la vie à l'école.**\nB. L'écriture de livres sur la vie des élèves.\nC. Leur projet de devenir enseignants.\nD. Leur longue amitié et expériences partagées à l’école.\n\n<br/>**A. Ils cherchent tous deux à capturer la vie scolaire de manière fidèle et directe, en limitant leur regard à l’intérieur de l’école.**\n\nB. Ils ont tous deux écrit un livre sur la vie des élèves.\n\nC. Ils souhaitent tous deux suivre un parcours en tant que professeurs.\n\nD. Ils se connaissent depuis longtemps et partagent les mêmes expériences scolaires.",
+        "audio": "/mp3/160/27.mp3",
+        "options": [
+            "Leur intérêt pour les méthodes minimalistes.",
+            "Leur participation à la même émission de radio.",
+            "Leur processus créatif pour développer des projets.",
+            "Les avis qu’ils partagent au sujet de l’école."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 28,
+        "testId": 160,
+        "text": "Bonjour à tous! Vous avez tous passé les tests avec succès et le Monde Enchanté est heureux de vous accueillir parmi son personnel. La période des fêtes voit notre magasin littéralement envahi d'enfants venus repérer les jouets à commander. Vous devez être attentifs, agréables, sans insistance toutefois. Faites la démarche d'aller conseiller les clients sur les produits, mais sachez vous effacer afin de leur permettre d'être à l'aise et donc de consommer en toute tranquillité. Je compte sur vous pour véhiculer une bonne image du magasin. Pas d'acharnement donc. Bonne journée! Quelle est l'attitude à adopter par le personnel?",
+        "audio": "/mp3/160/28.mp3",
+        "options": [
+            "Être insistant pour augmenter les ventes.",
+            "Ignorer les clients pour leur donner de l’espace.",
+            "Assister de façon discrète le client.",
+            "Se concentrer sur l’arrangement des produits."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 29,
+        "testId": 160,
+        "text": "— Et on termine avec vous, Jean-nick, qui pose une grande question existentielle. Marcher ou courir?\n\n— Ça dépend. C'est ce qui ressort de quelques études récentes qui ont opposé les deux exercices et mesuré leurs effets. L'une d'elles a été publiée le mois dernier dans la revue Medicine and Science in Sports and Exercise. Conclusion? En ce qui concerne la perte de poids, c'est la course qui l'emporte haut la main. Les coureurs sont plus minces, moins de surcharge pondérale que les marcheurs. Et passer l'âge de 55 ans, c'est encore plus vrai, même si le nombre de kilomètres parcourus à la course par semaine est minime. Il y a une différence entre les coureurs et les marcheurs. Et la cause pourrait être l'effet de la course sur l'appétit.\n\nSelon le chroniqueur, que permet la course par rapport à la marche ?",
+        "audio": "/mp3/160/29.mp3",
+        "options": [
+            "De maigrir plus rapidement.",
+            "De manger sans compter.",
+            "De s'entraîner moins souvent.",
+            "De vivre plus longtemps."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 30,
+        "testId": 160,
+        "text": "— Les moins de 30 ans ne représentent que 10% des locataires. Pourtant, ils dépensent plus pour se loger, en moyenne 6 000 euros par an, soit 42% de plus que les autres. Ils ont également des revenus plus faibles que leurs parents au même âge, alors qu'ils sont nettement plus diplômés. Et la différence en France est nettement plus importante que dans les pays européens comparables.\n\n— Mais ça ne freine pas leur envie de consommer.\n\n— Il en faudrait plus. Le Credo constate que leur appétit de consommation est plus important que celui de leurs aînés, d'autant plus que, peu intéressés par les structures sociales existantes, les jeunes s'identifient à des groupes dont le point commun est justement la consommation. C'est le règne de la consommation symbole et le triomphe du marketing.\n\nQu'est-ce qui différencie les moins de 30 ans des générations précédentes?",
+        "audio": "/mp3/160/30.mp3",
+        "options": [
+            "Ils habitent plus longtemps en location.",
+            "Ils perçoivent un salaire plus élevé.",
+            "Ils s'investissent dans des associations.",
+            "Ils sont tentés par les dépenses."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 31,
+        "testId": 160,
+        "text": "— En tant qu'entraîneur d'une équipe de football, comment réagissez-vous pendant un match?\n\n— Ben, moi je suis toujours très tendu.\n\n— Et vous intervenez quand auprès des joueurs?\n\n— Pas sur le terrain pendant le match, mais de temps en temps à la mi-temps, j'essaie d'expliquer les problèmes. Ça dépend du match, mais enfin, la plupart du temps, je préfère attendre que le match soit fini.\n\n— Le résultat d'un match, ça dépend un peu... un coup de chance?\n\n— Non, non, il n'y a pas de hasard. Au football, pour gagner, il faut savoir se battre.\n\nÀ quel moment cet entraîneur préfère-t-il intervenir en général?",
+        "audio": "/mp3/160/31.mp3",
+        "options": [
+            "Pendant le match, sur le terrain.",
+            "Ils préfèrent intervenir après la fin du match.",
+            "À chaque pause de jeu.",
+            "Exclusivement à la mi-temps."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 32,
+        "testId": 160,
+        "text": "— Les maisons de disques se plaignent des téléchargements de fichiers musicaux sur Internet. Qu'en pensez-vous?\n\n— Nous enregistrons en effet une baisse des ventes parce qu'avec Internet on peut tout enregistrer, c'est-à-dire piller les droits d'auteur et le travail des autres.\n\n— Pourtant la piraterie a toujours existé?\n\n— Certes, mais les jeunes achètent moins depuis que ce nouveau moyen existe. Si ce phénomène continue à augmenter, le déficit sera ingérable.\n\n— Pourtant, certains programmes musicaux issus d'émissions de télévision sont très à la mode et dopent les ventes de disques.\n\n— Oui, bien sûr, mais ce sont des produits marketing éphémères et cela valide tout juste le manque financier dû à la piraterie.\n\nQuel est l'acte de piraterie dont se plaint le producteur des disques?",
+        "audio": "/mp3/160/32.mp3",
+        "options": [
+            "L’utilisation de la musique dans les programmes télévisés.",
+            "Les copies gratuites sur internet.",
+            "La diffusion non autorisée en radio.",
+            "Le partage de CD entre particuliers."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 33,
+        "testId": 160,
+        "text": "— Karel Mayrand, qui dirige la section québécoise de la Fondation écologiste David Suzuki, veut parler autrement des changements climatiques.\n\n— On voulait démontrer que c'est pas seulement des glaciers qui fondent au Boïman, ça commence à créer des impacts chez nous, près de nous, dans des choses qui nous tiennent à cœur. Par exemple, ce qui fonde dans la région, dans le sud du Québec, dans la région de Montréal, si on continue avec un réchauffement tel qu'on l'a, la saison de ce qu'ils font va disparaître complètement. Et donc, c'est toute une culture qui se perd. Moi, je pense que plus on rapproche les impacts de ce qui est près des gens, on dit « voici ce que nous aimons de l'hiver et voici pourquoi nous allons agir pour le réchauffement climatique ». Tout d'un coup, on n'est plus en train de parler d'une catastrophe qui est en cours, on est en train de parler d'un monde à construire.\n\nQu'affirme KKarel Mayrand au sujet du réchauffement climatique?",
+        "audio": "/mp3/160/33.mp3",
+        "options": [
+            "Il affecte uniquement les régions polaires.",
+            "Il change notre quotidien et menace des saisons entières.",
+            "Il est un phénomène lointain sans impact direct.",
+            "Il peut être complètement évité si on agit maintenant."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 34,
+        "testId": 160,
+        "text": "— Le département de Leraux attire de nombreux nouveaux habitants chaque année et notamment de plus en plus de Parisiens s'installent dans le 34. Fuyant le stress et la grisaille de la capitale, Montpellier semble une destination de rêve. Mais qui sont ces nouveaux habitants?\n\n— Nous, on a quitté Paris parce qu'on n'aurait jamais pu devenir propriétaire. On vivait dans un 40 m<sup>2</sup> et pour le même prix, on a trouvé une petite maison avec passion dans les quartiers ouest de Montpellier.\n\n— Alors, qu'est-ce que vous trouvez à Montpellier?\n\n— Ici on a du soleil tous les jours. Franchement, je dois dire que ce que j'apprécie, c'est la qualité des rapports humains. Les gens sont plus posés, moins stressés. Pour une ville de province, la vie culturelle se réveille quand même assez riche, avec beaucoup de festivals. Après, pour ce qui est de la vie sociale, c'est un peu délicat. On se sent étrangers et les gens du pays nous considèrent comme des parisiens, ça c'est sûr, ils nous le disent.\n\nQuelles sont les réactions des Parisiens installés à Montpellier?",
+        "audio": "/mp3/160/34.mp3",
+        "options": [
+            "Ils sont satisfaits de l’espace de leur nouvelle habitation.",
+            "Ils ont un souci de l’intégration.",
+            "Ils regrettent le manque de culture à Montpellier.",
+            "Ils se plaignent du climat."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 35,
+        "testId": 160,
+        "text": "— Est-ce que vous pensez que la population s'est réappropriée ces forêts ou a renoué un lien de conscience avec l'industrie forestière?\n\n— Je dirais que le lien n'est pas encore fait à l'heure actuelle. On a moins, on a beaucoup de travail à faire, puis on met beaucoup d'espoir sur notamment nos associations forestières régionales dans chacune des régions. Mais le gros point, c'est que la moitié de la population est autour de Montréal, la Couronne de Montréal. Il n'y a même pas d'association forestière ici. Donc, on n'a presque aucun moyen de sensibiliser la population sur les valeurs écologiques, les valeurs économiques du milieu forestier comme tel, puis de vivre aussi dans cette forêt-là.\n\nÀ quelle conclusion arrive ce représentant de l'industrie forestière québécoise?\n\n<br/>**Options A is partly correct.**\n\n<br/>**Explanation from ChartGPT**: The representative highlights that there is a significant issue with communication and awareness, particularly in urban areas like Montreal, where there are no forest associations to educate the population about the ecological and economic values of forests. While A slightly misrepresents the focus by mentioning \"écologistes,\" the essence of the issue is a lack of means to sensitize the population as a whole, not just ecologists.\n\nIf A were rephrased to \"Problème de communication, aucun moyen de sensibiliser la population sur les valeurs forestières,\" it would better capture the intended meaning.\n\n<br/>**Note**:Série 86 Q35 uses new options.",
+        "audio": "/mp3/160/35.mp3",
+        "options": [
+            "Problème de communication, aucun moyen de sensibiliser les écologistes.",
+            "Le lien avec la forêt est bien établi grâce aux efforts continus.",
+            "Les associations forestières sont suffisamment réparties pour couvrir les besoins de sensibilisation.",
+            "La population urbaine est totalement engagée avec l’industrie forestière."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 36,
+        "testId": 160,
+        "text": "L'origine de notre projet, c'est cette rencontre avec un ingénieur cambodgien qui m'a raconté sa vie dans ce village où chacun a des rizières mais où il n'y a aucune infrastructure. Je lui ai demandé ce qu'il buvait et il m'a dit « on boit l'eau de la mare », avec tout le cortège de maladies que vous pouvez imaginer. Donc j'ai fait le tour des grands ONG, j'ai consulté Suez, Eolia et l'idée qu'on a retenue, c'est qu'au lieu de poser la fontaine au bord de la mare, de purifier l'eau et dire aux gens « servez-vous », on va proposer à un groupe d'individus de devenir entrepreneurs. Ils vont créer leur propre activité de distribution de boissons, ils vont ainsi générer un chiffre d'affaires qui va leur permettre d'améliorer leur niveau de vie. Quel est le projet de cet organisme?",
+        "audio": "/mp3/160/36.mp3",
+        "options": [
+            "Installer des fontaines d'eau purifiée dans les villages.",
+            "Encadrer les projets locaux pour créer des activités économiques.",
+            "Distribuer gratuitement de l'eau potable.",
+            "Construire des infrastructures de santé."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 37,
+        "testId": 160,
+        "text": "D'apparence Vlad est un New Yorkais comme les autres, sauf que lui a pour assidu l'âme d'un Cro-Magnon. Vlad vit en style paléo, comme dans Paléolithique, une époque où les hommes vivaient principalement de chasse et de cueillettes. Les adeptes du paléo pratiquent des exercices intensifs et se nourrissent uniquement d'aliments crus, fruits, légumes, poissons et viandes, selon eux plus adapté à l'homme que les graines ou les céréales. Il achète uniquement bio, et très important pour lui, il aime sa viande extrêmement fraîche. De qui parle la journaliste?",
+        "audio": "/mp3/160/37.mp3",
+        "options": [
+            "D'un citadin original.",
+            "D'un cuisinier renommé.",
+            "D'un historien passionné.",
+            "D'un homme préhistorique."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 38,
+        "testId": 160,
+        "text": "Les pays européens sont presque tous d'excellents élèves de l'écologie. «Est-ce une bonne nouvelle ?» S'interroge le Figaro. Pas si sûr. L'Europe, dit Gérard Dupuy dans Libération, ne paraît vertueuse que parce que son double décimètre était truqué. Les quotas de rejet de CO2, fixés à l'avance, ont été calculés de manière à ne pas trop effaroucher les industriels. Du coup, ils ne servaient à rien. Mais, reconnaît Gérard Dupuy, il serait tout aussi erroné, à l'inverse, d'avoir des exigences drastiques mais irréalistes. Les industriels savent d'ailleurs agiter un épouvantail efficace. La méthode la plus simple pour arriver à une absence complète de pollution, c'est de fermer une usine et de la délocaliser sous d'autres cieux. Ce n'est pas toujours une menace en l'air. D'après le journaliste, en quoi les bons résultats européens en matière d'écologie sont-ils contestables ?",
+        "audio": "/mp3/160/38.mp3",
+        "options": [
+            "Ils font l'objet de manipulations douteuses par les pollueurs.",
+            "Ils répondent à des critères insuffisamment exigeants.",
+            "Ils sont destinés à justifier les politiques économiques.",
+            "Ils sont publiés par des organismes liés aux entreprises."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 39,
+        "testId": 160,
+        "text": "La qualité, vous savez, la qualité, surtout la très grande qualité, tout ça, ça a un prix. Si on veut trouver une place sur le marché, il faut donc, et c'est tout un exercice, arriver à produire des aliments à des coûts qui sont quand même abordables. Et c'est l'exercice qui occupe en ce moment Sophie Barry de Carol&E. C'est une petite fabrique de pâtes et de sauces qui est installée à Sabrevois, à Montérégie. Que cherche à faire cette entreprise?",
+        "audio": "/mp3/160/39.mp3",
+        "options": [
+            "Améliorer la présentation des produits.",
+            "Augmenter le nombre de clients.",
+            "Multiplier les points de vente.",
+            "Maintenir des tarifs compétitifs."
+        ],
+        "answer": 3
+    }
+]
