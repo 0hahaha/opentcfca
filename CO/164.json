@@ -1,0 +1,511 @@
+[
+    {
+        "id": 1,
+        "testId": 164,
+        "text": "A. Arrêtez de vous disputer.\n\nB. Finissez votre goûter, les enfants.\n\nC. Rentrez, vous allez attraper froid.\n\nD. Sortez de dessous vos lits.",
+        "audio": "/mp3/164/1.mp3",
+        "img": "/mp3/164/1.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 2,
+        "testId": 164,
+        "text": "A. C'est un bon marchand de légumes.\n\nB. Demandez un plan de la ville.\n\nC. L'entrée de la préfecture est là-bas.\n\nD. Ma voiture est au parking.",
+        "audio": "/mp3/164/2.mp3",
+        "img": "/mp3/164/2.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 3,
+        "testId": 164,
+        "text": "Oh là là ! Cette valise est lourde et le train va partir. Est-ce que tu peux m'aider ?\n\nA. Oui, à 16h.\n\nB. Oui, bien sûr.\n\nC. Oui, il arrive.\n\nD. Oui, j'ai mal.",
+        "audio": "/mp3/164/3.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 4,
+        "testId": 164,
+        "text": "Je ne trouve pas la clé de la voiture. Tu l'as vue quelque part?\n\nA. Oui, tu l'as garée devant la maison.\n\nB. Oui, tu l'as posée sur la table.\n\nC. Oui, tu peux en racheter une au marché.\n\nD. Oui, tu peux sûrement l'apprendre.",
+        "audio": "/mp3/164/4.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 5,
+        "testId": 164,
+        "text": "Pouvez-vous garder ma valise, s'il vous plaît?\n\nA. Bien sûr, sans problème.\n\nB. D'accord, j'y vais.\n\nC. Désolée, il est absent.\n\nD. Merci, ça va très bien.",
+        "audio": "/mp3/164/5.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 6,
+        "testId": 164,
+        "text": "Pardon madame, vous pouvez m'aider ? Je cherche les vêtements de sport.\n\nA. C'est au 2e étage.\n\nB. Ils existent dans ces deux couleurs.\n\nC. Les soldes commencent demain.\n\nD. Vous pouvez payer par chèque.",
+        "audio": "/mp3/164/6.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 7,
+        "testId": 164,
+        "text": "Cette année, c'est décidé. Nous allons faire du ski pendant les vacances de Noël. Tu nous accompagnes ?\n\nA. Avec plaisir. Je suis libre demain.\n\nB. Bonne idée. J'adore la neige.\n\nC. D'accord. Je pars tout seul.\n\nD. Super. Je connais bien cette ville.",
+        "audio": "/mp3/164/7.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 8,
+        "testId": 164,
+        "text": "Vous avez reçu la commande de Madame Cordier ?\n\nA. Oui, bientôt.\n\nB. Oui, ce matin.\n\nC. Oui, d'accord.\n\nD. Oui, pourquoi pas.",
+        "audio": "/mp3/164/8.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 9,
+        "testId": 164,
+        "text": "Maxime propose de faire du camping dans le sud de la France pour les prochaines vacances. Qu'est-ce que tu en penses ?\n\nA. Bien sûr, je réserve l'hôtel.\n\nB. D'accord, on reste à la maison.\n\nC. Non, l'appartement est trop cher.\n\nD. Pourquoi pas, les enfants vont adorer.",
+        "audio": "/mp3/164/9.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 10,
+        "testId": 164,
+        "text": "— Salut Yann, je fais une fête samedi, tu viens?\n\n— Ouais super, avec plaisir! Comment on fait pour aller chez toi?\n\nA. Tu apportes quelque chose à boire.\n\nB. Tu arrives vers 20h30.\n\nC. Tu descends au dernier arrêt du bus 78.\n\nD. Tu peux venir avec ta sœur si tu veux.",
+        "audio": "/mp3/164/10.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 11,
+        "testId": 164,
+        "text": "— Ça ne va pas? Tu es malade?\n\n— Non, mais mon mari vient de réserver un appartement à la montagne pour 15 jours. Au programme, randonnée, vélo et escalade.\n\n— C'est génial!\n\n— C'est affreux, tu veux dire. Moi, je rêvais de deux semaines de repos et de lecture.\n\nDe quoi discutent les deux femmes?",
+        "audio": "/mp3/164/11.mp3",
+        "options": [
+            "D'un prochain déménagement.",
+            "De sport pour le week-end.",
+            "De vacances en famille.",
+            "D'un problème de santé."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 12,
+        "testId": 164,
+        "text": "— Allô?\n\n— Bonsoir Gillette, c'est Maryse. Alors comment ça va?\n\n— Ça va. Aujourd'hui ma petite fille est venue. J'étais très contente. Elle est tellement dynamique. Ça me rajeunit toujours de la voir.\n\n— Elle a déjeuné avec toi?\n\n— Oui, j'avais préparé un poulet avec des petits légumes. Après, on a regardé des photos ensemble et et on s'est promené un peu, il faisait beau.\n\n— Ça avait l'air super et si on déjeunait aussi ensemble cette semaine pour parler du bon vieux temps.\n\nDe quoi parlent ces deux femmes?\n\n<br>**Options generated by chatgpt.**\n\n<br/>Les deux femmes parlent de la visite de la fille de Maryse, de leur déjeuner ensemble et de leur promenade, ainsi que de la possibilité de se retrouver à nouveau pour parler du passé.",
+        "audio": "/mp3/164/12.mp3",
+        "options": [
+            "De leurs activités récentes.",
+            "D'une visite de sa fille.",
+            "De la préparation d'un repas.",
+            "D'un déjeuner en famille."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 13,
+        "testId": 164,
+        "text": "— Périne, tu viens au cinéma avec nous?\n\n— Quand? Aujourd'hui?\n\n— Ce soir, la séance est à 20h. Il passe une comédie romantique.\n\n— Non, j'ai une réunion au bureau jusqu'à 18h. Et après, j'ai rendez-vous au restaurant avec Paul.\n\nQu'est-ce que Périne va faire ce soir?",
+        "audio": "/mp3/164/13.mp3",
+        "options": [
+            "Dîner avec un ami.",
+            "Regarder un film.",
+            "Rentrer chez elle.",
+            "Travailler tard."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 14,
+        "testId": 164,
+        "text": "— Alors Pierre, qu'est-ce que tu as décidé ? Tu vas accepter cette offre d'emploi ?\n\n— Ah non, j'ai déjà refusé. Honnêtement, je préfère continuer à chercher.\n\n— Je pense que tu fais une bêtise. C'est très bien payé, et puis les horaires te conviennent, non ?\n\n— Oui, mais ce n'est pas une raison pour accepter le poste. Ce qui est important pour moi, c'est le travail lui-même, et de ce point de vue, le poste ne m'attire pas.\n\n— J'espère que tu ne vas pas regretter ta décision.\n\nPourquoi Pierre refuse-t-il ce poste ?",
+        "audio": "/mp3/164/14.mp3",
+        "options": [
+            "La mission est sans intérêt.",
+            "La société est loin de chez lui.",
+            "Le contrat est temporaire.",
+            "Le salaire est insuffisant."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 15,
+        "testId": 164,
+        "text": "— Où pars-tu en vacances cet été ?\n\n— Sûrement dans le sud. J'aime la pêche et mes amis de Marseille m'ont proposé leur appartement.\n\n— Moi, je supporte très mal l'effort de chaleur. Ça me rend malade.\n\n— Dommage. Tu aurais pu venir avec moi. Il y a de la place chez mes amis.\n\n— Et si c'était toi qui venais avec moi en Irlande ? C'est beau l'Irlande. Là-bas aussi on peut pêcher.\n\n— Oui tiens, c'est une idée. Je ne connais pas du tout ce pays. Pourquoi pas ?\n\nQue décident de faire les deux amis pour leurs vacances ?",
+        "audio": "/mp3/164/15.mp3",
+        "options": [
+            "De visiter le sud de la France.",
+            "De partir ensemble à l’étranger.",
+            "De partir chacun de leur côté.",
+            "D’aller pêcher avec d’autres amis."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 16,
+        "testId": 164,
+        "text": "— Pourquoi en si peu de temps, on est venu à 7 milliards sur Terre ?\n\n— Parce que la mortalité a diminué, notamment la mortalité des enfants, grâce au progrès de l'hygiène, de la médecine, au progrès économique. Résultat, les décès sont devenus moins nombreux et est apparu un excédent des naissances sur les décès qui a entraîné une augmentation de la population.\n\nQu'explique cet homme ?",
+        "audio": "/mp3/164/16.mp3",
+        "options": [
+            "La crise de l’économie mondiale.",
+            "L’accroissement de la population.",
+            "Les nouvelles règles d’hygiène.",
+            "Les récentes découvertes médicales."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 17,
+        "testId": 164,
+        "text": "— Est-ce que vous pouvez nous rappeler en quelques mots la situation?\n\n— Oui, c'est un fait divers heureusement très rare. Un étudiant de l'Université d'Ottawa, originaire du Niger, souhaite que sa femme vienne vivre avec lui, et il se bat avec l'administration pour qu'elle puisse entrer dans le pays.\n\n— Mais où vit sa femme?\n\n— Au Niger. Le couple est actuellement séparé en raison d'erreurs administratives.\n\nQu'espère cet étudiant?\n\n<br>**Options generated by chatgpt.**\n\n<br/>Cet étudiant espère que sa femme puisse entrer au Canada pour vivre avec lui.",
+        "audio": "/mp3/164/17.mp3",
+        "options": [
+            "Il espère que sa femme puisse entrer au Canada.",
+            "Il espère que sa femme puisse étudier à Ottawa.",
+            "Il espère obtenir une bourse pour ses études.",
+            "Il espère pouvoir retourner vivre au Niger."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 18,
+        "testId": 164,
+        "text": "— Février est l'un des mois les plus maussades au niveau de la météo. C'est souvent le mois le plus gris et le plus froid de l'année. Du coup, les gens ont tendance d'une part à surchauffer leur chambre et aussi à moins l'aérer. Or, tous les spécialistes le disent, une température intérieure au-dessus de 19°C et le manque d'air frais sont néfastes à la qualité du sommeil.\n\n— Et cette fatigue au mois de février serait uniquement due au problème de sommeil?\n\n— Non, il se trouve qu'en février, enfin en hiver, l'organisme est plus vulnérable, d'autant qu'il est mis en rude épreuve, notamment avec tous les virus qui circulent. Et puis il y a aussi le manque de lumière, un peu comme en octobre-novembre où de nombreuses personnes font la fameuse dépression saisonnière.\n\nQu'explique la journaliste ?",
+        "audio": "/mp3/164/18.mp3",
+        "options": [
+            "Comment diminuer la consommation d’énergie.",
+            "Comment il faut appliquer les conseils des experts.",
+            "Comment la santé est influencée par le calendrier.",
+            "Comment se protège des maladies contagieuses."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 19,
+        "testId": 164,
+        "text": "— Je suis en mer depuis les années 80, j'ai commencé le métier marin à 15 ans et demi.\n\n— Vous n'avez pas fait la suite de quelqu'un ?\n\n— Non, non. J'ai commencé dans les années 81 à la pêche et puis bon, ça a rapporté. Et puis, il y avait de l'emploi ici. Là, c'est le hasard.\n\n— Mais vous êtes d'ici ?\n\n— Oui, je suis d'ici, ça aide. Mais bon, je n'étais vraiment pas attiré par la mer.\n\n— C'est vrai, non ? Et pourtant, vous avez franchi le pas pour faire pêcheur.\n\n— Je n'avais pas le choix. Il fallait bien que je gagne ma vie. Quand j'avais arrêté mes études, bon, ici, à part la pêche, il n'y a pas grand chose comme vous voulez. L'économie, c'est pratiquement que la pêche.\n\nQuelle était la motivation de cet homme pour devenir pêcheur ?",
+        "audio": "/mp3/164/19.mp3",
+        "options": [
+            "L’envie de changer de profession.",
+            "La nécessité de trouver un travail.",
+            "La réalisation d’un rêve de jeunesse.",
+            "La rencontre avec un passionné."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 20,
+        "testId": 164,
+        "text": "— Stéphane, est-ce que Corinne est rentrée de sa mission au Japon ?\n\n— Oui, elle était au bureau hier et aujourd'hui, mais elle est très fatiguée.\n\n— La pauvre. Sa mission a été plus difficile que d'habitude ?\n\n— Oui, elle a eu des réunions dans plusieurs villes. Elle n'a pas arrêté de circuler.\n\n— C'est sympa. Elle a pu découvrir plein de lieux différents.\n\n— Pas du tout. Elle terminait très tard le soir.\n\n— Elle devrait prendre des vacances.\n\n— Impossible. Elle repart pour une conférence au Canada, la semaine prochaine.\n\nQu'apprend-on sur Corinne ?",
+        "audio": "/mp3/164/20.mp3",
+        "options": [
+            "Elle est en congé.",
+            "Elle est tombée malade.",
+            "Elle travaille la nuit.",
+            "Elle voyage souvent."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 21,
+        "testId": 164,
+        "text": "— Alors Théo, comment se sont passées tes vacances?\n\n— Super! Une semaine, c'était un peu court mais je suis content.\n\n— Tu es parti avec tes amis Diégo et Trisse? Comme prévu?\n\n— Non, au dernier moment ils ont préféré aller en Espagne. J'ai donc proposé à mon cousin de m'accompagner et il a accepté.\n\n— Vous avez dormi à l'hôtel?\n\n— Non, on avait réservé dans un camping pas cher près de la plage, on a fait de la planche à voile tous les jours.\n\nQue dit Théo à propos de ses vacances?\n\n<br>**Options generated by chatgpt.**\n\n<br/>Théo dit qu'il a passé une semaine de vacances agréable en camping, en compagnie de son cousin, après que ses amis aient changé de plan.",
+        "audio": "/mp3/164/21.mp3",
+        "options": [
+            "Il a passé ses vacances avec son cousin dans un camping.",
+            "Il a voyagé seul pendant ses vacances.",
+            "Il est allé en Espagne avec ses amis.",
+            "Il a séjourné dans un hôtel de luxe."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 22,
+        "testId": 164,
+        "text": "Bonjour, ravi de vous retrouver dans Grand Bien Vous Fasse. La pauvreté dans le monde recule, la démocratie avance, la couche d'ozone se reconstitue, ou encore le monde n'a jamais connu aussi peu de violence. Ce matin, nous recevons un rameur à contre-courant de certaines idées reçues. Le spécialiste en psychologie positive, Jacques Lecomte, nous donne à voir ce matin une humanité en progrès. En s'appuyant sur une série de chiffres, de statistiques et de rapports internationaux fiables, Jacques Lecomte nous invite à regarder notre monde avec un optimisme réaliste. Il appelle ça l'optiréalisme, loin des discours catastrophistes des prophètes de malheur. Que propose cette émission ?",
+        "audio": "/mp3/164/22.mp3",
+        "options": [
+            "Un point de vue sur la situation mondiale aujourd’hui.",
+            "Une analyse de l’actualité économique dans le monde.",
+            "Une critique des conséquences de la mondialisation.",
+            "Une réflexion sur les relations politiques mondiales."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 23,
+        "testId": 164,
+        "text": "Je crois que les difficultés en matière de lecture ont des causes à la fois individuelles et sociales. Les parents, par exemple, parce qu'ils sont angoissés par l'avenir de leurs enfants, leur présentent souvent la lecture comme une obligation, une démarche indispensable pour réussir. Et c'est une erreur, parce que la lecture est avant tout un plaisir. Un livre, c'est un voyage, une découverte, une aventure, et il faudrait faire découvrir la lecture aux enfants comme on leur fait découvrir la cuisine chinoise ou les jeux dans la neige. Et puis les parents refusent aussi souvent à leurs enfants des lectures qu'ils considèrent comme mineurs. Les bandes dessinées, par exemple, et ça aussi, c'est une erreur. Lire une bande dessinée, c'est lire. Et ça permet souvent d'ailleurs de découvrir ensuite d'autres formes de littérature. Que conseille cette intervenante aux parents ?",
+        "audio": "/mp3/164/23.mp3",
+        "options": [
+            "D'attribuer à la lecture le statut de loisir.",
+            "De favoriser la lecture en autonomie.",
+            "De limiter la lecture d'histoires illustrées.",
+            "De sélectionner des lectures classiques."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 24,
+        "testId": 164,
+        "text": "— 87% des gamins ne savent pas à quoi ressemble une betterave, un tiers n'ont jamais vu de poireau et un cinquième ne reconnaît pas un abricot. En ce qui concerne les pâtes, 72% ne savent pas ce qu'il y a dedans. Ça nous parle de nous aujourd'hui ?\n\n— Oui, oui, tout à fait. C'est évidemment un des grands problèmes. Il faut redonner des repères sur les aliments, savoir d'où ils viennent, comment ils poussent, à quoi ça sert. Pour ça, il faut emmener les enfants sur les marchés, faire les courses. Il faut leur montrer quand on fait la cuisine les ingrédients que l'on met. Donc, il faut réapprendre la culture alimentaire qui est quand même dans nos traditions françaises.\n\nQuel problème évoquent les interlocuteurs à propos des enfants ?",
+        "audio": "/mp3/164/24.mp3",
+        "options": [
+            "Ils abusent de repas très caloriques.",
+            "Ils consomment peu de produits frais.",
+            "Ils ignorent l'origine de leurs plats.",
+            "Ils refusent de manger des légumes."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 25,
+        "testId": 164,
+        "text": "— Camille, à ton arrivée à Québec, dans quel type de logement résidais-tu?\n\n— J'ai d'abord habité un appartement en colocation, dans le quartier de Montcalm. Au bout de six mois à peine, j'ai emménagé à deux pas du centre-ville. C'est très simple de trouver un logement ici. Ça se fait en quelques jours.\n\n— Hum. Comment as-tu trouvé ton premier appartement?\n\n— Avant de quitter la France, sur un site Internet regroupant les annonces de colocation. Mais je conseille de chercher sur place. Il y a tout ce qu'il faut pour trouver facilement. On peut découvrir le quartier, voir si les pièces sont spacieuses, lumineuses et surtout bien insonorisées. Ce n'était pas le cas de mon premier logement, malgré le nom du quartier.\n\nD'après Camille, quel est le point fort de l'immobilier à Québec?",
+        "audio": "/mp3/164/25.mp3",
+        "options": [
+            "La recherche d’un appartement est rapide.",
+            "Le système de la colocation est encouragé.",
+            "Les habitations proposées sont de qualité.",
+            "Les logements sont bon marché en banlieue."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 26,
+        "testId": 164,
+        "text": "— Moi, j'ai pas été quelqu'un qui avait une vocation médicale antique. C'est arrivé très tard, en fait. J'aimais mieux les sciences, les mathématiques, des trucs comme ça. J'ai pas d'un moment, l'environnement direct, je n'avais pas à ce moment-là des médecins, bien que mon grand-père était médecin. Et donc, ça a été un choix presque au hasard, la médecine, pour moi. Mais c'est vrai que c'est un métier qui m'a rapproché à beaucoup des gens, parce qu'on est très, très près des gens, surtout à l'urgence, dans la douleur, dans la mort, dans ces trucs-là. Et ça m'a aidé moi-même à me rapprocher de moi-même. C'est d'être toujours en contact avec des gens, c'est assez différent d'être en contact avec, je sais pas moi, des mathématiques ou des trucs comme ça.\n\n— Oui, oui, bien sûr.\n\n— Et oui, je pense que moi, c'est un métier, que j'ai jamais, dont j'ai jamais regretté le choix une seconde.\n\nQu'est-ce que ce médecin retire de l'exercice de sa profession?\n\n<br>**Options generated by chatgpt.**\n\n<br/>Le médecin dit que l'exercice de sa profession lui permet de se rapprocher des gens et de mieux se connaître lui-même.\n\n<br/>**Note**:Elle crée des relations amicales. It can be the real answer on the real exam, which is the note from who took the exam.",
+        "audio": "/mp3/164/26.mp3",
+        "options": [
+            "Il se rapproche des gens et apprend à mieux se connaître.",
+            "Il regrette d'avoir choisi la médecine.",
+            "Il préfère les sciences et les mathématiques à la médecine.",
+            "l trouve la médecine très solitaire."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 27,
+        "testId": 164,
+        "text": "— David Berner, vous êtes psychologue du travail. Quel conseil donneriez-vous pour décrocher un emploi de rêve?\n\n— Tout d'abord, n'oubliez pas que le recruteur a l'habitude de voir des candidats impressionnés au cours de l'entretien, angoissés de rester deux semaines de plus au chômage.\n\n— Mais alors que proposez-vous en pratique?\n\n— Casser la routine du recruteur. Soyez à l'aise, mais sans être insolent ou désinvolte. Soyez simple, franc, décidez et montrez de l'intérêt. Vous contribuerez ainsi à l'installation d'une atmosphère courtoise et détendue.\n\nQue conseille de faire le psychologue face à un recruteur?\n\n<br>**Options generated by chatgpt.**\n\n<br/>Le psychologue conseille de surprendre le recruteur en brisant sa routine habituelle, en adoptant une attitude à la fois détendue et respectueuse, sans être insolent ou désinvolte, tout en montrant de l'intérêt et de la motivation, ce qui contribue à instaurer une atmosphère courtoise et détendue.",
+        "audio": "/mp3/164/27.mp3",
+        "options": [
+            "Il faut être plus nerveux pour impressionner.",
+            "Il faut poser des questions difficiles au recruteur.",
+            "Il faut le surprendre par son attitude. // faire preuve de sa motivation.",
+            "Il faut être trop informel pour se détendre."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 28,
+        "testId": 164,
+        "text": "— Monsieur Jacquemin, parlez-nous de votre dernier ouvrage.\n\n— Mon objectif avec ces photos était de mettre en scène les paysages et les villages de la Riviera, en partant de la lumière, au point du jour ou au couchant, et de dérouler la palette qu'offrent les panoramas, les villes et les façades de la Côte d'Azur. Je suis toujours subjugué de voir les roches s'habiller de mauve et les murs de rose dans la douceur des soirs d'été. Toujours tenté de faire halte devant les maisons aux enduits chauds de l'ancien comté de Nice. C'est à ce voyage que j'ai voulu inviter les lecteurs.\n\n— Merci pour cette présentation alléchante. Grâce à vos photos, nous redécouvrons ce territoire aux mille facettes où le soleil joue le premier rôle.\n\nQuel est le but poursuivi par ce photographe?\n\n<br>**Options generated by chatgpt.**\n\n<br/>Le photographe cherche à inviter le lecteur à découvrir la beauté de la Côte d'Azur à travers ses photos, en jouant sur la lumière et la couleur des paysages. Bref, faire découvrir une région en France à travers son ouvrage.",
+        "audio": "/mp3/164/28.mp3",
+        "options": [
+            "Mettre en valeur les paysages naturels à travers des photos de la montagne.",
+            "Capturer l'atmosphère de la Côte d'Azur en jouant avec la lumière.",
+            "Inviter le lecteur à découvrir la Riviera à travers ses photos.",
+            "Montrer des photos des villages de la région niçoise uniquement."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 29,
+        "testId": 164,
+        "text": "— Comment est né votre film?\n\n— Ça faisait longtemps que je voulais faire un film sur l'école, rester entre les murs et montrer par des moments d'école ce que vivent les élèves. Le jour de la sortie de mon précédent film «En Route», j'ai participé à une émission de radio à laquelle était également invité François Rufus, qui venait de sortir son livre. Et au cours de l'émission, je me suis aperçu qu'il traitait tous les thèmes que je voulais aborder de la manière dont je voulais le faire, sans sortir du collège, avec une démarche minimaliste et très descriptive. Dans l'ascenseur, je lui ai demandé s'il était intéressé par une adaptation. Il m'a donné son livre, et trois jours après, je signais.\n\nQuel est le point commun entre l'écrivain et le réalisateur?\n\n<br>**Options generated by chatgpt.**\n\n<br/>**Bref: L'identité entre les thèmes // L'unité de leurs thèmes. // Les avis qu'ils partagent au sujet de l'école.**<br/><br/>Le point commun entre l'écrivain et le réalisateur est l'identité de leurs thématiques sur la vie scolaire en la décrivant de manière réaliste, sans sortir de l'enceinte de l'école.\n\n<br>Other options could be:\n\n<br/>**A. L'identité entre leurs thèmes sur la vie à l'école.**\nB. L'écriture de livres sur la vie des élèves.\nC. Leur projet de devenir enseignants.\nD. Leur longue amitié et expériences partagées à l’école.\n\n<br/>**A. Ils cherchent tous deux à capturer la vie scolaire de manière fidèle et directe, en limitant leur regard à l’intérieur de l’école.**\n\nB. Ils ont tous deux écrit un livre sur la vie des élèves.\n\nC. Ils souhaitent tous deux suivre un parcours en tant que professeurs.\n\nD. Ils se connaissent depuis longtemps et partagent les mêmes expériences scolaires.",
+        "audio": "/mp3/164/29.mp3",
+        "options": [
+            "Leur intérêt pour les méthodes minimalistes.",
+            "Leur participation à la même émission de radio.",
+            "Leur processus créatif pour développer des projets.",
+            "Les avis qu’ils partagent au sujet de l’école."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 30,
+        "testId": 164,
+        "text": "— Mode de vie avec Christina Pellé-Douël, bonjour.\n\n— Bonjour Virginie.\n\n— Vous êtes journaliste à Psychologie Magazine et vous venez aujourd'hui nous parler de notre routine de vie. On se lève à la même heure, on se rend dans les mêmes lieux, on accomplit les mêmes gestes, ce qui entraîne souvent ennui, fatigue, manque d'énergie et surtout fermeture au reste du monde. Mais parfois, il suffit de peu de choses pour déprogrammer cette routine. Expliquez-nous Cristina.\n\n— Vraiment peu de choses, il suffit simplement de faire un petit pas de côté de sortir de notre perception habituelle pour expérimenter de nouvelles sensations de nouvelles émotions.\n\nDans quel but la journaliste Christina Pellé-Douël est-elle invitée à cette émission?\n\n<br>**Options generated by chatgpt.**\n\n<br/>La journaliste Christina Pellé-Douël est invitée à expliquer comment rompre la routine quotidienne pour améliorer le bien-être.\n\n<br>Other options could be:\n\n<br/>A. Pour discuter des effets négatifs de la routine quotidienne.\n\nB. Pour expliquer comment améliorer ses habitudes alimentaires.\n\n**C. Pour donner des conseils pour échapper à la routine et revitaliser son énergie.**\n\nD. Pour parler des bienfaits de la méditation pour la santé mentale.\n\n<br/>La personne qui a participé à l'examen a suggéré de **donner des conseils pour rester en bonne santé // donner des conseils de santé**. Ce n'est pas tout à fait exact dans ce contexte, car son objectif est de sortir de la routine quotidienne pour expérimenter de nouvelles sensations et éviter les effets négatifs de la monotonie, plutôt que de donner directement des conseils liés à la santé.",
+        "audio": "/mp3/164/30.mp3",
+        "options": [
+            "Pour parler de la monotonie dans la vie quotidienne.",
+            "Pour conseiller sur la gestion de la fatigue et de l'ennui.",
+            "Pour expliquer comment sortir de la routine et raviver son énergie.",
+            "Pour discuter des dangers de la routine dans la vie professionnelle."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 31,
+        "testId": 164,
+        "text": "Bonjour à tous. Je n'ai rien à me mettre. Avez-vous déjà prononcé cette phrase devant votre armoire pleine de vêtements ? Quelles sont les basiques de votre garde-robe ? Avez-vous une tenue fétiche que vous enfilez lorsque vous voulez jouer la carte de la sécurité ? Que porter pour un premier rendez-vous, pour un entretien d'embauche, pour un week-end à la campagne ? Ces questions semblent futiles. La mode nous paraît parfois un luxe superflu et on oppose souvent l'être et le paraître. Mais faites l'expérience. Si vous êtes femme, quel que soit votre gabarit, enfilez une robe qui vous met en valeur, de jolies chaussures, une touche de rouge à lèvres peut-être, vous vous sentirez sans aucun doute plus sûr de vous. Votre caractère en sera peut-être même transformé. Quelle est l'idée avancée par la journaliste?",
+        "audio": "/mp3/164/31.mp3",
+        "options": [
+            "Aujourd’hui, être à la mode est une préoccupation superficielle.",
+            "Il faut porter des vêtements adaptés à toutes circonstances.",
+            "La société actuelle donne trop de place à l’apparence.",
+            "La tenue vestimentaire influence l’état psychologique."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 32,
+        "testId": 164,
+        "text": "C'est au cours de cette réunion internationale qu'un premier accord a été trouvé, in extremis, entre les deux pays, et de nouvelles négociations commencent aujourd'hui, mais sur le fond, rien n'est encore fait. En effet, il aura fallu deux jours de négociations marathons pour parvenir à accoucher de ce document conjoint. Cela marque donc le début d'un processus, mais il faut rester prudent car c'est maintenant que les choses démarrent réellement. Alors, amorce d'un processus de paix ou conférence symbolique? La secrétaire d'État a d'ailleurs précisé hier soir que l'échec n'était pas une option. En fait, on n'est pas encore rentré dans le vif du sujet. Beaucoup de points n'ont pas encore été abordés et n'ont pas été détaillés dans le document conjoint car les deux parties n'ont pas réussi à se mettre d'accord sur la formulation. Pourquoi la journaliste reste-t-elle prudente?",
+        "audio": "/mp3/164/32.mp3",
+        "options": [
+            "La conférence qui a eu lieu est uniquement symbolique.",
+            "La secrétaire d’État a fait part de son pessimisme.",
+            "Les discussions s’annoncent longues et difficiles.",
+            "Tous les points de l’accord ont déjà été traités sans succès."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 33,
+        "testId": 164,
+        "text": "— Jean-Philippe, la Coalition pour l'avenir du Québec veut aussi réduire la dette.\n\n— Ce que propose François Legault, c'est d'investir 100% des redevances tirées des ressources naturelles pour rembourser la dette. On pourrait la chercher environ 200 millions de dollars par année. Mais pour Simon Tremblay-Pépin, de l'Institut de recherche et d'information socio-économique, ce n'est pas du tout une bonne idée.\n\n— Au lieu d'investir dans des services publics qui, évidemment, sont dynamiques, qui aident à favoriser la croissance de l'économie et donc à réduire son rapport avec la dette, eh bien, là, on décide de le retirer du secteur de l'économie. Donc, ça me semble tout à fait une très, très mauvaise idée de se tenter là-dedans.\n\nSur quoi s'opposent François Legault et Simon Tremblay-Pépin?",
+        "audio": "/mp3/164/33.mp3",
+        "options": [
+            "Sur l'amplitude de l’effet de la dette sur la croissance.",
+            "Sur l'utilisation des recettes fiscales pour régler la dette.",
+            "Sur l'acquittement de la dette par la vente du patrimoine de l'État.",
+            "Sur le montant de la dette contractée par la province québécoise."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 34,
+        "testId": 164,
+        "text": "L'équipe d'Interception vous propose de découvrir le travail d'habillage sonore qui entre aujourd'hui dans la conception des véhicules automobiles, aussi bien ceux qui sont équipés d'un moteur à explosion que les autres. Transformer les bruits que produisent les voitures en son, en sons utiles et agréables, c'est un métier. Ceux qui le pratiquent, la France est plutôt bien placée dans ce domaine, planchent sur la mise au point d'un environnement sonore à la carte. D'un clic, tout conducteur pourra bientôt choisir le bruit de son moteur ou de ses clignotants. Il en changera même au gré de ses humeurs. Pourquoi développe-t-on l'habillage sonore des voitures en France?\n\n<br>**Options generated by chatgpt.**\n\n<br/>La France développe l'habillage sonore des voitures pour transformer les bruits en sons agréables et personnalisables, permettant aux conducteurs de choisir les bruits de leur véhicule selon leurs préférences.\n\n<br>Other options could be:\n\n<br/>**A. Pour améliorer l'expérience de conduite en rendant les sons plus agréables et personnalisés.**\n\nB. Pour réduire la consommation de carburant en utilisant des sons plus doux et plus efficaces.\n\nC. Pour analyser les préférences des conducteurs en matière de couleurs et de design.\n\nD. Pour étudier l'impact des sons de la nature sur le comportement des conducteurs.\n\n<br/>La personne qui a participé à l'examen a suggéré: **Changement du son parce qu’il est bruyant pour la sante / pour réduire la nuisance sonore.**",
+        "audio": "/mp3/164/34.mp3",
+        "options": [
+            "Pour améliorer la sécurité des véhicules.",
+            "Pour rendre les bruits des voitures plus agréables et personnalisables.",
+            "Pour réduire la pollution sonore dans les villes.",
+            "Pour diminuer les coûts de production des véhicules."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 35,
+        "testId": 164,
+        "text": "— Encore une question qui est liée au temps. Pauline habite dans le sud et la neige est tombée en grosse quantité. Elle a peur que son poids ne casse les branches de ses arbres et de ses arbustes. Elle voudrait savoir donc s'il est conseillé de les agiter pour faire tomber la neige.\n\n— À une condition une seule, qu'ils ne gèlent pas. C'est-à-dire que si vraiment la température demain dehors est un petit peu comme ce matin, le bois est extrêmement cassant. On attend donc le redoux des températures et l'on peut effectivement agiter pour laisser tomber la neige et éviter que le poids ne casse les branches. Malheureusement, quantité de plantes, je pense aux grosses cèdres, vont souffrir du poids de la neige, car la neige représente un poids énorme qui risque de causer quantité de dommages.\n\nSelon ce journaliste, quel risque peut avoir la neige pour les plantes?",
+        "audio": "/mp3/164/35.mp3",
+        "options": [
+            "Elle peut rompre les branches.",
+            "Elle peut geler les racines.",
+            "Elle peut surcharger les branches.",
+            "Elle peut empêcher la lumière du soleil."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 36,
+        "testId": 164,
+        "text": "Petit dicton au rayon du bon sens près de chez nous, quand on a un problème, et bien dormons dessus. Rien de tel qu'une bonne nuit de sommeil pour y voir plus clair. Et bien cette vérité, sachez-le, les chercheurs américains de l'Université de Californie l'ont démontré scientifiquement. Le sommeil permet de résoudre des problèmes sans que vous fassiez quoi que ce soit. Quand on dort, vous le savez, on alterne les périodes de sommeil profond et de sommeil paradoxal. Et bien cette phase paradoxale, riche en rêves, jouerait un rôle essentiel dans l'inventivité et dans la résolution des problèmes. Vous avez donc compris le message, il faut dormir. Qu'a-t-on découvert sur le sommeil ?",
+        "audio": "/mp3/164/36.mp3",
+        "options": [
+            "Il conditionne l’humeur.",
+            "Il dope l’énergie.",
+            "Il minimise l’angoisse.",
+            "Il stimule la créativité."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 37,
+        "testId": 164,
+        "text": "J'accepte l'idée que l'homéopathie n'a pas une efficacité tellement différente que ça d'un placebo. Mais en fait, nous avons besoin de médicaments qui sont des placebos. Je suis médecin et je le dis. Et le problème c'est qu'aujourd'hui, à la limite, quand un patient guérit grâce à un placebo, on va sous-entendre qu'il a eu le temps de guérir. C'est-à-dire que oui, effectivement, il faut être un peu humble. En médecine, on ne comprend pas tout ce qui se passe. Et par moments, nous guérissons grâce à une injonction thérapeutique ou à autre chose que l'on ignore et qu'il faut étudier. Quel est le propos de ce médecin?",
+        "audio": "/mp3/164/37.mp3",
+        "options": [
+            "Il admet que les guérisons spontanées sont fréquentes.",
+            "Il considère que la médecine a du mal à tout expliquer.",
+            "Il déconseille l'utilisation de certains médicaments.",
+            "Il est convaincu de l'efficacité des remèdes naturels."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 38,
+        "testId": 164,
+        "text": "La qualité, vous savez, la qualité, surtout la très grande qualité, tout ça, ça a un prix. Si on veut trouver une place sur le marché, il faut donc, et c'est tout un exercice, arriver à produire des aliments à des coûts qui sont quand même abordables. Et c'est l'exercice qui occupe en ce moment Sophie Barry de Carol&E. C'est une petite fabrique de pâtes et de sauces qui est installée à Sabrevois, à Montérégie. Que cherche à faire cette entreprise?",
+        "audio": "/mp3/164/38.mp3",
+        "options": [
+            "Améliorer la présentation des produits.",
+            "Augmenter le nombre de clients.",
+            "Multiplier les points de vente.",
+            "Maintenir des tarifs compétitifs."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 39,
+        "testId": 164,
+        "text": "— C'est une dame que je ne connaissais pas du tout. Une des deux filles d'Irène Némirovsky, une dame qui est décédée maintenant et qui s'appelle Elisabeth Gilles, qui était éditrice chez Julliard, qui un jour m'a appelé en me disant « Voilà, ça fait des années que je vous entends à la télé, ça fait des années que je me dis qu'en fait vous êtes un écrivain qui ne le savez pas ». Et quand je suis arrivé dans son bureau, elle m'a expliqué qu'« en fait je n'avais rien à faire à la télé et que ce n'était pas mon métier ».\n\n— Mais vous croyez au hasard de la vie, aux rencontres vous essentiellement?\n\n— À moi ça m'est tout le temps arrivé, ça oui, j'ai beaucoup de chance.\n\nComment s'est révélée la vocation de cet écrivain?",
+        "audio": "/mp3/164/39.mp3",
+        "options": [
+            "À l’occasion d’une entrevue.",
+            "En côtoyant des auteurs connus.",
+            "Grâce à des relations amicales.",
+            "Lors d’une émission de radio."
+        ],
+        "answer": 0
+    }
+]
