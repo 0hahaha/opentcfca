@@ -1,0 +1,518 @@
+[
+    {
+        "id": 1,
+        "testId": 170,
+        "text": "A. Voici Pierre, il décore le restaurant.\n\nB. Voici Pierre, il lave les assiettes.\n\nC. Voici Pierre, il prépare les plats.\n\nD. Voici pierre, il prend les commandes.",
+        "audio": "/mp3/170/1.mp3",
+        "audioAI": "/mp3/170/ai_1.mp3",
+        "img": "/mp3/170/1.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 2,
+        "testId": 170,
+        "text": "Vous pouvez fermer la porte, s'il vous plaît?\n\nA. Bien sûr.\n\nB. C'est vrai.\n\nC. Très souvent.\n\nD. Merci bien.",
+        "audio": "/mp3/170/2.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 3,
+        "testId": 170,
+        "text": "À quelle heure est la réunion?\n\nA. À 14 h 30.\n\nB. Avec le directeur.\n\nC. Dans la salle numéro 12.\n\nD. Pour mercredi.",
+        "audio": "/mp3/170/3.mp3",
+        "audioAI": "/mp3/170/ai_3.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 4,
+        "testId": 170,
+        "text": "Qu'est-ce que tu as reçu pour ton anniversaire ?\n\nA. Un ami pour me désigner.\n\nB. Un certificat médical.\n\nC. Un ordre d'émission.\n\nD. Un téléphone portable.",
+        "audio": "/mp3/170/4.mp3",
+        "audioAI": "/mp3/170/ai_4.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 5,
+        "testId": 170,
+        "text": "— Vous avez choisi ?\n\n— Non, qu'est-ce que vous me conseillez ?\n\nA. C'est au fond, à droite.\n\nB. Le poisson est très bon.\n\nC. Nous allons fermer.\n\nD. Vous pouvez réserver.",
+        "audio": "/mp3/170/5.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 6,
+        "testId": 170,
+        "text": "— Il est 19 heures. Si on veut arriver au cinéma avant le début du film et trouver une place dans la salle, il faut partir maintenant.\n\n— Partir maintenant? Mais regarde, il pleut!\n\nA. Oui, mais la salle est sombre.\n\nB. Oui, mais le cinéma est près d'ici.\n\nC. Oui, mais le film se passe en plein air.\n\nD. Oui, mais les places sont chères.",
+        "audio": "/mp3/170/6.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 7,
+        "testId": 170,
+        "text": "À quelle heure as-tu rendez-vous?\n\nA. À tout de suite.\n\nB. C'est très rapide.\n\nC. Dans une demi-heure.\n\nD. Il est déjà tard.",
+        "audio": "/mp3/170/7.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 8,
+        "testId": 170,
+        "text": "— Salut Faustine, ça va ?\n\n— Ça va, mais je cherche toujours un job après les cours pour gagner un peu d'argent.\n\n— Ah mince ! Moi je livre des courses à domicile deux soirs par semaine. Je pourrais parler avec mon chef, je crois qu'il veut recruter quelqu'un. Viens avec moi ce soir et je te le présenterai.\n\n— Oui, merci Nourdine, ce serait super.\n\n— Et j'ai vu que la fac organisait un forum pour l'emploi cette semaine, ça peut être utile aussi.\n\n— Parfait, je vais y aller.\n\nQue propose Nourdine à Faustine ?",
+        "audio": "/mp3/170/8.mp3",
+        "options": [
+            "La publication de son CV en ligne.",
+            "Un remplacement dans son entreprise.",
+            "Une formation gratuite à l’université.",
+            "Une rencontre avec son patron."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 9,
+        "testId": 170,
+        "text": "— Excusez-moi, madame, mais je suis complètement perdu, je ne trouve pas la gare et mon train part dans 5 minutes, à l'hôtel on m'a dit de passer par là.\n\n— Montrez-moi votre plan, mais vous le regardez à l'envers, le muséé est au bout de la rue et la gare, juste derrière.\n\n— Ah, merci beaucoup.\n\nQue veut faire cet homme ?",
+        "audio": "/mp3/170/9.mp3",
+        "options": [
+            "Acheter un plan.",
+            "Prendre un train.",
+            "Trouver un hôtel.",
+            "Visiter un musée."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 10,
+        "testId": 170,
+        "text": "— Léo, comment ça va depuis que tu es dans ta nouvelle maison?\n\n— Ça va, ça va, mais je n'ai pas encore Internet.\n\n— Mince alors! Et est-ce que ton téléphone fixe marche au moins?\n\n— Oui, mais je n'en ai pas vraiment besoin. Je viens de m'acheter un ordinateur tout neuf, mais sans Internet. Je ne peux pas travailler et contacter mes clients.\n\n— Je comprends. Tu as vu quelqu'un pour arranger ça?\n\nQu'est-ce qui est difficile pour Léo?",
+        "audio": "/mp3/170/10.mp3",
+        "options": [
+            "La communication avec ses clients.",
+            "La recherche d’un nouveau travail.",
+            "L’achat d’un nouveau téléphone fixe.",
+            "L’utilisation de son ordinateur portable."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 11,
+        "testId": 170,
+        "text": "— Allô Paul, tu peux m'aider ?\n\n— Qu'est-ce qui t'arrive Lydie ?\n\n— J'ai laissé mes clés de voiture dans la salle de conférence et elle est occupée jusqu'à 20h.\n\n— Je peux te ramener si tu veux ?\n\n— Oh merci, ça m'arrange. Je dois être chez moi à 18h30. Demain je viendrai en transport.\n\nQuel est le problème de Lydie ?",
+        "audio": "/mp3/170/11.mp3",
+        "options": [
+            "Elle a oublié un objet important.",
+            "Elle a raté son bus ce matin.",
+            "Elle doit s’absenter du bureau.",
+            "Elle est en retard à une réunion."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 12,
+        "testId": 170,
+        "text": "— Maintenant que les examens universitaires sont finis, qu'est-ce que tu vas faire ?\n\n— Je voudrais faire un stage de langue espagnole pendant un mois.\n\n— Bonne idée ! J'en ai fait un l'année dernière en Argentine. C'était super !\n\n— Je ne veux pas aller si loin. Je pense plutôt à l'Espagne.\n\n— Tu devrais aller dans le sud, à Séville. C'est une ville magnifique !\n\n— Pourquoi pas ? Mais j'ai un petit budget. Je dois voir si je peux trouver un logement pas trop cher.\n\nDe quoi parlent ces deux personnes ?",
+        "audio": "/mp3/170/12.mp3",
+        "options": [
+            "De leur voyage en Argentine.",
+            "Des résultats des examens.",
+            "Du coût de la vie en ville.",
+            "D'un séjour linguistique."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 13,
+        "testId": 170,
+        "text": "— Alors Pierre, qu'est-ce que tu as décidé ? Tu vas accepter cette offre d'emploi ?\n\n— Ah non, j'ai déjà refusé. Honnêtement, je préfère continuer à chercher.\n\n— Je pense que tu fais une bêtise. C'est très bien payé, et puis les horaires te conviennent, non ?\n\n— Oui, mais ce n'est pas une raison pour accepter le poste. Ce qui est important pour moi, c'est le travail lui-même, et de ce point de vue, le poste ne m'attire pas.\n\n— J'espère que tu ne vas pas regretter ta décision.\n\nPourquoi Pierre refuse-t-il ce poste ?",
+        "audio": "/mp3/170/13.mp3",
+        "options": [
+            "La mission est sans intérêt.",
+            "La société est loin de chez lui.",
+            "Le contrat est temporaire.",
+            "Le salaire est insuffisant."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 14,
+        "testId": 170,
+        "text": "— Alors Marie, prête pour le départ ?\n\n— Oui. Tu as le guide touristique de Vienne ? Tu pourrais visiter la ville et goûter les spécialités locales ?\n\n— Oh, je ne sais pas. Je serai occupée du matin au soir par les réunions et des rendez-vous avec des clients.\n\n— Ah, et tu vas voir tes amis autrichiens ?\n\n— Non, pas cette fois.\n\nQu'est-ce que Marie va faire à Vienne ?",
+        "audio": "/mp3/170/14.mp3",
+        "options": [
+            "Manger des plats typiques.",
+            "Rencontrer sa famille.",
+            "Travailler toute la journée.",
+            "Voir une exposition."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 15,
+        "testId": 170,
+        "text": "— Bonjour, Marc Ito à l'appareil. Je voudrais parler à M. Lacos.\n\n— Il est en formation cette semaine.\n\n— Je peux lui laisser un message ?\n\n— Je vous écoute.\n\n— Je voudrais lui faire découvrir le nouveau logiciel de ma société, InfraLorgue.\n\n— Vous pourriez le rencontrer la semaine prochaine ?\n\n— Bien sûr, je dois justement voir des clients à Lyon, jeudi et vendredi.\n\n— Disons, jeudi matin alors, 10 h ?\n\n— C'est parfait. Merci mademoiselle. \n\nPourquoi Marc Ito veut-il rencontrer, M. Lacos ?",
+        "audio": "/mp3/170/15.mp3",
+        "options": [
+            "Pour lui présenter un produit.",
+            "Pour organiser un voyage.",
+            "Pour suivre une formation.",
+            "Pour visiter Lyon avec lui."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 16,
+        "testId": 170,
+        "text": "— Alors, comment as-tu trouvé le film?\n\n— Assez moyen. Les acteurs jouaient bien, mais je n'ai pas réussi à croire à ce scénario.\n\n— C'est mon avis aussi. J'ai eu du mal à suivre l'histoire. En revanche, j'ai apprécié la musique et la façon de filmer.\n\n— En effet, le réalisateur a du talent.\n\n— On continue cette discussion dans un café?\n\n— Avec plaisir!\n\nQu'est-ce que ces deux amis reprochent au film?",
+        "audio": "/mp3/170/16.mp3",
+        "options": [
+            "L’histoire est compliquée.",
+            "La musique est ennuyeuse.",
+            "Le réalisateur est mauvais.",
+            "Les acteurs sont inconnus."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 17,
+        "testId": 170,
+        "text": "— Bonjour, je vous apporte ce lecteur MP3. C'est un bruit bizarre.\n\n— Oui, vous avez la facture et le certificat de garantie? Voilà. Merci. Votre lecteur sera prêt dans dix jours. Ah, vous avez vu que la garantie a expiré il y a une semaine?\n\n— Vraiment?\n\n— Oui, donc les réparations seront à vos frais.\n\n— Quoi? À une semaine près, vous ne pouvez rien faire?\n\n— Je regrette monsieur, c'est la même chose pour tout le monde.\n\n— C'est incroyable! Je vais vous faire une mauvaise publicité sur Internet, croyez-moi!\n\nPourquoi ce client est-il mécontent?",
+        "audio": "/mp3/170/17.mp3",
+        "options": [
+            "La commande est arrivée en retard.",
+            "L'attente en caisse est longue.",
+            "Le service après-vente est payant.",
+            "Les techniciens sont incompétents."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 18,
+        "testId": 170,
+        "text": "— Nicolas Dubreuil, bonjour ! bonjour! Bienvenue à France-Info, vous êtes explorateur, en canette, un fou qui a entraîné et assis nous passer 10 mois dans l'année à explorer le Grand Nord, malgré vous avez été hyperbe, on l'a dit plusieurs fois. Qu'est-ce que vous pensez, d'abord, pourquoi le Grand Nord vous a fait aussi important?\n\n— Alors, pourquoi le Grand Nord, ça nous dit un peu compliqué. La réponse, c'est que... la première chose qui m'attire dans le Grand Nord, c'est l'exploration. C'est-à-dire, imaginer que sur Terre, il y a encore des zones qui ont jamais été explorés, personne n'est jamais allé. Et cette côté-là, qui m'a vraiment attiré dans le Grand Nord, tout d'abord, c'est l'aquate, et là, c'est l'époque, l'époque qui a vécu toute cette saison-là.\n\nPourquoi Nicola Dubreuil passe-t-il dix mois de l'année dans l'arctique ?\n\n<br>**Options generated by chatgpt.**\n\n<br/>Nicola de Bruyne passe dix mois dans l'Arctique principalement pour explorer des zones encore inexplorées et pour vivre l'expérience unique de ces territoires.\n\nSon Profil: https://fr.wikipedia.org/wiki/Nicolas_Dubreuil\n\n<br>Other Options: **Pour l’explorer // car personne ne l’a jamais visité// a cause de quelque chose de spéciale qui existe là-bas.**",
+        "audio": "/mp3/170/18.mp3",
+        "audioAI": "/mp3/170/ai_18.mp3",
+        "options": [
+            "Pour observer les animaux sauvages dans leur habitat naturel.",
+            "Pour découvrir et explorer des régions encore inexplorées.",
+            "Pour documenter les effets du réchauffement climatique.",
+            "Pour étudier la culture des populations locales de l'Arctique."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 19,
+        "testId": 170,
+        "text": "— Voilà, Monsieur Martin. J'ai eu l'un des résultats de vos analyses. Je vous rassure que tout de suite, on écarte pour un cas en moins, l'idée d'une intervention chirurgicale.\n\n— Ouh, je suis fléver, docteur. J'ai beaucoup d'acidité.\n\n— Ah, ça vous vient de jamber. Vous pouvez travailler, mais il est confirmé à vous demander. Et vous le savez, ce n'est pas une maladie qu'on peut prendre à l'état. Par conséquent, je vais vous prescrire un nouveau traitement très lourd.\n\n— Ah, pour les piégeuses, il y a aucun problème. Et je peux encore manger sans problème?\n\n—  Et vous le savez, mais il y a la condition d'être raisonnable, principalement.\n\nQue précise le médecin pour soigner Monsieur Martin ?\n\n<br>**Options generated by chatgpt.**\n\n<br/>Le médecin précise que Monsieur Martin doit suivre un traitement rigoureux et adopter un comportement alimentaire raisonnable pour se soigner.\n\n<br/>La note de la personne qui a participé à l'examen: **Un traitement lourd // faire attention à ses activités // ne pas faire d’effort**",
+        "audio": "/mp3/170/19.mp3",
+        "audioAI": "/mp3/170/ai_19.mp3",
+        "options": [
+            "Il doit subir une intervention chirurgicale urgente.",
+            "Il doit suivre un traitement rigoureux et être raisonnable avec son alimentation.",
+            "Il doit arrêter complètement de travailler pour se reposer.",
+            "Il doit éviter de consommer des aliments acides uniquement."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 20,
+        "testId": 170,
+        "text": "— Régis Solivérès, bonjour.\n\n— Bonjour, bonjour Philippe.\n\n— Régis, vous lancez une aventure afin vos lycéens dans une aventure assez incroyable qui est de participer à la réalisation d'un film, un film avec un réalisateur professionnel, avec des professionnels du cinéma, il s'appelle François Chailloux.\n\n— Oui, à l'occasion du festival de Lufon, j'ai rencontré François, je lui ai dit que je voulais faire un film.\n\nQuel est le projet de Régis Solivérès et de ses élèves ?",
+        "audio": "/mp3/170/20.mp3",
+        "options": [
+            "Interviewer un réalisateur.",
+            "Participer à un festival.",
+            "Tourner un film.",
+            "Visiter des studios de cinéma."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 21,
+        "testId": 170,
+        "text": "— Allô?\n\n— Salut! Est-ce que tu veux venir chez nous cet après-midi pour regarder le match?\n\n— Ah mince, je ne peux pas. J'ai promis à mes amis de garder leur fils et même de l’aider à faire ses devoirs.\n\n— Dommage.\n\n— Oui. Et demain, on va s'entraîner? On peut aller courir au parc puis faire quelques detente?\n\n— Bonne idée! Ça fait longtemps!\n\nQu'est-ce qu'on apprend sur cet homme ?\n\n<br>**Options generated by chatgpt.**\n\n<br/>On apprend que cet homme a accepté de garder un enfant pour rendre service à ses amis et qu'il apprécie les activités sportives.\n\n<br/>La note de la personne qui a participé à l'examen: **Il va garder un enfant de ses amis // il prend soin du fils de ses amis.**",
+        "audio": "/mp3/170/21.mp3",
+        "audioAI": "/mp3/170/ai_21.mp3",
+        "options": [
+            "Il préfère regarder le match seul chez lui.",
+            "Il va garder un enfant pour ses amis et prévoit de faire du sport.",
+            "Il adore aider les enfants à faire leurs devoirs.",
+            "Il est très occupé par son travail et manque de temps pour ses loisirs."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 22,
+        "testId": 170,
+        "text": "— Le gouvernement veut lutter contre le vrai pénal, et il est temps. Il lance une campagne pour récupérer les objets miroirs, qui pourtant seront détruit afin de ne pas alimenter le marché noir. À l'interieur de cette campagne, alors qu'elle pénalise sur les européennes, on accueil le commerce d'y voir et qu'elle est donc dans les publicités par les ONGs. Bonjour Joanna Holstein.\n\n— Bonjour.\n\n— Vous êtes avec nous à Bruxelles. Cette campagne est intitulée « Score présent ». Pourquoi le gouvernement met la grande titre à ce moment précis de l'année ?\n\n— Pour lutter contre l'un des grands risques dans le commerce qu'on a eu cet été...(Recording is too bad, not able to pick it up)\n\nQuel est l'objectif de cette campagne sur le miroir?\n\n<br>**Options generated by chatgpt.**\n\n<br/>L’objectif de cette campagne est de lutter contre le marché noir des objets miroirs en sensibilisant la population et en détruisant les objets récupérés.",
+        "audio": "/mp3/170/22.mp3",
+        "options": [
+            "Encourager les ventes d’objets miroirs à l’international.",
+            "Sensibiliser la population pour lutter contre le marché noir des objets miroirs.",
+            "Protéger les objets miroirs de la destruction et favoriser leur recyclage.",
+            "Soutenir les ONG dans la promotion des objets miroirs en Europe."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 23,
+        "testId": 170,
+        "text": "Et donc les compositeurs ont un autre métier, c'est-à-dire qu'ils sont chef d'orchestre ou ils sont directeurs de conservatoire ou ils sont enseignants, chercheurs, directeurs artistiques parfois parce que leur métier de compositeur ne leur permet pas de pouvoir avoir suffisamment de rémunération pour vivre correctement. Je pense qu'il doit y avoir à peu près que 2 ou 3 % de compositeurs aujourd'hui qui vivent réellement de leur musique, c'est vraiment très très peu. Quelle difficulté les créateurs de musique rencontrent-ils?",
+        "audio": "/mp3/170/23.mp3",
+        "options": [
+            "Leur public est en diminution.",
+            "Leur salaire est insuffisant.",
+            "Leur savoir est peu transmis.",
+            "Leur talent est dévalorisé."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 24,
+        "testId": 170,
+        "text": "— Allô, c'est Loïc?\n\n— Oui, c'est moi.\n\n— Bonjour, c'est Cristine. Voilà, je voudrais te voir la semaine prochaine. If faut que vous soyez dans l'entreprise.\n\n— Oui, je comble le projet dans le week-end.\n\n— Mais je voudrais un projet de séjournage, justement? T'as pas de choix?\n\n— Ah, oui...\n\n— On peut faire la rentré? Elle va rentrer dans tout son précieux jeu.\n\n— Bien, pourquoi pas. Pour moi, il y a aucun problem.\n\nPourquoi l'employée appelle-t-elle son collègue ?\n\n<br>**Options generated by chatgpt.**\n\n<br/>L'employée appelle son collègue pour organiser une réunion concernant un projet à l'entreprise.\n\n<br>Note: The quality of the recording is so bad, and this is the best I can do for you.",
+        "audio": "/mp3/170/24.mp3",
+        "options": [
+            "Pour discuter de son emploi du temps personnel.",
+            "Pour planifier une réunion sur un projet d'entreprise.",
+            "Pour lui demander de remplacer un collègue absent.",
+            "Pour l'inviter à un événement social en dehors du travail."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 25,
+        "testId": 170,
+        "text": "— Cédric, vous êtes clown et mathématicien, vous avez créé une compagnie de théâtre burlesque... vous avez des activités depuis 2006. Vous avez donc les maths et l'activisme par plusieurs auteurs. Le but est avant toutle d'amuser, de créer, et si vous le pouvez comme les plus grands. Vous déjà partagé, surtout au plus grand nombre, des idées, les jeux, les trucs, etc.\n\n— Vous savez, l'espoir est de diminuer la refuse, pour créer un petit peu le point de vue qu'on peut avoir sur les mathématiques, et qu'on garde en même temps la curiosité et la rigueur.\n\nQuelle est l'originalité de cette compagnie théâtrale ?\n\n<br>**Options generated by chatgpt.**\n\n<br/>L'originalité de cette compagnie réside dans sa manière d'utiliser le théâtre burlesque et le clown pour rendre les mathématiques accessibles et ludiques.\n\n<br/>**Note**: The quality of the recording is so bad, please use other relavent resource to assist.\n\n<br/>Wikipedia: https://fr.m.wikipedia.org/wiki/L%27Île_logique\n\nArticle: [Quand des clowns Bretons expliquent les maths avec des vidéos Youtube](https://www.francebleu.fr/emissions/ils-sont-fous-ces-bretons/quand-des-clowns-bretons-expliquent-les-maths-avec-des-videos-youtube-3508259) [[archive](https://web.archive.org/web/20231026010151/https://www.francebleu.fr/emissions/ils-sont-fous-ces-bretons/quand-des-clowns-bretons-expliquent-les-maths-avec-des-videos-youtube-3508259)]\n\nInterview: ![Audio](/mp3/170/25_ref.mp3)",
+        "audio": "/mp3/170/25.mp3",
+        "options": [
+            "Elle se consacre exclusivement à la promotion de l’art clownesque traditionnel.",
+            "Elle utilise le théâtre burlesque et le clown pour rendre les mathématiques accessibles et stimuler l'esprit critique.",
+            "Elle propose uniquement des spectacles comiques sans lien avec les sciences ou l'éducation.",
+            "Elle enseigne les mathématiques de manière traditionnelle dans les écoles grâce à des ateliers classiques."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 26,
+        "testId": 170,
+        "text": "— Camille, à ton arrivée à Québec, dans quel type de logement résidais-tu?\n\n— J'ai d'abord habité un appartement en colocation, dans le quartier de Montcalm. Au bout de six mois à peine, j'ai emménagé à deux pas du centre-ville. C'est très simple de trouver un logement ici. Ça se fait en quelques jours.\n\n— Hum. Comment as-tu trouvé ton premier appartement?\n\n— Avant de quitter la France, sur un site Internet regroupant les annonces de colocation. Mais je conseille de chercher sur place. Il y a tout ce qu'il faut pour trouver facilement. On peut découvrir le quartier, voir si les pièces sont spacieuses, lumineuses et surtout bien insonorisées. Ce n'était pas le cas de mon premier logement, malgré le nom du quartier.\n\nD'après Camille, quel est le point fort de l'immobilier à Québec?",
+        "audio": "/mp3/170/26.mp3",
+        "options": [
+            "La recherche d’un appartement est rapide.",
+            "Le système de la colocation est encouragé.",
+            "Les habitations proposées sont de qualité.",
+            "Les logements sont bon marché en banlieue."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 27,
+        "testId": 170,
+        "text": "— Salut Géraldine, ça va ?\n\n— Non, pas trop.\n\n— Tu sais que je cherchais du travail. Et bien, maintenant que je l'ai trouvé, je ne suis pas très contente.\n\n— Pourquoi ? Tu ne touches pas assez d'argent ?\n\n— Non, c'est que deux fois par semaine, je commence à six heures du matin et à une heure de chez moi en plus.\n\n— Oh, c'est tôt ! Et comment tu vas faire pour les enfants ?\n\n— Oh, Gilles va s'en occuper. Mais moi, imagine ! Je ne sais pas comment je vais faire pour récupérer.\n\n— Tu vas dormir les week-ends !\n\nDe quoi se plaint Géraldine ?",
+        "audio": "/mp3/170/27.mp3",
+        "options": [
+            "De ses difficultés à se réveiller le matin.",
+            "De son dernier salaire qui est insuffisant.",
+            "De son emploi du temps professionnel.",
+            "De son manque d’organisation habituel."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 28,
+        "testId": 170,
+        "text": "— La navigatrice Marie Levallois est la porte-parole de la Semaine de la Mer, écoutons-la.\n\n— On a voulu mettre en place une Semaine de la Mer pour le très grand public. À côté, les institutions membres de l'Alliance de la Mer font intervenir des scientifiques et des professionnels qui travaillent sur des solutions d'avenir pour une meilleure gestion de la mer. Mais il faut mobiliser tout le monde pour faire prendre conscience que les océans ne sont pas seulement l'endroit où on va passer ses vacances, mais participent aussi à la régulation du climat, fournissent 70% de l'oxygène qu'on respire, représentent un réservoir de solutions en énergie renouvelable et médicinale. Des ressources dont on ne connaît quasi disent rien, puisqu'on ne connaît qu'un pour cent de la biodiversité marine.\n\nQue propose la navigatrice ?",
+        "audio": "/mp3/170/28.mp3",
+        "options": [
+            "De collecter des dons.",
+            "De développer la recherche.",
+            "De sensibiliser l'opinion.",
+            "D'explorer l’écosystème."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 29,
+        "testId": 170,
+        "text": "— Alors Patrick, ce stage d'informatique à la Tulipe?\n\n— Oh, ne m'en parle pas. Horrible! Je suis ravi d'être au boulot. D'abord, il a plu toute la semaine, avec une tempête, t'aurais vu sûr. On pensait pouvoir faire des balades en fin de journée. Il n'y a que moi qui voulais encore marcher malgré la pluie. Les autres se retrouvaient au bord pour jouer aux cartes ou refaire le monde. D'autres ont passé leur temps devant la télé.\n\n— Eh bien bravo! Pour prendre le bonheur, c'est réussi.\n\n— Et je ne te décris pas le trou que c'était. Rien à voir à des kilomètres à la ronde.\n\nQu'est-ce que Patrick était le seul à vouloir faire?",
+        "audio": "/mp3/170/29.mp3",
+        "options": [
+            "Jouer aux cartes.",
+            "Aller se promener.",
+            "Regarder la télévision.",
+            "Visiter la région."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 30,
+        "testId": 170,
+        "text": "— Mode de vie avec Christina Pellé-Douël, bonjour.\n\n— Bonjour Virginie.\n\n— Vous êtes journaliste à Psychologie Magazine et vous venez aujourd'hui nous parler de notre routine de vie. On se lève à la même heure, on se rend dans les mêmes lieux, on accomplit les mêmes gestes, ce qui entraîne souvent ennui, fatigue, manque d'énergie et surtout fermeture au reste du monde. Mais parfois, il suffit de peu de choses pour déprogrammer cette routine. Expliquez-nous Cristina.\n\n— Vraiment peu de choses, il suffit simplement de faire un petit pas de côté de sortir de notre perception habituelle pour expérimenter de nouvelles sensations de nouvelles émotions.\n\nDans quel but la journaliste Christina Pellé-Douël est-elle invitée à cette émission?\n\n<br>**Options generated by chatgpt.**\n\n<br/>La journaliste Christina Pellé-Douël est invitée à expliquer comment rompre la routine quotidienne pour améliorer le bien-être.\n\n<br>Other options could be:\n\n<br/>A. Pour discuter des effets négatifs de la routine quotidienne.\n\nB. Pour expliquer comment améliorer ses habitudes alimentaires.\n\n**C. Pour donner des conseils pour échapper à la routine et revitaliser son énergie.**\n\nD. Pour parler des bienfaits de la méditation pour la santé mentale.\n\n<br/>La personne qui a participé à l'examen a suggéré de **donner des conseils pour rester en bonne santé // donner des conseils de santé**. Ce n'est pas tout à fait exact dans ce contexte, car son objectif est de sortir de la routine quotidienne pour expérimenter de nouvelles sensations et éviter les effets négatifs de la monotonie, plutôt que de donner directement des conseils liés à la santé.",
+        "audio": "/mp3/170/30.mp3",
+        "options": [
+            "Pour parler de la monotonie dans la vie quotidienne.",
+            "Pour conseiller sur la gestion de la fatigue et de l'ennui.",
+            "Pour expliquer comment sortir de la routine et raviver son énergie.",
+            "Pour discuter des dangers de la routine dans la vie professionnelle."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 31,
+        "testId": 170,
+        "text": "— Oui, Fatoumata a 29 ans, elle termine en ce moment son doctorat d'astronomie et a aussi de passer un an au Japon pour se préparer à son futur métier d'astronome. Et Fatoumata veut être astronome, femme de ménage de l'espace.\n\n— Les objets qui sont vraiment retombés sur Terre, au Zimbabwe et en Arabie Saoudite, c'est arrivé. Plusieurs entreprises et agences ont proposé des solutions de nettoyage de l'espace, mais aucune n'a vraiment été testée dans les conditions réelles. Mais tout le monde se prépare à aller dans l'espace, parce que la NASA prévoit qu'à l'horizon 2025, on pourra plus envoyer d'objets dans l'espace, tellement ce sera encombré de débris. Donc en fait, je simule des explosions et des collisions dans l'espace. Par exemple, vous avez deux objets, ils rentrent en collision, ça crée 40 000 débris. Vous pouvez regarder comment ces 40 000 débris vont évoluer avec le temps autour de la Terre.\n\n— Voilà...\n\nQuel est l'objectif de l'activité actuelle de Fatoumata ?",
+        "audio": "/mp3/170/31.mp3",
+        "options": [
+            "Comparer les mouvements des galaxies.",
+            "Étudier les trajectoires des déchets cosmiques.",
+            "Prévenir les risques de chute de météorites.",
+            "S'entraîner pour des voyages interplanétaires."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 32,
+        "testId": 170,
+        "text": "Et je me suis rendu compte que nous visions dans un monde où nous ne nous autorisions pas à être nous-mêmes, à nous écouter, à nous respecter. Et c'est surtout cette manière dont nous sommes pris par une forme d'auto-exploitation qui emmène tant de gens jusqu'à l'épuisement, jusqu'au burn-out, qui m'a donné envie de dire juste « sauvez votre peau, devenez narcissique ». Et je crois qu'en fait, être narcissique, c'est pouvoir s'écouter, se rencontrer, se respecter. Et je crois que ça, c'est vraiment aujourd'hui crucial. Que déplore cet homme à propos des individus dans le monde actuel?",
+        "audio": "/mp3/170/32.mp3",
+        "options": [
+            "L’absence de formes d’altruisme.",
+            "La place accordée à l’apparence.",
+            "La superficialité des relations.",
+            "Le manque d’estime de soi."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 33,
+        "testId": 170,
+        "text": "— On a de la difficulté à croire que vous n'ayez pas envie de faire de la politique.\n\n— Hahaha! Vous savez, bon, j'espère qu'on va parler un peu de démocratie. Mais la démocratie, ça ne s'exprime pas exclusivement par la politique électorale. Ça me surprend toujours quand je vous entends dire que vous n'avez pas l'intention de faire de la politique.\n\n— Oui.\n\n— Ce que vous avez à l'esprit de vous présenter.\n\n— Oui, oui, bien sûr, bien sûr.\n\n— En fait, j'en fais de la politique. Je fais de la politique internationale, mais sans mandat. Ce qui d'ailleurs pose ses propres problèmes. Les gens pourraient dire « mais vous êtes qui? En qui vous a donné un mandat? ». Mais je pense qu'on vit maintenant dans un monde où les gens qu'on appelle la société civile, ce sont de plus en plus organisés à l'extérieur des institutions formelles de la démocratie.\n\nDans quelle mesure cette femme fait-elle de la politique?",
+        "audio": "/mp3/170/33.mp3",
+        "options": [
+            "En communiquant dans les médias.",
+            "En critiquant le pouvoir en place.",
+            "En représentant les électeurs.",
+            "En s’engageant comme citoyenne."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 34,
+        "testId": 170,
+        "text": "La finance solidaire, c'est un compromis entre une recherche de rentabilité, du placement que l'on fait, et une recherche de sens, si on peut dire. Donc, si vous voulez, on va avoir un peu moins de rentabilité, mais peut-être un peu plus de sens. J'appelle le sens, c'est faire un geste vis-à-vis d'autres, vis-à-vis d'entrepreneurs qui vont, par exemple, embaucher des handicapés, embaucher des chômeurs de longue durée, s'endetter pour acheter du matériel économiseur d'énergie. C'est tout un ensemble de démarches et d'outils d'épargne. Il y a un peu moins de rentabilité, peut-être un petit peu plus de sens. En quoi les projets financés par ce type d'épargnes sont-ils particuliers?\n\n<br/>**Note**: Original Q34 recording was so bad that it cannot be transcripted.",
+        "audio": "/mp3/170/34.mp3",
+        "options": [
+            "Ils concernent des investissements à long terme.",
+            "Ils impliquent des associations à but non lucratif.",
+            "Ils offrent des opportunités de bénéfices élevés.",
+            "Ils prennent en considération le facteur social."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 35,
+        "testId": 170,
+        "text": "— Dans les années 60, il y avait 200 000 bars en France. Aujourd'hui, il ne sont plus que 36 000. Les secteurs de la réunion emploient 230 000 personnes à Paris. Pour Denis Baledec, directeur de la Fédération Nationale des Cafés Culture, l'enjeu est donc total.\n\n— Ce bassin d'emplois qui est en train de disparaître en France, ce sont des emplois dont est localisable et destiné à la public locale. C'est une véritable économie liée à l'intérêt de la restauration de la vieille art, au poisson, mais aussi au secteur culturel. Ce produit est aussi un pouvoir artistique. Il faudrait lier l'enjeu économique, régulation de l'espace public, mais aussi pouvoir faire droit à la fête.\n\nQue dénonce Denis Baledec?\n\n<br>**Options generated by chatgpt.**\n\n<br/>Denis Baledec souligne l'importance des bars pour l'emploi local, l'économie et le secteur culturel, qui jouent un rôle important dans le dynamisme de l'espace public. Donc, la disparition des bars en France menace l'emploi local, l'économie culturelle.",
+        "audio": "/mp3/170/35.mp3",
+        "audioAI": "/mp3/170/ai_35.mp3",
+        "options": [
+            "La disparition des bars menace l'emploi local et la culture.",
+            "La baisse de fréquentation des bars est causée par des prix trop élevés.",
+            "Les bars en France ne respectent plus l’espace public.",
+            "La qualité de l'art culinaire diminue à cause des bars."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 36,
+        "testId": 170,
+        "text": "— Il y a une qualité de vie qui est pas toujours excellente chez nos personnes âgées. Alors on se disait, comme la population du Québec joue à des jeux, pourquoi on n'utiliserait pas ces jeux-là pour améliorer leur qualité de vie?\n\n— Ça présente quand même des difficultés, le jeu, pour les personnes qui sont plus âgées. Quelquefois, ils ont des difficultés de divers ordres. Comment est-ce que vous essayez de prévenir le fait qu'ils ne puissent pas jouer pour une raison ou une autre?\n\n— On pourrait à la limite être une personne complètement inactive et pouvoir encore jouer. Jouer peut-être pour maintenir ses aspects cognitifs, donc maintenir la vivacité d'esprit et tout.\n\nQuel est l'intérêt pour les personnes âgées de jouer?",
+        "audio": "/mp3/170/36.mp3",
+        "options": [
+            "Elles réapprennent certains gestes.",
+            "Elles rencontrent d’autres joueurs.",
+            "Elles se réintègrent à la communauté.",
+            "Elles stimulent leurs facultés cérébrales."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 37,
+        "testId": 170,
+        "text": "Je suis recruté chez JP Morgan à Londres pour bosser sur le pétrole en fusion acquisition. Et c'était payé vraiment une fortune, 38 000 francs par mois. Je ne savais pas du tout ce que c'était autant, dire que vraiment la finance, machin. Mais bon, j'y vais, là, pas du gain malgré tout. Et là, pas du gain, pourquoi? Parce que je me suis endetté pour financer cette école de commerce. Voilà, je découvrais des trucs dans le prolongement de cette école de commerce et je me rendais compte, expérience après expérience, que ce n'était pas du tout ma voie et que je n'avais sous aucun prétexte, même un prétexte financier très important, je n'avais envie de poursuivre dans cette voie. Pourquoi l'intervenant a-t-il accepté de travailler chez JP Morgan?",
+        "audio": "/mp3/170/37.mp3",
+        "options": [
+            "Pour mettre en pratique ses connaissances.",
+            "Pour opérer une reconversion professionnelle.",
+            "Pour pouvoir rembourser son emprunt.",
+            "Pour vivre quelques années à l’étranger."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 38,
+        "testId": 170,
+        "text": "— Bonjour, Monsieur le Secrétaire Général. Le réseau Alliances françaises, présent dans 136 pays du monde, existe depuis plus de 130 ans. Comment expliquez-vous une telle vitalité?\n\n— Tout d'abord, cela tient à son mode de fonctionnement original. Parmi « à faire vivre » ceux qui y travaillent, elle n'a pas de but de faire de bénéfice. D'autre part, son principe n'est que pari potentieux de ses fondateurs est assez singulier. Le personnel des Alliances est principalement composé d'étrangers. Des détachés et des expatriés nous rejoignent, certes, grâce à l'appui et au soutien du ministère des Affaires étrangères. Néanmoins, il n'existe aucune alliance française strictement française. Dans chaque pays, il y a un conseil d'administration à caractère local, parfaitement responsable, en contact avec la Fondation, mais dans une grande autonomie, pour autant que les principes mêmes de l'alliance française dans le monde soient respectés.\n\nD'après la personne interrogée, sur quoi repose la longévité des alliances françaises?",
+        "audio": ["/mp3/170/38.mp3", "/mp3/170/38v2.mp3", "/mp3/170/38v3.mp3"],
+        "audioAI": "/mp3/163/ai_38.mp3",
+        "options": [
+            "Sur l’étroite collaboration avec les équipes locales.",
+            "Sur la formation des employés expatriés.",
+            "Sur la prédominance de bénévoles dans chaque pays.",
+            "Sur le montant élevé des bénéfices réalisés."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 39,
+        "testId": 170,
+        "text": "Peut-être aurais-je dû moi aussi faire l'acquisition de l'un de ces nombreux manuels du bonheur proposés par la librairie Erroll. Cela m'aurait peut-être aidé à positiver, à voir les choses autrement, comme le prônent justement ces ouvrages. Ainsi je ne serais pas rentrée avec la sensation un peu déprimante, je dois le dire, que pour être heureux, eh bien il faut faire des efforts. Le bonheur n'est pas inné, nous disent les spécialistes, il s'apprend. Et donc au rayon bonheur de la librairie, donc je n'invente pas, il y a bien une étiquette bonheur sur un rayon, les manuels proposent leur aide, un grand coup d'exercice, de conseils, rédigés généralement à l'impératif. On lit, ne vous souciez pas du regard des autres. Quelle conclusion la journaliste tire-t-elle de sa visite dans cette librairie?",
+        "audio": "/mp3/170/39.mp3",
+        "options": [
+            "Acheter des livres sur le bonheur rend heureux.",
+            "Chacun de nous est prédisposé au bonheur.",
+            "Des cours de bonheur s'impose dès l'enfance.",
+            "L'accès au bonheur nécessite du travail."
+        ],
+        "answer": 3
+    }
+]
