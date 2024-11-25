@@ -108,7 +108,7 @@
     {
         "id": 9,
         "testId": 150,
-        "text": "Salut Sylvie, ça va ? T'as l'air fatiguée. Quand est-ce que tu pars en vacances ?\n\nA. J'ai mon vol mardi prochain.\n\nB. Je reste cinq jours sur place.\n\nC. Je vais visiter l'Italie.\n\nD. Je voyage avec mes collègues.",
+        "text": "Salut Sylvie, ça va ? T'as l'air fatiguée. Quand est-ce que tu pars en vacances ?\n\nA. J'ai mon vol mardi prochain.\n\nB. Je reste 5 jours sur place.\n\nC. Je vais visiter l'Italie.\n\nD. Je voyage avec mes collègues.",
         "audio": "/mp3/150/9.mp3",
         "options": [
             "Proposition A.",
@@ -134,10 +134,10 @@
     {
         "id": 11,
         "testId": 150,
-        "text": "Bonjour, je voudrais réserver deux places pour le film Neige éternelle à 20 heures. Où va la femme?",
+        "text": "Bonjour, je voudrais réserver deux places pour le film «Neige éternelle» à 20h. Où va la femme?",
         "audio": "/mp3/150/11.mp3",
         "options": [
-            "À l’opéra.",
+            "À l'opéra.",
             "Au cabaret.",
             "Au cinéma.",
             "Au théâtre."
@@ -264,7 +264,7 @@
     {
         "id": 21,
         "testId": 150,
-        "text": "— Quel froid ce matin.\n\n— Oui, mais au moins, il y a du soleil.\n\n— C'est sûr, à côté d'hier, la pluie toute la journée, c'était l'horreur.\n\n— Ah oui, j'aime mieux ce froid sec.\n\nQuel temps fait-il aujourd'hui?",
+        "text": "— Quel froid ce matin!\n\n— Oui, mais au moins, il y a du soleil.\n\n— C'est sûr, à côté d'hier, la pluie toute la journée, c'était l'horreur.\n\n— Ah oui, j'aime mieux ce froid sec.\n\nQuel temps fait-il aujourd'hui?",
         "audio": "/mp3/150/21.mp3",
         "options": [
             "Il fait plus beau qu’hier.",
@@ -281,7 +281,7 @@
         "audio": "/mp3/150/22.mp3",
         "options": [
             "Lui apporter un livre.",
-            "Lui demande conseil.",
+            "Lui demander conseil.",
             "Lui présenter son travail.",
             "Lui proposer une interview."
         ],
@@ -361,14 +361,14 @@
             "Sa mémoire exceptionnelle.",
             "Ses aptitudes au jardinage.",
             "Ses origines sociales modestes.",
-            "Son parcours d’apprentissage."
+            "Son parcours d'apprentissage."
         ],
         "answer": 3
     },
     {
         "id": 29,
         "testId": 150,
-        "text": "— Quand un Français s'aperçoit que ses compétences ne sont pas en adéquation avec le marché du travail québécois, il commet généralement la même erreur. Plutôt que d'aller chercher une autre expérience en se disant, « Ce n'est pas grave, je vais peut-être obtenir un poste avec moins de responsabilités, mais je vais chercher à développer de nouvelles compétences en occupant un nouvel emploi dans un secteur différent », il essaie de retourner à l'université et refait un certificat.\n\n— Que conseillez-vous alors?\n\n— En tant qu'enseignant à l'université, je lui dis, « Tu pourrais trouver un emploi demain matin si tu misais sur le développement de tes compétences plutôt que sur ton bout de papier ».\n\nQue recommande cette universitaire pour trouver un travail au Québec?",
+        "text": "— Quand un Français s'aperçoit que ses compétences ne sont pas en adéquation avec le marché du travail québécois, il commet généralement la même erreur. Plutôt que d'aller chercher une autre expérience en se disant « Ce n'est pas grave, je vais peut-être obtenir un poste avec moins de responsabilités, mais je vais chercher à développer de nouvelles compétences en occupant un nouvel emploi dans un secteur différent », il essaie de retourner à l'université et refait un certificat.\n\n— Hum, que conseillez-vous alors?\n\n— En tant qu'enseignant à l'université, je lui dis, « Tu pourrais trouver un emploi demain matin si tu misais sur le développement de tes compétences plutôt que sur ton bout de papier ».\n\nQue recommande cette universitaire pour trouver un travail au Québec?",
         "audio": "/mp3/150/29.mp3",
         "options": [
             "De devenir entrepreneur en créant son entreprise.",
@@ -381,7 +381,7 @@
     {
         "id": 30,
         "testId": 150,
-        "text": "La vieille dame de fer dans tous ses états, où, comment les jeunes, sans complexe, se sont mesurés à cette forme unique qu'est la Tour Eiffel. Pour ce concours, organisé par la Fondation Eiffel, adressée aux élèves des écoles d'architecture, la consigne était de rêver. Concevoir un édifice de très grande hauteur sur le champ de Mars à Paris, à distance, à coller ou à la place de la Tour Eiffel. Trois étudiants suppriment donc carrément la tour. À la place, ils y construisent un aéroport vertical, ou creusent un puits de lumière avec de vastes plateaux. D'autres choisissent de la rendre habitable en comblant ses vides par des baies de couleurs ou la dot d'un jardin suspendu. De quoi traite ce reportage ?",
+        "text": "La vieille dame de fer dans tous ses états, où, comment les jeunes, sans complexe, se sont mesurés à cette forme unique qu'est la Tour Eiffel. Pour ce concours, organisé par la Fondation Eiffel, adressée aux élèves des écoles d'architecture, la consigne était de rêver. Concevoir un édifice de très grande hauteur sur le champ de Mars à Paris, à distance, à coller ou à la place de la Tour Eiffel. Trois étudiants suppriment donc carrément la Tour. À la place, ils y construisent un aéroport vertical, ou creusent un puits de lumière avec de vastes plateaux. D'autres choisissent de la rendre habitable en comblant ses vides par des baies de couleurs ou la dot d'un jardin suspendu. De quoi traite ce reportage ?",
         "audio": "/mp3/150/30.mp3",
         "options": [
             "D’un appel à projets imaginaires.",
@@ -397,10 +397,10 @@
         "text": "On fait un petit tour de France, c'est-à-dire qu'on est parti vers le sud, et on s'est arrêté à La Rochelle, parce que nos ancêtres viennent de La Rochelle. Ils sont partis au 17e siècle pour le Québec du port de La Rochelle, donc on est venu voir le port et essayer de trouver une trace de nos ancêtres. Ce qu'on a commencé par trouver, c'est que c'était plutôt compliqué d'avoir des traces écrites, surtout quand notre ancêtre n'était pas un capitaine de bateau ou quelque chose comme ça. De quoi parle cet interveant?",
         "audio": "/mp3/150/31.mp3",
         "options": [
-            "D’une compétition sportive.",
-            "D’une croisière maritime.",
-            "D’une histoire familiale.",
-            "D’une rencontre amoureuse."
+            "D'une compétition sportive.",
+            "D'une croisière maritime.",
+            "D'une histoire familiale.",
+            "D'une rencontre amoureuse."
         ],
         "answer": 2
     },
@@ -472,7 +472,7 @@
     {
         "id": 37,
         "testId": 150,
-        "text": "Effectivement, la loi de 2001 fait obligation aux banques de désigner un médiateur qui est là pour justement tenter de régler les problèmes. Et la FUB a fait voter à l'époque que les modalités pour saisir le médiateur doivent être précisées dans le relevé de banque et dans le contrat. Donc pour savoir comment saisir le médiateur, il faut lire le relevé de banque ou le contrat. On doit y avoir toutes les précisions. Le médiateur a deux mois pour rendre un avis. Ce n'est qu'un avis, entendons-nous bien. Et là, eh bah, disons qu'il y a parfois un petit problème. C'est d'abord que peu de clients ont recours au médiateur. Il faudrait être beaucoup plus, disons, nombreux. Et deuxièmement, ce sont parfois des renvoyeurs de balles, c'est-à-dire ceux qui s'adressent à eux, ont le sentiment qu'ils n'ont pas été compris ni entendu. Quel sont les limites du recours au médiateur lors d’en conflit avec sa banque?",
+        "text": "Effectivement, la loi de 2001 fait obligation aux banques de désigner un médiateur qui est là pour justement tenter de régler les problèmes. Et la FUB a fait voter à l'époque que les modalités pour saisir le médiateur doivent être précisées dans le relevé de banque et dans le contrat. Donc pour savoir comment saisir le médiateur, il faut lire le relevé de banque ou le contrat. On doit y avoir toutes les précisions. Le médiateur a deux mois pour rendre un avis. Ce n'est qu'un avis, entendons-nous bien. Et là, eh bah, disons qu'il y a parfois un petit problème. C'est d'abord, peu de clients ont recours au médiateur. Il faudrait être beaucoup plus, disons, nombreux. Et deuxièmement, ce sont parfois des renvoyeurs de balles, c'est-à-dire ceux qui s'adressent à eux, ont le sentiment qu'ils n'ont pas été compris ni entendu. Quel sont les limites du recours au médiateur lors d’un conflit avec sa banque?",
         "audio": "/mp3/150/37.mp3",
         "options": [
             "Le nombre de médiateurs est insuffisant pour répondre à la demande.",
@@ -504,7 +504,7 @@
             "La fragilité de l’engagement.",
             "La multiplicité des contacts.",
             "La pauvreté des échanges.",
-            "L’absence du face-à-face."
+            "L’absence du face à face."
         ],
         "answer": 0
     }
