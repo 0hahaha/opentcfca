@@ -32,7 +32,7 @@
         "testId": 176,
         "text": "A. Essaye une taille plus grande.\n\nB. La couleur de ta robe est très jolie.\n\nC. Mets tes chaussures.\n\nD. Toutes les cabines sont occupées.",
         "audio": "/mp3/176/3.mp3",
-        "img": "/mp3/176/3.jpg",
+        "img": "/mp3/176/3_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -135,7 +135,7 @@
     {
         "id": 11,
         "testId": 176,
-        "text": "— Excusez-moi, madame, mais je suis complètement perdu, je ne trouve pas la gare et mon train part dans 5 minutes, à l'hôtel on m'a dit de passer par là.\n\n— Montrez-moi votre plan, mais vous le regardez à l'envers, le muséé est au bout de la rue et la gare, juste derrière.\n\n— Ah, merci beaucoup.\n\nQue veut faire cet homme ?",
+        "text": "— Excusez-moi, madame, mais je suis complètement perdu. Je ne trouve pas la gare et mon train part dans 5 minutes, à l'hôtel, on m'a dit de passer par là.\n\n— Montrez-moi votre plan, mais vous le regardez à l'envers. Le musée est au bout de la rue et la gare, juste derrière.\n\n— Ah, merci beaucoup.\n\nQue veut faire cet homme ?",
         "audio": "/mp3/176/11.mp3",
         "audioAI": "/mp3/176/ai_11.mp3",
         "options": [
@@ -162,11 +162,11 @@
     {
         "id": 13,
         "testId": 176,
-        "text": "— Mathieu, j'aurai besoin d'un conseil, est-ce que tu penses que je devrais aller aux Etats-Unis pour finir mon master ?\n\n— C'est très personnel comme décision, est-ce que tu crois que ce sera une bonne opportunité pour ta carrière ?\n\n— Oui, d'après mes profs, si j'y vais, j'aurai un meilleur niveau d'anglais et je pourrai plus facilement obtenir un poste dans une entreprise bilingue.\n\n— Alors fais-le, et en plus tu feras de nouvelles connaissances.\n\nQue conseille Mathieu à son ami ?",
+        "text": "— Mathieu, j'aurais besoin d'un conseil, est-ce que tu penses que je devrais aller aux Etats-Unis pour finir mon master ?\n\n— C'est très personnel comme décision, est-ce que tu crois que ce sera une bonne opportunité pour ta carrière ?\n\n— Oui, d'après mes profs, si j'y vais, j'aurai un meilleur niveau d'anglais et je pourrai plus facilement obtenir un poste dans une entreprise bilingue.\n\n— Alors fais-le, et en plus tu feras de nouvelles connaissances.\n\nQue conseille Mathieu à son ami ?",
         "audio": "/mp3/176/13.mp3",
         "options": [
             "D’apprendre une langue.",
-            "D’arrêter des études.",
+            "D’arrêter ses études.",
             "De partir à l’étranger.",
             "De rencontrer du monde."
         ],
@@ -202,7 +202,7 @@
     {
         "id": 16,
         "testId": 176,
-        "text": "— Bonjour, vous êtes la chanteuse Pascaloun, n'est-ce pas ?\n\n— Oui, c'est moi !\n\n— Bonjour ! Voilà, nous sommes une association et nous organisons chaque année une grande soirée, une fête solidaire au profit d'un programme de lutte contre la malnutrition de finale façon. Et nous proposons à différents artistes de se produire ce soir-là, gratuitement, bien entendu. Et donc, on a pensé à vous cette année. On vous invite à participer à ce moment de solidarité. Chaque artiste invité dispose de 20 minutes sur scène et on met à votre disposition une équipe de techniciens pour vous aider. On espère ainsi récolter suffisamment de fonds pour poursuivre cette action. Cela vous intéresse ?\n\nQue demande-t-on à Pascaloun ?",
+        "text": "— Bonjour, vous êtes la chanteuse Pascaloun, n'est-ce pas ?\n\n— Oui, c'est moi !\n\n— Bonjour ! Voilà, nous sommes une association et nous organisons chaque année une grande soirée, une fête solidaire au profit d'un programme de lutte contre la malnutrition au Burkina Faso. Et nous proposons à différents artistes de se produire ce soir-là, gratuitement, bien entendu. Et donc, on a pensé à vous cette année. On vous invite à participer à ce moment de solidarité. Chaque artiste invité dispose de 20 minutes sur scène et on met à votre disposition une équipe de techniciens pour vous aider. On espère ainsi récolter suffisamment de fonds pour poursuivre cette action. Cela vous intéresse ?\n\nQue demande-t-on à Pascaloun ?",
         "audio": "/mp3/176/16.mp3",
         "options": [
             "Une contribution financière.",
@@ -229,9 +229,8 @@
     {
         "id": 18,
         "testId": 176,
-        "text": "— Février est l'un des mois les plus brossades au niveau de la météo. C'est souvent le mois le plus gris et le plus froid de l'année. Du coup, les gens ont tendance d'une part à surchauffer leur chambre et aussi à moins l'aérer. Or tous les spécialistes le disent, une température intérieure de plus de 19°C, vivement terre fraîche, font défaut à la qualité du sommeil.\n\n— Et selon la statistique du mois de février, il serait uniquement dû au problème du sommeil ?\n\n— Non, il se trouve qu'en février, enfin en hiver, l'organisme est plus vulnérable, d'autant qu'il est minable à cause du manque de lumière naturelle et de l'absence d'activités physiques régulières. Les défenses immunitaires sont affaiblies, et de nombreuses personnes font la fameuse dépression saisonnière.\n\nQu'explique la journaliste ?",
+        "text": "— Février est l'un des mois les plus maussades au niveau de la météo. C'est souvent le mois le plus gris et le plus froid de l'année. Du coup, les gens ont tendance d'une part à surchauffer leur chambre et aussi à moins l'aérer. Or, tous les spécialistes le disent, une température intérieure au-dessus de 19°C et le manque d'air frais sont néfastes à la qualité du sommeil.\n\n— Et cette fatigue au mois de février serait uniquement due au problème de sommeil?\n\n— Non, il se trouve qu'en février, enfin en hiver, l'organisme est plus vulnérable, d'autant qu'il est mis en rude épreuve, notamment avec tous les virus qui circulent. Et puis il y a aussi le manque de lumière, un peu comme en octobre-novembre où de nombreuses personnes font la fameuse dépression saisonnière.\n\nQu'explique la journaliste ?",
         "audio": "/mp3/176/18.mp3",
-        "audioAI": "/mp3/176/ai_18.mp3",
         "options": [
             "Comment diminuer la consommation d’énergie.",
             "Comment il faut appliquer les conseils des experts.",
@@ -269,7 +268,7 @@
     {
         "id": 21,
         "testId": 176,
-        "text": "— Bonjour, Madame Léveille. Qu'est-ce qui vous amène aujourd'hui?\n\n— Eh bien, ma voiture a un problème au démarrage depuis hier. Elle démarre assez bien, puis elle s'arrête brusquement au bout de dix minutes. Vous pouvez voir ce qu'il se passe?\n\n— Là, maintenant? C'est pas possible. Demain, peut-être.\n\n— Ah, c'est dommage. J'en ai vraiment besoin dès demain, M. Lavoie.\n\n— Hum, attendez. Je regarde mon agenda. Bon, écoutez. Laissez-la moi toute l'après-midi et vous la reprendrez ce soir. Elle sera prête.\n\n— C'est vraiment très gentil de votre part. Alors, à ce soir. Merci.\n\nQue va faire la cliente? Sous-titrage Société Radio-Canada",
+        "text": "— Bonjour, Madame Léveille. Qu'est-ce qui vous amène aujourd'hui?\n\n— Eh bien, ma voiture a un problème au démarrage depuis hier. Elle démarre assez bien, puis elle s'arrête brusquement au bout de dix minutes. Vous pouvez voir ce qu'il se passe?\n\n— Là, maintenant? C'est pas possible. Demain, peut-être.\n\n— Ah, c'est dommage. J'en ai vraiment besoin dès demain, Monsieur Lavoie.\n\n— Hum, attendez. Je regarde mon agenda. Bon, écoutez. Laissez-la moi toute l'après-midi et vous la reprendrez ce soir. Elle sera prête.\n\n— C'est vraiment très gentil de votre part. Alors, à ce soir. Merci.\n\nQue va faire la cliente?",
         "audio": "/mp3/176/21.mp3",
         "options": [
             "Elle va repartir avec sa voiture.",
@@ -295,7 +294,7 @@
     {
         "id": 23,
         "testId": 176,
-        "text": "— Tiens, c'est le Salon de l'Agriculture la semaine prochaine, il faut que vous y alliez Françoise, je suis sûr que vous allez adorer.\n\n— Vous savez, moi, j'y connais rien, c'est pas le genre de salon que je fréquente.\n\n— Vous avez tort, moi j'y vais tous les ans, imaginez la plus grande ferme du monde qui s'installe en plein Paris pour dix jours.\n\n— Oui, oui, bien sûr, il y a plein d'autres choses intéressantes à faire à Paris.\n\n— Bien sûr, mais il faut y aller, vous allez voir les animaux par exemple, c'est incroyable, vous pourrez les carsser. Je ne vous parle pas des spécialités gastronomiques, un régal.\n\n— Vous savez, moi, les animaux, cependant, vous avez éveillé ma curiosité, mais il faudra venir avec moi.\n\nDans ce dialogue, quelle est l'attention du monsieur?",
+        "text": "— Tiens, c'est le Salon de l'Agriculture la semaine prochaine. Il faut que vous y alliez Françoise. Je suis sûr que vous allez adorer.\n\n— Vous savez, moi, j'y connais rien. C'est pas le genre de salon que je fréquente.\n\n— Vous avez tort. Moi j'y vais tous les ans. Imaginez la plus grande ferme du monde qui s'installe en plein Paris pour dix jours.\n\n— Oui, oui, bien sûr. Mais il y a plein d'autres choses intéressantes à faire à Paris.\n\n— Bien sûr. Mais il faut y aller. Vous allez voir les animaux, par exemple. C'est incroyable. Vous pourrez les caresser et... Je ne vous parle pas des spécialités gastronomiques, un régal.\n\n— Vous savez, moi, les animaux, cependant, vous avez éveillé ma curiosité, mais il faudra venir avec moi.\n\nDans ce dialogue, quelle est l'attention du monsieur?",
         "audio": "/mp3/176/23.mp3",
         "options": [
             "Il fait des compliments.",
@@ -364,17 +363,17 @@
         "text": "— Des menus équilibrés, un bar à salade, une sandwicherie, l'école secondaire de Rochebelle à Sainte-Foy au Québec fait tout pour inciter les jeunes à mieux manger.\n\n— J'aime la nourriture, le choix, les sandwiches et le bar à salade. Je suis fatiguée de manger gras.\n\n— Une étude parue l'année dernière sur les habitudes des jeunes menées en collaboration avec l'Université de Laval montre qu'ils sont encore trop nombreux à manger à l'extérieur de l'école et à privilégier la restauration rapide.\n\n— On aimerait augmenter de 15% la proportion des élèves qui restent à l'école pour déjeuner.\n\nQuel problème soulève l'étude menée par l'Université de Laval ?",
         "audio": "/mp3/176/28.mp3",
         "options": [
-            "Les élèves manquent de temps pour prendre leurs repas.",
+            "Les élèves manquent de temps pour prendre leur repas.",
             "Les habitudes alimentaires des élèves sont difficiles à modifier.",
-            "Les menus des cantines scolaires sont très mal équilibrés.",
-            "Les restaurants scolaires coutent cher aux familles."
+            "Les menus des cantines scolaires sont mal équilibrés.",
+            "Les restaurants scolaires coûtent cher aux familles."
         ],
         "answer": 1
     },
     {
         "id": 29,
         "testId": 176,
-        "text": "Apprendre à gérer son argent n’est pas une priorité éducative alors que l’argent nous accompagne toute notre vie. Construire un budget ça s’apprend, mais trop souvent le sujet est considéré tabou par les adultes. Donc pas question d’en parler avec les enfants. Dans la sphère de l’école, aucune séance de travail n’est dédiée à cette question. Pourtant, chacun est concerné dans sa vie professionnelle et personnelle par les principales notions que sont les coûts, les crédits, les prêts, les taux d’intérêt, l’endettement, l’économie à l’échelle de l’individu. Voilà un domaine qui touche chaque Français sans que jamais celui-ci y soit vraiment initié. Que dénonce cette journaliste?",
+        "text": "Apprendre à gérer son argent n'est pas une priorité éducative alors que l'argent nous accompagne toute notre vie. Construire un budget ça s'apprend, mais trop souvent le sujet est considéré tabou par les adultes. Donc pas question d'en parler avec les enfants. Dans la sphère de l'école, aucune séance de travail n'est dédiée à cette question. Pourtant, chacun est concerné dans sa vie professionnelle et personnelle par les principales notions que sont les coûts, les crédits, les prêts, les taux d'intérêt, l'endettement. L'économie à l'échelle de l'individu, voilà un domaine qui touche chaque Français sans que jamais celui-ci y soit vraiment initié. Que dénonce cette journaliste?",
         "audio": "/mp3/176/29.mp3",
         "options": [
             "L'absence de formation sur l'élaboration d'un budget.",
@@ -400,10 +399,10 @@
     {
         "id": 31,
         "testId": 176,
-        "text": "Vous savez, aujourd'hui, on parle beaucoup des effets négatifs des écrans pour les enfants et les psychologues s'accordent à dire que des enfants qui sont trop soumis aux écrans ont des troubles de l'apprentissage, de la concentration, voire des difficultés de sommeil. En fait, pour les adultes, c'est exactement la même chose et on voit des salariés aujourd'hui qui ont du mal à se concentrer parce qu'ils sont en permanence dérangés par des notifications, par des mails. Donc c'est des difficultés de concentration, c'est des difficultés parfois d'apprentissage et il y a beaucoup de salariés qui, aujourd'hui, se plaignent de cette charge mentale. Il y a une étude récente qui citait comme chiffre un tiers des salariés qui se sentent surchargés par l'information sur le lieu de travail. Donc l'enjeu, c'est de revenir justement à des temps de calme, de sérénité, propices à la concentration, propices à la créativité. Qu'est-ce qui participe à la charge mentale des salariés ?",
+        "text": "Vous savez, aujourd'hui, on parle beaucoup des effets négatifs des écrans pour les enfants et les psychologues s'accordent à dire que des enfants qui sont trop soumis aux écrans ont des troubles de l'apprentissage, de la concentration, voire des difficultés de sommeil. En fait, pour les adultes, c'est exactement la même chose et on voit des salariés aujourd'hui qui ont du mal à se concentrer parce qu'ils sont en permanence dérangés par des notifications, par des mails. Donc, c'est des difficultés de concentration, c'est des difficultés parfois d'apprentissage et il y a beaucoup de salariés qui, aujourd'hui, se plaignent de cette charge mentale. Il y a une étude récente qui citait comme chiffre un tiers des salariés qui se sentent surchargés par l'information sur le lieu de travail. Donc, l'enjeu, c'est de revenir justement à des temps de calme, de sérénité, propices à la concentration, propices à la créativité. Qu'est-ce qui participe à la charge mentale des salariés ?",
         "audio": "/mp3/176/31.mp3",
         "options": [
-            "L’inégalité dans la répartition des taches.",
+            "L'inégalité dans la répartition des tâches.",
             "La surabondance de sollicitations.",
             "Le manque de fonctionnalité des locaux.",
             "Les interventions des collègues."
@@ -439,16 +438,16 @@
     {
         "id": 34,
         "testId": 176,
-        "text": "L'équipe d'Interception vous propose de découvrir le travail d'habillage sonore qui rentre aujourd'hui dans la conception des véhicules automobiles, aussi bien ceux qui sont équipés d'un moteur à explosion que des autres. Transformer les bruits que produisent les voitures en sons, en sons utiles et agréable, c'est un outil. Ceux qui le pratiquent apprennent ce qu'il faut bien passer dans le domaine, planchent sur la limite au point d'un environnement sonore à la carte. D'un clic, tout conducteur pourra bientôt choisir le bruit de son moteur ou de ses clignotants et il en changera même au biais de ses humeurs. Pourquoi développe-t-on l'habillage sonore des voitures en français ?\n\n<br/>**Note:** The options are generated by ChatGPT as original options are actually from question 34, Série 149.",
+        "text": "L'équipe d'Interception vous propose de découvrir le travail d'habillage sonore qui entre aujourd'hui dans la conception des véhicules automobiles, aussi bien ceux qui sont équipés d'un moteur à explosion que les autres. Transformer les bruits que produisent les voitures en son, en sons utiles et agréables, c'est un métier. Ceux qui le pratiquent, la France est plutôt bien placée dans ce domaine, planchent sur la mise au point d'un environnement sonore à la carte. D'un clic, tout conducteur pourra bientôt choisir le bruit de son moteur ou de ses clignotants. Il en changera même au gré de ses humeurs. Pourquoi développe-t-on l'habillage sonore des voitures en France?\n\n<br>**Options generated by chatgpt.**\n\n<br/>La France développe l'habillage sonore des voitures pour transformer les bruits en sons agréables et personnalisables, permettant aux conducteurs de choisir les bruits de leur véhicule selon leurs préférences.\n\n<br>Other options could be:\n\n<br/>**A. Pour améliorer l'expérience de conduite en rendant les sons plus agréables et personnalisés.**\n\nB. Pour réduire la consommation de carburant en utilisant des sons plus doux et plus efficaces.\n\nC. Pour analyser les préférences des conducteurs en matière de couleurs et de design.\n\nD. Pour étudier l'impact des sons de la nature sur le comportement des conducteurs.\n\n<br/>La personne qui a participé à l'examen a suggéré: **Changement du son parce qu’il est bruyant pour la sante / pour réduire la nuisance sonore.**",
         "audio": "/mp3/176/34.mp3",
         "audioAI": "/mp3/176/ai_34.mp3",
         "options": [
-            "Pour améliorer l'expérience de conduite en rendant les sons plus agréables et personnalisés.",
-            "Pour réduire la consommation de carburant en utilisant des sons plus doux et plus efficaces.",
-            "Pour analyser les préférences des conducteurs en matière de couleurs et de design.",
-            "Pour étudier l'impact des sons de la nature sur le comportement des conducteurs."
+            "Pour améliorer la sécurité des véhicules.",
+            "Pour rendre les bruits des voitures plus agréables et personnalisables.",
+            "Pour réduire la pollution sonore dans les villes.",
+            "Pour diminuer les coûts de production des véhicules."
         ],
-        "answer": 0
+        "answer": 1
     },
     {
         "id": 35,
@@ -466,7 +465,7 @@
     {
         "id": 36,
         "testId": 176,
-        "text": "Petit dicton au rayon du bon sens près de chez nous, quand on a un problème, eh bien, dormons dessus. Rien de tel qu'une bonne nuit de sommeil pour y voir plus clair. Eh bien, cette vérité, sachez-le, les chercheurs américains de l'Université de Californie l'ont démontré scientifiquement. Le sommeil permet de résoudre des problèmes sans que vous fassiez quoi que ce soit. Quand on dort, vous le savez, on alterne les périodes de sommeil profond et de sommeil paradoxal. Eh bien, cette phase paradoxale, riche en rêves, jouerait un rôle essentiel dans l'inventivité et dans la résolution des problèmes. Vous avez donc compris le message, il faut dormir. Qu'a-t-on découvert sur le sommeil ?",
+        "text": "Petit dicton au rayon du bon sens près de chez nous, quand on a un problème, et bien dormons dessus. Rien de tel qu'une bonne nuit de sommeil pour y voir plus clair. Et bien cette vérité, sachez-le, les chercheurs américains de l'Université de Californie l'ont démontré scientifiquement. Le sommeil permet de résoudre des problèmes sans que vous fassiez quoi que ce soit. Quand on dort, vous le savez, on alterne les périodes de sommeil profond et de sommeil paradoxal. Et bien cette phase paradoxale, riche en rêves, jouerait un rôle essentiel dans l'inventivité et dans la résolution des problèmes. Vous avez donc compris le message, il faut dormir. Qu'a-t-on découvert sur le sommeil ?",
         "audio": "/mp3/176/36.mp3",
         "options": [
             "Il conditionne l’humeur.",
@@ -479,7 +478,7 @@
     {
         "id": 37,
         "testId": 176,
-        "text": "— Renaud Capuçon, ce que je me demande, c'est comment vous, en tant que violoniste, vous arrivez à vous accorder si bien avec les autres instruments ?\n\n— C'est le grand bonheur de la musique de chambre. C'est justement ce plaisir d'essayer, non pas de tirer la couverture à soi ou de jouer solo, mais de parvenir à une symbiose. Je trouve que ça remet vraiment les bands du balaire. Parfois, on joue peu avec un orchestre. Ou bien on passe d'un orchestre à un autre. On travaille avec des orchestres que l'on voit très peu, puisqu'on répète une demi-heure et qu'on joue ensuite un concerto. À contrario, la musique de chambre  permet d'aller au fond des choses. On ne peut pas tricher. Sur scène, le dialogue est absolument 5 minutes. Que permet la musique de chambre, selon Renaud Capuçon ?",
+        "text": "— Renaud Capuçon, ce que je me demande, c'est comment vous, en tant que violoniste, vous arrivez à vous accorder si bien avec les autres instruments ?\n\n— C'est le grand bonheur de la musique de chambre. C'est justement ce plaisir d'essayer, non pas de tirer la couverture à soi ou de jouer solo, mais de parvenir à une symbiose. Je trouve que cela remet vraiment les bands d'ailleurs. Parfois, on joue peu avec un orchestre, ou bien on passe d'un orchestre à un autre. On travaille avec des orchestres que l'on voit très peu, puisqu'on répète une demi-heure et qu'on joue ensuite un concerto. À contrario, la musique de chambre permet d'aller au fond des choses. On ne peut pas tricher. Sur scène, le dialogue est absolument sans limite.\n\nQue permet la musique de chambre, selon Renaud Capuçon ?",
         "audio": "/mp3/176/37.mp3",
         "audioAI": "/mp3/176/ai_37.mp3",
         "options": [
@@ -493,7 +492,7 @@
     {
         "id": 38,
         "testId": 176,
-        "text": "— Le plan Nord mise aussi sur l'appui des populations locales, notamment celui des Inuits et des Amérindiens, que l'on va former aux nouveaux emplois. Certaines nations, comme celle des Inus, ont des réticences. Ce conseiller juridique milite pour que son peuple et le gouvernement du Québec signent une entente pour sortir les Autochtones de leur dépendance économique.\n\n— De toute évidence, les retombées économiques pour les communautés autochtones des Inus ne seront pas là, tout simplement. Mais je pense que c'est une responsabilité du gouvernement, de l'État québécois également, de s'assurer que les jeunes Inus soient formés et qu'ils aient accès à des jobs valorisants dans le cadre des projets miniers.\n\n— Certains environnementalistes ont des réserves face à ce plan qui va faciliter l'exploitation de zones jusqu'à leur vierge.\n\nComment réagissent les populations indigènes concernées par ce projet?",
+        "text": "— Le plan Nord mise aussi sur l'appui des populations locales, notamment celui des Inuits et des Amérindiens, que l'on va former aux nouveaux emplois. Certaines nations, comme celle des Inus, ont des réticences. Ce conseiller juridique milite pour que son peuple et le gouvernement du Québec signent une entente pour sortir les Autochtones de leur dépendance économique.\n\n— De toute évidence, les retombées économiques pour les communautés autochtones des Inus ne seront pas là, tout simplement. Mais je pense que c'est une responsabilité du gouvernement, de l'État québécois également, de s'assurer que les jeunes Inus soient formés et qu'ils aient accès à des jobs valorisants dans le cadre des projets miniers.\n\n— Certains environnementalistes ont des réserves face à ce plan qui va faciliter l'exploitation de zones jusqu'alors vierge.\n\nComment réagissent les populations indigènes concernées par ce projet?",
         "audio": "/mp3/176/38.mp3",
         "options": [
             "Elles demandent un nouveau statut juridique.",
@@ -509,7 +508,7 @@
         "text": "— Et c'est tout l'art d'une série captivée son public. La place que peut prendre une série dans la vie de jeunes gens ou moins jeunes peut inquiéter. Jean-Pierre Coutron est psychologue clinicien spécialiste des addictions.\n\n— On commence à voir dans des entretiens avec des familles, avec des jeunes, ce problème qui est à bordé, ce qui est un des critères de l'addiction sur le mode de j'arrive pas à faire autrement, j'arrive pas à contrôler et ça crée de la souffrance. C'est la thématique de l'hyper-connexion, c'est la thématique de la technologie sans limite, donc c'est à l'humain de s'arrêter de lui-même et c'est toujours plus difficile. On a toute une réflexion à partager avec les parents parce que la première réponse c'est quand même la réponse éducative.\n\nQue constate l'intervenant à propos des séries ?",
         "audio": "/mp3/176/39.mp3",
         "options": [
-            "Elles entrainent des dépendances maladives.",
+            "Elles entraînent des dépendances maladives.",
             "Elles nuisent aux capacités d’apprentissage.",
             "Elles perturbent la perception de la réalité.",
             "Elles provoquent un isolement dangereux."

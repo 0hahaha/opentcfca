@@ -2,9 +2,9 @@
     {
         "id": 1,
         "testId": 177,
-        "text": "A. Éteignez votre téléphone, Madame.\n\nB. Mettez votre manteau, il fait froid ici.\n\nC. Restez couché, j'appelle un médecin.\n\nD. Je vais regarder votre bras.",
+        "text": "A. Éteignez votre téléphone, Madame.\n\nB. Mettez votre manteau, il fait froid ici.\n\nC. Restez couché, j'appelle un médecin.\n\nD. Tenez, je vais regarder votre bras.",
         "audio": "/mp3/177/1.mp3",
-        "img": "/mp3/177/1.jpg",
+        "img": "/mp3/177/1_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -122,9 +122,8 @@
     {
         "id": 10,
         "testId": 177,
-        "text": "Je vais aussi à l'anniversaire de l'homme de ce soir. Qu'est-ce que tu peux offrir?\n\nA. C'est pour ses 18 ans.\n\nB. Des chapeaux en laine.\n\nC. C'est un homme sympa.\n\nD. Il va en voiture.",
+        "text": "Je vais aussi à l'anniversaire de Tom ce soir. Qu'est-ce qu'on peut lui offrir?\n\nA. C'est pour ses 18 ans.\n\nB. Il veut une écharpe en laine.\n\nC. Je le trouve sympa.\n\nD. On y va en voiture.",
         "audio": "/mp3/177/10.mp3",
-        "audioAI": "/mp3/177/ai_10.mp3",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -150,7 +149,7 @@
     {
         "id": 12,
         "testId": 177,
-        "text": "— Maintenant que les examens universitaires sont finis, qu'est-ce que tu vas faire ?\n\n— Je voudrais faire un stage de langue espagnole pendant un mois.\n\n— Bonne idée ! J'en ai fait un l'année dernière en Argentine. C'était super !\n\n— Je ne veux pas aller si loin. Je pense plutôt à l'Espagne.\n\n— Tu devrais aller dans le sud, à Séville. C'est une ville magnifique !\n\n— Pourquoi pas ? Mais j'ai un petit budget. Je dois voir si je peux trouver un logement pas trop cher.\n\nDe quoi parle ces deux personnes ?",
+        "text": "— Maintenant que les examens universitaires sont finis, qu'est-ce que tu vas faire ?\n\n— Je voudrais faire un stage de langue espagnole pendant un mois.\n\n— Bonne idée ! J'en ai fait un l'année dernière en Argentine. C'était super !\n\n— Je ne veux pas aller si loin. Je pense plutôt à l'Espagne.\n\n— Tu devrais aller dans le sud, à Séville. C'est une ville magnifique !\n\n— Pourquoi pas ? Mais j'ai un petit budget. Je dois voir si je peux trouver un logement pas trop cher.\n\nDe quoi parlent ces deux personnes ?",
         "audio": "/mp3/177/12.mp3",
         "options": [
             "De leur voyage en Argentine.",
@@ -243,7 +242,7 @@
     {
         "id": 19,
         "testId": 177,
-        "text": "— Allô, bonjour Madame Tremblay. Je suis désolé, il y a eu un problème informatique la-bas. Je ne peux pas retirer d'argent, ou bien j'aurai mon loyer dans deux ou trois jours, ou bien je vous apporte un chèque demain si vous préférez.\n\n— Non, ce n'est pas la peine. Deux ou trois jours, ce n'est pas question.\n\n— Ok, merci beaucoup. \n\nQue va faire la propriété?",
+        "text": "— Allô, bonjour Madame Tremblay. Je suis désolé, il y a eu un problème informatique maintenant. Je ne peux pas retirer l'argent, ou bien j'aurai mon loyer dans deux ou trois jours, ou bien je vous apporte un chèque demain si vous préférez.\n\n— Non, ce n'est pas la peine. Deux ou trois jours, ce n'est si long.\n\n— Ok, merci beaucoup. \n\nQue va faire la propriété?",
         "audio": "/mp3/177/19.mp3",
         "audioAI": "/mp3/177/ai_19.mp3",
         "options": [
@@ -402,7 +401,7 @@
     {
         "id": 31,
         "testId": 177,
-        "text": "— Oui, Fatoumata a 29 ans, elle termine en ce moment son doctorat d'astronomie et a aussi de passer un an au Japon pour se préparer à son futur métier d'astronome. Et Fatoumata veut être astronome, femme de ménage de l'espace.\n\n— Les objets qui sont vraiment retombés sur Terre, au Zimbabwe et en Arabie Saoudite, c'est arrivé. Plusieurs entreprises et agences ont proposé des solutions de nettoyage de l'espace, mais aucune n'a vraiment été testée dans les conditions réelles. Mais tout le monde se prépare à aller dans l'espace, parce que la NASA prévoit qu'à l'horizon 2025, on pourra plus envoyer d'objets dans l'espace, tellement ce sera encombré de débris. Donc en fait, je simule des explosions et des collisions dans l'espace. Par exemple, vous avez deux objets qui rentrent en collision, ça crée 40 000 débris. Regardez comment ces 40 000 débris vont évoluer avec le temps autour de la Terre.\n\n— Voilà...\n\nQuel est l'objectif de l'activité actuelle de Fatoumata ?",
+        "text": "— Oui, Fatoumata a 29 ans, elle termine en ce moment son doctorat d'astronomie et a aussi de passer un an au Japon pour se préparer à son futur métier d'astronome. Et Fatoumata veut être astronome, femme de ménage de l'espace.\n\n— Les objets qui sont vraiment retombés sur Terre, au Zimbabwe et en Arabie Saoudite, c'est arrivé. Plusieurs entreprises et agences ont proposé des solutions de nettoyage de l'espace, mais aucune n'a vraiment été testée dans les conditions réelles. Mais tout le monde se prépare à aller dans l'espace, parce que la NASA prévoit qu'à l'horizon 2025, on pourra plus envoyer d'objets dans l'espace, tellement ce sera encombré de débris. Donc en fait, je simule des explosions et des collisions dans l'espace. Par exemple, vous avez deux objets, ils rentrent en collision, ça crée 40 000 débris. Vous pouvez regarder comment ces 40 000 débris vont évoluer avec le temps autour de la Terre.\n\n— Voilà...\n\nQuel est l'objectif de l'activité actuelle de Fatoumata ?",
         "audio": "/mp3/177/31.mp3",
         "options": [
             "Comparer les mouvements des galaxies.",
