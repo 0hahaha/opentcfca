@@ -21,20 +21,82 @@ let quizCategory = { CO: "Orale", CE: "Écrite" }
 let quizzes = {
     //"TCF Canada Compréhension Orale Série 151, Réussir 03"
     CO: [
+        { tcfId: 148, ruId: 1 },
+        { tcfId: 149, ruId: 2 },
         { tcfId: 151, ruId: 3 },
         { tcfId: 152, ruId: 4 },
         { tcfId: 155, ruId: 5 },
         { tcfId: 150, ruId: 6 },
         { tcfId: 156, ruId: 7 },
-        { tcfId: 157, ruId: 8 }
+        { tcfId: 157, ruId: 8 },
+        { tcfId: 161, ruId: 9 },
+        { tcfId: 162, ruId: 10 },
+        { tcfId: 171, ruId: 11 },
+        { tcfId: 172, ruId: 12 },
+        { tcfId: 176, ruId: 13 },
+        { tcfId: 163, ruId: 14 },
+        { tcfId: 178, ruId: 15 },
+        { tcfId: 179, ruId: 16 },
+        { tcfId: 175, ruId: 17 },
+        { tcfId: 154, ruId: 18 },
+        { tcfId: 167, ruId: 19 },
+        { tcfId: 180, ruId: 20 },
+        { tcfId: 165, ruId: 21 },
+        { tcfId: 158, ruId: 22 },
+        { tcfId: 183, ruId: 23 },
+        { tcfId: 166, ruId: 24 },
+        { tcfId: 159, ruId: 25 },
+        { tcfId: 181, ruId: 26 },
+        { tcfId: 186, ruId: 27 },
+        { tcfId: 185, ruId: 28 },
+        { tcfId: 177, ruId: 29 },
+        { tcfId: 169, ruId: 30 },
+        { tcfId: 188, ruId: 31 },
+        { tcfId: 153, ruId: 32 },
+        { tcfId: 164, ruId: 33 },
+        { tcfId: 170, ruId: 34 },
+        { tcfId: 160, ruId: 35 },
+        { tcfId: 168, ruId: 36 },
     ], // Sample quiz IDs for CO
     CE: [
+        { tcfId: 149, ruId: 1 },
         { tcfId: 150, ruId: 2 },
         { tcfId: 152, ruId: 3 },
         { tcfId: 153, ruId: 4 },
         { tcfId: 154, ruId: 5 },
         { tcfId: 155, ruId: 6 },
         { tcfId: 162, ruId: 7 },
+        { tcfId: 151, ruId: 8 },
+        { tcfId: 156, ruId: 9 },
+        { tcfId: 157, ruId: 10 },
+        { tcfId: 148, ruId: 11 },
+        { tcfId: 163, ruId: 12 },
+        { tcfId: 165, ruId: 13 },
+        { tcfId: 166, ruId: 14 },
+        { tcfId: 158, ruId: 15 },
+        { tcfId: 160, ruId: 16 },
+        { tcfId: 172, ruId: 17 },
+        { tcfId: 171, ruId: 18 },
+        { tcfId: 175, ruId: 19 },
+        { tcfId: 176, ruId: 20 },
+        { tcfId: 178, ruId: 21 },
+        { tcfId: 179, ruId: 22 },
+        { tcfId: 161, ruId: 23 },
+        { tcfId: 177, ruId: 24 },
+        { tcfId: 181, ruId: 25 },
+        { tcfId: 167, ruId: 26 },
+        { tcfId: 180, ruId: 27 },
+        { tcfId: 182, ruId: 28 },
+        { tcfId: 183, ruId: 29 },
+        { tcfId: 184, ruId: 30 },
+        { tcfId: 186, ruId: 31 },
+        { tcfId: 185, ruId: 32 },
+        { tcfId: 159, ruId: 33 },
+        { tcfId: 169, ruId: 34 },
+        { tcfId: 187, ruId: 35 },
+        { tcfId: 188, ruId: 36 },
+        { tcfId: 168, ruId: 37 },
+        { tcfId: 173, ruId: 38 },
     ] // Sample quiz IDs for CE
 };
 let quizList = {
@@ -87,11 +149,43 @@ function renderQuiz(category, data) {
         questionElement.appendChild(questionNumber);
 
         if (category == 'CO') {
-            const audio = document.createElement('audio');
-            audio.preload = 'none';
-            audio.controls = true;
-            audio.src = host + questionData.audio;
-            questionElement.appendChild(audio);
+            if (Array.isArray(questionData.audio)) {
+                for (i in questionData.audio) {
+                    const audio = document.createElement('audio');
+                    audio.preload = 'none';
+                    audio.controls = true;
+                    audio.src = host + questionData.audio[i];
+                    questionElement.appendChild(audio);
+                }
+            } else {
+                const audio = document.createElement('audio');
+                audio.preload = 'none';
+                audio.controls = true;
+                audio.src = host + questionData.audio;
+                questionElement.appendChild(audio);
+            }
+
+            if (Object.hasOwn(questionData, 'audioAI')) {
+                const textElement = document.createElement('p');
+                textElement.innerHTML = "AI generated audio"
+                questionElement.appendChild(textElement);
+
+                if (Array.isArray(questionData.audioAI)) {
+                    for (i in questionData.audioAI) {
+                        const audio = document.createElement('audio');
+                        audio.preload = 'none';
+                        audio.controls = true;
+                        audio.src = host + questionData.audioAI[i];
+                        questionElement.appendChild(audio);
+                    }
+                } else {
+                    const audio = document.createElement('audio');
+                    audio.preload = 'none';
+                    audio.controls = true;
+                    audio.src = host + questionData.audioAI;
+                    questionElement.appendChild(audio);
+                }
+            }
 
             if (Object.hasOwn(questionData, 'img')) {
                 const img = document.createElement('img');
@@ -367,4 +461,27 @@ window.MathJax = {
         typeset: false
     }
 };
+
+// Set up the Marked.js custom renderer
+const renderer = new marked.Renderer();
+
+// Override the default image renderer for audio
+renderer.image = ({href, title, text}) => {
+    console.log(typeof href, href)
+    if (href.endsWith('.mp3') || href.endsWith('.wav')) {
+        return `<audio controls ${title ? `title="${title}"` : ''}>
+              <source src="${href}" type="audio/${href.split('.').pop()}">
+              Your browser does not support the audio element.
+            </audio>`;
+    }
+    // Fallback to the default behavior for non-audio images
+    return `<img src="${href}" alt="${text}" ${title ? `title="${title}"` : ''}>`;
+};
+
+// Configure Marked.js
+marked.setOptions({
+    renderer,
+    gfm: true,
+    breaks: true,
+});
 
