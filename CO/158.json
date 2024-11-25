@@ -126,7 +126,7 @@
             "Ils coûtent cher au pays.",
             "Ils ont une santé fragile.",
             "Ils sont difficiles à nourrir.",
-            "Ils sont protégés par l’État."
+            "Ils sont protégés par l'État."
         ],
         "answer": 3
     },
@@ -278,7 +278,7 @@
     {
         "id": 22,
         "testId": 158,
-        "text": "— Allô, Jenny ? C'est Joanne ! Merci pour ta carte. Alors tes vacances en célibataire? T'es parti tout seul faire du golf, c'est ça ?\n\n— Oui, j'avais envie de connaître le golf. C'était super. Pas facile, mais super!\n\n— Non! Ah bon ? Mais t'es pas vraiment sportif, toi! Le golf ! Quand j'ai vu ta carte, j'en revenais pas.\n\n— Non, mais j'ai bien l'intention de recommencer. Pas toute l'année, hein. Un stage d'été, c'est suffisant.\n\n— Eh ben, à ce rythme, tu vas pas être bon très très vite, hein ?\n\n— Qu'est-ce que tu crois ? Je suis pas si mauvais.\n\nQu'est-ce qui fait rire la femme ?",
+        "text": "— Allô, Jenny ? C'est Joanne ! Merci pour ta carte. Alors tes vacances en célibataire? T'es parti tout seul faire du golf, c'est ça ?\n\n— Oui, j'avais envie de connaître le golf. C'était super. Pas facile, mais super!\n\n— Non! Ah bon ? Mais t'es pas vraiment sportif, toi! Le golf ! Quand j'ai vu ta carte, j'en revenais pas.\n\n— Non, mais j'ai bien l'intention de recommencer. Pas toute l'année, hein. Un stage l'été, c'est suffisant.\n\n— Eh ben, à ce rythme, tu vas pas être bon très très vite, hein ?\n\n— Qu'est-ce que tu crois ? Je suis pas si mauvais.\n\nQu'est-ce qui fait rire la femme ?",
         "audio": "/mp3/158/22.mp3",
         "audioAI": "/mp3/158/ai_22.mp3",
         "options": [
@@ -332,7 +332,7 @@
     {
         "id": 26,
         "testId": 158,
-        "text": "— Eh monsieur, vous voyez bien qu'il y a une barrière? Vous pouvez pas aller voir ces tableaux-là. En plus, il y a une alarme qui peut se mettre à sonner.\n\n— Euh, oui, mais je voulais rien voler, hein. Excusez-moi. Habituellement, on peut visiter cette salle. Vous êtes en train de la refaire?\n\n— Non, non, mais aujourd'hui, nous ne sommes pas assez nombreux pour ouvrir toutes les salles. Bienvenue, Philippe Girif.\n\n— Ah, très bien, je comprends mieux. Ben, au moins, il n'y aura pas besoin d'y faire le ménage aujourd'hui.\n\nPourquoi le visiteur ne peut-il pas accéder à cette salle du musée?",
+        "text": "— Eh monsieur, vous voyez bien qu'il y a une barrière? Vous pouvez pas aller voir ces tableaux-là. En plus, il y a une alarme qui peut se mettre à sonner.\n\n— Euh, oui, mais je voulais rien voler, hein. Excusez-moi. Habituellement, on peut visiter cette salle. Vous êtes en train de la refaire?\n\n— Non, non, mais aujourd'hui, nous ne sommes pas assez nombreux pour ouvrir toutes les salles. Y a une épidémie de grippe.\n\n— Ah, très bien, je comprends mieux. Ben, au moins, il n'y aura pas besoin d'y faire le ménage aujourd'hui.\n\nPourquoi le visiteur ne peut-il pas accéder à cette salle du musée?",
         "audio": "/mp3/158/26.mp3",
         "options": [
             "Parce que la salle est en travaux aujourd’hui.",
@@ -361,10 +361,10 @@
         "text": "— Les entreprises québécoises ont fait beaucoup pour l'intégration des immigrés, mais elles doivent faire davantage.\n\n— Je pense qu'on peut toujours faire mieux, mais on a encore besoin d'être sensibilisés, d'être ouverts. Donc je pense que c'est un défi de tous les jours. Si on ne le fait pas, on y perd parce qu'il y a tellement de gains en immigration. On a qu'à parler de s'ouvrir vers d'autres cultures, on y gagne. On apprend sur l'un autre. On apprend sur les autres. Et pour le milieu du travail également, toute la richesse, la diversité que d'autres cultures peuvent nous apporter. Quand on parle d'un contexte de globalisation, on travaille à l'échelle de la planète. Il faut avoir un regard beaucoup plus large.\n\nSelon la personne interrogée, pour quelles raisons les entreprises québécoises doivent-elles continuer leurs efforts pour l'intégration des immigrés?",
         "audio": "/mp3/158/28.mp3",
         "options": [
-            "Parce qu’elles ont beaucoup à apprendre d’eux.",
-            "Parce qu’elles s’implanteront mieux ensuite à l’étranger.",
-            "Parce qu’elles sont en manque de main-d’œuvre.",
-            "Parce qu’elles y sont contraintes par la mondialisation."
+            "Parce qu'elles ont beaucoup à apprendre d'eux.",
+            "Parce qu'elles s’implanteront mieux ensuite à l’étranger.",
+            "Parce qu'elles sont en manque de main-d'œuvre.",
+            "Parce qu'elles y sont contraintes par la mondialisation."
         ],
         "answer": 0
     },
@@ -397,7 +397,7 @@
     {
         "id": 31,
         "testId": 158,
-        "text": "Apprendre à gérer son argent n’est pas une priorité éducative alors que l’argent nous accompagne toute notre vie. Construire un budget ça s’apprend, mais trop souvent le sujet est considéré tabou par les adultes. Donc pas question d’en parler avec les enfants. Dans la sphère de l’école, aucune séance de travail n’est dédiée à cette question. Pourtant, chacun est concerné dans sa vie professionnelle et personnelle par les principales notions que sont les coûts, les crédits, les prêts, les taux d’intérêt, l’endettement, l’économie à l’échelle de l’individu. Voilà un domaine qui touche chaque Français sans que jamais celui-ci y soit vraiment initié. Que dénonce cette journaliste?",
+        "text": "Apprendre à gérer son argent n'est pas une priorité éducative alors que l'argent nous accompagne toute notre vie. Construire un budget ça s'apprend, mais trop souvent le sujet est considéré tabou par les adultes. Donc pas question d'en parler avec les enfants. Dans la sphère de l'école, aucune séance de travail n'est dédiée à cette question. Pourtant, chacun est concerné dans sa vie professionnelle et personnelle par les principales notions que sont les coûts, les crédits, les prêts, les taux d'intérêt, l'endettement. L'économie à l'échelle de l'individu, voilà un domaine qui touche chaque Français sans que jamais celui-ci y soit vraiment initié. Que dénonce cette journaliste?",
         "audio": "/mp3/158/31.mp3",
         "options": [
             "L'absence de formation sur l'élaboration d'un budget.",
@@ -478,7 +478,7 @@
     {
         "id": 37,
         "testId": 158,
-        "text": "La qualité, vous savez, la qualité, surtout la très grande qualité, tout ça, ça a un prix. Si on veut trouver une place sur le marché, il faut donc, c'est tout un exercice, arriver à produire des aliments à des coûts qui sont quand même abordables. Et c'est l'exercice qui occupe en ce moment Sophie Barry de Carol&E. C'est une petite fabrique de pâtes et de sauces qui est installée à Sabrevois, à Montérégie. Que cherche à faire cette entreprise?",
+        "text": "La qualité, vous savez, la qualité, surtout la très grande qualité, tout ça, ça a un prix. Si on veut trouver une place sur le marché, il faut donc, et c'est tout un exercice, arriver à produire des aliments à des coûts qui sont quand même abordables. Et c'est l'exercice qui occupe en ce moment Sophie Barry de Carol&E. C'est une petite fabrique de pâtes et de sauces qui est installée à Sabrevois, à Montérégie. Que cherche à faire cette entreprise?",
         "audio": "/mp3/158/37.mp3",
         "options": [
             "Améliorer la présentation des produits.",
@@ -505,7 +505,7 @@
     {
         "id": 39,
         "testId": 158,
-        "text": "On voit vraiment que les pratiques culturelles sont clivées et que malheureusement aujourd'hui même au niveau de la jeunesse qui pourrait être fédérée par, par le phénomène générationnel, les pratiques culturelles sont très très séparées. On... Je regrette qu'il n'y ait pas plus de lieux qui permettent aux jeunes de se retrouver sur des terrains festifs. Ça c'est vrai que ce sont, ce sont des moments de se retrouver, de vivre ensemble et sans être dans une posture justement d'affrontement. Et ça, ça manque effectivement il y a les salles de cinéma, même dans les salles de cinéma même dans les multiplexes, on voit que selon les films les publics ne sont pas les mêmes et que effectivement, cela permet à des gens de se retrouver mais ce sont des gens souvent qui ont des pratiques séparées. Quel jugement cette personne porte-t-elle sur les lieux culturels?",
+        "text": "On voit vraiment que les pratiques culturelles sont clivées et que malheureusement aujourd'hui même au niveau de la jeunesse qui pourrait être fédérée par, par le phénomène générationnel, les pratiques culturelles sont très très séparées. On... Je regrette qu'il n'y ait pas plus de lieux qui permettent aux jeunes de se retrouver sur des terrains festifs. Ça c'est vrai que ce sont, ce sont des moments de se retrouver, de vivre ensemble et sans être dans une posture justement d'affrontement. Et ça, ça manque effectivement il y a les salles de cinéma, même dans les salles de cinéma même dans les multiplexes, on voit que selon les films, les publics ne sont pas les mêmes et que effectivement, cela permet à des gens de se retrouver mais ce sont des gens souvent qui ont des pratiques séparées. Quel jugement cette personne porte-t-elle sur les lieux culturels?",
         "audio": "/mp3/158/39.mp3",
         "options": [
             "Elle déplore le manque de structures pour accueillir et réunir les jeunes.",
