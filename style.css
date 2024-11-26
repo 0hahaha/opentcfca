@@ -7,7 +7,7 @@ body {
 .sidebar {
     position: fixed;
     top: 0;
-    width: 290px;
+    width: 500px;
     background: #f4f4f4;
     padding: 20px;
     box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
@@ -30,7 +30,7 @@ body {
     flex-grow: 1;
     margin-top: 100px;
     margin-bottom: 120px;
-    margin-left: 310px;
+    margin-left: 550px;
     margin-right: 150px;
     overflow-y: auto;
     z-index: 0;
@@ -75,6 +75,68 @@ body {
     display: block;
 }
 
+/* .question .question-stat {
+    height: 30px;
+    border: 1px black solid;
+} */
+
+.question .question-stat::after,
+.question-stat::before {
+    content: "";
+    display: block;
+    clear: both;
+    /* Clears floated children */
+}
+
+.question .question-occ {
+    display: inline;
+    float: left;
+    margin: 0;
+}
+
+.question .question-occ span {
+    display: inline-block;
+    padding: 5px;
+    border-radius: 2px;
+    color: white;
+    font-weight: bold;
+    background-color: #1258DC;
+}
+
+.question .question-level {
+    display: inline;
+    float: right;
+    padding: 5px;
+    border-radius: 2px;
+    color: white;
+    font-weight: bold;
+    margin: 0;
+}
+
+.question .question-level-A1 {
+    background-color: #66B032;
+}
+
+.question .question-level-A2 {
+    background-color: #B2D732;
+}
+
+.question .question-level-B1 {
+    background-color: #FDDC22;
+}
+
+.question .question-level-B2 {
+    background-color: #FB9902;
+}
+
+.question .question-level-C1 {
+    background-color: #FC600A;
+}
+
+.question .question-level-C2 {
+    background-color: #FE2712;
+}
+
 .btn {
     display: block;
     width: 100%;
@@ -90,6 +152,19 @@ body {
 
 .btn:hover {
     background: #0056b3;
+}
+
+.btn.btn-cur {
+    color: #007BFF;
+    background: #dddddd;
+}
+
+.btn.btn-correct {
+    background-color: #9BD770;
+}
+
+.btn.btn-wrong {
+    background-color: #FE8176;
 }
 
 .result {
@@ -162,13 +237,28 @@ body {
     border: none;
 }
 
-#back-to-top {
+#back-to-top,
+#play-button,
+#pause-button,
+#stop-button {
     position: fixed;
     bottom: 35px;
     right: 35px;
     padding: 10px;
-    width: auto;
+    width: 100px;
     z-index: 100;
+}
+
+#stop-button {
+    bottom: 105px;
+}
+
+#pause-button {
+    bottom: 175px;
+}
+
+#play-button {
+    bottom: 245px;
 }
 
 #timer {
@@ -176,7 +266,7 @@ body {
     bottom: 0;
     left: 0;
     right: 0;
-    margin-left: 350px;
+    margin-left: 550px;
     margin-right: 150px;
     align-items: center;
     position: fixed;
@@ -238,7 +328,7 @@ body {
     left: 0;
     right: 0;
     top: 0;
-    margin-left: 350px;
+    margin-left: 550px;
     margin-right: 150px;
     padding-top: 20px;
     /* width: 100%; */
@@ -259,6 +349,6 @@ body {
 
 .upc-barcode,
 .ean-barcode {
-  font-family: 'Libre Barcode EAN13 Text';
-  font-size: 128px;
+    font-family: 'Libre Barcode EAN13 Text';
+    font-size: 128px;
 }

@@ -57,6 +57,16 @@ let quizzes = {
         { tcfId: 170, ruId: 34 },
         { tcfId: 160, ruId: 35 },
         { tcfId: 168, ruId: 36 },
+        { tcfId: "all", ruId: "All" },
+        { tcfId: "all-01", ruId: "01" },
+        { tcfId: "all-02", ruId: "02" },
+        { tcfId: "all-03", ruId: "03" },
+        { tcfId: "all-04", ruId: "04" },
+        { tcfId: "all-05", ruId: "05" },
+        { tcfId: "all-06", ruId: "06" },
+        { tcfId: "all-07", ruId: "07" },
+        { tcfId: "all-08", ruId: "08" },
+        { tcfId: "all-09", ruId: "09" },
     ], // Sample quiz IDs for CO
     CE: [
         { tcfId: 149, ruId: 1 },
@@ -97,15 +107,118 @@ let quizzes = {
         { tcfId: 188, ruId: 36 },
         { tcfId: 168, ruId: 37 },
         { tcfId: 173, ruId: 38 },
+        { tcfId: "all", ruId: "All" },
+        { tcfId: "all-01", ruId: "01" },
+        { tcfId: "all-02", ruId: "02" },
+        { tcfId: "all-03", ruId: "03" },
+        { tcfId: "all-04", ruId: "04" },
+        { tcfId: "all-05", ruId: "05" },
+        { tcfId: "all-06", ruId: "06" },
+        { tcfId: "all-07", ruId: "07" },
+        { tcfId: "all-08", ruId: "08" },
+        { tcfId: "all-09", ruId: "09" },
     ] // Sample quiz IDs for CE
 };
+let qLevel = ["A1", "A2", "B1", "B2", "C1", "C2"];
 let quizList = {
     CO: quizListCo,
     CE: quizListCe
 };
 let currentQuizData = [];
 let userAnswers = []; // To track user answers for scorings
+let audioElements = [];
+let currentIndex = 0; // Track the current audio index
+let isPaused = false; // Track whether playback is paused
+let currentAudio = null; // Keep reference to the current playing audio
+let curQ = -1;
 
+function goQuestion(index) {
+    if (curQ != index) {
+        qlists = questionNavList.childNodes;
+        if (0 <= curQ && curQ < qlists.length) {
+            qlists[curQ].classList.remove("btn-cur");
+        }
+        qlists[index].classList.add("btn-cur");
+        curQ = index;
+    }
+}
+
+function correctQuestion(index) {
+    qlists = questionNavList.childNodes;
+    qlists[index].classList.remove("btn-wrong");
+    qlists[index].classList.add("btn-correct");
+}
+
+function wrongQuestion(index) {
+    qlists = questionNavList.childNodes;
+    qlists[index].classList.remove("btn-correct");
+    qlists[index].classList.add("btn-wrong");
+}
+
+function resetQuestion(index) {
+    qlists = questionNavList.childNodes;
+    qlists[index].classList.remove("btn-correct", "btn-wrong");
+}
+
+function playSequentially(index = currentIndex) {
+    if (index < audioElements.length) {
+        currentIndex = index; // Update the current index
+        currentAudio = audioElements[index]; // Get the current audio
+        if (Array.isArray(currentAudio)) {
+            currentAudio = currentAudio[0];
+        }
+
+        document.getElementById("play-button").innerHTML = "Play " + (index + 1) + "/" + audioElements.length;
+        // Play the current audio
+        currentAudio.play();
+
+        // When it ends, move to the next one
+        currentAudio.addEventListener("ended", onAudioEnded);
+        goQuestion(index);
+    }
+}
+
+// Event listener for when audio ends
+function onAudioEnded() {
+    currentAudio.removeEventListener("ended", onAudioEnded); // Clean up event
+    playSequentially(currentIndex + 1); // Play the next audio
+}
+
+function playStop() {
+    if (currentAudio) {
+        currentAudio.pause(); // Pause the current audio
+        currentAudio.currentTime = 0; // Reset the playback position to the beginning
+    }
+    currentAudio = null; // Reset the currentAudio reference to null
+    currentIndex = 0; // Reset the sequence to start from the first audio
+    isPaused = false; // Reset the paused state
+    document.getElementById("play-button").innerHTML = "Play";
+}
+
+// Play Button Handler
+document.getElementById("play-button").addEventListener("click", () => {
+    if (isPaused && currentAudio) {
+        // Resume playback if paused
+        isPaused = false;
+        currentAudio.play();
+    } else {
+        // Start playback from the beginning or current index
+        playSequentially(currentIndex);
+    }
+});
+
+// Pause Button Handler
+document.getElementById("pause-button").addEventListener("click", () => {
+    if (currentAudio) {
+        isPaused = true;
+        currentAudio.pause(); // Pause the current audio
+    }
+});
+
+// Stop Button Handler
+document.getElementById("stop-button").addEventListener("click", () => {
+    playStop()
+});
 
 function displayQuizList(category) {
     quizList[category].innerHTML = '';
@@ -139,6 +252,9 @@ function renderQuiz(category, data) {
 
     textDisplay = category == 'CO' ? 'none' : 'block';
 
+    audioElements = [];
+    playStop();
+
     data.forEach((questionData, index) => {
         const questionElement = document.createElement('div');
         questionElement.classList.add('quiz-container', 'question');
@@ -148,21 +264,44 @@ function renderQuiz(category, data) {
         questionNumber.innerText = `Question ${questionData.id}`;
         questionElement.appendChild(questionNumber);
 
+        const questionStat = document.createElement('div');
+        questionStat.classList.add('question-stat');
+        questionElement.appendChild(questionStat);
+
+        if (Object.hasOwn(questionData, 'testIds')) {
+            const questionOcc = document.createElement('p');
+            questionOcc.classList.add("question-occ");
+            questionOcc.innerHTML = questionData.testIds.map(id => "<span>" + id + "</span>").join(" ");
+            questionStat.appendChild(questionOcc);
+        }
+
+        if (Object.hasOwn(questionData, 'id_avg')) {
+            const questionLevel = document.createElement('p');
+            const level = qLevel[getLevelForQuestion(questionData.id_avg)]
+            questionLevel.classList.add("question-level", "question-level-" + level)
+            questionLevel.innerText = level
+            questionStat.appendChild(questionLevel);
+        }
+
         if (category == 'CO') {
             if (Array.isArray(questionData.audio)) {
+                let audios = [];
                 for (i in questionData.audio) {
                     const audio = document.createElement('audio');
                     audio.preload = 'none';
                     audio.controls = true;
                     audio.src = host + questionData.audio[i];
                     questionElement.appendChild(audio);
+                    audios.push(audio);
                 }
+                audioElements.push(audios);
             } else {
                 const audio = document.createElement('audio');
                 audio.preload = 'none';
                 audio.controls = true;
                 audio.src = host + questionData.audio;
                 questionElement.appendChild(audio);
+                audioElements.push(audio);
             }
 
             if (Object.hasOwn(questionData, 'audioAI')) {
@@ -267,8 +406,17 @@ function renderQuiz(category, data) {
                 top: targetPosition,
                 behavior: 'instant'
             });
+
+            goQuestion(index);
+
+            if (category == 'CO') {
+                playStop();
+                currentIndex = index;
+            }
         });
     });
+
+    goQuestion(0);
 
     // Render LaTeX using MathJax
     MathJax.typesetPromise().then(() => {
@@ -283,11 +431,11 @@ function toggleTextDisplay(displayText, questionIndex) {
 
     if (quizText.style.display === 'none') {
         quizText.style.display = 'block';
-        quizQuestion.style.display = 'block';
+        // quizQuestion.style.display = 'block';
         displayText.innerText = 'Hide the Text';
     } else {
         quizText.style.display = 'none';
-        quizQuestion.style.display = 'none';
+        // quizQuestion.style.display = 'none';
         displayText.innerText = 'Display the Text';
     }
 }
@@ -300,12 +448,17 @@ function toggleAnswerDisplay(displayButton, questionIndex) {
     if (resultDiv.style.display === 'none' || resultDiv.style.display === '') {
         // Show the correct answer
         questionElement.querySelectorAll('ul.quiz-options li').forEach((li, optionIndex) => {
+            const selectedOption = document.querySelector(`input[name="quiz-${questionIndex}"]:checked`);
             if (optionIndex === correctAnswerIndex) {
+                console.log(optionIndex, correctAnswerIndex);
                 li.classList.add('correct');
+                if (selectedOption && parseInt(selectedOption.value) === optionIndex) {
+                    correctQuestion(questionIndex);
+                }
             } else {
-                const selectedOption = document.querySelector(`input[name="quiz-${questionIndex}"]:checked`);
                 if (selectedOption && parseInt(selectedOption.value) === optionIndex) {
                     li.classList.add('wrong');
+                    wrongQuestion(questionIndex);
                 }
             }
         });
@@ -315,6 +468,7 @@ function toggleAnswerDisplay(displayButton, questionIndex) {
         // Hide the correct answer
         questionElement.querySelectorAll('ul li').forEach((li) => {
             li.classList.remove('correct', 'wrong');
+            resetQuestion(questionIndex);
         });
         resultDiv.style.display = 'none';
         displayButton.innerText = 'Display Answer';
@@ -327,7 +481,7 @@ function calculateScore() {
 
     currentQuizData.forEach((questionData, index) => {
         const userAnswer = userAnswers[index];
-        const points = getPointsForQuestion(questionData.id);
+        const points = getPointsForQuestion(questionData.id_avg || questionData.id);
 
         if (userAnswer !== null) {
             const correctAnswerIndex = questionData.answer;
@@ -353,6 +507,15 @@ function getPointsForQuestion(questionId) {
     return 0;
 }
 
+function getLevelForQuestion(questionId) {
+    if (questionId < 5) return 0;
+    if (questionId < 11) return 1;
+    if (questionId < 20) return 2;
+    if (questionId < 30) return 3;
+    if (questionId < 36) return 4;
+    return 5;
+}
+
 function updateScoreDisplay() {
     const { totalScore, maxScore } = calculateScore();
     scoreSpan.innerText = totalScore;
@@ -372,12 +535,16 @@ displayAllButton.addEventListener('click', () => {
 
         if (areAllAnswersVisible) {
             questionElement.querySelectorAll('ul.quiz-options li').forEach((li, optionIndex) => {
+                const selectedOption = document.querySelector(`input[name="quiz-${index}"]:checked`);
                 if (optionIndex === correctAnswerIndex) {
                     li.classList.add('correct');
+                    if (selectedOption && parseInt(selectedOption.value) === optionIndex) {
+                        correctQuestion(index);
+                    }
                 } else {
-                    const selectedOption = document.querySelector(`input[name="quiz-${index}"]:checked`);
                     if (selectedOption && parseInt(selectedOption.value) === optionIndex) {
                         li.classList.add('wrong');
+                        wrongQuestion(index);
                     }
                 }
             });
@@ -387,6 +554,7 @@ displayAllButton.addEventListener('click', () => {
         } else {
             questionElement.querySelectorAll('ul.quiz-options li').forEach((li) => {
                 li.classList.remove('correct', 'wrong');
+                resetQuestion(index)
             });
             resultDiv.style.display = 'none';
             displayButton.innerText = 'Display Answer';
@@ -466,7 +634,7 @@ window.MathJax = {
 const renderer = new marked.Renderer();
 
 // Override the default image renderer for audio
-renderer.image = ({href, title, text}) => {
+renderer.image = ({ href, title, text }) => {
     console.log(typeof href, href)
     if (href.endsWith('.mp3') || href.endsWith('.wav')) {
         return `<audio controls ${title ? `title="${title}"` : ''}>
