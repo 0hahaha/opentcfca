@@ -483,10 +483,10 @@
     {
         "id": 38,
         "testId": 157,
-        "text": "Le contrôle, en toute matière, aboutit à pervertir l'action. Dès qu'une action est soumise à un contrôle, le but profond de celui qui agit n'est plus l’action, mais la prévision du contrôle, la mise en échec des moyens de contrôle. Le contrôle des études n'est qu'un cas particulier et une démonstration éclatante de cette observation très générale. Le diplôme donne à la société un fantôme de garantie, et aux diplômés des fantômes de droits. Le diplômé passe officiellement pour détenir un savoir : il garde toute sa vie ce brevet d'une science momentanée. C'est pour accéder au diplôme qu'on a vu se substituer à la lecture des auteurs, l'usage des résumés, des manuels, des recueils de questions et de réponses toutes faites et d'autres abominations.",
+        "text": "Le contrôle, en toute matière, aboutit à pervertir l'action... Dès qu'une action est soumise à un contrôle, le but profond de celui qui agit n'est plus l'action, mais la prévision du contrôle, la mise en échec des moyens de contrôle. Le contrôle des études n'est qu'un cas particulier et une démonstration éclatante de cette observation très générale. Le diplôme donne à la société un fantôme de garantie, et aux diplômés des fantômes de droits. Le diplômé passe officiellement pour détenir un savoir : il garde toute sa vie ce brevet d'une science momentanée. C'est pour accéder au diplôme qu'on a vu se substituer à la lecture des auteurs, l'usage des résumés, des manuels, des recueils de questions et de réponses toutes faites et autres abominations.",
         "query": "Que soutient l’auteur de ce texte à propos du contrôle ?",
         "options": [
-            "Contribue à améliorer les méthodes d'apprentissage.",
+            "Il contribue à améliorer les méthodes d'apprentissage.",
             "Il est indispensable pour accéder au monde professionnel.",
             "Il permet de certifier les compétences réelles d’un candidat.",
             "Il perturbe le processus d'acquisition des connaissances."

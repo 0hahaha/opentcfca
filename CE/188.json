@@ -54,7 +54,7 @@
     {
         "id": 5,
         "testId": 188,
-        "text": "Vous êtes passionné de photographie et vous voulez partager vos créations?\n\nInscrivez-vous au Prix du « **Petit Reporter** » : envoyez une photo sur le thème de l'amitié au club « **Images** » ! Un appareil photo à gagner! Inscriptions:\n\n**www.clublmages.fr/Prix_PetitReporter**",
+        "text": "# <p style=\"text-align: center;\">images</p>\n\n<p style=\"text-align: center; line-height: 150%; font-size: x-large;\">Vous êtes passionné de photographie et vous <br/> voulez partager vos créations ? <br/> Inscrivez-vous au Prix du « Petit Reporter » : <br/> envoyez une photo sur le thème de l'amitié au <br/> club « Images » ! Un appareil photo à gagner ! <br/> Inscriptions : <br/> <u>www.clublmages.fr/Prix_PetitReporter</u></p>",
         "query": "Que propose le club « Images » ?",
         "options": [
             "D'acheter du matériel en soldes.",

@@ -41,12 +41,12 @@
     {
         "id": 4,
         "testId": 171,
-        "text": "# <p style=\"text-align: center;\">images</p>\n\n<p style=\"text-align: center; line-height: 150%; font-size: x-large;\">Vous êtes passionné de photographie et vous <br/> voulez partager vos créations ? <br/> Inscrivez-vous au prix du « Petit Reporter » : <br/> envoyez une photo sur le thème de l'amitié au <br/> club « Images » ! Un appareil photo à gagner ! <br/> Inscriptions : <br/> <u>www.clublmages.fr/Prix PetitReporter</u></p>",
-        "query": "Que propose le club « images » ?",
+        "text": "# <p style=\"text-align: center;\">images</p>\n\n<p style=\"text-align: center; line-height: 150%; font-size: x-large;\">Vous êtes passionné de photographie et vous <br/> voulez partager vos créations ? <br/> Inscrivez-vous au Prix du « Petit Reporter » : <br/> envoyez une photo sur le thème de l'amitié au <br/> club « Images » ! Un appareil photo à gagner ! <br/> Inscriptions : <br/> <u>www.clublmages.fr/Prix_PetitReporter</u></p>",
+        "query": "Que propose le club « Images » ?",
         "options": [
             "D'acheter du matériel en soldes.",
             "De participer à un concours.",
-            "De rencontre des professionnels.",
+            "De rencontrer des professionnels.",
             "De suivre des cours débutants."
         ],
         "answer": 1
@@ -222,6 +222,7 @@
     },
     {
         "id": 18,
+        "testId": 171,
         "text": "## <p style=\"padding: 15px; color: white; background: #222222;\">PÉDAGOGIE<p>\n\nTwitter dès l'école primaire, pour donner le goût d'écrire, de lire et de l'orthographe. Un instituteur raconte :\n\n*« J'utilise Twitter dans ma classe depuis un an. Les productions d'élèves sont de plus en plus intéressantes. Grâce à Twitter, je peux approfondir les notions de façon concrète.*\n\n*Les activités scolaires paraissent artificielles, hors contexte voire dénuées de sens. Pourquoi essayer de maîtriser l'écriture ? Les enfants n'y songent même pas car leurs travaux sont cantonnés à des cahiers, eux-mêmes enfermés dans des casiers ou des cartables. Ils n'ont pas l'occasion de partager leurs productions, de les confronter, d'argumenter leurs choix. »*",
         "query": "D'après cet article, qu'apporte l'utilisation de Twitter aux élèves ?",
         "options": [

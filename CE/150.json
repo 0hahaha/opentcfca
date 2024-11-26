@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "testId": "150",
+        "testId": 150,
         "text": "Vous voulez découvrir d'autres cultures ? vous voulez parler anglais, français, espagnol ?\n\nLeçons à la maison ou au centre Bernardisilmo.\n\nInformation au 01 03 02 06 65",
         "query": "Qu'est ce que propose cette publicité ?",
         "options": [
@@ -14,7 +14,7 @@
     },
     {
         "id": 2,
-        "testId": "150",
+        "testId": 150,
         "text": "Faites confiance à l'entreprise pour tous vous envois urgents.\n\nNous prenons vos paquets à domicile ou dans les bureaux de poste et nous les envoyons dans le monde entier.",
         "query": "Que propose cette entreprise ?",
         "options": [
@@ -27,7 +27,7 @@
     },
     {
         "id": 3,
-        "testId": "150",
+        "testId": 150,
         "text": "Je suis bien arrivé chez moi. Je t'appelle demain pour aller voir le film. Je t'embrasse.\n\nCyprien.",
         "query": "Où est Cyprien ?",
         "options": [
@@ -40,7 +40,7 @@
     },
     {
         "id": 4,
-        "testId": "150",
+        "testId": 150,
         "text": "Pierre, n'oubliez pas notre déjeuner au restaurant. Je vous attends devant l'ascenseur.\n\nAlice",
         "query": "Pourquoi est-ce qu'Alice attend Pierre ?",
         "options": [
@@ -53,7 +53,7 @@
     },
     {
         "id": 5,
-        "testId": "150",
+        "testId": 150,
         "text": "Françoise,\n\nPouvons-nous nous rencontrer dans ton bureau demain matin ?\n\nAriane.",
         "query": "Pourquoi Ariane écrit-elle ce message ?",
         "options": [
@@ -66,7 +66,7 @@
     },
     {
         "id": 6,
-        "testId": "150",
+        "testId": 150,
         "text": "Le Forum de Paris s'adresse aux jeunes de moins de trente ans, avec ou sans diplôme. Des milliers d'offres sont disponibles dans près de 300 métiers. Chaque année, un grand nombre de jeunes signent un contrat de travail lors du salon.",
         "query": "Pourquoi le Forum de Paris est-il utile aux jeunes ?",
         "options": [
@@ -79,7 +79,7 @@
     },
     {
         "id": 7,
-        "testId": "150",
+        "testId": 150,
         "text": "## <p style=\"text-align: center;\">Jardin de la Fontaine</p>\n\n### <p style=\"text-align: center;\">Ouverture - Fermeture</p>\n\n<p style=\"text-align: center;\">Du 1<sup>er</sup> septembre au 31 mars <br/> 7 h 30 - 18 h 30 <br/> Du 1<sup>er</sup> avril 30 juin <br/> 7 h 30 - 20 h 30 <br/> Du 1<sup>er</sup> juillet au 31 août <br/> 7 h 00 - 22 h 30</p>",
         "query": "Quand peut-on se promener dans le parc après 18 h 30 ?",
         "options": [
@@ -92,7 +92,7 @@
     },
     {
         "id": 8,
-        "testId": "150",
+        "testId": 150,
         "text": "1kg de pommes\n\nSalade\n\nMouchoirs en papier",
         "query": "Où trouve-t-on ces produits?",
         "options": [
@@ -105,7 +105,7 @@
     },
     {
         "id": 9,
-        "testId": "150",
+        "testId": 150,
         "text": "Bonjour Ahmed,\n\nCe message pour te rappeler la réunion de lundi. Nous commanderons des paniers repas pour le midi car la séance peut durer longtemps : les dossiers à traiter sont nombreux. Peux-tu en informer les personnes des services concernés ? Merci d'avance. À lundi.\n\nPierre",
         "query": "Que demande Pierre à Ahmed ?",
         "options": [
@@ -118,7 +118,7 @@
     },
     {
         "id": 10,
-        "testId": "150",
+        "testId": 150,
         "text": "Madame, Monsieur,\n\n<br/>En raison de travaux rue Paul Vaillant, l'accès à la piscine municipale se fera côté boulevard Camélinat, du 15 au 26 mars inclus. Veuillez nous excuser pour la gêne occasionnée.\n\n<br/>Le service municipal.",
         "query": "Quelle information est donnée au sujet de la piscine ?",
         "options": [
@@ -131,7 +131,7 @@
     },
     {
         "id": 11,
-        "testId": "150",
+        "testId": 150,
         "text": "**Chers amis,**\n\nNous aimerions vous avoir à notre soirée pour fêter la nouvelle année. Soyez là pour 21 h 00 en tenue décontractée, nous sommes entre amis.\n\n**<p style=\"text-align: right;\">Céline et Redha</p>**",
         "query": "Pourquoi Céline et Redha invitent-ils des amis ?",
         "options": [
@@ -144,7 +144,7 @@
     },
     {
         "id": 12,
-        "testId": "150",
+        "testId": 150,
         "text": "Clément et Pierre vont participer au tour automobile 4L Trophy au Maroc. Ils vont apporter 40kg de matériel et 10kg de nourriture à une école. Les deux amis recherchent des solutions pour payer leur voyage. Vous voulez les aider ? [c&p@4Ltrophy.fr]()",
         "query": "De quoi ont besoin Clément et Pierre ?",
         "options": [
@@ -157,7 +157,7 @@
     },
     {
         "id": 13,
-        "testId": "150",
+        "testId": 150,
         "text": "***Chers collègues,***\n\nVeuillez rendre au plus tard vendredi midi votre feuille de demande de congés. Nous vous rappelons qu'il est essentiel pour le bon fonctionnement de notre société pendant la période estivale et pour satisfaire toutes vos demandes que ces feuilles soient dument complétées et remises le plus tôt possible à votre responsable. Nous vous remercions de votre collaboration et nous vous souhaitons une bonne semaine.\n\n***<div style=\"text-align: right;\">La direction des ressources humaines.</div>***",
         "query": "Dans ce message électronique, que demande -t-on aux employés ?",
         "options": [
@@ -170,7 +170,7 @@
     },
     {
         "id": 14,
-        "testId": "150",
+        "testId": 150,
         "text": "***« L'internaute.fr » vous informe sur la protection de l'environnement.***\n\nChaque année, c'est environ un million de tonnes de courriers non adressés qui arrivent dans les boites aux lettres des Français. Ces courriers sont des publicités de supermarchés ou des journaux gratuits. Or, il vaudrait mieux limiter la production de papier inutile. La meilleure méthode consiste à poser un autocollant « Stop Pub », disponible gratuitement sur le site du ministère de l'Écologie. Lorsqu'il s'agit de courrier adressé à votre nom, vous pouvez solliciter la liste Robinson pour demander de ne plus recevoir de courrier envoyé par les listes de marketing.",
         "query": "Quel est l'objectif de l’article de « L'internaute.fr » ?",
         "options": [
@@ -183,7 +183,7 @@
     },
     {
         "id": 15,
-        "testId": "150",
+        "testId": 150,
         "text": "Des ingénieurs travaillent très sérieusement à la réalisation d'un bus, semblable à un tramway tunnel qui circulera au-dessus des files de voitures pour dégager le trafic dans les zones urbaines. L'engin sera entièrement électrique et pourra transporter 1200 personnes à une vitesse de 60 km/heure. Pour que les automobilistes « au-dessous » évoluent sans danger, des feux places dans la partie inférieure du bus signaleront ses changements de direction.",
         "query": "Quel sera l’atout de ce moyen de transport ?",
         "options": [
@@ -196,7 +196,7 @@
     },
     {
         "id": 16,
-        "testId": "150",
+        "testId": 150,
         "text": "Pas facile de trouver le juste équilibre entre respect et liberté. Le principal du lycée Charles-de-Gaulle a décidé de demander à ses élèves de ne plus porter de vêtements de sport en cours. Les survêtements sont réservés aux cours de sport. Le principal estime que « c'est une question de respect et de propreté. Un survêtement, ce n'est pas assez habillé pour venir au lycée ». Les élèves qui n'étaient pas du même avis n'ont pas été accepté en cours.",
         "query": "Pourquoi la direction de cet établissement interdit-elle la tenue de sport en classe ?",
         "options": [
@@ -209,7 +209,7 @@
     },
     {
         "id": 17,
-        "testId": "150",
+        "testId": 150,
         "text": "Courir les 42,195 km du marathon de Paris ne s'improvise pas. C'est une course qui nécessite de s'entraîner régulièrement et d'être capable de surmonter le « mur de douleur » qui survient chez tous les marathoniens entre le 32ᵉ et le 37ᵉ kilomètre. « Pour espérer terminer l'épreuve, il faut courir depuis au moins un an et dans les dix dernières semaines, faire trois à quatre heures d'entrainement hebdomadaires réparties en autant de séances », insiste un organisateur de stages de préparation.",
         "query": "Quel est le conseil de cet organisateur avant de participer au marathon ?",
         "options": [
@@ -222,7 +222,7 @@
     },
     {
         "id": 18,
-        "testId": "150",
+        "testId": 150,
         "text": "Pour trouver des personnalités sortant du lot à fort potentiel d'évolution, un cabinet de recrutement organise des entretiens individuels sans consulter au préalable le dossier des candidats. Confrontés à une étude de cas, une discussion d'idées ou un questionnaire croisé, ils peuvent se démarquer grâce à leur savoir-être ou à un talent particulier.\n\nLes entretiens n'ont pas pour enjeu de poste précis, ils visent à constituer une réserve de talents, dans laquelle il sera possible de puiser.\n\nUn cadre ayant testé ce système voit le recrutement différemment : « On se retrouve en position d'égal à égal ».",
         "query": "Quelle est la méthode de recrutement retenue par le cabinet ?",
         "options": [
@@ -235,7 +235,7 @@
     },
     {
         "id": 19,
-        "testId": "150",
+        "testId": 150,
         "text": "**<div align=\"center\"><u>Avis de Sonia sur www.village.vacances.fr</u></div>**\n\nC'était notre première expérience en Villages Vacances. Nous avons découvert un produit complet: (hébergement, restauration, activités et services). Des activités sont prévues durant la journée pour les parents et les enfants. Notre petite Mathilde a fait gratuitement de la natation et du cheval !",
         "query": "Que proposent les Villages Vacances aux enfants ?",
         "options": [
@@ -248,7 +248,7 @@
     },
     {
         "id": 20,
-        "testId": "150",
+        "testId": 150,
         "text": "## <p align=\"center\">LE DIAMANT D'ESPELETTE</p>\n\n<br/>Le piment d'Espelette, qui célèbre actuellement sa fête, est probablement aujourd'hui le produit le plus emblématique du Pays basque. Il a pourtant failli devenir un produit banal, c'est-à-dire le contraire absolu de ce qu'il est vraiment. Au début des années 90, on trouvait en effet et on produisait du piment, dit d'Espelette, en Afrique du Nord, en Corse, en Espagne… Bref partout où on aime ce goût puissant et peu piquant qui fait sa légitime réputation. Or les Basques n'aiment pas se faire voler leurs traditions. Ils ont donc obtenu en juin 2000 l'appellation d'origine contrôlée (AOC) interdisant tout plagiat. Aujourd'hui le diamant rouge d'Espelette est particulièrement apprécié de certains grands chefs qui l'utilisent pour faire «exploser» les saveurs.",
         "query": "L'appellation d'origine contrôlée accordée au piment d'Espelette permet aux Basques…",
         "options": [
@@ -261,7 +261,7 @@
     },
     {
         "id": 21,
-        "testId": "150",
+        "testId": 150,
         "text": "Théo, la poupée « inter-affective ». Théo a deux ans. Il mesure 52 cm et communique spontanément avec sa maman. Lancé par Berchet, ce robot est bourré d'électronique et de capteurs pour interagir avec l'enfant. Ainsi, Théo dort lorsqu'il fait nuit, se réveille au lever du jour, réclame à manger ou à boire et même à aller au pot. Sa voix numérisée est d'un naturel confondant. Surtout, il s'adapte aux capacités de jeux de chaque enfant : plus il manifestera son désir de jouer, plus le jouet sera réactif.",
         "query": "La voix numérisée de Théo est d'un \"naturel confondant\", ce qui signifie qu'elle...",
         "options": [
@@ -274,7 +274,7 @@
     },
     {
         "id": 22,
-        "testId": "150",
+        "testId": 150,
         "text": "# Erasmus,\n\nLe programme d'échange d'étudiants entre les universités européennes a du plomb dans l'aile. Au point qu'en France près de quatre mille bourses n'ont pas trouvé preneur. Ce phénomène n'est pas spécifique à la France puisqu'une baisse de dix pour cent aurait été enregistrée dans une dizaine de pays. Toutes les études traduisent une absence de désir de mobilité chez les jeunes. Parmi les explications avancées, le coût mais surtout une préférence marquée pour les stages en entreprise. Voilà le grand concurrent d'Erasmus depuis quelques années: l’attention portée à l'insertion professionnelle.",
         "query": "Qu'explique le texte au sujet du programme Erasmus?",
         "options": [
@@ -287,7 +287,7 @@
     },
     {
         "id": 23,
-        "testId": "150",
+        "testId": 150,
         "text": "Savoir opter pour la bonne route n’est pas tout. L’ultime clé pour gagner la course de la Route du Rhum, c’est la connaissance de soi et tout particulièrement de ses rythmes de sommeil. C’est un des aspects les plus méconnus de la voile de compétition, mais c’est sur la faculté de récupération que peut se jouer un podium. Ainsi, Alain Gautier reconnaît avoir perdu la dernière Route du rhum parce qu’il n’a pas su, dès les premiers jours de la course, gérer correctement ses phases de repos. «À la fin, j’ai manqué de lucidité et j’ai commis des erreurs», avoue-t-il après sa défaite.",
         "query": "Quel conseil donne le journaliste pour remporter la course?",
         "options": [
@@ -300,7 +300,7 @@
     },
     {
         "id": 24,
-        "testId": "150",
+        "testId": 150,
         "text": "Le château de la Bussière est une demeure du 17e siècle, située dans le Loiret. Surnommé le « château des Pêcheurs », il possède des collections d'objets rares sur la pêche. Sans oublier un superbe parc. Aujourd'hui, ce monument est confronté à un fléau : un champignon ronge ses édifices.\n\nLes propriétaires ont déjà lancé une campagne de restauration mais le champignon s'attaque aussi à d'autres parties du domaine.\n\nLes maîtres des lieux souhaitent que le bâtiment retrouve son éclat en sollicitant les internautes. À partir de 15€, les contributeurs pourront recevoir des entrées gratuites, l'inscription de leur nom sur une plaque dans le château ou bien encore un dîner avec les propriétaires.",
         "query": "D'après l’article, à quoi les internautes sont-ils encouragés ?",
         "options": [
@@ -313,7 +313,7 @@
     },
     {
         "id": 25,
-        "testId": "150",
+        "testId": 150,
         "text": "Sandrine Mercier et Michel Fonovich ont le voyage dans la peau. Les deux journalistes ont longtemps exploré le monde avant d'écrire un livre ensemble. *Ils sont partis vivre ailleurs* est constitué des histoires d'une trentaine d'expatriés et d'autant de destins et de trajectoires. Les auteurs sont allés chercher des personnages tous très différents mais toujours touchants et sincères en racontant leurs parcours lointains-l'appel du large, les premiers pas, les déceptions, le rapport à la France, la découverte des autres... C'est certainement ce qui unit tous ces Français du bout du monde, par-delà leurs différences et leurs expériences : une ouverture d'esprit, une volonté de partager et, au final, une richesse et une joie de vivre communicative.",
         "query": "D'après l'auteur de cet article, quelle est la particularité de cet ouvrage ?",
         "options": [
@@ -326,7 +326,7 @@
     },
     {
         "id": 26,
-        "testId": "150",
+        "testId": 150,
         "text": "# <p style=\"line-height: 120%\">Longtemps délaissées, les algues semblent peu à peu séduire les consommateurs</p>\n\n---\n\nEn raison de leur confusion avec les algues vertes qui polluent le littoral, ces légumes de mer sont parfois mal considérés. Pourtant, si les algues ne font pas encore partie de notre univers culturel alimentaire, leur consommation est en progression. « Les Occidentaux sont-ils prêts à en faire un produit courant ? » questionne le docteur Arnaud Cocaul. Pas sûr. « Malgré leurs bienfaits nutritionnels, leur consommation restera sans doute limitée », estime ce nutritionniste.",
         "query": "Quelle place occupent les algues en France ?",
         "options": [
@@ -339,7 +339,7 @@
     },
     {
         "id": 27,
-        "testId": "150",
+        "testId": 150,
         "text": "Depuis plusieurs années, Thierry Marx, un grand chef français, intervient pour donner des cours de cuisine en prison. Faire découvrir à ce public, contraint de vivre en milieu fermé, qu’une profession, quelle qu’elle soit, peut être épanouissante, est une tâche qui le passionne et nécessite très naturellement une grande énergie. Le désir de rallumer cette lueur d’espoir, de montrer «qu’après», il peut y avoir une réinsertion réussie et que chacun la porte en lui, est un moteur pour relever ce défi.",
         "query": "Pourquoi Thierry Marx intervient-il dans les prisons?",
         "options": [
@@ -352,7 +352,7 @@
     },
     {
         "id": 28,
-        "testId": "150",
+        "testId": 150,
         "text": "L’institution scolaire devra sans cesse être défendue, ne serait-ce que parce que la «société civile» n’aura de cesse de vouloir assujettir l’école à ses demandes particulière. Il faut sans cesse rappeler, par exemple, que les règles de l’école ne sont pas celles de la maison. Car l’enfant n’y est plus seulement un enfant, il y est un élève. À l’école on ne se préoccupe plus du confort et de l’affection pour l’enfant. On s’adresse à l’intelligence de l’élève. Le rapport maitre/élève n’est d’ailleurs pas un rapport affectif: on ne demande pas à un professeur d’être sympathique. On lui demande d’être exigeant et juste.",
         "query": "Quelle est l’opinion de l’auteur?",
         "options": [
@@ -365,7 +365,7 @@
     },
     {
         "id": 29,
-        "testId": "150",
+        "testId": 150,
         "text": "Durant les investigations journalistiques, le recours à la caméra cachée est de plus en plus fréquent. Mais souvent, son utilisation n'est aussi qu'un cache-misère, un moyen de compenser l'absence d'informations dans les reportages, de remplir le vide par des scènes un peu spectaculaires. C'est une manière pour certains aussi de faire des économies. Par ailleurs, cette pratique pose une autre question : celle du statut de la personne filmée à son insu. La filmer en caméra cachée, n'est-ce pas supposer qu'elle a quelque chose à se reprocher avant d'avoir commencé à parler ?",
         "query": "D'après ce texte, pourquoi les journalistes utilisent-ils des caméras cachées ?",
         "options": [
@@ -378,7 +378,7 @@
     },
     {
         "id": 30,
-        "testId": "150",
+        "testId": 150,
         "text": "Trouver un logement dans une ville étudiante est un parcours du combattant pour un grand nombre d’inscrits dans l’enseignement supérieur. La barrière est parfois infranchissable. Non seulement les loyers sont élevés mais la sélection des candidats par les propriétaires est très dure, souvent basée sur le niveau de revenus des garants. Pour lever ce frein, la caution locative étudiante (CLE) vient d’être généralisée à l’ensemble du territoire national après avoir été expérimentée dans quatre régions pendant un an. Avec ce dispositif, c’est l’État qui se porte garant du versement des loyers des étudiants en cas de non paiement.",
         "query": "Quel est le principal obstacle à l’accès au logement des étudiants selon cette analyse?",
         "options": [
@@ -391,7 +391,7 @@
     },
     {
         "id": 31,
-        "testId": "150",
+        "testId": 150,
         "text": "Après avoir été fermée au public pendant douze ans, la grotte préhistorique d'Altamira, située en Espagne, doit rouvrir ses portes mais de manière expérimentale. Il s'agit d'une expérience réservée à un groupe de cinq personnes tirées au hasard parmi les visiteurs du musée du site, qui vont pouvoir contempler les peintures rupestres originales. Cette expérience se déroulera une fois par semaine pendant huit mois afin de permettre à une équipe de scientifiques d'évaluer l'impact des visites sur l'ensemble du site et de donner son avis sur une réouverture complète.",
         "query": "Qu'évoque-t-on dans cet article?",
         "options": [
@@ -404,7 +404,7 @@
     },
     {
         "id": 32,
-        "testId": "150",
+        "testId": 150,
         "text": "Pas de clash ni de portes qui claquent. À l’issue de la deuxième conférence sociale, le gouvernement peut au moins se réjouir de ce résultat. Les représentants du patronat et des syndicats n’ont pas applaudi à tout rompre l’intervention du premier ministre mais il n’y a pas non plus eu de fâcherie comme celle qui avait marqué la première conférence. Si certains se sont dits déçus par la minceur des annonces que le premier ministre a dévoilées ou par les zones de flou qui règnent sur plusieurs dossiers brûlants «les retraites en tête» personne n’a non plus eu vent de colères. Il faut dire que pendant deux jours, ministres et conseillers se sont échinés à repousser les points qui fâchent à plus tard.",
         "query": "Quel a été l’aboutissement de la conférence?",
         "options": [
@@ -417,7 +417,7 @@
     },
     {
         "id": 33,
-        "testId": "150",
+        "testId": 150,
         "text": "Des taxes «vertes» ou taxes carbone sont envisagées pour faire face aux financements nécessaires d’énergies non polluantes. Les mécanismes prévus dans le protocole de Kyoto concernent notamment un crédit carbone qui représente un volume d’émission de gaz à effet de serre (GES) évité et permis d’émission négociables. Le crédit carbone est doté d’une valeur marchande et s’échange entre pays industrialisés. Un pays n’arrivant pas à atteindre son objectif de réduction des GES pourrait acheter des crédits carbone à un autre pays qui aurait dépassé son objectif. Ce système a été parfois qualifié de permis à polluer car un pays riche pourrait acheter le droit de polluer à un autre ayant réellement réduit ses émissions.",
         "query": "Quel est le paradoxe de la taxe carbone?",
         "options": [
@@ -430,7 +430,7 @@
     },
     {
         "id": 34,
-        "testId": "150",
+        "testId": 150,
         "text": "Quel visage Paris pourrait-il prendre en 2100? C’est ce que le collectif d’architectes «Et alors…» a imaginé au travers de vingt cartes postales géantes, exposées à Paris. Ce qui donne un résultat surprenant, parfois utopique, parfois réaliste.\n\n Ainsi l’idée d’une centrale hydrothermique pour chauffer et refroidir tout un quartier, projet de la Compagnie Parisienne du Chauffage Urbain. Des potagers «partagés» au pied des immeubles en plein centre-ville, cela ressemble plus à un clin d’œil malicieux…\n\nLe vélo a également la part belle: les architectes imaginent des voies rapides sur les toits de Paris, au milieu de toiture végétalisées et de jardins.",
         "query": "Quel projet est présenté comme réaliste?",
         "options": [
@@ -443,7 +443,7 @@
     },
     {
         "id": 35,
-        "testId": "150",
+        "testId": 150,
         "text": "Il faut se rendre à l'évidence : le «jour» n'est plus l'unité de temps d'un journal. Un quotidien papier ne peut pas rivaliser avec la vitesse à laquelle les sites web, les blogs, les réseaux sociaux, les journaux en ligne, les radios et télés, les «news» des grands serveurs diffusent les nouvelles du jour. Aussi, au moment où il est en kiosques, se condamne-t-il à apparaître comme «le journal de la veille» - perdant progressivement ses lecteurs qui, bombardés de scoops tous azimuts, sont déçus de n'trouver que ce qu'ils savent déjà.\n\n<br/><p style=\"text-align: right;\">D'après <i>Libération</i></p>",
         "query": "Quelle est la position de l'auteur de l'article?",
         "options": [
@@ -456,7 +456,7 @@
     },
     {
         "id": 36,
-        "testId": "150",
+        "testId": 150,
         "text": "Un vingt-sixième album de François Hardy. La pluie sans parapluie, est forcément un événement. On sait que le public qui achète encore des disque passe volontiers à la caisse, pour montrer sa fidélité, ou simplement son envie de vibrer avec cette voix unique et si familière avec laquelle elle semble d’ailleurs plus en confiance que jamais. Elle module, appuie, interprète, joue avec souplesse de son phrasé, alors que les aficionados se contenteraient juste de ce grain unique et révéré. C’est un album pour ceux qui ont le temps, qui ne consomment pas la musique en tant qu’application sonore de la vie actuelle. Il faut se retrancher pour en saisir la saveur et la goûter. Un disque comme autrefois, avec un son soigné et de l’émotion. Mais surtout une élégance comme on n’en fait plus.",
         "query": "Selon le journaliste, quel type de public pourrait s’intéresser au dernier album de F. Hardy?",
         "options": [
@@ -469,7 +469,7 @@
     },
     {
         "id": 37,
-        "testId": "150",
+        "testId": 150,
         "text": "Dans leur nouvelle collection, les éditions Nil invitent des auteurs à se livrer à un exercice épistolaire intime en écrivant une lettre pour dire l'indicible. Le modèle est celle que Kafka rédigea à l'intention de son père et qu'il préféra ranger dans un tiroir tant l'accusation portée était peu amène.\n\nAvec *L'autre fille*, missive adressée à sa sœur aînée, morte avant sa naissance, Annie Ernaux inaugure brillamment le concept, fidèle à son écriture tranchante et analytique. Rejetant le terme d'autofiction, l'écrivain se dit fasciné par la réalité, partant à la recherche d'une vérité sur une mort que ses parents lui ont toujours cachée. En demandant à des auteurs de se libérer d'un vieux tourment, la collection souhaite réhabiliter un genre littéraire oublié.",
         "query": "À quel résultat la participation à cette collection conduit-elle Annie Ernaux ?",
         "options": [
@@ -482,7 +482,7 @@
     },
     {
         "id": 38,
-        "testId": "150",
+        "testId": 150,
         "text": "Les méfiances à l’égard de la gratuité des transports collectif demeurent fortes. Sans surprise, l’Union des Transports Publics affiche son hostilité. Trop onéreuse, ne facilitant pas le report de la voiture vers les transports collectifs, menaçant la qualité de service, la gratuité pour tous ne répondrait pas aux objectifs de développement d’un réseau de transport. Selon l’UTP, la gratuité est une «fausse bonne idée» qui «induit des déplacements inutiles, encouragent l’étalement urbain et privent de ressources le système de transport au moment où la clientèle augmente et où les recettes fiscales des collectivités diminuent». Elle lui préfère le système de tarification spéciale pour les jeunes, les sans-emplois ou les familles nombreuses.",
         "query": "Pourquoi la gratuité des transports publics est-elle critiquée?",
         "options": [
@@ -495,7 +495,7 @@
     },
     {
         "id": 39,
-        "testId": "150",
+        "testId": 150,
         "text": "## Depuis l'adolescence, je fréquente assidûment les dictionnaires.\n\nChaque fois que je bute sur un mot, que je suis dans le flou culturel, ils m'apportent la réponse et ouvrent de nouveaux horizons à ma curiosité en me renvoyant souvent à d'autres ouvrages. J'en possède une centaine et chacun est une bibliothèque à lui seul. Tous sont autant de béquilles de ma culture. Par exemple, quand vous cherchez le mot juste, rien de tel qu'un dictionnaire des synonymes! On ouvre un dictionnaire pour se renseigner sur une question précise comme on lirait la notice d'un produit pharmaceutique destiné à soigner ceci ou cela. C'est le self-service de la pensée!\n\n<br/>Jean-Claude Simoën, éditeur.",
         "query": "Pourquoi Jean-Claude Simoën aime-t-il les dictionnaires?",
         "options": [
