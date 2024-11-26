@@ -95,7 +95,7 @@
     {
         "id": 8,
         "testId": 177,
-        "text": "Simon, au concert de Zaz au Francophonie de Montréal, qu'est-ce que tu penses de cet artiste?\n\nA. J'aime beaucoup ses chansons.\n\nB. Je préfère les petites desserts.\n\nC. Je sais jouer de la guitare.\n\nD. Je te remercie de l'invitation.",
+        "text": "Je vais au concert de jazz aux Francophonies de Montréal. Qu'est-ce que tu penses de cet artiste?\n\nA. J'aime beaucoup ses chansons.\n\nB. Je préfère les petites salles.\n\nC. Je sais jouer de la guitare.\n\nD. Je te remercie de l'invitation.",
         "audio": "/mp3/177/8.mp3",
         "audioAI": "/mp3/177/ai_8.mp3",
         "options": [

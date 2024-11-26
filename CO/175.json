@@ -282,10 +282,10 @@
         "text": "— Salut Nathalie! Alors, comment s'est passé ton week-end à la montagne?\n\n— L'endroit était splendide, mais le séjour a été gâché parce qu'il a plu tout le temps. On n'a pas pu faire de la randonnée comme prévu.\n\n— Ah, c'est dommage. Qu'est-ce que vous avez fait alors?\n\n— On a sorti les dominos et les cartes. On aurait pu faire ça chez nous, ça nous aurait coûté moins cher. On a fait beaucoup de routes pour rester enfermés.\n\nQue regrettes-tu, Nathalie?",
         "audio": "/mp3/175/22.mp3",
         "options": [
-            "Le comportement des habitants.",
-            "Le sentiment de solitude.",
-            "Les conditions météorologiques.",
-            "Les obstacles linguistiques."
+            "Elle a perdu aux jeux de société.",
+            "Elle est restée près de chez elle.",
+            "La météo était très mauvaise.",
+            "Le logement était mal situé."
         ],
         "answer": 2
     },

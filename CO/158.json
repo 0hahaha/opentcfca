@@ -225,10 +225,10 @@
     {
         "id": 18,
         "testId": 158,
-        "text": "10h30 à Gaspé, merci d'être fidèle à Radio du Monde! On commence par les titres de l'actualité de ce jeudi. Comme hier, le premier titre c'est le tremblement de terre en Indie. La communauté internationale se mobilise pour aider la population. Le reportage de le tremblement de terre spécial dans un instant. À Ottawa, les premiers ministres des provinces évoqueront justement les conséquences du réchauffement climatique. Enfin, samedi soir, auront lieu des concerts géants, simultanément dans cinq grandes villes du monde, afin de récolter des fonds pour lutter contre le cancer. Quel sera le premier sujet développé au cours de ce journal d'information radiophonique?",
+        "text": "10h30 à Gaspé, merci d'être fidèle à Radio du Monde! On commence par les titres de l'actualité de ce jeudi. Comme hier, le premier titre c'est le tremblement de terre en Indie. La communauté internationale se mobilise pour aider la population. Le reportage du tremblement de terre spécial dans un instant. À Ottawa, les premiers ministres des provinces évoqueront justement les conséquences du réchauffement climatique. Enfin, samedi soir, auront lieu des concerts géants, simultanément dans cinq grandes villes du monde, afin de récolter des fonds pour lutter contre le cancer. Quel sera le premier sujet développé au cours de ce journal d'information radiophonique?",
         "audio": "/mp3/158/18.mp3",
         "options": [
-            "L’état de la recherche mondiale sur le cancer.",
+            "L'état de la recherche mondiale sur le cancer.",
             "Une rencontre des ministres européens de l’écologie.",
             "La lutte contre le réchauffement climatique en Asie.",
             "Un reportage sur les lieux d’un tremblement de terre."

@@ -17,7 +17,7 @@
     {
         "id": 2,
         "testId": 172,
-        "text": "Regardez l'image 2.\n\nA. Baissez les bras.\n\nB. Enlevez votre pull.\n\nC. Installez-vous.\n\nD. Respirez bien fort.",
+        "text": "A. Baissez les bras.\n\nB. Enlevez votre pull.\n\nC. Installez-vous.\n\nD. Respirez bien fort.",
         "audio": "/mp3/172/2.mp3",
         "img": "/mp3/172/2.jpg",
         "options": [
@@ -127,7 +127,7 @@
     {
         "id": 10,
         "testId": 172,
-        "text": "Qui ont dit, quand commence le festival de jazz de Montréal?\n\nA. Début juin.\n\nB. Depuis hier.\n\nC. Jusqu'à minuit.\n\nD. Pendant dix jours.",
+        "text": "Quand commence le festival de jazz de Montréal?\n\nA. Début juin.\n\nB. Depuis hier.\n\nC. Jusqu'à minuit.\n\nD. Pendant dix jours.",
         "audio": "/mp3/172/10.mp3",
         "options": [
             "Proposition A.",

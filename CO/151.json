@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "testId": "151",
+        "testId": 151,
         "text": "A. La séance débute tout de suite, salle 3. Bon film.\n\nB. Voilà votre carte d'embarquement. Bon voyage.\n\nC. Votre table est juste devant vous. Bon appétit.\n\nD. Votre train part dans 30 minutes. Bon après-midi.",
         "audio": "/mp3/151/1.mp3",
         "img": "/mp3/151/1.jpg",
@@ -15,7 +15,7 @@
     },
     {
         "id": 2,
-        "testId": "151",
+        "testId": 151,
         "text": "A. Alors, les cabines se trouvent à droite.\n\nB. Bien, ça vous fait 49 dollars.\n\nC. Oui, je vous apporte la taille en dessous.\n\nD. Vraiment, cette robe vous va très bien.",
         "audio": "/mp3/151/2.mp3",
         "img": "/mp3/151/2.jpg",
@@ -29,7 +29,7 @@
     },
     {
         "id": 3,
-        "testId": "151",
+        "testId": 151,
         "text": "Je vous sers un café ?\n\nA. À demain.\n\nB. Avec plaisir.\n\nC. C'est joli.\n\nD. Excusez-moi.",
         "audio": "/mp3/151/3.mp3",
         "options": [
@@ -42,7 +42,7 @@
     },
     {
         "id": 4,
-        "testId": "151",
+        "testId": 151,
         "text": "Combien coûte un ticket de bus?\n\nA. Deux kilomètres.\n\nB. La ligne 4.\n\nC. Trois heures.\n\nD. Un euro vingt.",
         "audio": "/mp3/151/4.mp3",
         "options": [
@@ -55,7 +55,7 @@
     },
     {
         "id": 5,
-        "testId": "151",
+        "testId": 151,
         "text": "Tu voudrais bien t'inscrire à ce cours de danse avec moi?\n\nA. C'est sûr, elle va aimer la salsa.\n\nB. D'accord, si ça te fait plaisir.\n\nC. J'ai étudié le piano l'an dernier.\n\nD. Le professeur t'a appelé hier.",
         "audio": "/mp3/151/5.mp3",
         "options": [
@@ -68,7 +68,7 @@
     },
     {
         "id": 6,
-        "testId": "151",
+        "testId": 151,
         "text": "Qu'est-ce que tu prends pour aller à la plage ?\n\nA. Avec quelques amis.\n\nB. Juste mon maillot de bain.\n\nC. Nous y allons à pied.\n\nD. Oui, c'est un bel endroit.",
         "audio": "/mp3/151/6.mp3",
         "options": [
@@ -81,7 +81,7 @@
     },
     {
         "id": 7,
-        "testId": "151",
+        "testId": 151,
         "text": "Bonjour, je fais une enquête sur les Français et leur temps libre. Pourriez-vous me parler de vos loisirs préférés?\n\nA. J'adore jouer au tennis de table.\n\nB. Je préfère faire les courses en semaine.\n\nC. Je souhaite travailler en équipe.\n\nD. Je voudrais acheter une maison.",
         "audio": "/mp3/151/7.mp3",
         "options": [
@@ -94,7 +94,7 @@
     },
     {
         "id": 8,
-        "testId": "151",
+        "testId": 151,
         "text": "— On pourrait aller voir un film cet après-midi. Ça te dit ?\n\n— Tu sais, je dois faire des courses. Le frigidaire est vide. Et je dois chercher un paquet et des timbres. Et puis, je préférerais aller nager.\n\n— Pourquoi pas ? Je prépare les maillots et les serviettes et on se retrouve à 16 heures.\n\nOù est-ce que ces personnes vont se retrouver à 16h?",
         "audio": "/mp3/151/8.mp3",
         "options": [
@@ -107,7 +107,7 @@
     },
     {
         "id": 9,
-        "testId": "151",
+        "testId": 151,
         "text": "— Bonjour, madame. J'habite à Québec depuis deux mois. Je cherche une activité sportive à faire dans le quartier Montcalm. Pouvez-vous m'aider?\n\n— Certainement, monsieur. Voici un catalogue avec de nombreuses informations utiles.\n\nQu'est-ce que cet homme veut faire?",
         "audio": "/mp3/151/9.mp3",
         "options": [
@@ -120,7 +120,7 @@
     },
     {
         "id": 10,
-        "testId": "151",
+        "testId": 151,
         "text": "— Eh Nicolas, tu as des projets pour ce week-end ?\n\n— Non, pas vraiment, et toi ?\n\n— Ben oui, j'ai bien envie d'aller à la piscine samedi après-midi. Ça te dit de venir avec moi ?\n\n— Pourquoi pas, j'ai besoin de me détendre après mes examens.\n\n— On se retrouve devant l'université avant, et on fait le trajet ensemble. On dit quatorze heures ?\n\n— Oui, d'accord.\n\nQue fait Nicolas ?",
         "audio": "/mp3/151/10.mp3",
         "options": [
@@ -133,7 +133,7 @@
     },
     {
         "id": 11,
-        "testId": "151",
+        "testId": 151,
         "text": "— Alors, que pensez-vous de la maison ?\n\n— Elle me plaît. Elle correspond à ce que je recherche. Un lieu de vie clair et spacieux.\n\n— Vous pourrez refaire la peinture, si vous voulez. Elle est un peu vieille.\n\n— Oui, peut-être. Pour l'instant, je préférerais changer les fenêtres. On entend beaucoup les voitures dehors.\n\n— En effet, il y a un supermarché à l'angle de la rue.\n\n— C'est embêtant. Je rêvais d'un endroit calme.\n\n— Prenez le temps de réfléchir.\n\nPour quelles raisons la femme hésite-t-elle à louer la maison ?",
         "audio": "/mp3/151/11.mp3",
         "options": [
@@ -146,7 +146,7 @@
     },
     {
         "id": 12,
-        "testId": "151",
+        "testId": 151,
         "text": "— Alors, comment s'est passée cette première journée dans la vie active ?\n\n— Plutôt bien. Les collègues ont été très accueillants.\n\n— Et avec ton chef ? Tu m'avais dit qu'il était un peu froid.\n\n— Ben, en fait, il a été très sympa. Il m'a présenté à toute l'équipe, fait visiter les locaux et montré mon bureau, qui est très grand. Je n'en revenais pas.\n\n— Bienvenue dans le monde professionnel, Alex. Tu n'es pas au bout de tes découvertes.\n\nQuel bilan Alex tire-t-il de sa première journée de travail ?",
         "audio": "/mp3/151/12.mp3",
         "options": [
@@ -159,7 +159,7 @@
     },
     {
         "id": 13,
-        "testId": "151",
+        "testId": 151,
         "text": "Alors, c'est d'accord. Nous faisons un pique-nique samedi prochain. Oui, mais cela dépendra aussi du temps. S'il pleut, Pierre a proposé d'aller chez lui. Il a une maison de campagne avec une grande véranda qui s'ouvre sur le jardin. Ah oui ? Alors c'est d'accord. Tu apportes les salades ? Oui, et toi des fruits. Pierre s'occupera des boissons et du pain. Bon, espérons qu'il fera beau. Que veulent faire ces personnes samedi s'il ne pleut pas ?",
         "audio": "/mp3/151/13.mp3",
         "options": [
@@ -172,7 +172,7 @@
     },
     {
         "id": 14,
-        "testId": "151",
+        "testId": 151,
         "text": "— Bonjour, monsieur. Je cherche la pharmacie Bollet. C'est dans le coin, je crois.\n\n— Oh, mon garçon, ça fait longtemps que c'est plus une pharmacie. C'est une laverie automatique, maintenant. Monsieur Bollet, il est mort il y a cinq ans.\n\n— Ah bon ? Mais c'est ma mère qui me l'a indiqué. Vous êtes sûr qu'elle n'est plus là ?\n\n— Bien sûr. Ça fait vingt ans que j'habite le quartier, alors je le connais, une pharmacie. Il y en a une autre, mais dans deux rues, à droite. C'est pas loin.\n\nPourquoi le jeune homme ne trouve-t-il pas la pharmacie Bollet ?",
         "audio": "/mp3/151/14.mp3",
         "options": [
@@ -185,7 +185,7 @@
     },
     {
         "id": 15,
-        "testId": "151",
+        "testId": 151,
         "text": "— Rafika de Buffalo, bienvenue dans La Terre est Belle.\n\n— Bonjour Mark.\n\n— Alors, nous sommes ravis de vous avoir à l'antenne parce qu'on n'a jamais eu personne de Buffalo. Vous allez nous apprendre des choses. Ça se trouve où déjà ?\n\n— Totalement à l'ouest de l'état de New York. C'est limitrophe du Canada.\n\n— C'est drôle comme nom. Il n'y a pas spécialement de buffles ou de choses comme ça ?\n\n— Non. D'après la légende, ça vient de Beau-fleuve, un nom donné par les explorateurs français. Enfin, c'est l'histoire qu'on raconte.\n\nPour quelle raison Rafika intervient-elle?",
         "audio": "/mp3/151/15.mp3",
         "options": [
@@ -198,7 +198,7 @@
     },
     {
         "id": 16,
-        "testId": "151",
+        "testId": 151,
         "text": "— Bonjour Monique.\n\n— Bonjour Olivier. Que puis-je pour vous ?\n\n— Je viens vous voir au sujet de mes vacances. Je voudrais les prendre en juillet. Je sais que certains collègues seront en formation et d'autres en extérieur, pour les présentations de nos produits sur les marchés d'Europe. Est-ce que cela sera possible ?\n\n— Nous aurons peut-être besoin de vous, effectivement. Je vais y réfléchir et je vous donne ma réponse cette semaine.\n\n— Je vous remercie. Permettez-moi juste de vous rappeler que, l'été dernier, j'ai travaillé tout le mois d'août.\n\nQue demande Olivier ?",
         "audio": "/mp3/151/16.mp3",
         "options": [
@@ -211,7 +211,7 @@
     },
     {
         "id": 17,
-        "testId": "151",
+        "testId": 151,
         "text": "— Bonjour Madame, je suis venu hier ouvrir un compte, mais je n'ai pas bien compris quand je recevrai le chéquier commandé par vos soins.\n\n— Pouvez-vous me rappeler votre nom et votre numéro de compte?\n\n— Bien sûr, je m'appelle Cloutier, Pierre Cloutier. Voici mon numéro de compte ouvert hier dans cette agence.\n\n— Très bien. Pour un premier chéquier, comptez au moins une petite semaine. Puis on le commande automatiquement et ça prend 48 heures. Voilà, il sera à votre disposition soit au guichet, soit en voyant l'accusé de réception à votre domicile. Que souhaitez-vous?\n\n— Eh bien, je préfère passer le prendre en fin de semaine. Je serai sûr de l'avoir.\n\n— Très bien. À bientôt, Monsieur.\n\nPourquoi l'homme se rend-il dans une banque?",
         "audio": "/mp3/151/17.mp3",
         "options": [
@@ -224,7 +224,7 @@
     },
     {
         "id": 18,
-        "testId": "151",
+        "testId": 151,
         "text": "Bonjour, c'est un message de GRD Solutions pour M. Lalande. Je vous appelais au sujet du problème que vous avez rencontré en installant notre logiciel d'épéimage. Nous avons un technicien qui pourrait vous dépanner et venir sur site rapidement. Vous pouvez me recontacter jusqu'à 18h30 au 01-28-12-87-43. Bonne journée. Pourquoi cette personne laisse-t-elle un message?",
         "audio": "/mp3/151/18.mp3",
         "options": [
@@ -237,7 +237,7 @@
     },
     {
         "id": 19,
-        "testId": "151",
+        "testId": 151,
         "text": "Bonjour Marc, c'est Marie. Tu viens au cinéma ce soir? Non, je suis désolé, je suis trop fatigué. Je vais rester chez moi. Quel dommage! Et pour le théâtre ce week-end? Oui, je viendrai. Par contre, je ne pourrai pas manger au restaurant. Que fera Marc ce week-end?",
         "audio": "/mp3/151/19.mp3",
         "options": [
@@ -250,7 +250,7 @@
     },
     {
         "id": 20,
-        "testId": "151",
+        "testId": 151,
         "text": "Lucy a trois enfants. Pour Noël, ils ont reçu des jeux de société. Ces jeux les passionnent. Ils jouent beaucoup avec leurs copains ou encore avec leurs cousins. Mais, nous dit Lucy, mon fils de 6 ans provoque régulièrement des drames parce qu’il triche. Une situation à laquelle tous les parents de jeunes enfants sont un jour ou l’autre confrontés. Quel problème cette mère rencontre-t-elle ?",
         "audio": "/mp3/151/20.mp3",
         "options": [
@@ -263,7 +263,7 @@
     },
     {
         "id": 21,
-        "testId": "151",
+        "testId": 151,
         "text": "Chers auditeurs, au volant, restez vigilants, l’hiver peut vous surprendre. Que vous soyez expérimentés ou non, surtout quand il neige beaucoup comme aujourd’hui, ralentissez et avant de prendre la route, n’oubliez pas de consulter Québec 511 sur le web. Et pour les jeunes conducteurs, nous rappelons que le concours « Des routes l’hiver » vous offre la possibilité de gagner un cours de conduite préventive en conditions hivernales. N’hésitez pas à participer. Que conseille l’animateur radio aux automobilistes ?",
         "audio": "/mp3/151/21.mp3",
         "options": [
@@ -276,7 +276,7 @@
     },
     {
         "id": 22,
-        "testId": "151",
+        "testId": 151,
         "text": "Parmi les victimes de la folie destructrice de l’homme, les abeilles. En cause, l’utilisation dans l’agriculture de pesticides très puissants, qui sont des poisons mortels pour les essaims d’abeilles, et conséquences inattendues, c’est finalement en ville que les abeilles finissent par trouver refuge. Écoutez le reportage de Gaël Letanneux. C’est le monde à l’envers. Aujourd’hui, les abeilles préfèrent la ville à la campagne. Car sur les toits, l’apiculteur n’a pas à craindre les effets des pesticides. En ville, les abeilles meurent moins vite et elles produisent du miel en grande quantité. Paradoxe assez incroyable. On perd moins d’essaims et les apiculteurs demandent au gouvernement d’interdire tous les pesticides qui peuvent nuire à la santé des abeilles ? Quel est le phénomène évoqué ?",
         "audio": "/mp3/151/22.mp3",
         "options": [
@@ -289,7 +289,7 @@
     },
     {
         "id": 23,
-        "testId": "151",
+        "testId": 151,
         "text": "Bienvenue à tous. Ce colloque est intitulé « Travail et modernité » car nous devons changer notre manière d'appréhender le travail au sein d'une société en pleine mutation. Nous entrons en effet dans l'ère de la communication interplanétaire. Nul ne peut se contenter d'évoluer à l'intérieur des frontières de son pays. Il faut étudier, voyager, communiquer et surtout savoir changer de métier, de pays avec souplesse. Quelle est la qualité dont le travailleur moderne doit faire preuve ?",
         "audio": "/mp3/151/23.mp3",
         "options": [
@@ -302,7 +302,7 @@
     },
     {
         "id": 24,
-        "testId": "151",
+        "testId": 151,
         "text": "Les Français sont de plus en plus nombreux à rechercher les loisirs de plein air. Et le camping n'est plus seulement choisi pour de simples raisons économiques, puisque l'on trouve des terrains 5 étoiles, qui proposent même des restaurants gastronomiques et des salles de bain privées. Le mot camping commence d'ailleurs à laisser la place à hôtellerie de plein air. Qu'apprend-on sur le camping ?",
         "audio": "/mp3/151/24.mp3",
         "options": [
@@ -315,7 +315,7 @@
     },
     {
         "id": 25,
-        "testId": "151",
+        "testId": 151,
         "text": "— L'économie circulaire, c'est le réemploi, la réparation, le partage, la location et le recyclage des matériaux lorsque la matière redevient matière, la boucle, le cercle est bouclé.\n\n— Oui, alors, c'est le cas du secteur textile.\n\n— Oui, depuis 30 ans, l'entreprise Le Relais collecte et trie les vêtements que vous ne voulez plus porter et depuis 30 ans, elle fait de l'économie circulaire en fait sans le savoir, car à l'origine, il s'agissait surtout de réinsérer des personnes en difficulté.\n\nQue nous apprend l'intervenante sur l'économie circulaire ?",
         "audio": "/mp3/151/25.mp3",
         "options": [
@@ -328,7 +328,7 @@
     },
     {
         "id": 26,
-        "testId": "151",
+        "testId": 151,
         "text": "— Le prénom que vos parents vous ont donné vous rebutent ? Vous pouvez en changer mais ce n'est pas une simple formalité. Il faut obligatoirement faire appel à un avocat qui dépose le dossier auprès du tribunal de grande instance du lieu de naissance ou du domicile du demandeur. La principale difficulté comme le souligne maître David Bachelard est de parvenir à convaincre les juges du bien fondé de sa requête.\n\n— On peut changer de prénom à condition de justifier d'un intérêt légitime. La francisation par exemple. Mais ça peut être également des personnes qui souhaitent mettre en adéquation leur prénom avec leur conviction religieuse. Et puis il y a des cas beaucoup plus atypiques. Une personne qui souffre de son prénom parce qu'il a un caractère quelque peu ridicule, qui rencontre des difficultés.\n\nPourquoi changer de prénom peut-il s'avérer difficile ?",
         "audio": "/mp3/151/26.mp3",
         "options": [
@@ -341,7 +341,7 @@
     },
     {
         "id": 27,
-        "testId": "151",
+        "testId": 151,
         "text": "— Allô, bonjour madame, c'est M. Etienne. J'ai reçu mon relevé bancaire et je vois que mon abonnement au service en ligne est augmenté de 5%. C'est pas beaucoup, certes, mais est-ce normal ?\n\n— Oui, oui, je vous rassure, c'est bien normal. Tous nos tarifs ont subi une augmentation au 1er janvier.\n\n— Peut-être, mais je n'ai reçu aucun courrier pour m'avertir.\n\n— Vous avez raison, mais nos conditions tarifaires sont affichées à l'agence.\n\n— Cela ne justifie pas que vous n'avertissez pas vos clients ! Alors je vous demande de résilier cet abonnement au plus vite !\n\nPourquoi le client demande-t-il la résiliation de son abonnement bancaire ?",
         "audio": "/mp3/151/27.mp3",
         "options": [
@@ -354,7 +354,7 @@
     },
     {
         "id": 28,
-        "testId": "151",
+        "testId": 151,
         "text": "On est aujourd’hui à Saint-Louis du Sénégal, à l’université Gaston-Berger. C’est la deuxième université du pays avec dix fois moins d’étudiants qu’à Dakar. Elle a échappé à l’arrivée en masse d’étudiants pour une raison simple, c’est ce que nous explique le recteur de l’université. L’université a été créée pour développer l’excellence. Nous avons mis en place la sélection pour assurer la réussite des étudiants, que nous recrutons sur la base des résultats du bac qui doit être obtenu avec mention. Du coup, le recrutement n’est pas seulement local, on vient de partout pour s’inscrire ici. Et comme les étudiants ont un encadrement fort, les taux de réussite sont très élevés. Qu’explique la personne interrogée à propos de cette université sénégalaise ?",
         "audio": "/mp3/151/28.mp3",
         "options": [
@@ -367,7 +367,7 @@
     },
     {
         "id": 29,
-        "testId": "151",
+        "testId": 151,
         "text": "— Et on termine avec vous, Jean-nick, qui pose une grande question existentielle. Marcher ou courir?\n\n— Ça dépend. C'est ce qui ressort de quelques études récentes qui ont opposé les deux exercices et mesuré leurs effets. L'une d'elles a été publiée le mois dernier dans la revue Medicine and Science in Sports and Exercise. Conclusion? En ce qui concerne la perte de poids, c'est la course qui l'emporte haut la main. Les coureurs sont plus minces, moins de surcharge pondérale que les marcheurs. Et passer l'âge de 55 ans, c'est encore plus vrai, même si le nombre de kilomètres parcourus à la course par semaine est minime. Il y a une différence entre les coureurs et les marcheurs. Et la cause pourrait être l'effet de la course sur l'appétit.\n\nSelon le chroniqueur, que permet la course par rapport à la marche ?",
         "audio": "/mp3/151/29.mp3",
         "options": [
@@ -380,7 +380,7 @@
     },
     {
         "id": 30,
-        "testId": "151",
+        "testId": 151,
         "text": "Bonjour à tous. Je n'ai rien à me mettre. Avez-vous déjà prononcé cette phrase devant votre armoire pleine de vêtements ? Quelles sont les basiques de votre garde-robe ? Avez-vous une tenue fétiche que vous enfilez lorsque vous voulez jouer la carte de la sécurité ? Que porter pour un premier rendez-vous, pour un entretien d'embauche, pour un week-end à la campagne ? Ces questions semblent futiles. La mode nous paraît parfois un luxe superflu et on oppose souvent l'être et le paraître. Mais faites l'expérience. Si vous êtes femme, quel que soit votre gabarit, enfilez une robe qui vous met en valeur, de jolies chaussures, une touche de rouge à lèvres peut-être, vous vous sentirez sans aucun doute plus sûr de vous. Votre caractère en sera peut-être même transformé. Quelle est l'idée avancée par la journaliste?",
         "audio": "/mp3/151/30.mp3",
         "options": [
@@ -393,7 +393,7 @@
     },
     {
         "id": 31,
-        "testId": "151",
+        "testId": 151,
         "text": "Les moins de 30 ans ne représentent que 10% des locataires. Pourtant, ils dépensent plus pour se loger, en moyenne 6 000 euros par an, soit 42% de plus que les autres. Ils ont également des revenus plus faibles que leurs parents au même âge, alors qu’ils sont nettement plus diplômés. Et la différence en France est nettement plus importante que dans les pays européens comparables. Mais ça ne freine pas leur envie de consommer. Il en faudrait plus. Le Credo constate que leur appétit de consommation est plus important que celui de leurs aînés, d’autant plus que, peu intéressés par les structures sociales existantes, les jeunes s’identifient à des groupes dont le point commun est justement la consommation. C’est le règne de la consommation symbole et le triomphe du marketing. Qu’est-ce qui différencie les moins de 30 ans des générations précédentes?",
         "audio": "/mp3/151/31.mp3",
         "options": [
@@ -406,7 +406,7 @@
     },
     {
         "id": 32,
-        "testId": "151",
+        "testId": 151,
         "text": "Je sais que vous, vous allez fréquemment à la rencontre des jeunes au sein de l’association qui tente de promouvoir les métiers des métaux. Est-ce que ce sont des métiers qui font rêver aujourd’hui les jeunes? Il y a une dimension mystique autour de ces artisans à du faire. Mystique, carrément! La transformation de la barre de métal au feu a toujours fasciné le profane. L’alchimie qui permet de voir la transformation d’un lingot de métal en une œuvre finie a toujours émerveillé. Et donc on attire assez facilement les jeunes vers ces savoir-faire, notamment en ce qui concerne la ferronnerie d’art. Nous organisons... Il y a une dimension artistique de créativité en plus. Voilà, tout à fait. Qu’est-ce qui pousse les jeunes à travailler dans les métiers des métaux?",
         "audio": "/mp3/151/32.mp3",
         "options": [
@@ -419,7 +419,7 @@
     },
     {
         "id": 33,
-        "testId": "151",
+        "testId": 151,
         "text": "— Il y a certains légumes qui sont moins bien connus que d'autres.\n\n— Oui, la courge entre autres, c'est quelque chose qui... vraiment les gens la regardent avec un point d'interrogation, qu'est-ce que je vais faire avec ça? Donc il faut être imaginatif comme producteur pour tenter les gens de le cuisiner. Puis on comprend que le temps est tellement précieux, les gens n'ont pas le temps, donc il faut essayer de leur trouver des trucs.\n\nQue doit faire cette personne pour vendre ses légumes?",
         "audio": "/mp3/151/33.mp3",
         "options": [
@@ -432,7 +432,7 @@
     },
     {
         "id": 34,
-        "testId": "151",
+        "testId": 151,
         "text": "Déjà à l’âge de 4-5 ans, on peut dire qu’ils sont attirés par des marques, ils veulent avoir leur look. C’est quand même terrible de s’apercevoir que tout petit déjà on est sous influence en fait. C’est ça qu’on peut dire. Alors c’est vrai qu’on se rend compte que l’âge à partir duquel les enfants commencent à s’intéresser à cette notion de marque a diminué. C’est-à-dire que le fait que les enfants veuillent une marque particulière ça a toujours existé, il ne faut pas se leurrer. Le phénomène effectivement n’est pas nouveau mais l’âge décroît sensiblement. Évidemment la socialisation joue un rôle puisque l’enfant est toujours sous l’influence de ses pairs. Il va vouloir faire comme les autres parce qu’il y a l’effet de groupe, on ne veut pas être mis à part. Qu’est-ce qui explique le comportement des enfants en matière de vêtements?",
         "audio": "/mp3/151/34.mp3",
         "options": [
@@ -445,7 +445,7 @@
     },
     {
         "id": 35,
-        "testId": "151",
+        "testId": 151,
         "text": "— Depuis quelques années, des vignerons ont investi des sommes importantes au Québec pour se lancer dans une nouvelle culture, comme Daniel Desmoulins qui a ouvert le vignoble L'Ange-Gardien en face du fleuve Saint-Laurent.\n\n— Faire du vin au Québec, c'est un challenge. Je serais peut-être pas parti là-dessus il y a 20 ans, mais je trouvais que les produits étaient de mieux en mieux et c'est pour ça qu'il y a 10 ans, avec ma femme, on a dit « on va se lancer ». Dans le vin, je pense que l'on a des produits extrêmement intéressants parce qu'il y a un petit peu d'acidité. Puis, il y a toujours le vin de glace, on a la température pour ça. On cueille le raisin fin décembre, début janvier.\n\nQu'est-ce qui a décidé Daniel Desmoulins à démarrer son activité?",
         "audio": "/mp3/151/35.mp3",
         "options": [
@@ -458,7 +458,7 @@
     },
     {
         "id": 36,
-        "testId": "151",
+        "testId": 151,
         "text": "Alors ce cours avec François? J’ai adoré! Il a vraiment le chic pour nous faire ressentir la musique. Ça m’a vraiment donné envie de continuer du coup. Combien coûte le trimestre? C’est 15 euros l’heure, mais si vous prenez un abonnement, ça vous reviendra moins cher. Et quelles sont les conditions? Il faut prendre au moins 10 cours dans les 3 mois à venir, ou 25 dans les 6 mois. Après vous avez aussi la formule sur l’année qui revient à 8 euros le cours. Ah oui! C’est intéressant parce que je viens à la fois pour le classique et pour les claquettes. En même temps, il faut que je sois sûre de pouvoir m’engager. À vous de voir. Cela dit, vous pouvez changer de formule à tout moment. Que recherche la cliente?",
         "audio": "/mp3/151/36.mp3",
         "options": [
@@ -471,7 +471,7 @@
     },
     {
         "id": 37,
-        "testId": "151",
+        "testId": 151,
         "text": "— Bonjour à tous, Noël est passé, et bien maintenant on va s’intéresser aux jouets et à leur conception. Je pensais qu’on ne pouvait pas mettre un jouet sur le commerce s’il n’était pas sain pour les enfants et pour les grands aussi, parce qu’il y a des grands qui jouent aussi un petit peu, normal.\n\n— Alors il est vrai que pour les jouets, il existe des réglementations qui s’appliquent, notamment sur l’interdiction de certaines substances chimiques qui ne doivent pas être présentes dans les jouets, ou alors avec une limite de concentration à ne pas dépasser. Après comme tous les produits de consommation mis sur le marché, il n’y a pas d’autorisation de mise sur le marché comme ça existe pour les médicaments.\n\nDe quoi s’étonne le premier interlocuteur?",
         "audio": "/mp3/151/37.mp3",
         "options": [
@@ -484,7 +484,7 @@
     },
     {
         "id": 38,
-        "testId": "151",
+        "testId": 151,
         "text": "Avant-hier, dans une tribune officielle, une élue française a brisé un tabou, et sans doute heureusement. En parlant des États-Unis d'Europe comme de l'objectif ultime du processus d'unification européenne, elle a d'un coup redonné une clarté à cette entreprise si complexe qu'elle en est devenue obscure à tant d'Européens. De crainte de passer pour de doux rêveurs, romantiques, utopistes, ignorants des réalités politiques, même les plus déterminés des partisans de l'unité de l'Europe n'osaient plus employer l'expression de Victor Hugo. « On ne peut pas, dit-on, ce serait briser net un consensus, ce serait rompre avec certaines nations, susciter de nouvelles querelles bien plus violentes encore que celles du traité constitutionnel. » L'idée véhiculée par les États-Unis d'Europe, c'est-à-dire des États soumis à un pouvoir fédéral, n'est pas du tout à l'ordre du jour. Selon le chroniqueur, pourquoi l'expression « États-Unis d'Europe » est-elle taboue ?",
         "audio": "/mp3/151/38.mp3",
         "options": [
@@ -497,7 +497,7 @@
     },
     {
         "id": 39,
-        "testId": "151",
+        "testId": 151,
         "text": "Peut-être aurais-je dû moi aussi faire l'acquisition de l'un de ces nombreux manuels du bonheur proposés par la librairie Erroll. Cela m'aurait peut-être aidé à positiver, à voir les choses autrement, comme le prônent justement ces ouvrages. Ainsi je ne serais pas rentrée avec la sensation un peu déprimante, je dois le dire, que pour être heureux, eh bien il faut faire des efforts. Le bonheur n'est pas inné, nous disent les spécialistes, il s'apprend. Et donc au rayon bonheur de la librairie, donc je n'invente pas, il y a bien une étiquette bonheur sur un rayon, les manuels proposent leur aide, un grand coup d'exercice, de conseils, rédigés généralement à l'impératif. On lit, ne vous souciez pas du regard des autres. Quelle conclusion la journaliste tire-t-elle de sa visite dans cette librairie?",
         "audio": "/mp3/151/39.mp3",
         "options": [
