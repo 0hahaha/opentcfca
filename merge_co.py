@@ -65,15 +65,27 @@ def merge_entries(entry, similar_entries):
     base_answer = entry["answer"]
 
     # Initialize audio and audioAI arrays
-    audio = [entry["audio"]]
-    audio_ai = [entry["audioAI"]] if "audioAI" in entry else []
+    audio = [entry["audio"]] if isinstance(entry["audio"], str) else entry["audio"].copy()
+    audio_ai = []
+    
+    if "audioAI" in entry:
+        if isinstance(entry["audioAI"], str):
+            audio_ai.append(entry["audioAI"])
+        else:
+            audio_ai.extend(entry["audioAI"])
 
     for similar_entry in similar_entries:
         ids.append(similar_entry["id"])
         test_ids.append(f"{similar_entry['testId']}/{similar_entry['id']}")
-        audio.append(similar_entry["audio"])
+        if isinstance(similar_entry["audio"], str):
+            audio.append(similar_entry["audio"])
+        else:
+            audio.extend(similar_entry["audio"])
         if "audioAI" in similar_entry:
-            audio_ai.append(similar_entry["audioAI"])
+            if isinstance(similar_entry["audioAI"], str):
+                audio_ai.append(similar_entry["audioAI"])
+            else:
+                audio_ai.extend(similar_entry["audioAI"])
         if similar_entry["answer"] != base_answer:
             answer_different = True
 
@@ -145,12 +157,18 @@ def find_covering_index(intervals, new_interval):
 def get_occ_tcf_q_id(entry):
     occ = len(entry["testIds"])
     tid, qid = entry["testIds"][0].split('/')
-    return occ*10000 + int(tid)*100 + int(qid)
+    return occ*1e4 + int(tid)*100 + int(qid)
+
+def get_level_occ_tcf_q_id(entry):
+    occ = len(entry["testIds"])
+    level = entry["id_avg"]
+    tid, qid = entry["testIds"][0].split('/')
+    return level*1e6 + occ*1e4 + int(tid)*100 + int(qid)
 
 def get_level_tcf_q_id(entry):
     level = entry["id_avg"]
     tid, qid = entry["testIds"][0].split('/')
-    return level*10000 + int(tid)*100 + int(qid)
+    return level*1e4 + int(tid)*100 + int(qid)
 
 def merge_json_files(file_list, threshold=0.9):
     """Merge JSON files based on entry similarity."""
@@ -208,10 +226,13 @@ def merge_json_files(file_list, threshold=0.9):
     # merged_entries.sort(key=lambda x: remove_non_french_characters(x["text"]))
     
     # sort by occurrence, tcfid, qid
-    merged_entries.sort(key=lambda x: get_occ_tcf_q_id(x))
+    # merged_entries.sort(key=lambda x: get_occ_tcf_q_id(x))
     
     # sort by question level, tcfid, qid
     # merged_entries.sort(key=lambda x: get_level_tcf_q_id(x))
+    
+    # sort by question level, occurrence, tcfid, qid
+    merged_entries.sort(key=lambda x: get_level_occ_tcf_q_id(x))
     
     for i, entry in enumerate(merged_entries):
         entry["id"] = i + 1

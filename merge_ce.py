@@ -143,12 +143,18 @@ def find_covering_index(intervals, new_interval):
 def get_occ_tcf_q_id(entry):
     occ = len(entry["testIds"])
     tid, qid = entry["testIds"][0].split('/')
-    return occ*10000 + int(tid)*100 + int(qid)
+    return occ*1e4 + int(tid)*100 + int(qid)
+
+def get_level_occ_tcf_q_id(entry):
+    occ = len(entry["testIds"])
+    level = entry["id_avg"]
+    tid, qid = entry["testIds"][0].split('/')
+    return level*1e6 + occ*1e4 + int(tid)*100 + int(qid)
 
 def get_level_tcf_q_id(entry):
     level = entry["id_avg"]
     tid, qid = entry["testIds"][0].split('/')
-    return level*10000 + int(tid)*100 + int(qid)
+    return level*1e4 + int(tid)*100 + int(qid)
 
 def merge_json_files(file_list, threshold=0.9):
     """Merge JSON files based on entry similarity."""
@@ -206,10 +212,13 @@ def merge_json_files(file_list, threshold=0.9):
     # merged_entries.sort(key=lambda x: remove_non_french_characters(x["text"]))
     
     # sort by occurrence, tcfid, qid
-    merged_entries.sort(key=lambda x: get_occ_tcf_q_id(x))
+    # merged_entries.sort(key=lambda x: get_occ_tcf_q_id(x))
     
     # sort by question level, tcfid, qid
     # merged_entries.sort(key=lambda x: get_level_tcf_q_id(x))
+    
+    # sort by question level, occurrence, tcfid, qid
+    merged_entries.sort(key=lambda x: get_level_occ_tcf_q_id(x))
     
     for i, entry in enumerate(merged_entries):
         entry["id"] = i + 1
