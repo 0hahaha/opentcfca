@@ -212,7 +212,7 @@
     {
         "id": 17,
         "testId": 180,
-        "text": "Bonjour chérie, je vais rentrer tard ce soir. Ne m'attends pas pour dîner ? La directrice veut me parler. Je lui ai demandé si on pouvait se voir demain, mais ça n'a pas été possible. Je te raconterai tout ça. Je suis vraiment désolée. Je t'embrasse. Pour quelle raison la femme laisse-t-elle un message à son mari ?",
+        "text": "Bonjour chéri, je vais rentrer tard ce soir. Ne m'attends pas pour dîner ? La directrice veut me parler. Je lui ai demandé si on pouvait se voir demain, mais ça n'a pas été possible. Je te raconterai tout ça. Je suis vraiment désolée. Je t'embrasse. Pour quelle raison la femme laisse-t-elle un message à son mari ?",
         "audio": "/mp3/180/17.mp3",
         "audioAI": "/mp3/180/ai_17.mp3",
         "options": [
@@ -253,7 +253,7 @@
     {
         "id": 20,
         "testId": 180,
-        "text": "— Bonjour, je voudrais envoyer ce colis en Outre-mer en express.\n\n— D'accord. Alors, ça vous fera 20 euros, s'il vous plaît.\n\n— 20 euros ?\n\n— Oui, mais si vous préférez, nous proposons des boîtes standards qui coûtent moins cher.\n\n— Je pense que je vais refaire le colis chez moi avec une de vos boîtes et reviens demain.\n\n— N'oubliez pas de détailler le contenu du colis pour la boîte.\n\n— Oui, je m'en suis occupée. J'ai également la fiche avec les coordonnées du destinataire.\n\nPourquoi cette dame va-t-elle finalement envoyer son colis le lendemain ?",
+        "text": "— Bonjour, je voudrais envoyer ce colis en Outre-mer en express.\n\n— D'accord. Alors, ça vous fera 20 euros, s'il vous plaît.\n\n— 20 euros ?\n\n— Oui, mais si vous préférez, nous proposons des boîtes standards qui coûtent moins cher.\n\n— Je pense que je vais refaire le colis chez moi avec une de vos boîtes et reviens demain.\n\n— N'oubliez pas de détailler le contenu du colis pour la douane.\n\n— Oui, je m'en suis occupée. J'ai également la fiche avec les coordonnées du destinataire.\n\nPourquoi cette dame va-t-elle finalement envoyer son colis le lendemain ?",
         "audio": "/mp3/180/20.mp3",
         "audioAI": "/mp3/180/ai_20.mp3",
         "options": [
@@ -427,7 +427,7 @@
     {
         "id": 33,
         "testId": 180,
-        "text": "Le chiffre est impressionnant. Chaque année, 640 000 tonnes de matériel de pêche finissent sous l'eau. Des filets, des casiers et autres pièges en tout genre sont perdus ou abandonnés au fond des mers. Des chiffres révélés par Greenpeace reprenant un comptage de la FAO, l'Organisation de l'ONU pour l'Agriculture et l'Alimentation. Alors une pollution qui se rajoute aux milliers de tonnes de déchets qui font, vous savez, les fameux continents plastiques, ces agrégations de déchets qui flottent à travers les océans. Alors justement, les animaux marins, ce sont eux les premières victimes de ce matériel de pêche abandonné. Les casiers dérivants prennent aux pièges les tortues, les phoques, les baleines, bref 100 000 animaux faisant des galipettes dans l'eau salée en sont victimes chaque année. Question 33 Que dénonce Greenpeace ?",
+        "text": "Le chiffre est impressionnant. Chaque année, 640 000 tonnes de matériel de pêche finissent sous l'eau. Des filets, des casiers et autres pièges en tout genre sont perdus ou abandonnés au fond des mers. Des chiffres révélés par Greenpeace reprenant un comptage de la FAO, l'Organisation de l'ONU pour l'Agriculture et l'Alimentation. Alors une pollution qui se rajoute aux milliers de tonnes de déchets qui font, vous savez, les fameux continents plastiques, ces agrégations de déchets qui flottent à travers les océans. Alors justement, les animaux marins, ce sont eux les premières victimes de ce matériel de pêche abandonné. Les casiers dérivants prennent aux pièges les tortues, les phoques, les baleines, bref 100 000 animaux faisant des galipettes dans l'eau salée en sont victimes chaque année. Que dénonce Greenpeace ?",
         "audio": "/mp3/180/33.mp3",
         "audioAI": "/mp3/180/ai_33.mp3",
         "options": [
@@ -484,7 +484,7 @@
         "text": "C'est un des bouchers les plus médiatisés de Paris, on le surnomme le boucher des stars. Il défend les races de boucheries, les viandes vieillies, il défend les artisans. Et puis le printemps dernier, il a publié « L'effet bœuf ». C'est un livre dans lequel il s'inquiète des changements, des changements qui surviennent dans les élevages. Où maintenant la rapidité, l'efficacité changent, les pratiques changent, même la saveur ressemble-t-il des viandes. Il continue de s'intéresser aux élevages dans lesquels les animaux sont nourris à l'herbe. Quelle est la position de ce boucher ?",
         "audio": "/mp3/180/37.mp3",
         "options": [
-            "Il conseillé d’augmenter la productivité.",
+            "Il conseille d’augmenter la productivité.",
             "Il milite pour la création d’un label qualité.",
             "Il s’efforce de moderniser sa profession.",
             "Il valorise les méthodes traditionnelles."

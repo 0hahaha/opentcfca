@@ -224,7 +224,7 @@
     {
         "id": 18,
         "testId": 179,
-        "text": "— Bonjour, j'aimerais découvrir la ville de Lille.\n\n— Vous pouvez participer à nos promenades guidées avec des thèmes comme nature, architecture...\n\n— Oui, très bonne idée ! La promenade gastronomie demain matin, c'est possible ?\n\n— Oui, rendez-vous à 10h devant la mairie.\n\n— Parfait, c'est près de mon hôtel. À demain !\n\nQu'est-ce qu'on apprend sur cette femme ? Je ne sais pas.",
+        "text": "— Bonjour, j'aimerais découvrir la ville de Lille.\n\n— Vous pouvez participer à nos promenades guidées avec des thèmes comme nature, architecture...\n\n— Oui, très bonne idée ! La promenade gastronomie demain matin, c'est possible ?\n\n— Oui, rendez-vous à 10h devant la mairie.\n\n— Parfait, c'est près de mon hôtel. À demain !\n\nQu'est-ce qu'on apprend sur cette femme ?",
         "audio": "/mp3/179/18.mp3",
         "options": [
             "Elle est originaire de Lille.",
@@ -406,7 +406,7 @@
     {
         "id": 32,
         "testId": 179,
-        "text": "Dans l'idée de tourisme, il y a l'idée de voyage, et dans cette idée de voyage, il y a quand même l'idée qui me paraît intéressante, qui est la notion d'exploration, de découverte d'autres cultures, de découverte d'autres normes, et finalement aussi d'émancipation par rapport aux normes qui sont celles de notre quotidien, et dont on s'aperçoit qu'elles peuvent avoir un caractère relatif lorsqu'on s'aperçoit que d'autres gens ailleurs vivent autrement. Question 32 Que permet le tourisme selon cet intervenant ?\n\n<br/>**Note:** missing the word \"**cultures**\" in options A and \"**du monde**\" in option B.",
+        "text": "Dans l'idée de tourisme, il y a l'idée de voyage, et dans cette idée de voyage, il y a quand même l'idée qui me paraît intéressante, qui est la notion d'exploration, de découverte d'autres cultures différentes, de découverte d'autres normes, et évidemment aussi d'émancipation par rapport aux normes qui sont celles de notre quotidien, et dont on s'aperçoit qu'elles peuvent avoir un caractère relatif lorsqu'on s'aperçoit que d'autres gens ailleurs vivent autrement. Que permet le tourisme selon cet intervenant ?\n\n<br/>**Note:** missing the word \"**cultures**\" in options A and \"**du monde**\" in option B.",
         "audio": "/mp3/179/32.mp3",
         "options": [
             "De côtoyer des cultures et coutumes différentes.",

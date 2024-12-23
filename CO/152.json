@@ -134,7 +134,7 @@
     {
         "id": 11,
         "testId": 152,
-        "text": "Bonjour monsieur. Bonjour. Je déménage bientôt et je voudrais savoir comment faire pour continuer à recevoir mon courrier. C'est simple. Vous devez remplir un formulaire en indiquant votre nouvelle adresse. Et ensuite ? Ensuite, nous nous occupons de l'envoi quotidien de votre courrier. Pourquoi l'homme va-t-il au guichet de la poste?",
+        "text": "— Bonjour monsieur.\n\n— Bonjour. Je déménage bientôt et je voudrais savoir comment faire pour continuer à recevoir mon courrier.\n\n— C'est simple. Vous devez remplir un formulaire en indiquant votre nouvelle adresse.\n\n— Et ensuite ?\n\n— Ensuite, nous nous occupons de l'envoi quotidien de votre courrier.\n\nPourquoi l'homme va-t-il au guichet de la poste?",
         "audio": "/mp3/152/11.mp3",
         "options": [
             "Pour un achat.",
@@ -147,7 +147,7 @@
     {
         "id": 12,
         "testId": 152,
-        "text": "Bonjour. Je suis étudiant en commerce international à l'Université de Laval et je voudrais déposer une demande de chambre sur le campus pour le semestre prochain. Avez-vous tous les documents indiqués dans le dossier? Je crois. Voici mon passeport, mon attestation de bourse. Je ne vois pas la copie de votre carte d'étudiant. Il nous la faut absolument pour enregistrer votre demande. D'accord. Je repasserai cet après-midi. Que veut cet étudiant?",
+        "text": "— Bonjour. Je suis étudiant en commerce international à l'Université de Laval et je voudrais déposer une demande de chambre sur le campus pour le semestre prochain.\n\n— Avez-vous tous les documents indiqués dans le dossier? Je crois. Voici mon passeport, mon attestation de bourse.\n\n— Je ne vois pas la copie de votre carte d'étudiant. Il nous la faut absolument pour enregistrer votre demande.\n\n— D'accord. Je repasserai cet après-midi.\n\nQue veut cet étudiant?",
         "audio": "/mp3/152/12.mp3",
         "options": [
             "Avoir une aide financière.",
@@ -269,7 +269,7 @@
         "options": [
             "Des habitants ont voté pour un maire écologiste.",
             "Les écologistes refusent la construction d'une autoroute.",
-            "Le ministère des Transports veut faire construire une autoroute",
+            "Le ministère des Transports veut faire construire une autoroute.",
             "Un maire propose d'ouvrir une réserve naturelle."
         ],
         "answer": 1
@@ -277,7 +277,7 @@
     {
         "id": 22,
         "testId": 152,
-        "text": "Cette nouvelle façon de faire l'info immédiate par rapport à celle que vous faisiez à l'époque dans l'envoyé spécial vous fascine-t-elle ou vous fait-elle peur ? Elle m'inquiète. Elle m'inquiète parce que j'ai l'impression qu'on a tendance à oublier le rôle du journaliste. Nous, vous, nous sommes là pour trier l'information, pour savoir ce qui est vrai de ce qui ne l'est pas. Aujourd'hui avec la valence d'informations que nous avons, en particulier sur les réseaux sociaux, on ne sait plus ce qui est vrai, ce qui n'est pas vrai. Les rumeurs les plus folles courent et ensuite on met des jours et des jours à rattraper une information qui était fausse au départ. Je pense que le journaliste, les journalistes en général, devraient être beaucoup plus présents dans cette course à l'information et faire attention, c'est-à-dire faire leur métier. Que critique ce journaliste dans la pratique actuelle de son métier ?",
+        "text": "— Cette nouvelle façon de faire l'info immédiate par rapport à celle que vous faisiez à l'époque dans l'envoyé spécial vous fascine-t-elle ou vous fait-elle peur ?\n\n— Elle m'inquiète. Elle m'inquiète parce que j'ai l'impression qu'on a tendance à oublier le rôle du journaliste. Nous, vous, nous sommes là pour trier l'information, pour savoir ce qui est vrai et ce qui ne l'est pas. Aujourd'hui avec la valence d'informations que nous avons, en particulier sur les réseaux sociaux, on ne sait plus ce qui est vrai, ce qui n'est pas vrai. Les rumeurs les plus folles courent et ensuite on met des jours et des jours à rattraper une information qui était fausse au départ. Je pense que le journaliste, les journalistes en général, devraient être beaucoup plus présents dans cette course à l'information et faire attention, c'est-à-dire faire leur métier.\n\nQue critique ce journaliste dans la pratique actuelle de son métier ?",
         "audio": "/mp3/152/22.mp3",
         "options": [
             "La formation professionnelle des jeunes.",
@@ -290,7 +290,7 @@
     {
         "id": 23,
         "testId": 152,
-        "text": "Docteur, je ne sais pas ce que j'ai. J'ai très mal au ventre et il est tout gonflé. Je me sens épuisée. Pourtant je rentre de vacances et jusque là je me sentais en forme. Allongez-vous, je vais prendre votre attention. Bon, tout est normal. Je pense que c'est juste un problème de digestion, peut-être des repas trop lourds. Alors ce n'est pas grave docteur, je peux manger tout ce que je veux ? Il faut faire attention pendant quelques jours. Il va falloir maigrir un peu. Pourquoi la patiente consulte-t-elle le médecin ?",
+        "text": "— Docteur, je ne sais pas ce que j'ai. J'ai très mal au ventre et il est tout gonflé. Je me sens épuisée. Pourtant je rentre de vacances et jusque là je me sentais en forme.\n\n— Allongez-vous, je vais prendre votre attention. Bon, tout est normal. Je pense que c'est juste un problème de digestion, peut-être des repas trop lourds.\n\n— Alors ce n'est pas grave docteur, je peux manger tout ce que je veux ?\n\n— Il faut faire attention pendant quelques jours. Il va falloir maigrir un peu.\n\nPourquoi la patiente consulte-t-elle le médecin ?",
         "audio": "/mp3/152/23.mp3",
         "options": [
             "Parce qu'elle a toujours très faim.",
@@ -342,7 +342,7 @@
     {
         "id": 27,
         "testId": 152,
-        "text": "Suad Haddad, vous êtes libraire à Bordeaux. Parmi vos clients, vous en comptez de très jeunes. Dans un album pour enfants, l'image est-elle plus importante que le texte ? Il y a des albums sans texte qui sont très forts. Et la Petite Marionnette de Gabriel Vincent en est un exemple. Les émotions sont véhiculées par un trait de crayon extrêmement évocateur et la moindre ligne aurait été de trop. Le bon travail éditorial consiste précisément à équilibrer le texte et l'image tout en laissant l'auteur et l'illustrateur s'exprimer au mieux de leurs compétences. Il y a de grands artistes dans la littérature de jeunesse, qu'ils soient auteurs, illustrateurs ou les deux à la fois. Et il y a aussi des éditeurs passionnés. Ces rencontres donnent naissance à des petits chefs-d'œuvre. Quel est le point de vue de la libraire interrogée ?",
+        "text": "— Suad Haddad, vous êtes libraire à Bordeaux. Parmi vos clients, vous en comptez de très jeunes. Dans un album pour enfants, l'image est-elle plus importante que le texte ?\n\n— Il y a des albums sans texte qui sont très forts. Et la Petite Marionnette de Gabriel Vincent en est un exemple. Les émotions sont véhiculées par un trait de crayon extrêmement évocateur et la moindre ligne aurait été de trop. Le bon travail éditorial consiste précisément à équilibrer le texte et l'image tout en laissant l'auteur et l'illustrateur s'exprimer au mieux de leurs compétences. Il y a de grands artistes dans la littérature de jeunesse, qu'ils soient auteurs, illustrateurs ou les deux à la fois. Et il y a aussi des éditeurs passionnés. Ces rencontres donnent naissance à des petits chefs-d'œuvre.\n\nQuel est le point de vue de la libraire interrogée ?",
         "audio": "/mp3/152/27.mp3",
         "options": [
             "La création d'un livre pour enfant de qualité est un travail d'équipe.",
@@ -433,7 +433,7 @@
     {
         "id": 34,
         "testId": 152,
-        "text": "Une étude menée dans dix pays montre que les Français ont mauvaise opinion de leurs chefs d'entreprise. Bernard Ramanansoha, vous êtes directeur d'une école de commerce, qu'en pensez-vous? C'est vrai que les dirigeants français ressortent moins bien notés. Alors qu'il s'agit d'organiser le travail de leur équipe ou d'accompagner leurs collaborateurs dans leur évolution professionnelle, ils sont 20 points en dessous des dirigeants internationaux. Maintenant, est-ce que cette étude prouve que les chefs d'entreprise sont moins bons ou est-ce que ça prouve que les gens qui ont répondu au questionnaire, quand ils sont français, sont capables d'être plus critiques que leurs homologues européens? Car encore une fois, il s'agit de perceptions qu'ont les salariés de leur patron. Quelle est la position de ce spécialiste par rapport à cette étude?",
+        "text": "— Une étude menée dans dix pays montre que les Français ont mauvaise opinion de leurs chefs d'entreprise. Bernard Ramanansoha, vous êtes directeur d'une école de commerce, qu'en pensez-vous?\n\n— C'est vrai que les dirigeants français ressortent moins bien notés. Alors qu'il s'agit d'organiser le travail de leur équipe ou d'accompagner leurs collaborateurs dans leur évolution professionnelle, ils sont 20 points en dessous des dirigeants internationaux. Maintenant, est-ce que cette étude prouve que les chefs d'entreprise sont moins bons ou est-ce que ça prouve que les gens qui ont répondu au questionnaire, quand ils sont français, sont capables d'être plus critiques que leurs homologues européens? Car encore une fois, il s'agit de perceptions qu'ont les salariés de leur patron.\n\nQuelle est la position de ce spécialiste par rapport à cette étude?",
         "audio": "/mp3/152/34.mp3",
         "options": [
             "Il adhère au choix de la méthodologie retenue.",

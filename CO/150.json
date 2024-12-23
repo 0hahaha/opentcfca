@@ -147,7 +147,7 @@
     {
         "id": 12,
         "testId": 150,
-        "text": "— Je voudrais des informations sur le carnaval d'hiver, s'il vous plaît.\n\n— Oui, madame.\n\n— Que proposez-vous pour de jeunes enfants?\n\n— Il y a des animations, des défilés, un concours de sculpture sur neige. En réalité, beaucoup de choses à faire.\n\n— D'accord. Voici la brochure avec toutes les informations, mais il faut s'inscrire vite à certaines activités. Les places sont limitées et il y a déjà beaucoup de participants.\n\nQuels conseils donne-t-on à cette personne?",
+        "text": "— Je voudrais des informations sur le carnaval d'hiver, s'il vous plaît.\n\n— Oui, madame.\n\n— Que proposez-vous pour de jeunes enfants?\n\n— Il y a des animations, des défilés, un concours de sculpture sur neige. En réalité, beaucoup de choses à faire.\n\n— D'accord.\n\n— Voici la brochure avec toutes les informations, mais il faut s'inscrire vite à certaines activités. Les places sont limitées et il y a déjà beaucoup de participants.\n\nQuels conseils donne-t-on à cette personne?",
         "audio": "/mp3/150/12.mp3",
         "options": [
             "D’acheter le programme.",

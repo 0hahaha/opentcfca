@@ -160,7 +160,7 @@
     {
         "id": 13,
         "testId": 151,
-        "text": "Alors, c'est d'accord. Nous faisons un pique-nique samedi prochain. Oui, mais cela dépendra aussi du temps. S'il pleut, Pierre a proposé d'aller chez lui. Il a une maison de campagne avec une grande véranda qui s'ouvre sur le jardin. Ah oui ? Alors c'est d'accord. Tu apportes les salades ? Oui, et toi des fruits. Pierre s'occupera des boissons et du pain. Bon, espérons qu'il fera beau. Que veulent faire ces personnes samedi s'il ne pleut pas ?",
+        "text": "— Alors, c'est d'accord. Nous faisons un pique-nique samedi prochain.\n\n— Oui, mais cela dépendra aussi du temps. S'il pleut, Pierre a proposé d'aller chez lui. Il a une maison de campagne avec une grande véranda qui s'ouvre sur le jardin.\n\n— Ah oui ? Alors c'est d'accord. Tu apportes les salades ?\n\n— Oui, et toi des fruits. Pierre s'occupera des boissons et du pain.\n\n— Bon, espérons qu'il fera beau.\n\nQue veulent faire ces personnes samedi s'il ne pleut pas ?",
         "audio": "/mp3/151/13.mp3",
         "options": [
             "Inviter des amis chez elles.",
@@ -238,7 +238,7 @@
     {
         "id": 19,
         "testId": 151,
-        "text": "Bonjour Marc, c'est Marie. Tu viens au cinéma ce soir? Non, je suis désolé, je suis trop fatigué. Je vais rester chez moi. Quel dommage! Et pour le théâtre ce week-end? Oui, je viendrai. Par contre, je ne pourrai pas manger au restaurant. Que fera Marc ce week-end?",
+        "text": "— Marc, c'est Marie. Tu viens au cinéma ce soir?\n\n— Non, je suis désolé, je suis trop fatigué. Je vais rester chez moi.\n\n— Quel dommage! Et pour le théâtre ce week-end?\n\n— Oui, je viendrai. Par contre, je ne pourrai pas manger au restaurant.\n\nQue fera Marc ce week-end?",
         "audio": "/mp3/151/19.mp3",
         "options": [
             "Il dînera au restaurant.",
@@ -277,7 +277,7 @@
     {
         "id": 22,
         "testId": 151,
-        "text": "Parmi les victimes de la folie destructrice de l’homme, les abeilles. En cause, l’utilisation dans l’agriculture de pesticides très puissants, qui sont des poisons mortels pour les essaims d’abeilles, et conséquences inattendues, c’est finalement en ville que les abeilles finissent par trouver refuge. Écoutez le reportage de Gaël Letanneux. C’est le monde à l’envers. Aujourd’hui, les abeilles préfèrent la ville à la campagne. Car sur les toits, l’apiculteur n’a pas à craindre les effets des pesticides. En ville, les abeilles meurent moins vite et elles produisent du miel en grande quantité. Paradoxe assez incroyable. On perd moins d’essaims et les apiculteurs demandent au gouvernement d’interdire tous les pesticides qui peuvent nuire à la santé des abeilles ? Quel est le phénomène évoqué ?",
+        "text": "Parmi les victimes de la folie destructrice de l’homme, les abeilles. En cause, l’utilisation dans l’agriculture de pesticides très puissants, qui sont des poisons mortels pour les essaims d’abeilles, et conséquences inattendues, c’est finalement en ville que les abeilles finissent par trouver refuge. Écoutez le reportage de Gaël Letanneux. C’est le monde à l’envers. Aujourd’hui, les abeilles préfèrent la ville à la campagne. Car sur les toits, l’apiculteur n’a pas à craindre les effets des pesticides. En ville, les abeilles meurent moins vite et elles produisent du miel en grande quantité. Paradoxe assez incroyable. On perd moins d’essaims et les apiculteurs demandent au gouvernement d’interdire tous les pesticides qui peuvent nuire à la santé des abeilles. Quel est le phénomène évoqué ?",
         "audio": "/mp3/151/22.mp3",
         "options": [
             "La chute de la production de miel.",
@@ -355,7 +355,7 @@
     {
         "id": 28,
         "testId": 151,
-        "text": "On est aujourd’hui à Saint-Louis du Sénégal, à l’université Gaston-Berger. C’est la deuxième université du pays avec dix fois moins d’étudiants qu’à Dakar. Elle a échappé à l’arrivée en masse d’étudiants pour une raison simple, c’est ce que nous explique le recteur de l’université. L’université a été créée pour développer l’excellence. Nous avons mis en place la sélection pour assurer la réussite des étudiants, que nous recrutons sur la base des résultats du bac qui doit être obtenu avec mention. Du coup, le recrutement n’est pas seulement local, on vient de partout pour s’inscrire ici. Et comme les étudiants ont un encadrement fort, les taux de réussite sont très élevés. Qu’explique la personne interrogée à propos de cette université sénégalaise ?",
+        "text": "— On est aujourd’hui à Saint-Louis du Sénégal, à l’université Gaston-Berger. C’est la deuxième université du pays avec dix fois moins d’étudiants qu’à Dakar. Elle a échappé à l’arrivée en masse d’étudiants pour une raison simple, c’est ce que nous explique le recteur de l’université.\n\n— L’université a été créée pour développer l’excellence. Nous avons mis en place la sélection pour assurer la réussite des étudiants, que nous recrutons sur la base des résultats du bac qui doit être obtenu avec mention. Du coup, le recrutement n’est pas seulement local, on vient de partout pour s’inscrire ici. Et comme les étudiants ont un encadrement fort, les taux de réussite sont très élevés.\n\nQu’explique la personne interrogée à propos de cette université sénégalaise ?",
         "audio": "/mp3/151/28.mp3",
         "options": [
             "Les critères de sélection sont particulièrement stricts.",
@@ -394,7 +394,7 @@
     {
         "id": 31,
         "testId": 151,
-        "text": "Les moins de 30 ans ne représentent que 10% des locataires. Pourtant, ils dépensent plus pour se loger, en moyenne 6 000 euros par an, soit 42% de plus que les autres. Ils ont également des revenus plus faibles que leurs parents au même âge, alors qu’ils sont nettement plus diplômés. Et la différence en France est nettement plus importante que dans les pays européens comparables. Mais ça ne freine pas leur envie de consommer. Il en faudrait plus. Le Credo constate que leur appétit de consommation est plus important que celui de leurs aînés, d’autant plus que, peu intéressés par les structures sociales existantes, les jeunes s’identifient à des groupes dont le point commun est justement la consommation. C’est le règne de la consommation symbole et le triomphe du marketing. Qu’est-ce qui différencie les moins de 30 ans des générations précédentes?",
+        "text": "— Les moins de 30 ans ne représentent que 10% des locataires. Pourtant, ils dépensent plus pour se loger, en moyenne 6 000 euros par an, soit 42% de plus que les autres. Ils ont également des revenus plus faibles que leurs parents au même âge, alors qu'ils sont nettement plus diplômés. Et la différence en France est nettement plus importante que dans les pays européens comparables.\n\n— Mais ça ne freine pas leur envie de consommer.\n\n— Il en faudrait plus. Le Credo constate que leur appétit de consommation est plus important que celui de leurs aînés, d'autant plus que, peu intéressés par les structures sociales existantes, les jeunes s'identifient à des groupes dont le point commun est justement la consommation. C'est le règne de la consommation symbole et le triomphe du marketing.\n\nQu'est-ce qui différencie les moins de 30 ans des générations précédentes?",
         "audio": "/mp3/151/31.mp3",
         "options": [
             "Ils habitent plus longtemps en location.",
@@ -407,7 +407,7 @@
     {
         "id": 32,
         "testId": 151,
-        "text": "Je sais que vous, vous allez fréquemment à la rencontre des jeunes au sein de l’association qui tente de promouvoir les métiers des métaux. Est-ce que ce sont des métiers qui font rêver aujourd’hui les jeunes? Il y a une dimension mystique autour de ces artisans à du faire. Mystique, carrément! La transformation de la barre de métal au feu a toujours fasciné le profane. L’alchimie qui permet de voir la transformation d’un lingot de métal en une œuvre finie a toujours émerveillé. Et donc on attire assez facilement les jeunes vers ces savoir-faire, notamment en ce qui concerne la ferronnerie d’art. Nous organisons... Il y a une dimension artistique de créativité en plus. Voilà, tout à fait. Qu’est-ce qui pousse les jeunes à travailler dans les métiers des métaux?",
+        "text": "— Je sais que vous, vous allez fréquemment à la rencontre des jeunes au sein de l’association qui tente de promouvoir les métiers des métaux. Est-ce que ce sont des métiers qui font rêver aujourd’hui les jeunes?\n\n— Il y a une dimension mystique autour de ces artisans à du faire.\n\n— Mystique, carrément!\n\n— La transformation de la barre de métal au feu a toujours fasciné le profane. L’alchimie qui permet de voir la transformation d’un lingot de métal en une œuvre finie a toujours émerveillé. Et donc on attire assez facilement les jeunes vers ces savoir-faire, notamment en ce qui concerne la ferronnerie d’art. Nous organisons...\n\n— Il y a une dimension artistique de créativité en plus.\n\n— Voilà, tout à fait.\n\n— Qu’est-ce qui pousse les jeunes à travailler dans les métiers des métaux?",
         "audio": "/mp3/151/32.mp3",
         "options": [
             "Des prédispositions pour les professions techniques.",
@@ -433,7 +433,7 @@
     {
         "id": 34,
         "testId": 151,
-        "text": "Déjà à l’âge de 4-5 ans, on peut dire qu’ils sont attirés par des marques, ils veulent avoir leur look. C’est quand même terrible de s’apercevoir que tout petit déjà on est sous influence en fait. C’est ça qu’on peut dire. Alors c’est vrai qu’on se rend compte que l’âge à partir duquel les enfants commencent à s’intéresser à cette notion de marque a diminué. C’est-à-dire que le fait que les enfants veuillent une marque particulière ça a toujours existé, il ne faut pas se leurrer. Le phénomène effectivement n’est pas nouveau mais l’âge décroît sensiblement. Évidemment la socialisation joue un rôle puisque l’enfant est toujours sous l’influence de ses pairs. Il va vouloir faire comme les autres parce qu’il y a l’effet de groupe, on ne veut pas être mis à part. Qu’est-ce qui explique le comportement des enfants en matière de vêtements?",
+        "text": "— Déjà à l’âge de 4-5 ans, on peut dire qu’ils sont attirés par des marques, ils veulent avoir leur look. C’est quand même terrible de s’apercevoir que tout petit déjà on est sous influence en fait. C’est ça qu’on peut dire.\n\n— Alors c’est vrai qu’on se rend compte que l’âge à partir duquel les enfants commencent à s’intéresser à cette notion de marque a diminué. C’est-à-dire que le fait que les enfants veuillent une marque particulière ça a toujours existé, il ne faut pas se leurrer. Le phénomène effectivement n’est pas nouveau mais l’âge décroît sensiblement. Évidemment la socialisation joue un rôle puisque l’enfant est toujours sous l’influence de ses pairs. Il va vouloir faire comme les autres parce qu’il y a l’effet de groupe, on ne veut pas être mis à part.\n\nQu’est-ce qui explique le comportement des enfants en matière de vêtements?",
         "audio": "/mp3/151/34.mp3",
         "options": [
             "La publicité diffusée par les entreprises.",
@@ -459,7 +459,7 @@
     {
         "id": 36,
         "testId": 151,
-        "text": "Alors ce cours avec François? J’ai adoré! Il a vraiment le chic pour nous faire ressentir la musique. Ça m’a vraiment donné envie de continuer du coup. Combien coûte le trimestre? C’est 15 euros l’heure, mais si vous prenez un abonnement, ça vous reviendra moins cher. Et quelles sont les conditions? Il faut prendre au moins 10 cours dans les 3 mois à venir, ou 25 dans les 6 mois. Après vous avez aussi la formule sur l’année qui revient à 8 euros le cours. Ah oui! C’est intéressant parce que je viens à la fois pour le classique et pour les claquettes. En même temps, il faut que je sois sûre de pouvoir m’engager. À vous de voir. Cela dit, vous pouvez changer de formule à tout moment. Que recherche la cliente?",
+        "text": "— Alors ce cours avec François?\n\n— J’ai adoré! Il a vraiment le chic pour nous faire ressentir la musique. Ça m’a vraiment donné envie de continuer du coup. Combien coûte le trimestre?\n\n— C’est 15 euros l’heure, mais si vous prenez un abonnement, ça vous reviendra moins cher.\n\n— Et quelles sont les conditions?\n\n— Il faut prendre au moins 10 cours dans les 3 mois à venir, ou 25 dans les 6 mois. Après vous avez aussi la formule sur l’année qui revient à 8 euros le cours.\n\n— Ah oui! C’est intéressant parce que je viens à la fois pour le classique et pour les claquettes. En même temps, il faut que je sois sûre de pouvoir m’engager.\n\n— À vous de voir. Cela dit, vous pouvez changer de formule à tout moment.\n\nQue recherche la cliente?",
         "audio": "/mp3/151/36.mp3",
         "options": [
             "Un cours de musique sensorielle.",

@@ -251,7 +251,7 @@
     {
         "id": 20,
         "testId": 185,
-        "text": "— Bonjour, je voudrais envoyer ce colis en Outre-mer en express.\n\n— D'accord. Alors, ça vous fera 20 euros, s'il vous plaît.\n\n— 20 euros ?\n\n— Oui, mais si vous préférez, nous proposons des boîtes standards qui coûtent moins cher.\n\n— Je pense que je vais refaire le colis chez moi avec une de vos boîtes et reviens demain.\n\n— N'oubliez pas de détailler le contenu du colis pour la boîte.\n\n— Oui, je m'en suis occupée. J'ai également la fiche avec les coordonnées du destinataire.\n\nPourquoi cette dame va-t-elle finalement envoyer son colis le lendemain ?",
+        "text": "— Bonjour, je voudrais envoyer ce colis en Outre-mer en express.\n\n— D'accord. Alors, ça vous fera 20 euros, s'il vous plaît.\n\n— 20 euros ?\n\n— Oui, mais si vous préférez, nous proposons des boîtes standards qui coûtent moins cher.\n\n— Je pense que je vais refaire le colis chez moi avec une de vos boîtes et reviens demain.\n\n— N'oubliez pas de détailler le contenu du colis pour la douane.\n\n— Oui, je m'en suis occupée. J'ai également la fiche avec les coordonnées du destinataire.\n\nPourquoi cette dame va-t-elle finalement envoyer son colis le lendemain ?",
         "audio": "/mp3/185/20.mp3",
         "audioAI": "/mp3/185/ai_20.mp3",
         "options": [
@@ -369,7 +369,7 @@
     {
         "id": 29,
         "testId": 185,
-        "text": "— Alors, quelles informations avez-vous ramené de Berne, Pierre ?\n\n— Notre partenaire suisse n'est pas favorable à l'élargissement de nos activités communes. Il estime que les investissements sont trop élevés par rapport aux tombées économiques possibles.\n\n— C'est également la position de nos collaborateurs anglais. Ils ne veulent pas prendre de risques inutiles étant donné le faible taux de croissance du pouvoir d'achat cette année.\n\n— Ce projet est véritablement compromis. Rome et Berlin avaient déjà montré leur réticence.\n\n— Et bien d'accord. Arrêtons tout dès maintenant et commençons tout de suite à explorer de nouvelles pistes.\n\n— Pourquoi le directeur choisit-il de renoncer à ce projet ?",
+        "text": "— Alors, quelles informations avez-vous ramené de Berne, Pierre ?\n\n— Notre partenaire suisse n'est pas favorable à l'élargissement de nos activités communes. Il estime que les investissements sont trop élevés par rapport aux tombées économiques possibles.\n\n— C'est également la position de nos collaborateurs anglais. Ils ne veulent pas prendre de risques inutiles étant donné le faible taux de croissance du pouvoir d'achat cette année.\n\n— Ce projet est véritablement compromis. Rome et Berlin avaient déjà montré leur réticence.\n\n— Et bien d'accord. Arrêtons tout dès maintenant et commençons tout de suite à explorer de nouvelles pistes.\n\nPourquoi le directeur choisit-il de renoncer à ce projet ?",
         "audio": "/mp3/185/29.mp3",
         "options": [
             "Le directeur nourrit de plus grandes ambitions pour l’entreprise.",
@@ -426,7 +426,7 @@
         "options": [
             "Elle engendre une peur irrationnelle.",
             "Elle possède un nom inapproprié.",
-            "Son cham d’action est restreint.",
+            "Son champ d'action est restreint.",
             "Son développement est imprévisible."
         ],
         "answer": 1

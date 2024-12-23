@@ -264,7 +264,7 @@
     {
         "id": 21,
         "testId": 156,
-        "text": "— Vous pratiquez un sport ?\n\n— Je n'ai plus le temps à cause de mon travail. C'est dommage, ça permet de garder une bonne hygiène de vie, d'être en forme et de rester en bonne santé. Vous devriez essayer de trouver du temps.\n\n— D'accord, je vais y réfléchir.\n\n— Tenez, voici votre ordonnance. Prenez ces deux médicaments matin et soir pendant huit jours.\n\nQue fait la doctoresse ?",
+        "text": "— Vous pratiquez un sport ?\n\n— Je n'ai plus le temps à cause de mon travail.\n\n— C'est dommage, ça permet de garder une bonne hygiène de vie, d'être en forme et de rester en bonne santé. Vous devriez essayer de trouver du temps.\n\n— D'accord, je vais y réfléchir.\n\n— Tenez, voici votre ordonnance. Prenez ces deux médicaments matin et soir pendant huit jours.\n\nQue fait la doctoresse ?",
         "audio": "/mp3/156/21.mp3",
         "options": [
             "Elle conseille une activité physique.",
@@ -433,7 +433,7 @@
     {
         "id": 34,
         "testId": 156,
-        "text": "— Monsieur, pouvez-vous nous parler de votre nouveau dispositif de prêts à la bibliothèque et vidéothèque municipales?\n\n— Bien entendu. Il m'a été demandé de rendre plus performant le service d'emprunt de ces deux départements que compte la mairie de votre ville.\n\n— Et que proposez-vous?\n\n— Au lieu de passer au guichet de prêts munis de vos livres ou vidéos en présentant votre carte d'abonné habituelle manuscrite et cartonnée, vous montrerez cette carte magnétique, format carte de crédit, qui identifie automatiquement l'emprunteur.\n\n— Quels en sont les avantages? Réduire l'attente au guichet et la facilité de rangement.\n\n— Pensez-vous que d'autres espaces municipaux seront informatisés de la sorte? Bien sûr. Si cela s'avère efficace, il sera étendu aux abonnés des clubs de sport de la ville qui veulent emprunter du matériel, tels que patins à glace ou vélos pour les enfants. Attendons les mois à venir pour en juger.\n\nQuel changement annonce l'homme interviewé?",
+        "text": "— Monsieur, pouvez-vous nous parler de votre nouveau dispositif de prêts à la bibliothèque et vidéothèque municipales?\n\n— Bien entendu. Il m'a été demandé de rendre plus performant le service d'emprunt de ces deux départements que compte la mairie de votre ville.\n\n— Et que proposez-vous?\n\n— Au lieu de passer au guichet de prêts munis de vos livres ou vidéos en présentant votre carte d'abonné habituelle manuscrite et cartonnée, vous montrerez cette carte magnétique, format carte de crédit, qui identifie automatiquement l'emprunteur.\n\n— Quels en sont les avantages?\n\n— Réduire l'attente au guichet et la facilité de rangement.\n\n— Pensez-vous que d'autres espaces municipaux seront informatisés de la sorte?\n\n— Bien sûr. Si cela s'avère efficace, il sera étendu aux abonnés des clubs de sport de la ville qui veulent emprunter du matériel, tels que patins à glace ou vélos pour les enfants. Attendons les mois à venir pour en juger.\n\nQuel changement annonce l'homme interviewé?",
         "audio": "/mp3/156/34.mp3",
         "options": [
             "Un accès plus large aux fonds de la bibliothèque municipale.",
