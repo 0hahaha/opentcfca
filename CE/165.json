@@ -111,7 +111,7 @@
         "options": [
             "Un document professionnel.",
             "Un titre de transport.",
-            "Une enveloppe timbre.",
+            "Une enveloppe timbrée.",
             "Une somme d'argent."
         ],
         "answer": 0
@@ -276,7 +276,7 @@
         "id": 22,
         "testId": 165,
         "text": "Non, Maupassant n'est pas qu'un écrivain pour cours de français. Comme tout bon auteur culte, ses thématiques sont percutantes, grinçantes, toujours d'actualité et tellement vraies dans le fond: hypocrisie de la bourgeoisie, monde paysan décrit sans artifice, rapports humains aliénés par le contexte social et culturel... Du pain bénit pour les auteurs de « Chez Maupassant » une collection de huit téléfilms tirés des contes et nouvelles du grand Guy.",
-        "query": "Que présente l’auteur de l’article ?",
+        "query": "Que présente l'auteur de l'article ?",
         "options": [
             "Des adaptations télévisées de Maupassant.",
             "Des programmes d’études littéraires.",

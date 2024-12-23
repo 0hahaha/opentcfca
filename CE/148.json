@@ -67,7 +67,7 @@
     {
         "id": 6,
         "testId": 148,
-        "text": "Scphie,\n\nViens me chercher au stade à 16, après mon match de foot. J'ai fini mes devoirs, on peut aller au cinéma.\n\nMarc",
+        "text": "Sophie,\n\nViens me chercher au stade à 16, après mon match de foot. J'ai fini mes devoirs, on peut aller au cinéma.\n\nMarc",
         "query": "Que fait Marc jusqu’à 16 h ?",
         "options": [
             "Il achète un livre.",

@@ -15,7 +15,7 @@
     {
         "id": 2,
         "testId": 161,
-        "text": "Urgent ! cherche maison à louer pour vacances d'été dans le centre-ville.\n\n<br/>Laetitia : 07 08 09 80 90",
+        "text": "Urgent ! Cherche maison à louer pour vacances d'été dans le centre-ville.\n\n<br/>Laetitia : 07 08 09 80 90",
         "query": "Qu'est-ce que Laetitia veut faire ?",
         "options": [
             "Habiter à la compagne.",

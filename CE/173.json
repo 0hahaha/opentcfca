@@ -41,7 +41,7 @@
     {
         "id": 4,
         "testId": 173,
-        "text": "Des élèves français ont envoyé un message sur internet afin de recevoir des cartes postales du monde entier. Ils ont reçu 8000 réponses. L'instituteur explique : « En classe, Les élèves cherchent d'où viennent les cartes et ils découvrent des capitales et des pays. »",
+        "text": "Des élèves français ont envoyé un message sur internet afin de recevoir des cartes postales du monde entier. Ils ont reçu 8000 réponses. L'instituteur explique : « En classe, les élèves cherchent d'où viennent les cartes et ils découvrent des capitales et des pays. »",
         "query": "Qu'est-ce que ces élèves font avec les cartes postales?",
         "options": [
             "Ils apprennent la géographie.",

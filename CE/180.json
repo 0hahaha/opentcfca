@@ -184,7 +184,7 @@
     {
         "id": 15,
         "testId": 180,
-        "text": "Au service des urgences de l'hôpital, mous recevons beaucoup de gens très angoissés, à qui il arrive des choses très traumatisantes. Quel que soit leur état, la gentillesse est sans conteste la meilleure façon de leur répondre. Il me serais impossible de gérer le stress et l'agressivité auxquels je suis sans cesse exposée sans adopter ce parti pris calme et souriant. La gentillesse est la réponse idéale, et même une compétence indispensable pour les médecins que nous sommes.",
+        "text": "Au service des urgences de l'hôpital, nous recevons beaucoup de gens très angoissés, à qui il arrive des choses très traumatisantes. Quel que soit leur état, la gentillesse est sans conteste la meilleure façon de leur répondre. Il me serais impossible de gérer le stress et l'agressivité auxquels je suis sans cesse exposée sans adopter ce parti pris calme et souriant. La gentillesse est la réponse idéale, et même une compétence indispensable pour les médecins que nous sommes.",
         "query": "Selon ce texte, que doit faire un urgentiste ?",
         "options": [
             "Accueillir les patients avec bienveillance.",

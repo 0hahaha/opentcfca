@@ -483,8 +483,7 @@
     {
         "id": 38,
         "testId": 178,
-        "text": "Le recul est considérable : les accidents de travail ont diminué de plus de 7 % cette année. Cette chute est due en partie aux campagnes médicales menées auprès du public. Mais elle révèle aussi une situation économique, avec la baisse d'activité, notamment dans les secteurs industriels - bâtiment et travaux publics. Mais si les accidents sont moins nombreux, les maladies professionnelles, elles, ne cessent de progresser, avec une hausse de 5% en 2009. Et les troubles des muscles et des os sont particulièrement concernés : leur fréquence a ainsi augmenté de plus de 7% en un an. En cause, le stress, mais aussi les activités physiques à répétition.",
-        "query": "Qu'apprend-on sur les accidents du travail ?",
+        "text": "Le recul est considérable : les accidents de travail ont diminué de plus de 7 % cette année. Cette chute est due en partie aux campagnes médicales menées auprès du public. Mais elle révèle aussi une situation économique, avec la baisse d'activité, notamment dans les secteurs industriels - bâtiment et travaux publics. Mais si les accidents sont moins nombreux, les maladies professionnelles, elles, ne cessent de progresser, avec une hausse de 5% en 2009. Et les troubles des muscles et des os sont particulièrement concernés : leur fréquence a ainsi augmenté de plus de 7% en un an. En cause, le stress, mais aussi les activités physiques à répétition.",        "query": "Qu'apprend-on sur les accidents du travail ?",
         "options": [
             "Ils ont une influence très préoccupante sur l'économie.",
             "Ils se produisent dans les entreprises industrielles.",

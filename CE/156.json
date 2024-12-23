@@ -213,7 +213,7 @@
         "text": "<p style=\"background: #e0e0e0; padding: 10px; \">Expéditeur : <b>Philippe Tassi</b> <br/> Destinataire : <b>Maud Lenay</b> <br/> Objet : <b>Inscription en master.</b> <br/> Pièce jointe : <u>Dossier d’inscription.pdf</u></p>\n\nMademoiselle Lenay,\n\n<br/> Suite à votre appel téléphonique concernant le master en communication, je vous informe que les prochaines inscriptions auront lieu du 25 mai au 30 juin.\n\nVous trouverez en pièce jointe le dossier d'inscription à nous retourner avec :\n\n- la photocopie de votre dernier diplôme\n- un CV et une lettre de motivation.\n\nN'oubliez pas d'indiquer une adresse électronique : la réponse vous sera communiquée uniquement par courriel.\n\n<br/> Consultez le site internet www.univ.fr pour toute autre information.\n\n<br/>Cordialement,\n\n<br/>Philippe Tassi,<br/>Responsable du master.",
         "query": "Que devra faire Mademoiselle Lenay pour savoir si sa Candidature est retenue ?",
         "options": [
-            "Consulter sa boite de réception de courriels.",
+            "Consulter sa boîte de réception de courriels.",
             "Écrire au responsable de la formation choisie.",
             "S'informer sur le site internet www.univ.fr.",
             "Téléphoner au département communication."

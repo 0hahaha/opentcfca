@@ -211,12 +211,12 @@
         "id": 17,
         "testId": 162,
         "text": "## <p style=\"text-align: center;\">Coup de cœur</p>\n\nLE DIRIGEABLE : La carte varie mais la qualité et le raffinement des plats se maintiennent. Les sauces sont merveilleusement travaillées, les produits de qualité, et les nappes toujours impeccablement blanches. C'est très étonnant de trouver une table si délicieuse dans un quartier aussi éloigné du centre-ville ; malgré cela, la réservation pour le soir est à conseiller. Y aller et y retourner, même en jeans et baskets.",
-        "query": "Ce guide présente une critique.",
+        "query": "Ce guide présente une critique...",
         "options": [
-            "Défavorable pour le restaurant.",
-            "Nuancée pour le restaurant.",
-            "Enthousiaste pour le restaurant.",
-            "Objective pour le restaurant."
+            "défavorable pour le restaurant.",
+            "nuancée pour le restaurant.",
+            "enthousiaste pour le restaurant.",
+            "objective pour le restaurant."
         ],
         "answer": 2
     },

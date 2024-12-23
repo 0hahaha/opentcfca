@@ -226,7 +226,7 @@
         "text": "L'expérience « cours le matin, sport l'après-midi », qui a commencé à la rentrée, concerne 7000 élèves, dans 120 lycées. Les parents affirment que « la santé de leur enfant a peu varié par rapport à l'an dernier ». Ils semblent avoir meilleur appétit et « ils parlent plus de leurs activités avec leurs parents ». Cependant, il n'y a pas « d'influence sur la ponctualité, la concentration ou les résultats scolaires ».",
         "query": "Quels sont les effets de cette expérience ?",
         "options": [
-            "Les échanges en famille saméliorent.",
+            "Les échanges en famille s'améliorent.",
             "L'attention en classe est en hausse.",
             "Les adolescents sont plus en forme.",
             "La réussite aux examens augmente."
@@ -315,7 +315,7 @@
         "id": 25,
         "testId": 157,
         "text": "Les salariés européens seraient 74% à songer à se reconvertir, et seuls 8% se déclarent satisfaits de leur carrière. La crise économique actuelle, loin de décourager les aspirants au changement, semble même précipiter les réorientations professionnelles volontaires.\n\nCe mouvement est à la fois individuel et social. Certes, l'individu, majeur et responsable, demeure l'acteur principal de sa reconversion. Mais la société, à tant valoriser le changement personnel, transforme le changement professionnel en expérience sociale. L'idée qu'une autre vie est possible est admise dans tous les niveaux de la société.",
-        "query": "Quel phénomène associé à la crise économique et décrit dans ce texte ?",
+        "query": "Quel phénomène associé à la crise économique est décrit dans ce texte ?",
         "options": [
             "La lutte pour le maintien du niveau des salaires.",
             "La volonté de déménager à l’âge adulte.",

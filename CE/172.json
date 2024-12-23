@@ -224,7 +224,7 @@
         "id": 18,
         "testId": 172,
         "text": "# Spécial étudiant\n\nVous avez trouvé un logement (chambre, studio, deux-pièces...) ? N'oubliez pas de vous assurer.\n\n**Promotion exceptionnelle**, 3 mois d'assurance gratuite si vous vous inscrivez avant le 30 septembre.",
-        "query": "Qu'est-ce que cette annone propose ?",
+        "query": "Qu'est-ce que cette annonce propose ?",
         "options": [
             "Un abonnement mensuel.",
             "Un choix d'appartements.",

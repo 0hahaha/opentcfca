@@ -159,7 +159,7 @@
         "id": 13,
         "testId": 150,
         "text": "***Chers collègues,***\n\nVeuillez rendre au plus tard vendredi midi votre feuille de demande de congés. Nous vous rappelons qu'il est essentiel pour le bon fonctionnement de notre société pendant la période estivale et pour satisfaire toutes vos demandes que ces feuilles soient dument complétées et remises le plus tôt possible à votre responsable. Nous vous remercions de votre collaboration et nous vous souhaitons une bonne semaine.\n\n***<div style=\"text-align: right;\">La direction des ressources humaines.</div>***",
-        "query": "Dans ce message électronique, que demande -t-on aux employés ?",
+        "query": "Dans ce message électronique, que demande-t-on aux employés ?",
         "options": [
             "De participer à la vie de l’entreprise.",
             "De poser leurs jours de vacances.",
@@ -184,7 +184,7 @@
     {
         "id": 15,
         "testId": 150,
-        "text": "Des ingénieurs travaillent très sérieusement à la réalisation d'un bus, semblable à un tramway tunnel qui circulera au-dessus des files de voitures pour dégager le trafic dans les zones urbaines. L'engin sera entièrement électrique et pourra transporter 1200 personnes à une vitesse de 60 km/heure. Pour que les automobilistes « au-dessous » évoluent sans danger, des feux places dans la partie inférieure du bus signaleront ses changements de direction.",
+        "text": "Des ingénieurs travaillent très sérieusement à la réalisation d'un bus, semblable à un tramway tunnel qui circulera au-dessus des files de voitures pour dégager le trafic dans les zones urbaines. L'engin sera entièrement électrique et pourra transporter 1200 personnes à une vitesse de 60 kilomètres par heure. Pour que les automobilistes « au-dessous » évoluent sans danger, des feux places dans la partie inférieure du bus signaleront ses changements de direction.",
         "query": "Quel sera l’atout de ce moyen de transport ?",
         "options": [
             "Il modifiera son parcours à la demande des usagers.",

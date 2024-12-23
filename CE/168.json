@@ -28,7 +28,7 @@
     {
         "id": 3,
         "testId": 168,
-        "text": "Jean,\n\n<br/>N'oublie pas d'aller chercher Les enfants à l'école !\n\n<br/>Je suis en rendez-vous Jusqu'à 17h.\n\n<br/>Bisous,\n\nClaudia",
+        "text": "Jean,\n\n<br/>N'oublie pas d'aller chercher les enfants à l'école !\n\n<br/>Je suis en rendez-vous jusqu'à 17h.\n\n<br/>Bisous,\n\nClaudia",
         "query": "Que doit faire Jean ?",
         "options": [
             "Aller à une réunion.",
@@ -210,7 +210,7 @@
     {
         "id": 17,
         "testId": 168,
-        "text": "Par correspondance les produits de beauté sont souvent moins chers, car vous pouvez bénéficier de cadeaux gratuits. Attention, toutefois : vérifiez toujours que Le montant du cadeau ou de la réduction est supérieur aux frais de port exigés. Sinon, votre achat risque de vous coûter plus cher que vous ne le pensiez. Certains laboratoires ont des offres particulièrement intéressantes (jusqu'à 50% de réduction ou 2 produits pour le prix d'un, ce qui revient au même !) De plus, à partir d'un certain montant d'achats vous ne payez pas de frais de port : alors, pensez à grouper vos achats avec des amis !",
+        "text": "Par correspondance les produits de beauté sont souvent moins chers, car vous pouvez bénéficier de cadeaux gratuits. Attention, toutefois : vérifiez toujours que le montant du cadeau ou de la réduction est supérieur aux frais de port exigés. Sinon, votre achat risque de vous coûter plus cher que vous ne le pensiez. Certains laboratoires ont des offres particulièrement intéressantes (jusqu'à 50% de réduction ou 2 produits pour le prix d'un, ce qui revient au même !) De plus, à partir d'un certain montant d'achats vous ne payez pas de frais de port : alors, pensez à grouper vos achats avec des amis !",
         "query": "Pourquoi faut-il se méfier en achetant des produits de beauté par correspondance ?",
         "options": [
             "Les produits sont toujours plus chers.",
@@ -353,7 +353,7 @@
     {
         "id": 28,
         "testId": 168,
-        "text": "L'alpinisme reste une affaire de mâles : les femmes sont très minoritaires en haute montagne et se cantonnent souvent au rôle de second de cordée. Mais au royaume de la testostérone, de la puissance physique et de l'héroïsation, une génération de femmes alpinistes est en train de bouleverser la donne.\n\nEn Himalaya, une des performances les plus importantes est l'ascension du Nanga Parbat par Elisabeth Revol. Si son exploit a été éclipsé par une tragédie à la descente, elle n'en reste pas moins la première femme à avoir gravi un tel sommet en hiver et en style alpin. Le message est limpide : Les femmes ont Leur place dans l'élite de l'himalayisme.",
+        "text": "L'alpinisme reste une affaire de mâles : les femmes sont très minoritaires en haute montagne et se cantonnent souvent au rôle de second de cordée. Mais au royaume de la testostérone, de la puissance physique et de l'héroïsation, une génération de femmes alpinistes est en train de bouleverser la donne.\n\nEn Himalaya, une des performances les plus importantes est l'ascension du Nanga Parbat par Elisabeth Revol. Si son exploit a été éclipsé par une tragédie à la descente, elle n'en reste pas moins la première femme à avoir gravi un tel sommet en hiver et en style alpin. Le message est limpide : Les femmes ont leur place dans l'élite de l'himalayisme.",
         "query": "Selon cet article, quelle est la situation des femmes alpinistes ?",
         "options": [
             "Elles gagnent en visibilité dans ce milieu.",
