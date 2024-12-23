@@ -67,6 +67,7 @@ let quizzes = {
         { tcfId: "all-07", ruId: "07" },
         { tcfId: "all-08", ruId: "08" },
         { tcfId: "all-09", ruId: "09" },
+        { tcfId: "wrong-1", ruId: "w" },
     ], // Sample quiz IDs for CO
     CE: [
         { tcfId: 149, ruId: 1 },
@@ -117,6 +118,7 @@ let quizzes = {
         { tcfId: "all-07", ruId: "07" },
         { tcfId: "all-08", ruId: "08" },
         { tcfId: "all-09", ruId: "09" },
+        { tcfId: "wrong-1", ruId: "w" },
     ] // Sample quiz IDs for CE
 };
 let qLevel = ["A1", "A2", "B1", "B2", "C1", "C2"];
@@ -141,6 +143,11 @@ function goQuestion(index) {
         qlists[index].classList.add("btn-cur");
         curQ = index;
     }
+}
+
+function answerQuestion(index) {
+    qlists = questionNavList.childNodes;
+    qlists[index].classList.add("btn-answer");
 }
 
 function correctQuestion(index) {
@@ -253,6 +260,7 @@ function renderQuiz(category, data) {
     textDisplay = category == 'CO' ? 'none' : 'block';
 
     audioElements = [];
+    curQ = -1;
     playStop();
 
     data.forEach((questionData, index) => {
@@ -375,6 +383,8 @@ function renderQuiz(category, data) {
 
             radioInput.addEventListener('change', () => {
                 userAnswers[index] = parseInt(radioInput.value); // Track user answer
+                goQuestion(index);
+                answerQuestion(index);
             });
 
             label.prepend(radioInput);
@@ -498,11 +508,11 @@ function calculateScore() {
 }
 
 function getPointsForQuestion(questionId) {
-    if (questionId >= 1 && questionId <= 4) return 3;
-    if (questionId >= 5 && questionId <= 10) return 9;
-    if (questionId >= 11 && questionId <= 19) return 15;
-    if (questionId >= 20 && questionId <= 29) return 21;
-    if (questionId >= 30 && questionId <= 35) return 26;
+    if (questionId >= 1 && questionId < 5) return 3;
+    if (questionId >= 5 && questionId < 11) return 9;
+    if (questionId >= 11 && questionId < 20) return 15;
+    if (questionId >= 20 && questionId < 30) return 21;
+    if (questionId >= 30 && questionId < 36) return 26;
     if (questionId >= 36 && questionId <= 39) return 33;
     return 0;
 }

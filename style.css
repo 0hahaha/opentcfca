@@ -157,6 +157,11 @@ body {
 .btn.btn-cur {
     color: #007BFF;
     background: #dddddd;
+    font-weight: bold;
+}
+
+.btn.btn-answer {
+    background: #FCBA12;
 }
 
 .btn.btn-correct {
