@@ -1,0 +1,511 @@
+[
+    {
+        "id": 1,
+        "testId": 148,
+        "text": "A. Allez-y, entrez.\n\nB. Asseyez-vous, je vous en prie.\n\nC. Fermez la porte, s'il vous plaît.\n\nD. Merci pour ce café.",
+        "audio": "/mp3/148/1.mp3",
+        "img": "/mp3/148/1.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 2,
+        "testId": 148,
+        "text": "A. À bientôt, au plaisir de vous revoir.\n\nB. Le programme est affiché sur la porte.\n\nC. Voici la salle pour prendre le petit déjeuner.\n\nD. Vous pouvez laisser vos bagages là.",
+        "audio": "/mp3/148/2.mp3",
+        "img": "/mp3/148/2.jpg",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 3,
+        "testId": 148,
+        "text": "Comment allez-vous à votre travail ?\n\nA. À l'heure.\n\nB. À Paris.\n\nC. À pied.\n\nD. À huit heures.",
+        "audio": "/mp3/148/3.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 4,
+        "testId": 148,
+        "text": "Je ne sais pas utiliser la photocopieuse. Tu peux m'aider?\n\nA. Attends, je vais y aller.\n\nB. Laisse, je vais la réparer.\n\nC. Regarde, je vais te montrer.\n\nD. Tiens, je vais lui demander.",
+        "audio": "/mp3/148/4.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 5,
+        "testId": 148,
+        "text": "Cette année, c'est décidé. Nous allons faire du ski pendant les vacances de Noël. Tu nous accompagnes ?\n\nA. Avec plaisir. Je suis libre demain.\n\nB. Bonne idée. J'adore la neige.\n\nC. D'accord. Je pars tout seul.\n\nD. Super. Je connais bien cette ville.",
+        "audio": "/mp3/148/5.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 6,
+        "testId": 148,
+        "text": "Salut Sylvie, ça va ? T'as l'air fatiguée. Quand est-ce que tu pars en vacances ?\n\nA. J'ai mon vol mardi prochain.\n\nB. Je reste 5 jours sur place.\n\nC. Je vais visiter l'Italie.\n\nD. Je voyage avec mes collègues.",
+        "audio": "/mp3/148/6.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 7,
+        "testId": 148,
+        "text": "Qui a écrit ce roman policier?\n\nA. C'est un jeune auteur.\n\nB. Il est en solde aujourd'hui.\n\nC. Je le trouve intéressant.\n\nD. Ma sœur me l'a offert.",
+        "audio": "/mp3/148/7.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 8,
+        "testId": 148,
+        "text": "Pour le souper de ce soir avec tes parents, qu'est-ce que tu penses d'un poulet aux champignons?\n\nA. Ce sera parfait avec du riz.\n\nB. Ils sont contents de venir.\n\nC. Je m'occupe du dessert.\n\nD. On peut manger au salon.",
+        "audio": "/mp3/148/8.mp3",
+        "options": [
+            "Proposition A.",
+            "Proposition B.",
+            "Proposition C.",
+            "Proposition D."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 9,
+        "testId": 148,
+        "text": "— Bonjour, monsieur. Vous pouvez m'aider, s'il vous plaît ? Je cherche une boîte pour poster ce courrier.\n\n— Ah, allez à la poste. C'est à gauche, juste après le cinéma. Ou alors, il y en a une de l'autre côté, près du métro, en face de la pharmacie.\n\n— Ah, parfait. Merci.\n\nQue veut faire cette femme ?",
+        "audio": "/mp3/148/9.mp3",
+        "options": [
+            "Acheter des médicaments.",
+            "Envoyer une lettre.",
+            "Prendre un transport.",
+            "Voir un film."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 10,
+        "testId": 148,
+        "text": "— Salut Laura. Tu fais une drôle de tête. Tu ne te sens pas bien ?\n\n— Non. Je pense que je n'ai pas réussi mon examen d'histoire. Je n'ai pas pu réviser. Samedi, je suis allée au cinéma et dimanche, j'ai joué au tennis.\n\n— Tu pouvais travailler le soir.\n\n— Mais j'étais beaucoup trop fatiguée.\n\nDe quoi Laura a-t-elle peur?",
+        "audio": "/mp3/148/10.mp3",
+        "options": [
+            "D’arriver en retard.",
+            "D’avoir une mauvaise note.",
+            "De manquer de temps.",
+            "De tomber malade."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 11,
+        "testId": 148,
+        "text": "— Léo, comment ça va depuis que tu es dans ta nouvelle maison?\n\n— Ça va, ça va, mais je n'ai pas encore Internet.\n\n— Mince alors! Et est-ce que ton téléphone fixe marche au moins?\n\n— Oui, mais je n'en ai pas vraiment besoin. Je viens de m'acheter un ordinateur tout neuf, mais sans Internet. Je ne peux pas travailler et contacter mes clients.\n\n— Je comprends. Tu as vu quelqu'un pour arranger ça?\n\nQu'est-ce qui est difficile pour Léo?",
+        "audio": "/mp3/148/11.mp3",
+        "options": [
+            "La communication avec ses clients.",
+            "La recherche d’un nouveau travail.",
+            "L’achat d’un nouveau téléphone fixe.",
+            "L’utilisation de son ordinateur portable."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 12,
+        "testId": 148,
+        "text": "— Ça te dirait d'aller voir «Liberté» ce soir ? La séance est à 20h.\n\n— D'accord, mais pas à 20h. C'est l'heure où je quitte le travail.\n\n— Allons voir «Séraphine» alors. Il passe à 21h.\n\n— Je l'ai déjà vue. Et pourquoi pas «L'Arbre» ?\n\n— Il n'est pas encore sorti.\n\nDe quoi parlent ces deux personnes?",
+        "audio": "/mp3/148/12.mp3",
+        "options": [
+            "De cinéma.",
+            "De lecture.",
+            "De musique.",
+            "De théâtre."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 13,
+        "testId": 148,
+        "text": "— Allô, bonjour, M. Didier à l'appareil. Je téléphone au sujet de la livraison des articles dont la référence est 433JS. S'il n'est pas trop tard, j'aimerais ajouter deux ordinateurs supplémentaires.\n\n— Il n'y a aucun problème, ce sera fait.\n\nPourquoi M. Didier appelle-t-il ?",
+        "audio": "/mp3/148/13.mp3",
+        "options": [
+            "Pour annuler un achat.",
+            "Pour modifier une commande.",
+            "Pour réclamer un paquet.",
+            "Pour retourner un colis."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 14,
+        "testId": 148,
+        "text": "Bonjour. Votre professeur de mathématiques a téléphoné. Il a un problème personnel et ne viendra pas aujourd'hui. Il sera là pour votre prochain cours vendredi après-midi de 14h30 à 17h30. Je reste avec vous dans la salle jusqu'à 10h. Faites ce que vous voulez, mais en silence. Qu'apprennent les élèves de cette classe?",
+        "audio": "/mp3/148/14.mp3",
+        "options": [
+            "L’annulation d’un cours.",
+            "Le retard d’un professeur.",
+            "Les horaires d’un examen.",
+            "Un changement de salle."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 15,
+        "testId": 148,
+        "text": "— Bonjour, Anne-Marie.\n\n— Enchante, Nicolas.\n\n— Vous êtes de Limoges, vous habitez Île, mais vous êtes en vacances ici en Auvergne.\n\n— Absolument.\n\n— Ça vous arrive souvent de venir dans la région voisine ?\n\n— Oh oui, oui, oui, nous aimons beaucoup la région, nous venons très souvent.\n\n— Que faites-vous ? Vous louez un gîte, vous allez chez l'habitant ?\n\n— Oui, oui, oui, on loue un gîte, oui.\n\n— Gîte rurale ?\n\n— Oui, c'est très intéressant parce qu'on peut connaître des gens comme ça, qui nous aident à découvrir des choses qu'on ne connaîtrait pas autrement.\n\nPourquoi Anne-Marie se trouve-t-elle en Auvergne ?",
+        "audio": "/mp3/148/15.mp3",
+        "options": [
+            "Elle passe ses congés dans la région.",
+            "Elle réside là depuis son enfance.",
+            "Elle travaille dans le tourisme local.",
+            "Elle vient participer à un concours."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 16,
+        "testId": 148,
+        "text": "Je m'appelle Pascale, ça fait 4 ans que je travaille dans une école maternelle. Je suis chargée d'aider les enseignants dans la classe. Alors, le plus dans le métier pour moi, c'est les relations avec les enseignants et les enfants. Ça, on a vraiment beaucoup de chance à ce niveau-là, surtout avec les enfants. Les côtés négatifs du métier... Je dirais peut-être les journées un peu longues, dans le bruit, parce que les enfants sont quand même en général bruyants. Qu'apprécie Pascale dans son métier?",
+        "audio": "/mp3/148/16.mp3",
+        "options": [
+            "La répartition des horaires.",
+            "Le contact avec les élèves.",
+            "Les activités pédagogiques.",
+            "L’organisation des leçons."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 17,
+        "testId": 148,
+        "text": "— Allô ? Pourrais-je parler au directeur des ressources humaines ?\n\n— Le directeur est actuellement en réunion, mais je peux lui transmettre un message ?\n\n— Je souhaite savoir s'il a bien reçu ma candidature pour le poste d'ingénieur. Je lui ai envoyé mon CV et ma lettre de motivation il y a deux semaines et je n'ai pas reçu de réponse.\n\n— Donnez-moi votre nom, s'il vous plaît, et je lui dirai de vous recontacter.\n\nQuel est l'objet de cet appel ?",
+        "audio": "/mp3/148/17.mp3",
+        "options": [
+            "Confirmer la date d’un entretien d’embauche.",
+            "Se renseigner sur les conditions de travail.",
+            "S’informer sur une formation professionnelle.",
+            "Vérifier si un courrier est bien arrivé."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 18,
+        "testId": 148,
+        "text": "— Est-ce que tu achètes des vêtements sur Internet?\n\n— Oui, souvent. Les prix sont vraiment intéressants.\n\n— Moi, j'ai eu une mauvaise expérience l'autre jour. J'ai commandé un pantalon, mais ils ont fait une erreur. Et ils m'ont envoyé un modèle complètement différent. J'ai réussi à le rendre, mais c'était compliqué. Finalement, je préfère les boutiques. Au moins, on sait ce qu'on achète.\n\n— Tu n'as pas eu de chance.\n\nQu'est-ce qui déplaît à la jeune femme dans les achats en ligne?",
+        "audio": "/mp3/148/18.mp3",
+        "options": [
+            "Le prix élevé des produits.",
+            "Les délais pour être livrée.",
+            "Les difficultés en cas d’échange.",
+            "Les tailles de vêtements différentes."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 19,
+        "testId": 148,
+        "text": "Ah, j'ai commencé dans l'entreprise, cela fait quand même 30 ans, à l'époque où on ne s'embarrassait pas avec le recrutement. Je me souviens, dès le soir où j'ai fini ma formation, mon patron de stage m'a proposé de rester, et pour mes copains de formation, pareil. Ah, c'est sûr, on n'embauche plus si facilement. Maintenant, je suis un ancien. Je dois recruter les jeunes qui arrivent, et je trouve ça incroyable. Ils accumulent les diplômes, ont fait plein de stages, sont 150 à postuler. Cela ne doit pas être drôle. Que constate cet employé ?",
+        "audio": "/mp3/148/19.mp3",
+        "options": [
+            "Les conditions de recrutement sont plus difficiles aujourd’hui.",
+            "Les étudiants ignorent le fonctionnement de l’entreprise.",
+            "Les jeunes étaient préparés plus sérieusement dans le passé.",
+            "Les patrons actuels ont un degré d’exigence trop élevé."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 20,
+        "testId": 148,
+        "text": "— Bonjour monsieur, je cherche le dernier livre de Michel Tellier sur la France rurale du XIXe siècle.\n\n— Oui, attendez un moment, je demande à mon collègue. Bien, en fait, il ne nous reste que son dernier roman. L'ouvrage que vous cherchez est en rupture de stock. Nous en recevrons quelques-uns dans deux semaines, je peux vous en garder un si vous voulez.\n\n— Oui, très bien, merci. Je reviendrai, gardez-moi un.\n\n— Voilà madame, c'est noté.\n\n— Merci beaucoup, à bientôt.\n\nQue propose le vendeur à la cliente ?",
+        "audio": "/mp3/148/20.mp3",
+        "options": [
+            "D’acheter un roman.",
+            "D’attendre son collègue.",
+            "De réserver un livre.",
+            "De revenir le lendemain."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 21,
+        "testId": 148,
+        "text": "— Quel froid ce matin!\n\n— Oui, mais au moins, il y a du soleil.\n\n— C'est sûr, à côté d'hier, la pluie toute la journée, c'était l'horreur.\n\n— Ah oui, j'aime mieux ce froid sec.\n\nQuel temps fait-il aujourd'hui?",
+        "audio": "/mp3/148/21.mp3",
+        "options": [
+            "Il fait plus beau qu’hier.",
+            "Il fait plus mauvais qu’hier.",
+            "Il pleut plus qu’hier.",
+            "Il y a moins de soleil qu’hier."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 22,
+        "testId": 148,
+        "text": "— Sylvie, qu'est-ce qui vous plaît plus particulièrement dans votre travail ?\n\n— En tant que responsable multimédia, je suis également conceptrice de formation en ligne, formatrice de formateur et enseignante de français langue étrangère. C'est ce dernier point qui m'attire. Un de mes centres d'intérêt en français langue étrangère concerne le développement d'une politique linguistique en faveur du français comme langue de communication, et pas seulement comme symbole d'une certaine culture et du pays des droits de l'homme ou comme langue de l'amour. J'essaie de montrer que l'apprentissage des langues est une passerelle entre les peuples et les cultures.\n\nQuel objectif Sylvie poursuit-elle en enseignant le français langue étrangère ?",
+        "audio": "/mp3/148/22.mp3",
+        "options": [
+            "La diffusion d’une langue qui exprime les nuances des sentiments.",
+            "La multiplication des actions pour la défense des droits de l’homme.",
+            "La promotion d’un moyen d’échanges entre les différentes nationalités.",
+            "La reconnaissance d’un patrimoine culturel unique par sa richesse."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 23,
+        "testId": 148,
+        "text": "— Bonjour à tous. Aujourd'hui, nous recevons Philippe Bouchard, sociologue, qui publie «Les grands enfants, chez papa et maman». Bonjour, Philippe Bouchard. Dans votre livre, vous dites que les jeunes filles partent plus vite de chez elles que les garçons. Comment l'expliquez-vous ?\n\n— Elles sont plus précoces que les garçons. Elles sont plus mûres et entrent plus vite dans les conflits avec leurs parents.\n\n— Et qu'est-ce qui provoque ces conflits ?\n\n— Ils sont de toute nature, de l'habillement à l'argent de poche en passant par le programme télé. Elles ont plus de disputes avec leurs parents au sujet de leur petite amie et elles sont donc plus pressées de partir de la maison, de devenir plus indépendantes.\n\nPourquoi les filles partent-elles de la maison plutôt que les garçons ?",
+        "audio": "/mp3/148/23.mp3",
+        "options": [
+            "Elles entrent dans la vie active avant les jeunes garçons.",
+            "Elles se rebellent très vite face à l’autorité familiale au quotidien.",
+            "Elles sont en désaccord avec leurs parents au sujet de leurs études.",
+            "Elles sont mieux préparées aux tâches de tous les jours."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 24,
+        "testId": 148,
+        "text": "— Bonjour monsieur, puis-je vous renseigner ?\n\n— Bonjour, je souhaiterais visiter le sud de la France avec mon épouse.\n\n— Eh bien, nous pouvons vous proposer un séjour sur la côte d'Azur. Vous pourriez acheter un forfait qui comprend le transport aller-retour, ainsi que les nuits d'hôtel et les trajets de bus entre les villes. Voici la brochure du séjour.\n\n— Je vais en parler à ma femme et je reviendrai demain. Merci.\n\nQuelle est l'intention de cette personne ?",
+        "audio": "/mp3/148/24.mp3",
+        "options": [
+            "Découvrir une région de France.",
+            "Partir vivre sur la Côte d’Azur.",
+            "Rejoindre son épouse dans le Sud.",
+            "Rendre visite à un ami français."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 25,
+        "testId": 148,
+        "text": "— Dis-moi, Paul, c'est quoi la pêche blanche au Québec?\n\n— On l'appelle blanche parce qu'on pêche l'hiver à la ligne en creusant des trous dans la glace des lacs et des rivières gelées.\n\n— Mais vous, vous devez geler et attendre le poisson sans bouger.\n\n— Non, car chaque pêcheur se protège du froid en installant une cabane en bois au-dessus des trous.\n\n— C'est une pêche d'intérieur?\n\n— En quelque sorte. En tout cas, le poisson est bien frais.\n\nPourquoi les pêcheurs utilisent-ils une cabane?",
+        "audio": "/mp3/148/25.mp3",
+        "options": [
+            "Pour conserver le poisson.",
+            "Pour ranger leur matériel.",
+            "Pour se réchauffer.",
+            "Pour se reposer."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 26,
+        "testId": 148,
+        "text": "— Claudine, je vous dis un grand bonjour.\n\n— Bonjour Nicolas.\n\n— Vous avez beaucoup, beaucoup d'activités, beaucoup de passions artistiques, vous faites du soutien scolaire, vous êtes écrivain publique.\n\n— Oui, oui, écoutez, j'essaie d'occuper mes journées par des activités qui me plaisent, étant donné que je suis à la retraite maintenant et que, voilà, j'adore l'art, et puis j'aime bien les enfants, j'aime bien la nature, voilà, la lecture, tout ce que je peux faire maintenant que j'ai du temps.\n\nPourquoi Claudine a-t-elle autant d'activités ?",
+        "audio": "/mp3/148/26.mp3",
+        "options": [
+            "Elle a arrêté d’exercer sa profession.",
+            "Elle a décidé d’enrichir son curriculum vitae.",
+            "Elle a obtenu un congé de longue durée.",
+            "Elle a réduit son nombre d’heures de travail."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 27,
+        "testId": 148,
+        "text": "— C'était bien, hein? Quel acteur, ce type! Il joue comme un dieu, non?\n\n— T'exagères un peu, mais oui, c'est surtout le scénario qui était original, pour une fois.\n\n— Oui, oui, ça change un peu. Y'a que la musique et un rien mélo qui m'a ennuyé.\n\n— C'est vrai, moi aussi. Mais les dialogues! T'as remarqué comme ils sonnaient juste, eux?\n\n— Ça faisait l'équilibre.\n\n— C'est quand même important, la bande sonore dans un film.\n\n— Oui, t'as raison. Ils auraient pu la soigner davantage.\n\nQu'est-ce que les deux amis n'ont pas beaucoup apprécié dans le film?",
+        "audio": "/mp3/148/27.mp3",
+        "options": [
+            "Le jeu de l’acteur.",
+            "Les dialogues.",
+            "La musique.",
+            "Le scénario."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 28,
+        "testId": 148,
+        "text": "— Pouvez-vous me parler de votre expérience aux Etats-Unis ? Est-ce que ça vous a plu ?\n\n— Oui, beaucoup. Je suis restée là-bas un an. J'étais l'assistante d'une institutrice dans une école maternelle.\n\n— C'était votre premier long séjour à l'étranger ?\n\n— Aussi long, oui, mais je suis déjà partie plusieurs fois en Grande-Bretagne pendant les mois d'été. Nous avons de la famille à Londres.\n\n— Vous n'avez donc pas de difficultés pour communiquer en anglais ?\n\n— Non, je suis parfaitement bilingue.\n\nQu'apprend-on sur cette jeune femme ?",
+        "audio": "/mp3/148/28.mp3",
+        "options": [
+            "Elle a gardé des enfants dans une famille britannique.",
+            "Elle a passé son enfance dans un pays étranger.",
+            "Elle a suivi des études dans un lycée bilingue.",
+            "Elle a travaillé avec une institutrice américaine."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 29,
+        "testId": 148,
+        "text": "La vieille dame de fer dans tous ses états, où, comment les jeunes, sans complexe, se sont mesurés à cette forme unique qu'est la Tour Eiffel. Pour ce concours, organisé par la Fondation Eiffel, adressée aux élèves des écoles d'architecture, la consigne était de rêver. Concevoir un édifice de très grande hauteur sur le champ de Mars à Paris, à distance, à coller ou à la place de la Tour Eiffel. Trois étudiants suppriment donc carrément la Tour. À la place, ils y construisent un aéroport vertical, ou creusent un puits de lumière avec de vastes plateaux. D'autres choisissent de la rendre habitable en comblant ses vides par des baies de couleurs ou la dot d'un jardin suspendu. De quoi traite ce reportage ?",
+        "audio": "/mp3/148/29.mp3",
+        "options": [
+            "D’un appel à projets imaginaires.",
+            "D’un examen de fin d’études.",
+            "D’un nouveau plan d’urbanisme.",
+            "D’une rénovation d’un monument."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 30,
+        "testId": 148,
+        "text": "C'est le plus grand site archéologique du monde. Sur une superficie de 44 hectares, il accueille chaque année 2,5 millions de visiteurs. C'est sa chance, mais c'est aussi son malheur, car Pompéi, à une vingtaine de kilomètres de Naples, est en péril. L'Italie, qui se présente comme l'héritière du plus grand patrimoine de l'humanité, a bien tenté d'en prendre soin, mais ces dernières années, des effondrements à répétition nous montrent que l'on a franchi la frontière de l'urgence. C'est l'Europe qui s'émeut de l'état de quasi-abandon dans lequel se retrouve le site. Tout concourt à un laissé-aller dramatique, sans oublier l'inconscience des visiteurs, qui se conduisent souvent dans ces runes millénaires, comme dans un vulgaire parc d'attractions. Qu'apprend-on sur le site historique de Pompéi?",
+        "audio": "/mp3/148/30.mp3",
+        "options": [
+            "L'attitude des touristes accélère sa dégradation.",
+            "Le financement des travaux d'entretien est menacé.",
+            "Les autorités restaurent actuellement les vestiges.",
+            "L'intérêt pour l'architecture des lieux est en déclin."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 31,
+        "testId": 148,
+        "text": "Je suis un marcheur, et mes vacances se passent à marcher parce que ça me permet de réfléchir. Que le rythme de la marche est musical pour les oreilles, éblouissant pour les paysages, et que les médecins m'ont démontré que l'activité musculaire permettait d'éviter des fractures des os importants, et que la vieillesse doit marcher. Je ne marche pas n'importe où, je marche sur des sentiers de grande randonnée, et j'y ai souvent fait des rencontres vraiment merveilleuses. On y rencontre à la fois le paysage, les autres, mais on se rencontre aussi soi-même. Comment la personne considère-t-elle la marche?",
+        "audio": "/mp3/148/31.mp3",
+        "options": [
+            "C’est un temps de découverte et l’humanité.",
+            "C’est une occasion de dépenser son énergie.",
+            "C’est une opportunité d’apprécier la solitude.",
+            "C’est une possibilité quotidienne d’évasion."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 32,
+        "testId": 148,
+        "text": "— Alors Philippe, est-ce que vous pouvez nous en apprendre plus sur votre établissement?\n\n— Quand j'ai récupéré l'endroit, il s'agissait d'un lieu qui était ancien à Montréal, début 19e siècle. J'ai donc gardé ce qui était d'époque et j'ai rajouté une touche moderne, design, pour créer un espace particulier où les styles se mélangent. Comme je suis un passionné de meubles design, j'ai acheté des pièces qui me plaisent. Et en plus d'y manger, on peut assister à des soirées musicales, on a un DJ très connu internationalement dans le domaine de la musique électronique. Enfin, étant donné qu'on est dans un lieu très haut de plafond, j'ai accroché des tableaux, des œuvres contemporaines, mais on organise aussi des expos temporaires. Toutes les formes d'expression nous intéressent.\n\nQuelle est la particularité de l'établissement de Philippe?",
+        "audio": "/mp3/148/32.mp3",
+        "options": [
+            "C'est la reproduction d'un café du siècle dernier.",
+            "Il contient un dépôt-vente de meubles design.",
+            "C'est à la fois un restaurant et une galerie d'art.",
+            "Il y organise un festival de musique électronique."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 33,
+        "testId": 148,
+        "text": "— Le biomimétisme, c'est en fait s'inspirer du vivant, de la nature pour concevoir de nouvelles technologies, pour innover. Le monde du vivant a de nombreuses choses à nous apprendre, imiter la nature car c'est la plus durable, la plus économique et la plus rationnelle, mais jusqu'à quel point ? Gauthier Chapelle, bonjour.\n\n— Bonjour. Vous êtes biologiste, vous avez créé la société BiomimGreenLoop, alors on peut dire que depuis le début, il y a près de 4 milliards d'années, la Terre nous offre vraiment cette opportunité ? Mais oui, disons que par définition la vie s'est maintenue effectivement depuis 3,8 milliards d'années. On est actuellement entouré d'au moins 8 millions d'espèces qui ont toutes les leçons à nous donner pour pérenniser notre présence sur Terre.\n\nEn quoi consiste le concept présenté par la société BiomimGreenLoop ?",
+        "audio": "/mp3/148/33.mp3",
+        "options": [
+            "À comparer les étapes du clonage naturel et artificiel.",
+            "À observer l’effet des activités humaines sur la nature.",
+            "À orienter la recherche en prenant la nature comme modèle.",
+            "À sensibiliser les hommes à respecter leur milieu naturel."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 34,
+        "testId": 148,
+        "text": "— Les plus de 60 ans, ils sont près d'un milliard sur la planète, 15 millions en France et ce nombre a vocation à grossir. Aujourd'hui les seniors c'est 23% de la population française, bientôt ce sera 30% des seniors qui voyagent, qui consomment, qui s'équipent. Des seniors dont la santé vacille aussi et qui entrent dans la dépendance. Un marché juteux pour les entreprises et un formidable gisement de croissance et d'emploi qui n'a pas échappé à Michel Delonney, la ministre déléguée aux personnes âgées.\n\n— Dans le secteur de l'aide à domicile, on considère qu'il faut 220 000 emplois de plus d'ici 2020. Incroyable, aucun autre ministère ne peut proposer autant de champs de croissance.\n\nDans ce reportage, qu'apprend-on sur les seniors ?",
+        "audio": "/mp3/148/34.mp3",
+        "options": [
+            "Ils consomment plus que la jeune génération.",
+            "Ils dépensent beaucoup pour leur santé.",
+            "Ils profitent peu des effets de la croissance.",
+            "Ils sont à l’origine de créations d’emplois."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 35,
+        "testId": 148,
+        "text": "J'avoue qu'au début, j'étais très décontenancée par les textures des cosmétiques bio, le shampoing ou le gel douche qui ne mousse pas, ou le dentifrice pâteux qui ne mousse pas non plus. Les parfums, par exemple quasi-inexistants ou alors très forts aux huiles essentielles m'ont également déstabilisé. Mais j'avoue que les marques ont fait des progrès considérables depuis, et maintenant je ne remarque plus la différence. Au final, je choisis mieux mes produits, et j'en achète moins, et donc je dépense moins. Et surtout, c'est un accord avec mes idées. Franchement, à quoi bon manger des fruits et des légumes bio pour notre santé, alléger nos repas en viande pour la planète, si l'on continue à se tartiner de crèmes enrichies aux produits chimiques ? Qu'explique cette utilisatrice des produits cosmétiques bio?",
+        "audio": "/mp3/148/35.mp3",
+        "options": [
+            "Ils dégagent une odeur agréable.",
+            "Ils ont des résultats spectaculaires.",
+            "Ils ont l’avantage d’être peu chers.",
+            "Ils répondent à ses convictions."
+        ],
+        "answer": 3
+    },
+    {
+        "id": 36,
+        "testId": 148,
+        "text": "— Les français plébiscitent l'idée, la droite et la gauche sont dans l'ensemble plutôt d'accord. Alors faut-il rendre obligatoire le service civique pour aider nos jeunes ?\n\n— Et pour y répondre, pardon, je reçois Nadia Belawi. Aujourd'hui le service est plébiscité par les jeunes qui le font, puisqu'il fait du bien aux jeunes. Pourquoi ne pas le rendre obligatoire ?\n\n— Le service civique fait du bien aux jeunes précisément parce qu'ils ont décidé de rendre un service à la nation. Ils en sont parfaitement conscients. Vous savez, on n'a pas idée de remercier quelqu'un pour un service qu'il n'a pas choisi de rendre.\n\nQue dit Nadia Belawi au sujet du service civique ?",
+        "audio": "/mp3/148/36.mp3",
+        "options": [
+            "C’est aux parents de choisir pour leurs enfants.",
+            "Il faut l’étendre à toutes les générations.",
+            "Le dispositif fonctionne bien tel qu’il est.",
+            "L’État doit l’imposer à la population."
+        ],
+        "answer": 2
+    },
+    {
+        "id": 37,
+        "testId": 148,
+        "text": "Camille Claudel restera pour la postérité une élève de Rodin. Elle est exposée dans le musée Auguste Rodin. Elle est connue comme telle. Elle a beaucoup reçu de Rodin, mais elle s'en est servie pour créer une œuvre totalement différente. On connaît évidemment la fameuse phrase « Je lui ai montré où trouver de l'or, mais l'or qu'elle trouvait bien à elle ». C'est très flagrant quand on compare plusieurs œuvres à côté du Penseur, qui est, c'est vrai, d'une puissance ramassée, tout en muscle, et qui dégage une force presque brute. L'Homme penché, lui, est construit comme presque un arbre dont on voit les nervures, dont on saisit les muscles, les nerfs, l'attitude, et presque plus la pensée que chez le Penseur. Sur quoi porte l'intervention ?",
+        "audio": "/mp3/148/37.mp3",
+        "options": [
+            "La relation liant Camille Claudel et Rodin.",
+            "La richesse du musée Auguste Rodin.",
+            "Les difficultés rencontrées par Rodin.",
+            "Les sources d’inspiration de Rodin."
+        ],
+        "answer": 0
+    },
+    {
+        "id": 38,
+        "testId": 148,
+        "text": "— Le plan Nord mise aussi sur l'appui des populations locales, notamment celui des Inuits et des Amérindiens, que l'on va former aux nouveaux emplois. Certaines nations, comme celle des Inus, ont des réticences. Ce conseiller juridique milite pour que son peuple et le gouvernement du Québec signent une entente pour sortir les Autochtones de leur dépendance économique.\n\n— De toute évidence, les retombées économiques pour les communautés autochtones des Inus ne seront pas là, tout simplement. Mais je pense que c'est une responsabilité du gouvernement, de l'État québécois également, de s'assurer que les jeunes Inus soient formés et qu'ils aient accès à des jobs valorisants dans le cadre des projets miniers.\n\n— Certains environnementalistes ont des réserves face à ce plan qui va faciliter l'exploitation de zones jusqu'alors vierge.\n\nComment réagissent les populations indigènes concernées par ce projet?",
+        "audio": "/mp3/148/38.mp3",
+        "options": [
+            "Elles demandent un nouveau statut juridique.",
+            "Elles exigent des garanties réelles et tangibles.",
+            "Elles mettent en doute la viabilité du projet.",
+            "Elles veulent que les terres restent intactes."
+        ],
+        "answer": 1
+    },
+    {
+        "id": 39,
+        "testId": 148,
+        "text": "— Alors c'est intéressant parce qu'effectivement on n'est pas dans un débat politique ou écologique, on est vraiment sur la question économique et là ça donne un tout autre éclairage justement et de bonnes réponses à cette question du gaz de schiste.\n\n— Oui, tout à fait, en fait, on voit aujourd'hui que le débat est très mal posé parce que d'un côté on nous parle de gains économiques qui sont supposés rapides et sûrs et de l'autre un coût environnemental qui maintenant soit disant est sous contrôle parce que ça fait longtemps qu'on fait de la fracturation hydraulique et qu'on peut voir dans d'autres pays quels sont les effets du gaz de schiste. Mais en réalité quand on se penche uniquement sur les effets économiques on se rend compte qu'ils ne sont pas aussi élevés que ceux que nous avons les pro-exploitation.\n\nQuel est le constat de l'intervenant sur l'exploitation des gaz de schiste ?",
+        "audio": "/mp3/148/39.mp3",
+        "options": [
+            "Elle est régie par des normes internationales strictes.",
+            "Elle est réputée sans danger pour le milieu naturel.",
+            "Les inconvénients qu’elle présente sont manifestes.",
+            "Les sociétés de production en exagèrent la rentabilité."
+        ],
+        "answer": 3
+    }
+]
