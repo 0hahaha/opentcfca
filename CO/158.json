@@ -29,7 +29,7 @@
     {
         "id": 3,
         "testId": 158,
-        "text": "Qu'est-ce que tu veux faire ce soir?\n\nA. À l'hôtel du parc.\n\n B. Avoir le livre.\n\n C. Un pain au chocolat.\n\n D. Aller au cinéma.",
+        "text": "Qu'est-ce que tu veux faire ce soir?\n\nA. À l'hôtel du parc.\n\n B. Avoir lu une livre.\n\n C. Un pain au chocolat.\n\n D. Aller au cinéma.",
         "audio": "/mp3/158/3.mp3",
         "options": [
             "Proposition A.",

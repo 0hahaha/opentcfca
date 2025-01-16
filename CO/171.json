@@ -30,7 +30,7 @@
     {
         "id": 3,
         "testId": 171,
-        "text": "Écoutez l'extrait sonore et les quatre propositions. Choisissez la bonne réponse.\n\nQuel est le prix de ce kilo de pommes, s'il vous plaît ?\n\nA. Le deuxième est gratuit.\n\nB. Elles sont très sucrées.\n\nC. C'est au rayon des fruits.\n\nD. Elles coûtent deux euros dix.",
+        "text": "Quel est le prix de ce kilo de pommes, s'il vous plaît ?\n\nA. Le deuxième est gratuit.\n\nB. Elles sont très sucrées.\n\nC. C'est au rayon des fruits.\n\nD. Elles coûtent deux euros dix.",
         "audio": "/mp3/171/3.mp3",
         "options": [
             "Proposition A.",
