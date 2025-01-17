@@ -379,7 +379,7 @@
     {
         "id": 30,
         "testId": 183,
-        "text": "Ne pas assez dormir plusieurs nuits de suite perturbe, tout le monde s'en rend compte. Ce qui est moins visible, c'est comment cela affecte notre santé. (...) Des scientifiques ont montré que le manque de sommeil modifiait l'intensité de l'activité de plus de 700 gènes, parmi eux ceux liés au stress et à la lutte contre les maladies. Mais ils ne peuvent encore dire si ces modifications des gènes sont une réponse de court terme et sans danger à un sommeil de mauvaise qualité, un signe d'adaptation du corps à la privation de sommeil, ou un danger potentiel pour la santé.",
+        "text": "**Ne pas assez dormir** plusieurs nuits de suite perturbe, tout le monde s'en rend compte. Ce qui est moins visible, c'est comment cela affecte notre santé. (...) Des scientifiques ont montré que le manque de sommeil modifiait l'intensité de l'activité de plus de 700 gènes, parmi eux ceux liés au stress et à la lutte contre les maladies. Mais ils ne peuvent encore dire si ces modifications des gènes sont une réponse de court terme et sans danger à un sommeil de mauvaise qualité, un signe d'adaptation du corps à la privation de sommeil, ou un danger potentiel pour la santé.",
         "query": "Qu'est-ce que les scientifiques ont découvert concernant le manque de sommeil ?",
         "options": [
             "La gestion du stress est difficile.",

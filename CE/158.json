@@ -262,7 +262,7 @@
     {
         "id": 21,
         "testId": 158,
-        "text": "Le jour viendra où un fonds de pension ou un groupe alimentaire mondial investira dans l'entreprise d'un cuisinier reconnu pour orchestrer son développement international. Bien sûr, on ne peut qu'avoir de la nostalgie pour les temps héroïques où une bande de copains inventait les codes de la nouvelle cuisine. Aujourd'hui, n'importe quel jeune cuisinier est prêt à payer très cher pour le privilège d'un stage de six mois chez un « grand chef ». Il rentabilisera vite cet investissement en s'autoproclamant « élève de... », de car les marques des grands chefs ne cessent de prendre de la valeur.",
+        "text": "Le jour viendra où un fonds de pension ou un groupe alimentaire mondial investira dans l'entreprise d'un cuisinier reconnu pour orchestrer son développement international. Bien sûr, on ne peut qu'avoir de la nostalgie pour les temps héroïques où une bande de copains inventait les codes de la nouvelle cuisine. Aujourd'hui, n'importe quel jeune cuisinier est prêt à payer très cher pour le privilège d'un stage de six mois chez un « grand chef ». Il rentabilisera vite cet investissement en s'autoproclamant « élève de... », car les marques des grands chefs ne cessent de prendre de la valeur.",
         "query": "Qu'apprend-on sur les grands chefs?",
         "options": [
             "Leur conception de la cuisine est passée de mode.",
@@ -340,7 +340,7 @@
     {
         "id": 27,
         "testId": 158,
-        "text": "Une étude récente révèle que la concentration de déchets plastiques flottant à la surface du Pacifique nord a été multipliée par cent en quarante ans.\n\nCe constat, émis par les pêcheurs en haute mer, est alarmant car cette pollution a des conséquences écologiques. La gigantesque plaque de déchets flottant sur l'océan Pacifique, épaisse par endroits de plusieurs dizaines de mètres, constitue un milieu favorable à la reproduction d'une espèce d'araignée d'eau. Cet insecte est en train de se multiplier dans le Pacifique nord. Si la densité des plastiques continue à augmenter, certaines espèces pourraient continuer à se multiplier, risquant de déséquilibrer l'écosystème du Pacifique.",
+        "text": "### Une étude récente révèle que la concentration de déchets plastiques flottant à la surface du Pacifique nord a été multipliée par cent en quarante ans.\n\nCe constat, émis par les pêcheurs en haute mer, est alarmant car cette pollution a des conséquences écologiques. La gigantesque plaque de déchets flottant sur l'océan Pacifique, épaisse par endroits de plusieurs dizaines de mètres, constitue un milieu favorable à la reproduction d'une espèce d'araignée d'eau. Cet insecte est en train de se multiplier dans le Pacifique nord. Si la densité des plastiques continue à augmenter, certaines espèces pourraient continuer à se multiplier, risquant de déséquilibrer l'écosystème du Pacifique.",
         "query": "Quel danger représentent ces déchets?",
         "options": [
             "Un obstacle pour les bateaux de pêche.",

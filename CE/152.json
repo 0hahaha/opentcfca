@@ -340,7 +340,7 @@
     {
         "id": 27,
         "testId": 152,
-        "text": "Une étude récente révèle que la concentration de déchets plastiques flottant à la surface du Pacifique nord a été multipliée par cent en quarante ans.\n\nCe constat, émis par les pêcheurs en haute mer, est alarmant car cette pollution a des conséquences écologiques. La gigantesque plaque de déchets flottant sur l'océan Pacifique, épaisse par endroits de plusieurs dizaines de mètres, constitue un milieu favorable à la reproduction d'une espèce d'araignée d'eau. Cet insecte est en train de se multiplier dans le Pacifique nord. Si la densité des plastiques continue à augmenter, certaines espèces pourraient continuer à se multiplier, risquant de déséquilibrer l'écosystème du Pacifique.",
+        "text": "### Une étude récente révèle que la concentration de déchets plastiques flottant à la surface du Pacifique nord a été multipliée par cent en quarante ans.\n\nCe constat, émis par les pêcheurs en haute mer, est alarmant car cette pollution a des conséquences écologiques. La gigantesque plaque de déchets flottant sur l'océan Pacifique, épaisse par endroits de plusieurs dizaines de mètres, constitue un milieu favorable à la reproduction d'une espèce d'araignée d'eau. Cet insecte est en train de se multiplier dans le Pacifique nord. Si la densité des plastiques continue à augmenter, certaines espèces pourraient continuer à se multiplier, risquant de déséquilibrer l'écosystème du Pacifique.",
         "query": "Quel danger représentent ces déchets?",
         "options": [
             "Un obstacle pour les bateaux de pêche.",

@@ -120,7 +120,7 @@
         "id": 10,
         "testId": 151,
         "text": "### <p style=\"text-align: center;\">Semaine du 6 au 10 septembre:</p>\n\n<br/><p style=\"text-align: center; font-size: large;\">Le restaurant universitaire vous propose des recettes <br/> régionales variées au tarif normal.</p>\n\n## <p style=\"text-align: center; line-height: 150%;\">Rendez-vous de 11 h 15 à 13 h <br/> dans la salle du premier étage.</p>\n\n# <p style=\"text-align: center;\">Bon appétit !</p>",
-        "query": "Que nous propose le restaurant du 6 au 10 septembre ?",
+        "query": "Que propose le restaurant du 6 au 10 septembre ?",
         "options": [
             "Des cours de cuisine.",
             "Des menus différents.",
@@ -392,11 +392,11 @@
     {
         "id": 31,
         "testId": 151,
-        "text": "Solitude, conflit avec les parents, difficultés scolaires...les adolescents peuvent se confier sur des sites spécialisés, où leur parole sera prise en compte. Fil Santé Jeune a vu ses visites augmenter de 313% ces dernières années. De l'autre côté de l'écran, animateurs et psychologues s'efforcent de maintenir le contact et de prolonger la discussion. L'entreprise est délicate puisque les regards et les gestes ne peuvent être pris en compte par le professionnel. Le réconfort naît aussi, et peut-être avant tout, des autres internautes qui vivent une situation similaire.",
+        "text": "Solitude, conflit avec les parents, difficultés scolaires. Les adolescents peuvent se confier sur des sites spécialisés où leur parole sera prise en compte. Fil Santé Jeunes a vu ses visites augmenter de 313 % ces dernières années. De l'autre côté de l'écran, animateurs et psychologues s'efforcent de maintenir le contact et de prolonger la discussion. L'entreprise est délicate puisque les regards et les gestes ne peuvent être pris en compte par le professionnel. Le réconfort naît aussi, et peut-être avant tout, des autres internautes qui vivent une situation similaire.\n\n<br/><p style=\"text-align: right;\">D'après <i>Sciences Humaines</i></p>",
         "query": "À quelle difficulté se heurtent les spécialistes ?",
         "options": [
             "L'absence totale des signes visuels du langage.",
-            "L'opposition des parents à leur intervention.",
+            "L'opposition des familles à leurs interventions.",
             "La nécessité de modérer le ton des échanges.",
             "Les nombreuses remarques des participants."
         ],

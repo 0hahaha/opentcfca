@@ -2,7 +2,7 @@
     {
         "id": 1,
         "testId": 153,
-        "text": "Maman.\n\nJe fais mes devoirs de mathématiques chez Louise. Je rentre à 21 heures. Bises et à ce soir.\n\nPatrick",
+        "text": "<p style=\"margin: 0 100px; font-size:20pt;line-height:1.5; border: 2px black solid; border-radius: 5px; padding: 10px\">Maman,<br/>Je fais mes devoirs de mathématiques chez Louise.<br/>Je rentre à 21 heures.<br/>Bises et à ce soir.<br/>Patrick</p>",
         "query": "Qu'est-ce que Patrick fait chez Louise ?",
         "options": [
             "Il dort.",
@@ -436,7 +436,7 @@
         "options": [
             "La description du personnage.",
             "La longueur du texte.",
-            "La qualité de l’écriture.",
+            "La qualité de l'écriture.",
             "Le déroulement des événements."
         ],
         "answer": 3

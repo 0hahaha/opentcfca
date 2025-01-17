@@ -67,8 +67,8 @@
     {
         "id": 6,
         "testId": 157,
-        "text": "<p style=\"font-size: x-large; line-height: 150%;\">Nous avons prévu quelques réparations dans l'appartement à la fin de la semaine. Veuillez nous excuser pour le bruit.</p>\n\n<br/>M. et Mme Garnier\n\n7 janvier du Général Leclerc\n\nAppt. 307",
-        "query": "Qu'est-ce que M. et Mme Garnier écrivant à leurs voisins ?",
+        "text": "<p style=\"font-size: x-large; line-height: 150%; margin: 0 165px;\">Nous avons prévu quelques réparations dans l'appartement à la fin de la semaine. Veuillez nous excuser pour le bruit.</p>\n\n<br/><p style=\"line-height: 150%; margin: 0 165px;\">M. et Mme Garnier<br/>7 avenue du Général Leclerc<br/>Appt. 307</p>",
+        "query": "Qu'est-ce que M. et Mme Garnier écrivent à leurs voisins ?",
         "options": [
             "Ils vont bientôt déménager.",
             "Ils vont faire des travaux.",
@@ -483,7 +483,7 @@
     {
         "id": 38,
         "testId": 157,
-        "text": "Le contrôle, en toute matière, aboutit à pervertir l'action... Dès qu'une action est soumise à un contrôle, le but profond de celui qui agit n'est plus l'action, mais la prévision du contrôle, la mise en échec des moyens de contrôle. Le contrôle des études n'est qu'un cas particulier et une démonstration éclatante de cette observation très générale. Le diplôme donne à la société un fantôme de garantie, et aux diplômés des fantômes de droits. Le diplômé passe officiellement pour détenir un savoir : il garde toute sa vie ce brevet d'une science momentanée. C'est pour accéder au diplôme qu'on a vu se substituer à la lecture des auteurs, l'usage des résumés, des manuels, des recueils de questions et de réponses toutes faites et autres abominations.",
+        "text": "Le contrôle, en toute matière, aboutit à pervertir l'action... Dès qu'une action est soumise à un contrôle, le but profond de celui qui agit n'est plus l'action, mais la prévision du contrôle, la mise en échec des moyens de contrôle. Le contrôle des études n'est qu'un cas particulier et une démonstration éclatante de cette observation très générale. Le diplôme donne à la société un fantôme de garantie, et aux diplômés des fantômes de droits. Le diplômé passe officiellement pour détenir un savoir : il garde toute sa vie ce brevet d'une science momentanée. C'est pour accéder au diplôme qu'on a vu se substituer à la lecture des auteurs, l'usage des résumés, des manuels, des recueils de questions et de réponses toutes faites et autres abominations.\n\n<br/>D'après Paul Valéry",
         "query": "Que soutient l’auteur de ce texte à propos du contrôle ?",
         "options": [
             "Il contribue à améliorer les méthodes d'apprentissage.",

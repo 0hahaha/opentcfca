@@ -432,7 +432,7 @@
         "id": 34,
         "testId": 162,
         "text": "## <p style=\"text-align: center;\">«Le fait du roi»,</p>\n\n<p style=\"text-align: center; color:grey;\">Un roman d'A. Thonon</p>\n\nC’est l’histoire d’un homme qui prend l’identité d’un autre, mort, en se glissant dans sa peau, dans sa vie, dans sa maison… Rien ne sert de raconter l’intrigue de ce roman tant elle est simple et sans surprise. L’écriture de l’auteur reste cependant toujours aussi piquante et agréable à lire. Le héros principal, quant à lui, est dépeint avec une certaine profondeur.",
-        "query": "Sur quel point porte la critique négative faite à ce Livre ?",
+        "query": "Sur quel point porte la critique négative faite à ce livre?",
         "options": [
             "La description du personnage.",
             "La longueur du texte.",
