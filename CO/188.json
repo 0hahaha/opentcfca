@@ -4,7 +4,7 @@
         "testId": 188,
         "text": "A. Regarde, c'est fermé ce soir.\n\nB. Regarde, il manque un document.\n\nC. Regarde, il s'est cassé la jambe.\n\nD. Regarde, la fumée vient de là.",
         "audio": "/mp3/188/1.mp3",
-        "img": "/mp3/188/1.jpg",
+        "img": "/mp3/188/1_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -18,7 +18,7 @@
         "testId": 188,
         "text": "A. Dépêche-toi, le train va bientôt partir.\n\nB. Fais un beau sourire pour la photo.\n\nC. Passe une bonne journée et travaille bien.\n\nD. Prends ton parapluie, il va bientôt pleuvoir.",
         "audio": "/mp3/188/2.mp3",
-        "img": "/mp3/188/2.jpg",
+        "img": "/mp3/188/2_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -32,7 +32,7 @@
         "testId": 188,
         "text": "A. Circulation tout à fait normale sur l'autoroute 440.\n\nB. Aucune circulation dans les deux sens sur l'autoroute.\n\nC. Un terrible accident sur la route des vacances.\n\nD. Attention au gros embouteillages sur l'autoroute 440.",
         "audio": "/mp3/188/3.mp3",
-        "img": "/mp3/188/3.jpg",
+        "img": "/mp3/188/3_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",

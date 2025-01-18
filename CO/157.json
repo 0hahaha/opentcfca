@@ -4,7 +4,7 @@
         "testId": 157,
         "text": "A. Maman, achète-moi un jouet.\n\nB. Maman, regarde le joli chien.\n\nC. Maman, tu me lis une histoire.\n\nD. Maman, je veux jouer avec eux.",
         "audio": "/mp3/157/1.mp3",
-        "img": "/mp3/157/1.jpg",
+        "img": "/mp3/157/1_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -18,7 +18,7 @@
         "testId": 157,
         "text": "A. Alors, tu viens t'asseoir pour dîner ?\n\nB. Ça y est, tu es prêt à mettre la table ?\n\nC. Pourquoi tu ne veux pas manger ?\n\nD. Tu peux m'aider à préparer le repas ?",
         "audio": "/mp3/157/2.mp3",
-        "img": "/mp3/157/2.jpg",
+        "img": "/mp3/157/2_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -32,7 +32,7 @@
         "testId": 157,
         "text": "A. C'est un bon marchand de légumes.\n\nB. Demandez un plan de la ville.\n\nC. L'entrée de la préfecture est là-bas.\n\nD. Ma voiture est au parking.",
         "audio": "/mp3/157/3.mp3",
-        "img": "/mp3/157/3.jpg",
+        "img": "/mp3/157/3_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -46,7 +46,7 @@
         "testId": 157,
         "text": "A. Cette chaleur me fatigue.\n\nB. Il va bientôt faire nuit.\n\nC. Je commence à avoir froid.\n\nD. Le temps est très nuageux.",
         "audio": "/mp3/157/4.mp3",
-        "img": "/mp3/157/4.jpg",
+        "img": "/mp3/157/4_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -60,7 +60,7 @@
         "testId": 157,
         "text": "A. Il neige encore.\n\nB. J'attends le soleil.\n\nC. Quelle belle journée.\n\nD. Qu'est-ce qu'il pleut.",
         "audio": "/mp3/157/5.mp3",
-        "img": "/mp3/157/5.jpg",
+        "img": "/mp3/157/5_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",

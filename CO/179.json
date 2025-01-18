@@ -4,7 +4,7 @@
         "testId": 179,
         "text": "A. Ce pantalon me va?\n\nB. Je mets quelle cravate?\n\nC. Où est ma chemise?\n\nD. Tu aimes ce pull?",
         "audio": "/mp3/179/1.mp3",
-        "img": "/mp3/179/1.jpg",
+        "img": "/mp3/179/1_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",

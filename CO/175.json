@@ -4,7 +4,7 @@
         "testId": 175,
         "text": "A. La séance débute tout de suite, salle 3. Bon film.\n\nB. Voilà votre carte d'embarquement. Bon voyage.\n\nC. Votre table est juste devant vous. Bon appétit.\n\nD. Votre train part dans 30 minutes. Bon après-midi.",
         "audio": "/mp3/175/1.mp3",
-        "img": "/mp3/175/1.jpg",
+        "img": "/mp3/175/1_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -18,7 +18,7 @@
         "testId": 175,
         "text": "A. Quel temps fait-il?\n\nB. Qu'est-ce que tu lis?\n\nC. Qui est au téléphone?\n\nD. Ne veux-tu aller dehors?",
         "audio": "/mp3/175/2.mp3",
-        "img": "/mp3/175/2.jpg",
+        "img": "/mp3/175/2_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -32,7 +32,7 @@
         "testId": 175,
         "text": "A. Éteins la lumière.\n\nB. Ferme la fenêtre.\n\nC. Lève-toi, c'est l'heure.\n\nD. Pose ton livre.",
         "audio": "/mp3/175/3.mp3",
-        "img": "/mp3/175/3.jpg",
+        "img": "/mp3/175/3_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -46,7 +46,7 @@
         "testId": 175,
         "text": "A. C'est un acteur formidable.\n\nB. Je déteste la publicité.\n\nC. Tu vas payer nos billets.\n\nD. Viens, on va s'asseoir là.",
         "audio": "/mp3/175/4.mp3",
-        "img": "/mp3/175/4.jpg",
+        "img": "/mp3/175/4_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",

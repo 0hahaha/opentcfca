@@ -32,7 +32,7 @@
         "testId": 168,
         "text": "A. Cette chaleur me fatigue.\n\nB. Il va bientôt faire nuit.\n\nC. Je commence à avoir froid.\n\nD. Le temps est très nuageux.",
         "audio": "/mp3/168/3.mp3",
-        "img": "/mp3/168/3.jpg",
+        "img": "/mp3/168/3_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",

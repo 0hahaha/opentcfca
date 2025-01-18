@@ -5,7 +5,7 @@
         "text": "A. Il est beau ce danseur.\n\nB. J'adore cette chanson.\n\nC. La radio est trop forte.\n\nD. Tu joues bien du piano.",
         "audio": "/mp3/163/1.mp3",
         "audioAI": "/mp3/163/ai_1.mp3",
-        "img": "/mp3/163/1.jpg",
+        "img": "/mp3/163/1_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -19,7 +19,7 @@
         "testId": 163,
         "text": "A. Je peux m'asseoir ici?\n\nB. Mon chien peut venir avec moi?\n\nC. Quand passe le prochain bus?\n\nD. Vous me donnez un ticket?",
         "audio": "/mp3/163/2.mp3",
-        "img": "/mp3/163/2.jpg",
+        "img": "/mp3/163/2_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -34,7 +34,7 @@
         "text": "A. 1, 2, 3, levez-vous !\n\nB. Attention, souriez !\n\nC. Chantez ensemble !\n\nD. Prêt ? Partez !",
         "audio": "/mp3/163/3.mp3",
         "audioAI": "/mp3/163/ai_3.mp3",
-        "img": "/mp3/163/3.jpg",
+        "img": "/mp3/163/3_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -48,7 +48,7 @@
         "testId": 163,
         "text": "A. C'est un bon marchand de légumes.\n\nB. Demandez un plan de la ville.\n\nC. L'entrée de la préfecture est là-bas.\n\nD. Ma voiture est au parking.",
         "audio": "/mp3/163/4.mp3",
-        "img": "/mp3/163/4.jpg",
+        "img": "/mp3/163/4_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",

@@ -4,7 +4,7 @@
         "testId": 154,
         "text": "A. Il est beau ce danseur.\n\nB. J'adore cette chanson.\n\nC. La radio est trop forte.\n\nD. Tu joues bien du piano.",
         "audio": "/mp3/154/1.mp3",
-        "img": "/mp3/154/1.jpg",
+        "img": "/mp3/154/1_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -18,7 +18,7 @@
         "testId": 154,
         "text": "A. Tu aimes le bœuf à la québécoise?\n\nB. Tu connais l'heure du prochain film?\n\nC. Tu sais où est la station de métro?\n\nD. Tu vois où j'habite sur ce plan?",
         "audio": "/mp3/154/2.mp3",
-        "img": "/mp3/154/2.jpg",
+        "img": "/mp3/154/2_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",

@@ -4,7 +4,7 @@
         "testId": 148,
         "text": "A. Allez-y, entrez.\n\nB. Asseyez-vous, je vous en prie.\n\nC. Fermez la porte, s'il vous plaît.\n\nD. Merci pour ce café.",
         "audio": "/mp3/148/1.mp3",
-        "img": "/mp3/148/1.jpg",
+        "img": "/mp3/148/1_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -18,7 +18,7 @@
         "testId": 148,
         "text": "A. À bientôt, au plaisir de vous revoir.\n\nB. Le programme est affiché sur la porte.\n\nC. Voici la salle pour prendre le petit déjeuner.\n\nD. Vous pouvez laisser vos bagages là.",
         "audio": "/mp3/148/2.mp3",
-        "img": "/mp3/148/2.jpg",
+        "img": "/mp3/148/2_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",

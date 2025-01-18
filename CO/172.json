@@ -5,7 +5,7 @@
         "text": "A. Là, c'est Marc à la montagne.\n\nB. Là, c'est Marc avec les voisins.\n\nC. Là, c'est Marc dans une voiture.\n\nD. Là, c'est Marc devant le musée.",
         "audio": "/mp3/172/1.mp3",
         "audioAI": "/mp3/172/ai_1.mp3",
-        "img": "/mp3/172/1.jpg",
+        "img": "/mp3/172/1_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -19,7 +19,7 @@
         "testId": 172,
         "text": "A. Baissez les bras.\n\nB. Enlevez votre pull.\n\nC. Installez-vous.\n\nD. Respirez bien fort.",
         "audio": "/mp3/172/2.mp3",
-        "img": "/mp3/172/2.jpg",
+        "img": "/mp3/172/2_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",

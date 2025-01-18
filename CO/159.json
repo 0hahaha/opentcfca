@@ -4,7 +4,7 @@
         "testId": 159,
         "text": "A. J'aimerais ouvrir ce colis. C'est un cadeau.\n\nB. Je n'arrive pas à écrire le courrier pour le directeur.\n\nC. Je voudrais envoyer cette lettre, s'il vous plaît.\n\nD. Le facteur est passé. Tu vas chercher le courrier?",
         "audio": "/mp3/159/1.mp3",
-        "img": "/mp3/159/1.jpg",
+        "img": "/mp3/159/1_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -18,7 +18,7 @@
         "testId": 159,
         "text": "A. Ah, les petits boissons.\n\nB. Regarde, je nage.\n\nC. Il pleut, vite.\n\nD. C'est mon papa.",
         "audio": "/mp3/159/2.mp3",
-        "img": "/mp3/159/2.jpg",
+        "img": "/mp3/159/2_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",

@@ -4,7 +4,7 @@
         "testId": 185,
         "text": "A. Attention vous allez vous blesser.\n\nB. Le cours d'anglais commence à 8 heures.\n\nC. Pierre, tu es libre pour le tennis ?\n\nD. Voici le dossier d'inscription à compléter.",
         "audio": "/mp3/185/1.mp3",
-        "img": "/mp3/185/1.jpg",
+        "img": "/mp3/185/1_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -18,7 +18,7 @@
         "testId": 185,
         "text": "A. C'est un bon marchand de légumes.\n\nB. Demandez un plan de la ville.\n\nC. L'entrée de la préfecture est là-bas.\n\nD. Ma voiture est au parking.",
         "audio": "/mp3/185/2.mp3",
-        "img": "/mp3/185/2.jpg",
+        "img": "/mp3/185/2_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",

@@ -4,7 +4,7 @@
         "testId": 153,
         "text": "A. Attention, votre valise est ouverte.\n\nB. Ce modèle de valise coûte 69 euros.\n\nC. Posez votre valise ici, s'il vous plaît.\n\nD. Voilà, votre valise est prête.",
         "audio": "/mp3/153/1.mp3",
-        "img": "/mp3/153/1.jpg",
+        "img": "/mp3/153/1_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -18,7 +18,7 @@
         "testId": 153,
         "text": "A. Bonjour, un steak frites, s'il vous plaît.\n\nB. Bonsoir, une table pour 4 personnes.\n\nC. Monsieur, un kilo de tomates, je vous prie.\n\nD. Tenez, vous pouvez garder la monnaie.",
         "audio": "/mp3/153/2.mp3",
-        "img": "/mp3/153/2.jpg",
+        "img": "/mp3/153/2_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -32,7 +32,7 @@
         "testId": 153,
         "text": "A. Quel modèle vous voulez?\n\nB. Quel coût vous préférez?\n\nC. Quelle est votre pointure?\n\nD. Quelle taille vous faites?",
         "audio": "/mp3/153/3.mp3",
-        "img": "/mp3/153/3.jpg",
+        "img": "/mp3/153/3_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -46,7 +46,7 @@
         "testId": 153,
         "text": "A. Attention, elle est très lourde.\n\nB. Je voudrais un billet pour Strasbourg.\n\nC. Le plein de diesel, s'il vous plaît.\n\nD. Mettez votre ceinture, Monsieur.",
         "audio": "/mp3/153/4.mp3",
-        "img": "/mp3/153/4.jpg",
+        "img": "/mp3/153/4_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",

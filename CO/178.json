@@ -4,7 +4,7 @@
         "testId": 178,
         "text": "A. Passez dans la salle suivante.\n\nB. Posez vos manteaux.\n\nC. Prenez un billet à la caisse.\n\nD. Regardez bien ce paysage.",
         "audio": "/mp3/178/1.mp3",
-        "img": "/mp3/178/1.jpg",
+        "img": "/mp3/178/1_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -18,7 +18,7 @@
         "testId": 178,
         "text": "A. Dépêche-toi, le train va bientôt partir.\n\nB. Fais un beau sourire pour la photo.\n\nC. Passe une bonne journée et travaille bien.\n\nD. Prends ton parapluie, il va bientôt pleuvoir.",
         "audio": "/mp3/178/2.mp3",
-        "img": "/mp3/178/2.jpg",
+        "img": "/mp3/178/2_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",

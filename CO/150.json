@@ -4,7 +4,7 @@
         "testId": 150,
         "text": "A. Je peux m'asseoir ici?\n\nB. Mon chien peut venir avec moi?\n\nC. Quand passe le prochain bus?\n\nD. Vous me donnez un ticket?",
         "audio": "/mp3/150/1.mp3",
-        "img": "/mp3/150/1.jpg",
+        "img": "/mp3/150/1_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -18,7 +18,7 @@
         "testId": 150,
         "text": "A. Bravo aux cuisiniers, c'est délicieux.\n\nB. Je voudrais une table près de la fenêtre.\n\nC. Un autre café, s'il vous plaît.\n\nD. Vous pouvez garder la monnaie.",
         "audio": "/mp3/150/2.mp3",
-        "img": "/mp3/150/2.jpg",
+        "img": "/mp3/150/2_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",

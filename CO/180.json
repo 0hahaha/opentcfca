@@ -4,7 +4,7 @@
         "testId": 180,
         "text": "A. Donne-moi ça, maman.\n\nB. Attention, c'est très chaud.\n\nC. Bon anniversaire, maman.\n\nD. Non, je n'ai pas envie.",
         "audio": "/mp3/180/1.mp3",
-        "img": "/mp3/180/1.jpg",
+        "img": "/mp3/180/1_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",

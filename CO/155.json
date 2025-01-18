@@ -4,7 +4,7 @@
         "testId": 155,
         "text": "A. Donne-moi ça, maman.\n\nB. Attention, c'est très chaud.\n\nC. Bon anniversaire, maman.\n\nD. Non, je n'ai pas envie.",
         "audio": "/mp3/155/1.mp3",
-        "img": "/mp3/155/1.jpg",
+        "img": "/mp3/155/1_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -18,7 +18,7 @@
         "testId": 155,
         "text": "A. Bienvenue à Paris-Agora.\n\nB. 200 euros, s'il vous plaît.\n\nC. Il est 20h30.\n\nD. Il vient du Japon.",
         "audio": "/mp3/155/2.mp3",
-        "img": "/mp3/155/2.jpg",
+        "img": "/mp3/155/2_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -32,7 +32,7 @@
         "testId": 155,
         "text": "A. Je peux m'asseoir ici?\n\nB. Mon chien peut venir avec moi?\n\nC. Quand passe le prochain bus?\n\nD. Vous me donnez un ticket?",
         "audio": "/mp3/155/3.mp3",
-        "img": "/mp3/155/3.jpg",
+        "img": "/mp3/155/3_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -46,7 +46,7 @@
         "testId": 155,
         "text": "A. J'espère qu'on va pouvoir entrer.\n\nB. Attendons dehors, c'est mieux.\n\nC. Ma glace est très bonne.\n\nD. Bonjour, deux places, s'il vous plaît.",
         "audio": "/mp3/155/4.mp3",
-        "img": "/mp3/155/4.jpg",
+        "img": "/mp3/155/4_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -60,7 +60,7 @@
         "testId": 155,
         "text": "A. Voici le résultat de vos analyses médicales.\n\nB. Temps chaud et sec au sud de l'Europe.\n\nC. Voilà une peinture moderne.\n\nD. Les indices économiques sont bons.",
         "audio": "/mp3/155/5.mp3",
-        "img": "/mp3/155/5.jpg",
+        "img": "/mp3/155/5_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -74,7 +74,7 @@
         "testId": 155,
         "text": "A. Baissez les bras.\n\nB. Enlevez votre pull.\n\nC. Installez-vous.\n\nD. Respirez bien fort.",
         "audio": "/mp3/155/6.mp3",
-        "img": "/mp3/155/6.jpg",
+        "img": "/mp3/155/6_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -88,7 +88,7 @@
         "testId": 155,
         "text": "A. Bravo aux cuisiniers, c'est délicieux.\n\nB. Je voudrais une table près de la fenêtre.\n\nC. Un autre café, s'il vous plaît.\n\nD. Vous pouvez garder la monnaie.",
         "audio": "/mp3/155/7.mp3",
-        "img": "/mp3/155/7.jpg",
+        "img": "/mp3/155/7_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -102,7 +102,7 @@
         "testId": 155,
         "text": "A. C'est un acteur formidable.\n\nB. Je déteste la publicité.\n\nC. Tu vas payer nos billets.\n\nD. Viens, on va s'asseoir là.",
         "audio": "/mp3/155/8.mp3",
-        "img": "/mp3/155/8.jpg",
+        "img": "/mp3/155/8_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",

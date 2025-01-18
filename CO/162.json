@@ -4,7 +4,7 @@
         "testId": 162,
         "text": "A. Bienvenue à Paris-Agora.\n\nB. 200 euros, s'il vous plaît.\n\nC. Il est 20h30.\n\nD. Il vient du Japon.",
         "audio": "/mp3/162/1.mp3",
-        "img": "/mp3/162/1.jpg",
+        "img": "/mp3/162/1_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -18,7 +18,7 @@
         "testId": 162,
         "text": "A. Tu aimes le bœuf à la québécoise?\n\nB. Tu connais l'heure du prochain film?\n\nC. Tu sais où est la station de métro?\n\nD. Tu vois où j'habite sur ce plan?",
         "audio": "/mp3/162/2.mp3",
-        "img": "/mp3/162/2.jpg",
+        "img": "/mp3/162/2_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -32,7 +32,7 @@
         "testId": 162,
         "text": "A. C'est au troisième étage.\n\nB. Entreprise LAPEX, bonjour.\n\nC. La cafétéria est derrière vous.\n\nD. Voici votre badge, monsieur.",
         "audio": "/mp3/162/3.mp3",
-        "img": "/mp3/162/3.jpg",
+        "img": "/mp3/162/3_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -46,7 +46,7 @@
         "testId": 162,
         "text": "A. Deux baguettes, s'il vous plaît.\n\nB. Cette boutique est magnifique.\n\nC. J'adore toutes ces chaussures.\n\nD. Ouah, j'achète cette veste.",
         "audio": "/mp3/162/4.mp3",
-        "img": "/mp3/162/4.jpg",
+        "img": "/mp3/162/4_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",

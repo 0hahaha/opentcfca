@@ -4,7 +4,7 @@
         "testId": 149,
         "text": "A. J'aimerais ouvrir ce colis. C'est un cadeau.\n\nB. Je n'arrive pas à écrire le courrier pour le directeur.\n\nC. Je voudrais envoyer cette lettre, s'il vous plaît.\n\nD. Le facteur est passé. Tu vas chercher le courrier?",
         "audio": "/mp3/149/1.mp3",
-        "img": "/mp3/149/1.jpg",
+        "img": "/mp3/149/1_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -18,7 +18,7 @@
         "testId": 149,
         "text": "A. Arrête de jouer avec le ballon.\n\nB. Fais attention avant de traverser.\n\nC. Mets ton bonnet tout de suite.\n\nD. Regarde les enfants.",
         "audio": "/mp3/149/2.mp3",
-        "img": "/mp3/149/2.jpg",
+        "img": "/mp3/149/2_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -32,7 +32,7 @@
         "testId": 149,
         "text": "A. Bravo aux cuisiniers, c'est délicieux.\n\nB. Je voudrais une table près de la fenêtre.\n\nC. Un autre café, s'il vous plaît.\n\nD. Vous pouvez garder la monnaie.",
         "audio": "/mp3/149/3.mp3",
-        "img": "/mp3/149/3.jpg",
+        "img": "/mp3/149/3_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",

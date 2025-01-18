@@ -4,7 +4,7 @@
         "testId": 186,
         "text": "A. Ouvre ton livre.\n\nB. Retourne à ta place.\n\nC. Sors tes affaires.\n\nD. Viens répondre.",
         "audio": "/mp3/186/1.mp3",
-        "img": "/mp3/186/1.jpg",
+        "img": "/mp3/186/1_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",

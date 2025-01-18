@@ -4,7 +4,7 @@
         "testId": 181,
         "text": "A. Il est beau ce danseur.\n\nB. J'adore cette chanson.\n\nC. La radio est trop forte.\n\nD. Tu joues bien du piano.",
         "audio": "/mp3/181/1.mp3",
-        "img": "/mp3/181/1.jpg",
+        "img": "/mp3/181/1_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -18,7 +18,7 @@
         "testId": 181,
         "text": "A. Madame, c'est libre ici ?\n\nB. Madame, je peux m'asseoir ?\n\nC. Madame, où est votre billet ?\n\nD. Madame, vous voulez ma place ?",
         "audio": "/mp3/181/2.mp3",
-        "img": "/mp3/181/2.jpg",
+        "img": "/mp3/181/2_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -32,7 +32,7 @@
         "testId": 181,
         "text": "A. Arrête de jouer avec le ballon.\n\nB. Fais attention avant de traverser.\n\nC. Mets ton bonnet tout de suite.\n\nD. Regarde les enfants.",
         "audio": "/mp3/181/3.mp3",
-        "img": "/mp3/181/3.jpg",
+        "img": "/mp3/181/3_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -46,7 +46,7 @@
         "testId": 181,
         "text": "A. Cette chaleur me fatigue.\n\nB. Il va bientôt faire nuit.\n\nC. Je commence à avoir froid.\n\nD. Le temps est très nuageux.",
         "audio": "/mp3/181/4.mp3",
-        "img": "/mp3/181/4.jpg",
+        "img": "/mp3/181/4_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -60,7 +60,7 @@
         "testId": 181,
         "text": "A. Il neige encore.\n\nB. J'attends le soleil.\n\nC. Quelle belle journée.\n\nD. Qu'est-ce qu'il pleut.",
         "audio": "/mp3/181/5.mp3",
-        "img": "/mp3/181/5.jpg",
+        "img": "/mp3/181/5_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",

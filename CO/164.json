@@ -4,7 +4,7 @@
         "testId": 164,
         "text": "A. Arrêtez de vous disputer.\n\nB. Finissez votre goûter, les enfants.\n\nC. Rentrez, vous allez attraper froid.\n\nD. Sortez de dessous vos lits.",
         "audio": "/mp3/164/1.mp3",
-        "img": "/mp3/164/1.jpg",
+        "img": "/mp3/164/1_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
@@ -18,7 +18,7 @@
         "testId": 164,
         "text": "A. C'est un bon marchand de légumes.\n\nB. Demandez un plan de la ville.\n\nC. L'entrée de la préfecture est là-bas.\n\nD. Ma voiture est au parking.",
         "audio": "/mp3/164/2.mp3",
-        "img": "/mp3/164/2.jpg",
+        "img": "/mp3/164/2_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",

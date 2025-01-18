@@ -4,7 +4,7 @@
         "testId": 165,
         "text": "A. Cours vite, le train arrive.\n\nB. Descends vite de ton vélo.\n\nC. Entre vite dans la voiture.\n\nD. Monte vite dans le bus.",
         "audio": "/mp3/165/1.mp3",
-        "img": "/mp3/165/1.jpg",
+        "img": "/mp3/165/1_ai.jpg",
         "options": [
             "Proposition A.",
             "Proposition B.",
